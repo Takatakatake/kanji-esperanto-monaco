@@ -386,7 +386,7 @@ require(['vs/editor/editor.main'], function () {
       host.style.display = 'none';
       plain.style.display = 'block';
       plain.focus();
-      showToast('テキストエリアに切替（長押しでコピペ可）');
+      showToast('テキスト欄に切替えました');
     }
     function switchToMonaco() {
       try { editor.setValue(plain.value); saveNow(); } catch {}
@@ -614,8 +614,21 @@ require(['vs/editor/editor.main'], function () {
     wire('btn-plain-toggle', () => {
       plainMode = !plainMode;
       const btn = document.getElementById('btn-plain-toggle');
-      if (plainMode) { switchToPlain(); btn && (btn.textContent = 'Monacoに戻る'); }
-      else { switchToMonaco(); btn && (btn.textContent = 'シンプル編集へ'); }
+      if (plainMode) {
+        switchToPlain();
+        if (btn) {
+          btn.textContent = 'Monacoに戻る';
+          btn.title = 'Monaco Editorに戻る';
+          btn.setAttribute('aria-pressed', 'true');
+        }
+      } else {
+        switchToMonaco();
+        if (btn) {
+          btn.textContent = 'テキスト欄へ';
+          btn.title = '通常のテキスト欄に切替';
+          btn.setAttribute('aria-pressed', 'false');
+        }
+      }
     });
   })();
   // === End of Mobile-friendly Toolbar ===

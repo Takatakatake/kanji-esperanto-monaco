@@ -1,11 +1,11 @@
-const CACHE = 'ke-site-v10';
+const CACHE = 'ke-site-v11';
 const ASSETS = [
   './',
   './index.html',
-  './app.js?v=20260620-plain-toggle-label-1',
+  './app.js?v=20260620-textarea-toggle-1',
   './all.json',
   './data/reverse.json',
-  './ke-snippets.js?v=20260620-plain-toggle-label-1',
+  './ke-snippets.js?v=20260620-textarea-toggle-1',
   './manifest.webmanifest',
   // Monaco minimal (for online page)
   'https://unpkg.com/monaco-editor@0.52.0/min/vs/loader.js',
