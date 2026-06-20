@@ -3,637 +3,2054 @@
     {
       "prefix": "da",
       "body": "份",
-      "detail": "da to 份"
+      "detail": "da → 份 (prep, F=15, 基本形)",
+      "documentation": "語根: da\n入力: da\n最終形: 份\n漢字: 份\n識別子: なし\n型: prep\nF(汎用性): 15\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1933",
+      "priority": 0,
+      "sourceRoot": "da",
+      "type": "prep",
+      "frequency": 15,
+      "base": true,
+      "sourceLine": 1933
     },
     {
       "prefix": "daktil",
       "body": "枣",
-      "detail": "daktil to 枣"
+      "detail": "daktil → 枣 (content, F=8, 基本形)",
+      "documentation": "語根: daktil\n入力: daktil\n最終形: 枣\n漢字: 枣\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3396",
+      "priority": 0,
+      "sourceRoot": "daktil",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3396
     },
     {
       "prefix": "dam",
-      "body": "贵妇",
-      "detail": "dam to 贵妇"
+      "body": "媛",
+      "detail": "dam → 媛 (pejvo, F=9, 基本形)",
+      "documentation": "語根: dam\n入力: dam\n最終形: 媛\n漢字: 媛\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2903",
+      "priority": 0,
+      "sourceRoot": "dam",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 2903
+    },
+    {
+      "prefix": "damagx",
+      "body": "损ᴰ",
+      "detail": "damaĝ → 损ᴰ (content, F=6)",
+      "documentation": "語根: damaĝ\n入力: damagx\n最終形: 损ᴰ\n漢字: 损\n識別子: d\n型: content\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1227",
+      "priority": 0,
+      "sourceRoot": "damaĝ",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1227
     },
     {
       "prefix": "danc",
       "body": "舞",
-      "detail": "danc to 舞"
+      "detail": "danc → 舞 (content, F=31, 基本形)",
+      "documentation": "語根: danc\n入力: danc\n最終形: 舞\n漢字: 舞\n識別子: なし\n型: content\nF(汎用性): 31\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1767",
+      "priority": 0,
+      "sourceRoot": "danc",
+      "type": "content",
+      "frequency": 31,
+      "base": true,
+      "sourceLine": 1767
+    },
+    {
+      "prefix": "dand",
+      "body": "俏",
+      "detail": "dand → 俏 (content, F=8, 基本形)",
+      "documentation": "語根: dand\n入力: dand\n最終形: 俏\n漢字: 俏\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3273",
+      "priority": 0,
+      "sourceRoot": "dand",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3273
     },
     {
       "prefix": "dangxer",
-      "body": "危",
-      "detail": "dangxer to 危"
+      "body": "危ᴰ",
+      "detail": "danĝer → 危ᴰ (content, F=13)",
+      "documentation": "語根: danĝer\n入力: dangxer\n最終形: 危ᴰ\n漢字: 危\n識別子: d\n型: content\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1398",
+      "priority": 0,
+      "sourceRoot": "danĝer",
+      "type": "content",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 1398
     },
     {
       "prefix": "dank",
       "body": "谢",
-      "detail": "dank to 谢"
+      "detail": "dank → 谢 (content, F=25, 基本形)",
+      "documentation": "語根: dank\n入力: dank\n最終形: 谢\n漢字: 谢\n識別子: なし\n型: content\nF(汎用性): 25\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3588",
+      "priority": 0,
+      "sourceRoot": "dank",
+      "type": "content",
+      "frequency": 25,
+      "base": true,
+      "sourceLine": 3588
     },
     {
       "prefix": "dat",
-      "body": "日期",
-      "detail": "dat to 日期"
+      "body": "期",
+      "detail": "dat → 期 (content, F=49, 基本形)",
+      "documentation": "語根: dat\n入力: dat\n最終形: 期\n漢字: 期\n識別子: なし\n型: content\nF(汎用性): 49\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:778",
+      "priority": 0,
+      "sourceRoot": "dat",
+      "type": "content",
+      "frequency": 49,
+      "base": true,
+      "sourceLine": 778
+    },
+    {
+      "prefix": "daten",
+      "body": "数据",
+      "detail": "daten → 数据 (pejvo, F=12, 基本形)",
+      "documentation": "語根: daten\n入力: daten\n最終形: 数据\n漢字: 数据\n識別子: なし\n型: pejvo\nF(汎用性): 12\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1575",
+      "priority": 0,
+      "sourceRoot": "daten",
+      "type": "pejvo",
+      "frequency": 12,
+      "base": true,
+      "sourceLine": 1575
+    },
+    {
+      "prefix": "datum",
+      "body": "数据ᴰ",
+      "detail": "datum → 数据ᴰ (pejvo, F=5)",
+      "documentation": "語根: datum\n入力: datum\n最終形: 数据ᴰ\n漢字: 数据\n識別子: d\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1576",
+      "priority": 0,
+      "sourceRoot": "datum",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1576
     },
     {
       "prefix": "dauxr",
-      "body": "久",
-      "detail": "dauxr to 久"
+      "body": "续",
+      "detail": "daŭr → 续 (content, F=40, 基本形)",
+      "documentation": "語根: daŭr\n入力: dauxr\n最終形: 续\n漢字: 续\n識別子: なし\n型: content\nF(汎用性): 40\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2085",
+      "priority": 0,
+      "sourceRoot": "daŭr",
+      "type": "content",
+      "frequency": 40,
+      "base": true,
+      "sourceLine": 2085
     },
     {
       "prefix": "de",
       "body": "从",
-      "detail": "de to 从"
-    },
-    {
-      "prefix": "debat",
-      "body": "辩论",
-      "detail": "debat to 辩论"
+      "detail": "de → 从 (prep, F=417, 基本形)",
+      "documentation": "語根: de\n入力: de\n最終形: 从\n漢字: 从\n識別子: なし\n型: prep\nF(汎用性): 417\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3062",
+      "priority": 0,
+      "sourceRoot": "de",
+      "type": "prep",
+      "frequency": 417,
+      "base": true,
+      "sourceLine": 3062
     },
     {
       "prefix": "debet",
-      "body": "借方",
-      "detail": "debet to 借方"
+      "body": "欠ᴰ",
+      "detail": "debet → 欠ᴰ (content, F=5)",
+      "documentation": "語根: debet\n入力: debet\n最終形: 欠ᴰ\n漢字: 欠\n識別子: d\n型: content\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:818",
+      "priority": 0,
+      "sourceRoot": "debet",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 818
     },
     {
       "prefix": "dec",
       "body": "宜",
-      "detail": "dec to 宜"
+      "detail": "dec → 宜 (content, F=8, 基本形)",
+      "documentation": "語根: dec\n入力: dec\n最終形: 宜\n漢字: 宜\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2388",
+      "priority": 0,
+      "sourceRoot": "dec",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2388
     },
     {
       "prefix": "decembr",
       "body": "十二月",
-      "detail": "decembr to 十二月"
+      "detail": "decembr → 十二月 (cal, F=2, 基本形)",
+      "documentation": "語根: decembr\n入力: decembr\n最終形: 十二月\n漢字: 十二月\n識別子: なし\n型: cal\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2603",
+      "priority": 0,
+      "sourceRoot": "decembr",
+      "type": "cal",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 2603
     },
     {
       "prefix": "decid",
       "body": "决",
-      "detail": "decid to 决"
+      "detail": "decid → 决 (content, F=37, 基本形)",
+      "documentation": "語根: decid\n入力: decid\n最終形: 决\n漢字: 决\n識別子: なし\n型: content\nF(汎用性): 37\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1855",
+      "priority": 0,
+      "sourceRoot": "decid",
+      "type": "content",
+      "frequency": 37,
+      "base": true,
+      "sourceLine": 1855
+    },
+    {
+      "prefix": "decimal",
+      "body": "十ᴰ",
+      "detail": "decimal → 十ᴰ (pejvo, F=6)",
+      "documentation": "語根: decimal\n入力: decimal\n最終形: 十ᴰ\n漢字: 十\n識別子: d\n型: pejvo\nF(汎用性): 6\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:492",
+      "priority": 0,
+      "sourceRoot": "decimal",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 492
+    },
+    {
+      "prefix": "decxifr",
+      "body": "密ᴰ",
+      "detail": "dec^ifr → 密ᴰ (pejvo, F=5)",
+      "documentation": "語根: dec^ifr\n入力: decxifr\n最終形: 密ᴰ\n漢字: 密\n識別子: d\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:589",
+      "priority": 0,
+      "sourceRoot": "dec^ifr",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 589
     },
     {
       "prefix": "dedicx",
-      "body": "奉献",
-      "detail": "dedicx to 奉献"
-    },
-    {
-      "prefix": "dedukt",
-      "body": "推ᴅ",
-      "detail": "dedukt to 推ᴅ"
+      "body": "献ᴰ",
+      "detail": "dediĉ → 献ᴰ (content, F=6)",
+      "documentation": "語根: dediĉ\n入力: dedicx\n最終形: 献ᴰ\n漢字: 献\n識別子: d\n型: content\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1446",
+      "priority": 0,
+      "sourceRoot": "dediĉ",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1446
     },
     {
       "prefix": "defend",
-      "body": "卫",
-      "detail": "defend to 卫"
+      "body": "防",
+      "detail": "defend → 防 (content, F=24, 基本形)",
+      "documentation": "語根: defend\n入力: defend\n最終形: 防\n漢字: 防\n識別子: なし\n型: content\nF(汎用性): 24\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1795",
+      "priority": 0,
+      "sourceRoot": "defend",
+      "type": "content",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 1795
+    },
+    {
+      "prefix": "defi",
+      "body": "挑战",
+      "detail": "defi → 挑战 (pejvo, F=5, 基本形)",
+      "documentation": "語根: defi\n入力: defi\n最終形: 挑战\n漢字: 挑战\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2775",
+      "priority": 0,
+      "sourceRoot": "defi",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2775
     },
     {
       "prefix": "deficit",
       "body": "亏",
-      "detail": "deficit to 亏"
+      "detail": "deficit → 亏 (content, F=4, 基本形)",
+      "documentation": "語根: deficit\n入力: deficit\n最終形: 亏\n漢字: 亏\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3256",
+      "priority": 0,
+      "sourceRoot": "deficit",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3256
     },
     {
       "prefix": "definitiv",
-      "body": "定ᴅ",
-      "detail": "definitiv to 定ᴅ"
+      "body": "确ᴰ",
+      "detail": "definitiv → 确ᴰ (pejvo, F=8)",
+      "documentation": "語根: definitiv\n入力: definitiv\n最終形: 确ᴰ\n漢字: 确\n識別子: d\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:325",
+      "priority": 0,
+      "sourceRoot": "definitiv",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 325
     },
     {
       "prefix": "degel",
       "body": "融",
-      "detail": "degel to 融"
+      "detail": "degel → 融 (content, F=5, 基本形)",
+      "documentation": "語根: degel\n入力: degel\n最終形: 融\n漢字: 融\n識別子: なし\n型: content\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3007",
+      "priority": 0,
+      "sourceRoot": "degel",
+      "type": "content",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3007
     },
     {
       "prefix": "degener",
-      "body": "退化",
-      "detail": "degener to 退化"
+      "body": "退ᴰ",
+      "detail": "degener → 退ᴰ (pejvo, F=7)",
+      "documentation": "語根: degener\n入力: degener\n最終形: 退ᴰ\n漢字: 退\n識別子: d\n型: pejvo\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1635",
+      "priority": 0,
+      "sourceRoot": "degener",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1635
+    },
+    {
+      "prefix": "dehisk",
+      "body": "裂ᴰ",
+      "detail": "dehisk → 裂ᴰ (pejvo, F=5)",
+      "documentation": "語根: dehisk\n入力: dehisk\n最終形: 裂ᴰ\n漢字: 裂\n識別子: d\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:609",
+      "priority": 0,
+      "sourceRoot": "dehisk",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 609
     },
     {
       "prefix": "dejxor",
-      "body": "值ᴅ",
-      "detail": "dejxor to 值ᴅ"
+      "body": "当",
+      "detail": "deĵor → 当 (content, F=13, 基本形)",
+      "documentation": "語根: deĵor\n入力: dejxor\n最終形: 当\n漢字: 当\n識別子: なし\n型: content\nF(汎用性): 13\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1685",
+      "priority": 0,
+      "sourceRoot": "deĵor",
+      "type": "content",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 1685
     },
     {
       "prefix": "dek",
       "body": "十",
-      "detail": "dek to 十"
+      "detail": "dek → 十 (num, F=65, 基本形)",
+      "documentation": "語根: dek\n入力: dek\n最終形: 十\n漢字: 十\n識別子: なし\n型: num\nF(汎用性): 65\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:490",
+      "priority": 0,
+      "sourceRoot": "dek",
+      "type": "num",
+      "frequency": 65,
+      "base": true,
+      "sourceLine": 490
     },
     {
-      "prefix": "dekan",
-      "body": "院长",
-      "detail": "dekan to 院长"
+      "prefix": "deka",
+      "body": "十ᴰᴷ",
+      "detail": "deka → 十ᴰᴷ (pejvo, F=5)",
+      "documentation": "語根: deka\n入力: deka\n最終形: 十ᴰᴷ\n漢字: 十\n識別子: dk\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:493",
+      "priority": 0,
+      "sourceRoot": "deka",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 493
     },
     {
       "prefix": "deklam",
-      "body": "朗诵",
-      "detail": "deklam to 朗诵"
+      "body": "诵",
+      "detail": "deklam → 诵 (pejvo, F=7, 基本形)",
+      "documentation": "語根: deklam\n入力: deklam\n最終形: 诵\n漢字: 诵\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3580",
+      "priority": 0,
+      "sourceRoot": "deklam",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3580
     },
     {
       "prefix": "deklar",
-      "body": "宣",
-      "detail": "deklar to 宣"
-    },
-    {
-      "prefix": "deklaraci",
-      "body": "声明",
-      "detail": "deklaraci to 声明"
+      "body": "宣ᴰ",
+      "detail": "deklar → 宣ᴰ (content, F=11)",
+      "documentation": "語根: deklar\n入力: deklar\n最終形: 宣ᴰ\n漢字: 宣\n識別子: d\n型: content\nF(汎用性): 11\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:516",
+      "priority": 0,
+      "sourceRoot": "deklar",
+      "type": "content",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 516
     },
     {
       "prefix": "dekliv",
-      "body": "坡",
-      "detail": "dekliv to 坡"
-    },
-    {
-      "prefix": "dekolt",
-      "body": "领口",
-      "detail": "dekolt to 领口"
+      "body": "斜ᴰ",
+      "detail": "dekliv → 斜ᴰ (content, F=13)",
+      "documentation": "語根: dekliv\n入力: dekliv\n最終形: 斜ᴰ\n漢字: 斜\n識別子: d\n型: content\nF(汎用性): 13\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:475",
+      "priority": 0,
+      "sourceRoot": "dekliv",
+      "type": "content",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 475
     },
     {
       "prefix": "dekoraci",
-      "body": "装饰",
-      "detail": "dekoraci to 装饰"
+      "body": "饰ᴰ",
+      "detail": "dekoraci → 饰ᴰ (content, F=6)",
+      "documentation": "語根: dekoraci\n入力: dekoraci\n最終形: 饰ᴰ\n漢字: 饰\n識別子: d\n型: content\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2230",
+      "priority": 0,
+      "sourceRoot": "dekoraci",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 2230
     },
     {
       "prefix": "dekstr",
       "body": "右",
-      "detail": "dekstr to 右"
+      "detail": "dekstr → 右 (content, F=43, 基本形)",
+      "documentation": "語根: dekstr\n入力: dekstr\n最終形: 右\n漢字: 右\n識別子: なし\n型: content\nF(汎用性): 43\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2274",
+      "priority": 0,
+      "sourceRoot": "dekstr",
+      "type": "content",
+      "frequency": 43,
+      "base": true,
+      "sourceLine": 2274
     },
     {
       "prefix": "deleg",
-      "body": "派遣",
-      "detail": "deleg to 派遣"
-    },
-    {
-      "prefix": "delegaci",
-      "body": "代团",
-      "detail": "delegaci to 代团"
+      "body": "委ᴰ",
+      "detail": "deleg → 委ᴰ (content, F=8)",
+      "documentation": "語根: deleg\n入力: deleg\n最終形: 委ᴰ\n漢字: 委\n識別子: d\n型: content\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:142",
+      "priority": 0,
+      "sourceRoot": "deleg",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 142
     },
     {
       "prefix": "delikat",
       "body": "细",
-      "detail": "delikat to 细"
+      "detail": "delikat → 细 (content, F=27, 基本形)",
+      "documentation": "語根: delikat\n入力: delikat\n最終形: 细\n漢字: 细\n識別子: なし\n型: content\nF(汎用性): 27\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2077",
+      "priority": 0,
+      "sourceRoot": "delikat",
+      "type": "content",
+      "frequency": 27,
+      "base": true,
+      "sourceLine": 2077
+    },
+    {
+      "prefix": "delikt",
+      "body": "违",
+      "detail": "delikt → 违 (pejvo, F=6, 基本形)",
+      "documentation": "語根: delikt\n入力: delikt\n最終形: 违\n漢字: 违\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3627",
+      "priority": 0,
+      "sourceRoot": "delikt",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3627
+    },
+    {
+      "prefix": "delir",
+      "body": "狂ᴰ",
+      "detail": "delir → 狂ᴰ (content, F=6)",
+      "documentation": "語根: delir\n入力: delir\n最終形: 狂ᴰ\n漢字: 狂\n識別子: d\n型: content\nF(汎用性): 6\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:420",
+      "priority": 0,
+      "sourceRoot": "delir",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 420
     },
     {
       "prefix": "demand",
       "body": "问",
-      "detail": "demand to 问"
+      "detail": "demand → 问 (content, F=26, 基本形)",
+      "documentation": "語根: demand\n入力: demand\n最終形: 问\n漢字: 问\n識別子: なし\n型: content\nF(汎用性): 26\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1315",
+      "priority": 0,
+      "sourceRoot": "demand",
+      "type": "content",
+      "frequency": 26,
+      "base": true,
+      "sourceLine": 1315
     },
     {
       "prefix": "demokrat",
-      "body": "民主家",
-      "detail": "demokrat to 民主家"
+      "body": "民ᴰᴹ",
+      "detail": "demokrat → 民ᴰᴹ (pejvo, F=12)",
+      "documentation": "語根: demokrat\n入力: demokrat\n最終形: 民ᴰᴹ\n漢字: 民\n識別子: dm\n型: pejvo\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:593",
+      "priority": 0,
+      "sourceRoot": "demokrat",
+      "type": "pejvo",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 593
     },
     {
       "prefix": "demokrati",
-      "body": "民主",
-      "detail": "demokrati to 民主"
+      "body": "民ᴰ",
+      "detail": "demokrati → 民ᴰ (content, F=13)",
+      "documentation": "語根: demokrati\n入力: demokrati\n最終形: 民ᴰ\n漢字: 民\n識別子: d\n型: content\nF(汎用性): 13\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:592",
+      "priority": 0,
+      "sourceRoot": "demokrati",
+      "type": "content",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 592
     },
     {
-      "prefix": "demonstraci",
-      "body": "证ᴅ",
-      "detail": "demonstraci to 证ᴅ"
+      "prefix": "demon",
+      "body": "魔ᴰᴹ",
+      "detail": "demon → 魔ᴰᴹ (pejvo, F=8)",
+      "documentation": "語根: demon\n入力: demon\n最終形: 魔ᴰᴹ\n漢字: 魔\n識別子: dm\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:252",
+      "priority": 0,
+      "sourceRoot": "demon",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 252
+    },
+    {
+      "prefix": "demonstr",
+      "body": "证ᴰᴹ",
+      "detail": "demonstr → 证ᴰᴹ (pejvo, F=8)",
+      "documentation": "語根: demonstr\n入力: demonstr\n最終形: 证ᴰᴹ\n漢字: 证\n識別子: dm\n型: pejvo\nF(汎用性): 8\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:131",
+      "priority": 0,
+      "sourceRoot": "demonstr",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 131
     },
     {
       "prefix": "dens",
-      "body": "稠",
-      "detail": "dens to 稠"
+      "body": "密",
+      "detail": "dens → 密 (content, F=43, 基本形)",
+      "documentation": "語根: dens\n入力: dens\n最終形: 密\n漢字: 密\n識別子: なし\n型: content\nF(汎用性): 43\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:586",
+      "priority": 0,
+      "sourceRoot": "dens",
+      "type": "content",
+      "frequency": 43,
+      "base": true,
+      "sourceLine": 586
     },
     {
       "prefix": "dent",
       "body": "齿",
-      "detail": "dent to 齿"
+      "detail": "dent → 齿 (content, F=95, 基本形)",
+      "documentation": "語根: dent\n入力: dent\n最終形: 齿\n漢字: 齿\n識別子: なし\n型: content\nF(汎用性): 95\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3741",
+      "priority": 0,
+      "sourceRoot": "dent",
+      "type": "content",
+      "frequency": 95,
+      "base": true,
+      "sourceLine": 3741
     },
     {
       "prefix": "denunc",
-      "body": "举报",
-      "detail": "denunc to 举报"
-    },
-    {
-      "prefix": "departement",
-      "body": "部ᴅ",
-      "detail": "departement to 部ᴅ"
+      "body": "揭ᴰ",
+      "detail": "denunc → 揭ᴰ (content, F=5)",
+      "documentation": "語根: denunc\n入力: denunc\n最終形: 揭ᴰ\n漢字: 揭\n識別子: d\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2018",
+      "priority": 0,
+      "sourceRoot": "denunc",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 2018
     },
     {
       "prefix": "depon",
-      "body": "存",
-      "detail": "depon to 存"
+      "body": "存ᴰ",
+      "detail": "depon → 存ᴰ (content, F=11)",
+      "documentation": "語根: depon\n入力: depon\n最終形: 存ᴰ\n漢字: 存\n識別子: d\n型: content\nF(汎用性): 11\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:540",
+      "priority": 0,
+      "sourceRoot": "depon",
+      "type": "content",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 540
+    },
+    {
+      "prefix": "deprim",
+      "body": "沮丧",
+      "detail": "deprim → 沮丧 (pejvo, F=5, 基本形)",
+      "documentation": "語根: deprim\n入力: deprim\n最終形: 沮丧\n漢字: 沮丧\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3152",
+      "priority": 0,
+      "sourceRoot": "deprim",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3152
     },
     {
       "prefix": "deput",
-      "body": "议员",
-      "detail": "deput to 议员"
+      "body": "派ᴰ",
+      "detail": "deput → 派ᴰ (content, F=8)",
+      "documentation": "語根: deput\n入力: deput\n最終形: 派ᴰ\n漢字: 派\n識別子: d\n型: content\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1043",
+      "priority": 0,
+      "sourceRoot": "deput",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 1043
+    },
+    {
+      "prefix": "deriv",
+      "body": "派",
+      "detail": "deriv → 派 (pejvo, F=13, 基本形)",
+      "documentation": "語根: deriv\n入力: deriv\n最終形: 派\n漢字: 派\n識別子: なし\n型: pejvo\nF(汎用性): 13\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1042",
+      "priority": 0,
+      "sourceRoot": "deriv",
+      "type": "pejvo",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 1042
+    },
+    {
+      "prefix": "derm",
+      "body": "皮ᴰ",
+      "detail": "derm → 皮ᴰ (sci, F=22)",
+      "documentation": "語根: derm\n入力: derm\n最終形: 皮ᴰ\n漢字: 皮\n識別子: d\n型: sci\nF(汎用性): 22\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:230",
+      "priority": 0,
+      "sourceRoot": "derm",
+      "type": "sci",
+      "frequency": 22,
+      "base": false,
+      "sourceLine": 230
+    },
+    {
+      "prefix": "dermat",
+      "body": "皮ᴰᴿ",
+      "detail": "dermat → 皮ᴰᴿ (pejvo, F=5)",
+      "documentation": "語根: dermat\n入力: dermat\n最終形: 皮ᴰᴿ\n漢字: 皮\n識別子: dr\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:233",
+      "priority": 0,
+      "sourceRoot": "dermat",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 233
     },
     {
       "prefix": "des",
-      "body": "越ᴅ",
-      "detail": "des to 越ᴅ"
+      "body": "愈",
+      "detail": "des → 愈 (content, F=4, 基本形)",
+      "documentation": "語根: des\n入力: des\n最終形: 愈\n漢字: 愈\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3001",
+      "priority": 0,
+      "sourceRoot": "des",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3001
     },
     {
       "prefix": "desegn",
       "body": "绘",
-      "detail": "desegn to 绘"
+      "detail": "desegn → 绘 (content, F=26, 基本形)",
+      "documentation": "語根: desegn\n入力: desegn\n最終形: 绘\n漢字: 绘\n識別子: なし\n型: content\nF(汎用性): 26\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3519",
+      "priority": 0,
+      "sourceRoot": "desegn",
+      "type": "content",
+      "frequency": 26,
+      "base": true,
+      "sourceLine": 3519
     },
     {
       "prefix": "desert",
-      "body": "甜点",
-      "detail": "desert to 甜点"
+      "body": "点ᴰ",
+      "detail": "desert → 点ᴰ (content, F=4)",
+      "documentation": "語根: desert\n入力: desert\n最終形: 点ᴰ\n漢字: 点\n識別子: d\n型: content\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1017",
+      "priority": 0,
+      "sourceRoot": "desert",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 1017
+    },
+    {
+      "prefix": "desinfekt",
+      "body": "消毒",
+      "detail": "desinfekt → 消毒 (pejvo, F=6, 基本形)",
+      "documentation": "語根: desinfekt\n入力: desinfekt\n最終形: 消毒\n漢字: 消毒\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2631",
+      "priority": 0,
+      "sourceRoot": "desinfekt",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2631
     },
     {
       "prefix": "destin",
-      "body": "命ᴅ",
-      "detail": "destin to 命ᴅ"
+      "body": "定ᴰˢ",
+      "detail": "destin → 定ᴰˢ (content, F=6)",
+      "documentation": "語根: destin\n入力: destin\n最終形: 定ᴰˢ\n漢字: 定\n識別子: ds\n型: content\nF(汎用性): 6\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:553",
+      "priority": 0,
+      "sourceRoot": "destin",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 553
     },
     {
       "prefix": "detal",
-      "body": "细节",
-      "detail": "detal to 细节"
+      "body": "细ᴰ",
+      "detail": "detal → 细ᴰ (content, F=19)",
+      "documentation": "語根: detal\n入力: detal\n最終形: 细ᴰ\n漢字: 细\n識別子: d\n型: content\nF(汎用性): 19\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2078",
+      "priority": 0,
+      "sourceRoot": "detal",
+      "type": "content",
+      "frequency": 19,
+      "base": false,
+      "sourceLine": 2078
+    },
+    {
+      "prefix": "detekt",
+      "body": "检ᴰ",
+      "detail": "detekt → 检ᴰ (pejvo, F=12)",
+      "documentation": "語根: detekt\n入力: detekt\n最終形: 检ᴰ\n漢字: 检\n識別子: d\n型: pejvo\nF(汎用性): 12\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:316",
+      "priority": 0,
+      "sourceRoot": "detekt",
+      "type": "pejvo",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 316
     },
     {
       "prefix": "determin",
-      "body": "决定",
-      "detail": "determin to 决定"
+      "body": "定ᴰᵀ",
+      "detail": "determin → 定ᴰᵀ (content, F=12)",
+      "documentation": "語根: determin\n入力: determin\n最終形: 定ᴰᵀ\n漢字: 定\n識別子: dt\n型: content\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:552",
+      "priority": 0,
+      "sourceRoot": "determin",
+      "type": "content",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 552
+    },
+    {
+      "prefix": "detonaci",
+      "body": "轰",
+      "detail": "detonaci → 轰 (pejvo, F=6, 基本形)",
+      "documentation": "語根: detonaci\n入力: detonaci\n最終形: 轰\n漢字: 轰\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3620",
+      "priority": 0,
+      "sourceRoot": "detonaci",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3620
     },
     {
       "prefix": "detru",
       "body": "毁",
-      "detail": "detru to 毁"
+      "detail": "detru → 毁 (content, F=13, 基本形)",
+      "documentation": "語根: detru\n入力: detru\n最終形: 毁\n漢字: 毁\n識別子: なし\n型: content\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3415",
+      "priority": 0,
+      "sourceRoot": "detru",
+      "type": "content",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 3415
     },
     {
       "prefix": "dev",
-      "body": "务",
-      "detail": "dev to 务"
+      "body": "应",
+      "detail": "dev → 应 (content, F=39, 基本形)",
+      "documentation": "語根: dev\n入力: dev\n最終形: 应\n漢字: 应\n識別子: なし\n型: content\nF(汎用性): 39\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3356",
+      "priority": 0,
+      "sourceRoot": "dev",
+      "type": "content",
+      "frequency": 39,
+      "base": true,
+      "sourceLine": 3356
+    },
+    {
+      "prefix": "devi",
+      "body": "偏",
+      "detail": "devi → 偏 (pejvo, F=9, 基本形)",
+      "documentation": "語根: devi\n入力: devi\n最終形: 偏\n漢字: 偏\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2933",
+      "priority": 0,
+      "sourceRoot": "devi",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 2933
     },
     {
       "prefix": "dezert",
-      "body": "荒地",
-      "detail": "dezert to 荒地"
+      "body": "漠",
+      "detail": "dezert → 漠 (content, F=21, 基本形)",
+      "documentation": "語根: dezert\n入力: dezert\n最終形: 漠\n漢字: 漠\n識別子: なし\n型: content\nF(汎用性): 21\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2874",
+      "priority": 0,
+      "sourceRoot": "dezert",
+      "type": "content",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 2874
     },
     {
       "prefix": "dezir",
       "body": "欲",
-      "detail": "dezir to 欲"
+      "detail": "dezir → 欲 (content, F=16, 基本形)",
+      "documentation": "語根: dezir\n入力: dezir\n最終形: 欲\n漢字: 欲\n識別子: なし\n型: content\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1819",
+      "priority": 0,
+      "sourceRoot": "dezir",
+      "type": "content",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 1819
     },
     {
       "prefix": "di",
       "body": "神",
-      "detail": "di to 神"
+      "detail": "di → 神 (content, F=63, 基本形)",
+      "documentation": "語根: di\n入力: di\n最終形: 神\n漢字: 神\n識別子: なし\n型: content\nF(汎用性): 63\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:916",
+      "priority": 0,
+      "sourceRoot": "di",
+      "type": "content",
+      "frequency": 63,
+      "base": true,
+      "sourceLine": 916
+    },
+    {
+      "prefix": "di",
+      "body": "神ᴰ",
+      "detail": "dio,Di → 神ᴰ (content, F=0)",
+      "documentation": "語根: dio,Di\n入力: di\n最終形: 神ᴰ\n漢字: 神\n識別子: d\n型: content\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:918",
+      "priority": 1,
+      "sourceRoot": "dio,Di",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 918
+    },
+    {
+      "prefix": "dia",
+      "body": "通",
+      "detail": "dia → 通 (pejvo, F=21, 基本形)",
+      "documentation": "語根: dia\n入力: dia\n最終形: 通\n漢字: 通\n識別子: なし\n型: pejvo\nF(汎用性): 21\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1659",
+      "priority": 0,
+      "sourceRoot": "dia",
+      "type": "pejvo",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 1659
+    },
+    {
+      "prefix": "diabet",
+      "body": "糖尿",
+      "detail": "diabet → 糖尿 (pejvo, F=6, 基本形)",
+      "documentation": "語根: diabet\n入力: diabet\n最終形: 糖尿\n漢字: 糖尿\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2819",
+      "priority": 0,
+      "sourceRoot": "diabet",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2819
+    },
+    {
+      "prefix": "diabl",
+      "body": "魔ᴰ",
+      "detail": "diabl → 魔ᴰ (content, F=14)",
+      "documentation": "語根: diabl\n入力: diabl\n最終形: 魔ᴰ\n漢字: 魔\n識別子: d\n型: content\nF(汎用性): 14\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:250",
+      "priority": 0,
+      "sourceRoot": "diabl",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 250
     },
     {
       "prefix": "diafan",
       "body": "透",
-      "detail": "diafan to 透"
+      "detail": "diafan → 透 (pejvo, F=7, 基本形)",
+      "documentation": "語根: diafan\n入力: diafan\n最終形: 透\n漢字: 透\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2823",
+      "priority": 0,
+      "sourceRoot": "diafan",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2823
+    },
+    {
+      "prefix": "diakon",
+      "body": "助祭",
+      "detail": "diakon → 助祭 (pejvo, F=5, 基本形)",
+      "documentation": "語根: diakon\n入力: diakon\n最終形: 助祭\n漢字: 助祭\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2616",
+      "priority": 0,
+      "sourceRoot": "diakon",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2616
+    },
+    {
+      "prefix": "dialekt",
+      "body": "言",
+      "detail": "dialekt → 言 (content, F=6, 基本形)",
+      "documentation": "語根: dialekt\n入力: dialekt\n最終形: 言\n漢字: 言\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2455",
+      "priority": 0,
+      "sourceRoot": "dialekt",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2455
     },
     {
       "prefix": "dialog",
-      "body": "对话",
-      "detail": "dialog to 对话"
+      "body": "话ᴰ",
+      "detail": "dialog → 话ᴰ (content, F=0)",
+      "documentation": "語根: dialog\n入力: dialog\n最終形: 话ᴰ\n漢字: 话\n識別子: d\n型: content\nF(汎用性): 0\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2142",
+      "priority": 0,
+      "sourceRoot": "dialog",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 2142
     },
     {
       "prefix": "diamant",
-      "body": "钻石",
-      "detail": "diamant to 钻石"
+      "body": "钻ᴰ",
+      "detail": "diamant → 钻ᴰ (content, F=4)",
+      "documentation": "語根: diamant\n入力: diamant\n最終形: 钻ᴰ\n漢字: 钻\n識別子: d\n型: content\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2196",
+      "priority": 0,
+      "sourceRoot": "diamant",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 2196
     },
     {
-      "prefix": "diametr",
-      "body": "直径",
-      "detail": "diametr to 直径"
+      "prefix": "diant",
+      "body": "石ᴰ",
+      "detail": "diant → 石ᴰ (content, F=5)",
+      "documentation": "語根: diant\n入力: diant\n最終形: 石ᴰ\n漢字: 石\n識別子: d\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1584",
+      "priority": 0,
+      "sourceRoot": "diant",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1584
+    },
+    {
+      "prefix": "dibocx",
+      "body": "荡ᴰ",
+      "detail": "diboc^ → 荡ᴰ (pejvo, F=13)",
+      "documentation": "語根: diboc^\n入力: dibocx\n最終形: 荡ᴰ\n漢字: 荡\n識別子: d\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2104",
+      "priority": 0,
+      "sourceRoot": "diboc^",
+      "type": "pejvo",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 2104
+    },
+    {
+      "prefix": "dielektrik",
+      "body": "介电",
+      "detail": "dielektrik → 介电 (pejvo, F=6, 基本形)",
+      "documentation": "語根: dielektrik\n入力: dielektrik\n最終形: 介电\n漢字: 介电\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2336",
+      "priority": 0,
+      "sourceRoot": "dielektrik",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2336
     },
     {
       "prefix": "diet",
-      "body": "食",
-      "detail": "diet to 食"
+      "body": "节ᴰ",
+      "detail": "diet → 节ᴰ (content, F=10)",
+      "documentation": "語根: diet\n入力: diet\n最終形: 节ᴰ\n漢字: 节\n識別子: d\n型: content\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:346",
+      "priority": 0,
+      "sourceRoot": "diet",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 346
+    },
+    {
+      "prefix": "difekt",
+      "body": "损",
+      "detail": "difekt → 损 (content, F=21, 基本形)",
+      "documentation": "語根: difekt\n入力: difekt\n最終形: 损\n漢字: 损\n識別子: なし\n型: content\nF(汎用性): 21\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1225",
+      "priority": 0,
+      "sourceRoot": "difekt",
+      "type": "content",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 1225
     },
     {
       "prefix": "diferenc",
-      "body": "差",
-      "detail": "diferenc to 差"
+      "body": "异ᴰ",
+      "detail": "diferenc → 异ᴰ (content, F=18)",
+      "documentation": "語根: diferenc\n入力: diferenc\n最終形: 异ᴰ\n漢字: 异\n識別子: d\n型: content\nF(汎用性): 18\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:663",
+      "priority": 0,
+      "sourceRoot": "diferenc",
+      "type": "content",
+      "frequency": 18,
+      "base": false,
+      "sourceLine": 663
+    },
+    {
+      "prefix": "diferencial",
+      "body": "异ᴰᶠ",
+      "detail": "diferencial → 异ᴰᶠ (pejvo, F=5)",
+      "documentation": "語根: diferencial\n入力: diferencial\n最終形: 异ᴰᶠ\n漢字: 异\n識別子: df\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:665",
+      "priority": 0,
+      "sourceRoot": "diferencial",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 665
     },
     {
       "prefix": "difin",
-      "body": "定义",
-      "detail": "difin to 定义"
+      "body": "定ᴰ",
+      "detail": "difin → 定ᴰ (content, F=15)",
+      "documentation": "語根: difin\n入力: difin\n最終形: 定ᴰ\n漢字: 定\n識別子: d\n型: content\nF(汎用性): 15\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:551",
+      "priority": 0,
+      "sourceRoot": "difin",
+      "type": "content",
+      "frequency": 15,
+      "base": false,
+      "sourceLine": 551
+    },
+    {
+      "prefix": "difrakt",
+      "body": "衍射",
+      "detail": "difrakt → 衍射 (pejvo, F=6, 基本形)",
+      "documentation": "語根: difrakt\n入力: difrakt\n最終形: 衍射\n漢字: 衍射\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3155",
+      "priority": 0,
+      "sourceRoot": "difrakt",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3155
+    },
+    {
+      "prefix": "difuz",
+      "body": "散ᴰᶠ",
+      "detail": "difuz → 散ᴰᶠ (pejvo, F=6)",
+      "documentation": "語根: difuz\n入力: difuz\n最終形: 散ᴰᶠ\n漢字: 散\n識別子: df\n型: pejvo\nF(汎用性): 6\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:30",
+      "priority": 0,
+      "sourceRoot": "difuz",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 30
     },
     {
       "prefix": "dig",
-      "body": "堤",
-      "detail": "dig to 堤"
+      "body": "拦",
+      "detail": "dig → 拦 (pejvo, F=6, 基本形)",
+      "documentation": "語根: dig\n入力: dig\n最終形: 拦\n漢字: 拦\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3379",
+      "priority": 0,
+      "sourceRoot": "dig",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3379
     },
     {
       "prefix": "digest",
-      "body": "消化",
-      "detail": "digest to 消化"
+      "body": "消",
+      "detail": "digest → 消 (content, F=18, 基本形)",
+      "documentation": "語根: digest\n入力: digest\n最終形: 消\n漢字: 消\n識別子: なし\n型: content\nF(汎用性): 18\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2630",
+      "priority": 0,
+      "sourceRoot": "digest",
+      "type": "content",
+      "frequency": 18,
+      "base": true,
+      "sourceLine": 2630
     },
     {
       "prefix": "dign",
-      "body": "威",
-      "detail": "dign to 威"
+      "body": "尊",
+      "detail": "dign → 尊 (content, F=10, 基本形)",
+      "documentation": "語根: dign\n入力: dign\n最終形: 尊\n漢字: 尊\n識別子: なし\n型: content\nF(汎用性): 10\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1627",
+      "priority": 0,
+      "sourceRoot": "dign",
+      "type": "content",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 1627
     },
     {
       "prefix": "dik",
       "body": "厚",
-      "detail": "dik to 厚"
+      "detail": "dik → 厚 (content, F=39, 基本形)",
+      "documentation": "語根: dik\n入力: dik\n最終形: 厚\n漢字: 厚\n識別子: なし\n型: content\nF(汎用性): 39\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2477",
+      "priority": 0,
+      "sourceRoot": "dik",
+      "type": "content",
+      "frequency": 39,
+      "base": true,
+      "sourceLine": 2477
     },
     {
       "prefix": "dikt",
-      "body": "口述",
-      "detail": "dikt to 口述"
+      "body": "述ᴰ",
+      "detail": "dikt → 述ᴰ (content, F=4)",
+      "documentation": "語根: dikt\n入力: dikt\n最終形: 述ᴰ\n漢字: 述\n識別子: d\n型: content\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1542",
+      "priority": 0,
+      "sourceRoot": "dikt",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 1542
     },
     {
       "prefix": "diktator",
-      "body": "独裁者",
-      "detail": "diktator to 独裁者"
+      "body": "独裁",
+      "detail": "diktator → 独裁 (pejvo, F=7, 基本形)",
+      "documentation": "語根: diktator\n入力: diktator\n最終形: 独裁\n漢字: 独裁\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2829",
+      "priority": 0,
+      "sourceRoot": "diktator",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2829
+    },
+    {
+      "prefix": "dilat",
+      "body": "膨",
+      "detail": "dilat → 膨 (pejvo, F=19, 基本形)",
+      "documentation": "語根: dilat\n入力: dilat\n最終形: 膨\n漢字: 膨\n識別子: なし\n型: pejvo\nF(汎用性): 19\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1793",
+      "priority": 0,
+      "sourceRoot": "dilat",
+      "type": "pejvo",
+      "frequency": 19,
+      "base": true,
+      "sourceLine": 1793
     },
     {
       "prefix": "diligent",
       "body": "勤",
-      "detail": "diligent to 勤"
+      "detail": "diligent → 勤 (content, F=10, 基本形)",
+      "documentation": "語根: diligent\n入力: diligent\n最終形: 勤\n漢字: 勤\n識別子: なし\n型: content\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2417",
+      "priority": 0,
+      "sourceRoot": "diligent",
+      "type": "content",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 2417
     },
     {
-      "prefix": "diluv",
-      "body": "洪水",
-      "detail": "diluv to 洪水"
+      "prefix": "dilu",
+      "body": "稀ᴰ",
+      "detail": "dilu → 稀ᴰ (pejvo, F=5)",
+      "documentation": "語根: dilu\n入力: dilu\n最終形: 稀ᴰ\n漢字: 稀\n識別子: d\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1406",
+      "priority": 0,
+      "sourceRoot": "dilu",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1406
     },
     {
       "prefix": "dimancx",
-      "body": "日曜",
-      "detail": "dimancx to 日曜"
+      "body": "日ᴰ",
+      "detail": "dimanĉ → 日ᴰ (cal, F=5)",
+      "documentation": "語根: dimanĉ\n入力: dimancx\n最終形: 日ᴰ\n漢字: 日\n識別子: d\n型: cal\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:569",
+      "priority": 0,
+      "sourceRoot": "dimanĉ",
+      "type": "cal",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 569
     },
     {
       "prefix": "dimensi",
-      "body": "尺寸",
-      "detail": "dimensi to 尺寸"
+      "body": "维",
+      "detail": "dimensi → 维 (content, F=6, 基本形)",
+      "documentation": "語根: dimensi\n入力: dimensi\n最終形: 维\n漢字: 维\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3525",
+      "priority": 0,
+      "sourceRoot": "dimensi",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3525
     },
     {
-      "prefix": "dinasti",
-      "body": "朝",
-      "detail": "dinasti to 朝"
+      "prefix": "dinam",
+      "body": "发电ᴰ",
+      "detail": "dinam → 发电ᴰ (pejvo, F=7)",
+      "documentation": "語根: dinam\n入力: dinam\n最終形: 发电ᴰ\n漢字: 发电\n識別子: d\n型: pejvo\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1958",
+      "priority": 0,
+      "sourceRoot": "dinam",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1958
+    },
+    {
+      "prefix": "dinamik",
+      "body": "力ᴰ",
+      "detail": "dinamik → 力ᴰ (pejvo, F=11)",
+      "documentation": "語根: dinamik\n入力: dinamik\n最終形: 力ᴰ\n漢字: 力\n識別子: d\n型: pejvo\nF(汎用性): 11\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1836",
+      "priority": 0,
+      "sourceRoot": "dinamik",
+      "type": "pejvo",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 1836
+    },
+    {
+      "prefix": "dinamit",
+      "body": "炸ᴰ",
+      "detail": "dinamit → 炸ᴰ (content, F=2)",
+      "documentation": "語根: dinamit\n入力: dinamit\n最終形: 炸ᴰ\n漢字: 炸\n識別子: d\n型: content\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1137",
+      "priority": 0,
+      "sourceRoot": "dinamit",
+      "type": "content",
+      "frequency": 2,
+      "base": false,
+      "sourceLine": 1137
+    },
+    {
+      "prefix": "dio",
+      "body": "神ᴰ",
+      "detail": "dio,Di → 神ᴰ (content, F=0)",
+      "documentation": "語根: dio,Di\n入力: dio\n最終形: 神ᴰ\n漢字: 神\n識別子: d\n型: content\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:918",
+      "priority": 0,
+      "sourceRoot": "dio,Di",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 918
     },
     {
       "prefix": "diplom",
-      "body": "文凭",
-      "detail": "diplom to 文凭"
+      "body": "证ᴰ",
+      "detail": "diplom → 证ᴰ (content, F=14)",
+      "documentation": "語根: diplom\n入力: diplom\n最終形: 证ᴰ\n漢字: 证\n識別子: d\n型: content\nF(汎用性): 14\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:128",
+      "priority": 0,
+      "sourceRoot": "diplom",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 128
     },
     {
       "prefix": "diplomat",
-      "body": "外交家",
-      "detail": "diplomat to 外交家"
-    },
-    {
-      "prefix": "diplomati",
-      "body": "外交",
-      "detail": "diplomati to 外交"
+      "body": "交ᴰ",
+      "detail": "diplomat → 交ᴰ (content, F=10)",
+      "documentation": "語根: diplomat\n入力: diplomat\n最終形: 交ᴰ\n漢字: 交\n識別子: d\n型: content\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1458",
+      "priority": 0,
+      "sourceRoot": "diplomat",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1458
     },
     {
       "prefix": "dir",
       "body": "说",
-      "detail": "dir to 说"
+      "detail": "dir → 说 (content, F=44, 基本形)",
+      "documentation": "語根: dir\n入力: dir\n最終形: 说\n漢字: 说\n識別子: なし\n型: content\nF(汎用性): 44\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3579",
+      "priority": 0,
+      "sourceRoot": "dir",
+      "type": "content",
+      "frequency": 44,
+      "base": true,
+      "sourceLine": 3579
     },
     {
       "prefix": "direkt",
-      "body": "向ᴅ",
-      "detail": "direkt to 向ᴅ"
+      "body": "方",
+      "detail": "direkt → 方 (content, F=34, 基本形)",
+      "documentation": "語根: direkt\n入力: direkt\n最終形: 方\n漢字: 方\n識別子: なし\n型: content\nF(汎用性): 34\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:578",
+      "priority": 0,
+      "sourceRoot": "direkt",
+      "type": "content",
+      "frequency": 34,
+      "base": true,
+      "sourceLine": 578
     },
     {
       "prefix": "direktor",
-      "body": "长ᴅ",
-      "detail": "direktor to 长ᴅ"
+      "body": "导ᴰ",
+      "detail": "direktor → 导ᴰ (content, F=5)",
+      "documentation": "語根: direktor\n入力: direktor\n最終形: 导ᴰ\n漢字: 导\n識別子: d\n型: content\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:657",
+      "priority": 0,
+      "sourceRoot": "direktor",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 657
     },
     {
       "prefix": "dis",
       "body": "散",
-      "detail": "dis to 散"
+      "detail": "dis → 散 (pref, F=205, 基本形)",
+      "documentation": "語根: dis\n入力: dis\n最終形: 散\n漢字: 散\n識別子: なし\n型: pref\nF(汎用性): 205\nグループ数: 7\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:26",
+      "priority": 0,
+      "sourceRoot": "dis",
+      "type": "pref",
+      "frequency": 205,
+      "base": true,
+      "sourceLine": 26
     },
     {
       "prefix": "disciplin",
-      "body": "纪律",
-      "detail": "disciplin to 纪律"
-    },
-    {
-      "prefix": "discxipl",
-      "body": "弟子",
-      "detail": "discxipl to 弟子"
+      "body": "律ᴰ",
+      "detail": "disciplin → 律ᴰ (pejvo, F=9)",
+      "documentation": "語根: disciplin\n入力: disciplin\n最終形: 律ᴰ\n漢字: 律\n識別子: d\n型: pejvo\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:600",
+      "priority": 0,
+      "sourceRoot": "disciplin",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 600
     },
     {
       "prefix": "disk",
-      "body": "盘ᴅ",
-      "detail": "disk to 盘ᴅ"
+      "body": "盘",
+      "detail": "disk → 盘 (content, F=48, 基本形)",
+      "documentation": "語根: disk\n入力: disk\n最終形: 盘\n漢字: 盘\n識別子: なし\n型: content\nF(汎用性): 48\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1240",
+      "priority": 0,
+      "sourceRoot": "disk",
+      "type": "content",
+      "frequency": 48,
+      "base": true,
+      "sourceLine": 1240
+    },
+    {
+      "prefix": "diskont",
+      "body": "减ᴰ",
+      "detail": "diskont → 减ᴰ (pejvo, F=6)",
+      "documentation": "語根: diskont\n入力: diskont\n最終形: 减ᴰ\n漢字: 减\n識別子: d\n型: pejvo\nF(汎用性): 6\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:286",
+      "priority": 0,
+      "sourceRoot": "diskont",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 286
     },
     {
       "prefix": "diskret",
-      "body": "慎ᴅ",
-      "detail": "diskret to 慎ᴅ"
+      "body": "谨",
+      "detail": "diskret → 谨 (pejvo, F=6, 基本形)",
+      "documentation": "語根: diskret\n入力: diskret\n最終形: 谨\n漢字: 谨\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2157",
+      "priority": 0,
+      "sourceRoot": "diskret",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2157
+    },
+    {
+      "prefix": "diskriminaci",
+      "body": "歧",
+      "detail": "diskriminaci → 歧 (content, F=4, 基本形)",
+      "documentation": "語根: diskriminaci\n入力: diskriminaci\n最終形: 歧\n漢字: 歧\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3413",
+      "priority": 0,
+      "sourceRoot": "diskriminaci",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3413
     },
     {
       "prefix": "diskut",
-      "body": "讨论",
-      "detail": "diskut to 讨论"
+      "body": "论ᴰ",
+      "detail": "diskut → 论ᴰ (content, F=18)",
+      "documentation": "語根: diskut\n入力: diskut\n最終形: 论ᴰ\n漢字: 论\n識別子: d\n型: content\nF(汎用性): 18\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:707",
+      "priority": 0,
+      "sourceRoot": "diskut",
+      "type": "content",
+      "frequency": 18,
+      "base": false,
+      "sourceLine": 707
+    },
+    {
+      "prefix": "disoci",
+      "body": "解ᴰ",
+      "detail": "disoci → 解ᴰ (pejvo, F=5)",
+      "documentation": "語根: disoci\n入力: disoci\n最終形: 解ᴰ\n漢字: 解\n識別子: d\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:393",
+      "priority": 0,
+      "sourceRoot": "disoci",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 393
+    },
+    {
+      "prefix": "dispers",
+      "body": "散ᴰˢ",
+      "detail": "dispers → 散ᴰˢ (pejvo, F=8)",
+      "documentation": "語根: dispers\n入力: dispers\n最終形: 散ᴰˢ\n漢字: 散\n識別子: ds\n型: pejvo\nF(汎用性): 8\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:29",
+      "priority": 0,
+      "sourceRoot": "dispers",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 29
     },
     {
       "prefix": "dispon",
-      "body": "配",
-      "detail": "dispon to 配"
+      "body": "处ᴰ",
+      "detail": "dispon → 处ᴰ (content, F=6)",
+      "documentation": "語根: dispon\n入力: dispon\n最終形: 处ᴰ\n漢字: 处\n識別子: d\n型: content\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1980",
+      "priority": 0,
+      "sourceRoot": "dispon",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1980
     },
     {
       "prefix": "disput",
-      "body": "争论",
-      "detail": "disput to 争论"
+      "body": "争",
+      "detail": "disput → 争 (content, F=8, 基本形)",
+      "documentation": "語根: disput\n入力: disput\n最終形: 争\n漢字: 争\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2723",
+      "priority": 0,
+      "sourceRoot": "disput",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2723
     },
     {
       "prefix": "distanc",
       "body": "距",
-      "detail": "distanc to 距"
+      "detail": "distanc → 距 (content, F=23, 基本形)",
+      "documentation": "語根: distanc\n入力: distanc\n最終形: 距\n漢字: 距\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2405",
+      "priority": 0,
+      "sourceRoot": "distanc",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 2405
     },
     {
       "prefix": "distil",
-      "body": "蒸馏",
-      "detail": "distil to 蒸馏"
+      "body": "馏",
+      "detail": "distil → 馏 (pejvo, F=15, 基本形)",
+      "documentation": "語根: distil\n入力: distil\n最終形: 馏\n漢字: 馏\n識別子: なし\n型: pejvo\nF(汎用性): 15\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3707",
+      "priority": 0,
+      "sourceRoot": "distil",
+      "type": "pejvo",
+      "frequency": 15,
+      "base": true,
+      "sourceLine": 3707
     },
     {
       "prefix": "disting",
       "body": "辨",
-      "detail": "disting to 辨"
+      "detail": "disting → 辨 (content, F=16, 基本形)",
+      "documentation": "語根: disting\n入力: disting\n最終形: 辨\n漢字: 辨\n識別子: なし\n型: content\nF(汎用性): 16\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3077",
+      "priority": 0,
+      "sourceRoot": "disting",
+      "type": "content",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 3077
     },
     {
       "prefix": "distr",
-      "body": "分心",
-      "detail": "distr to 分心"
+      "body": "散ᴰ",
+      "detail": "distr → 散ᴰ (content, F=12)",
+      "documentation": "語根: distr\n入力: distr\n最終形: 散ᴰ\n漢字: 散\n識別子: d\n型: content\nF(汎用性): 12\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:27",
+      "priority": 0,
+      "sourceRoot": "distr",
+      "type": "content",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 27
     },
     {
       "prefix": "distribu",
-      "body": "分配",
-      "detail": "distribu to 分配"
+      "body": "配",
+      "detail": "distribu → 配 (content, F=16, 基本形)",
+      "documentation": "語根: distribu\n入力: distribu\n最終形: 配\n漢字: 配\n識別子: なし\n型: content\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1721",
+      "priority": 0,
+      "sourceRoot": "distribu",
+      "type": "content",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 1721
     },
     {
       "prefix": "distrikt",
-      "body": "区ᴅ",
-      "detail": "distrikt to 区ᴅ"
+      "body": "区ᴰ",
+      "detail": "distrikt → 区ᴰ (content, F=9)",
+      "documentation": "語根: distrikt\n入力: distrikt\n最終形: 区ᴰ\n漢字: 区\n識別子: d\n型: content\nF(汎用性): 9\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:807",
+      "priority": 0,
+      "sourceRoot": "distrikt",
+      "type": "content",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 807
     },
     {
-      "prefix": "divan",
-      "body": "卧椅",
-      "detail": "divan to 卧椅"
+      "prefix": "diurez",
+      "body": "多尿",
+      "detail": "diurez → 多尿 (pejvo, F=9, 基本形)",
+      "documentation": "語根: diurez\n入力: diurez\n最終形: 多尿\n漢字: 多尿\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2735",
+      "priority": 0,
+      "sourceRoot": "diurez",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 2735
     },
     {
       "prefix": "diven",
       "body": "猜",
-      "detail": "diven to 猜"
+      "detail": "diven → 猜 (content, F=25, 基本形)",
+      "documentation": "語根: diven\n入力: diven\n最終形: 猜\n漢字: 猜\n識別子: なし\n型: content\nF(汎用性): 25\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1895",
+      "priority": 0,
+      "sourceRoot": "diven",
+      "type": "content",
+      "frequency": 25,
+      "base": true,
+      "sourceLine": 1895
+    },
+    {
+      "prefix": "divergx",
+      "body": "散ᴰⱽ",
+      "detail": "diverg^ → 散ᴰⱽ (pejvo, F=10)",
+      "documentation": "語根: diverg^\n入力: divergx\n最終形: 散ᴰⱽ\n漢字: 散\n識別子: dv\n型: pejvo\nF(汎用性): 10\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:28",
+      "priority": 0,
+      "sourceRoot": "diverg^",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 28
     },
     {
       "prefix": "divers",
-      "body": "多样",
-      "detail": "divers to 多样"
+      "body": "杂",
+      "detail": "divers → 杂 (content, F=24, 基本形)",
+      "documentation": "語根: divers\n入力: divers\n最終形: 杂\n漢字: 杂\n識別子: なし\n型: content\nF(汎用性): 24\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2021",
+      "priority": 0,
+      "sourceRoot": "divers",
+      "type": "content",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 2021
     },
     {
       "prefix": "divid",
-      "body": "分ᴅ",
-      "detail": "divid to 分ᴅ"
+      "body": "分",
+      "detail": "divid → 分 (content, F=28, 基本形)",
+      "documentation": "語根: divid\n入力: divid\n最終形: 分\n漢字: 分\n識別子: なし\n型: content\nF(汎用性): 28\nグループ数: 7\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:54",
+      "priority": 0,
+      "sourceRoot": "divid",
+      "type": "content",
+      "frequency": 28,
+      "base": true,
+      "sourceLine": 54
+    },
+    {
+      "prefix": "dizel",
+      "body": "柴油",
+      "detail": "dizel → 柴油 (pejvo, F=6, 基本形)",
+      "documentation": "語根: dizel\n入力: dizel\n最終形: 柴油\n漢字: 柴油\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2567",
+      "priority": 0,
+      "sourceRoot": "dizel",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2567
     },
     {
       "prefix": "do",
       "body": "故",
-      "detail": "do to 故"
-    },
-    {
-      "prefix": "dog",
-      "body": "狗",
-      "detail": "dog to 狗"
+      "detail": "do → 故 (func, F=2, 基本形)",
+      "documentation": "語根: do\n入力: do\n最終形: 故\n漢字: 故\n識別子: なし\n型: func\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2460",
+      "priority": 0,
+      "sourceRoot": "do",
+      "type": "func",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 2460
     },
     {
       "prefix": "dogan",
-      "body": "海关",
-      "detail": "dogan to 海关"
+      "body": "关ᴰ",
+      "detail": "dogan → 关ᴰ (content, F=10)",
+      "documentation": "語根: dogan\n入力: dogan\n最終形: 关ᴰ\n漢字: 关\n識別子: d\n型: content\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1942",
+      "priority": 0,
+      "sourceRoot": "dogan",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1942
+    },
+    {
+      "prefix": "dogm",
+      "body": "教条",
+      "detail": "dogm → 教条 (pejvo, F=8, 基本形)",
+      "documentation": "語根: dogm\n入力: dogm\n最終形: 教条\n漢字: 教条\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2411",
+      "priority": 0,
+      "sourceRoot": "dogm",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2411
+    },
+    {
+      "prefix": "dok",
+      "body": "船渠",
+      "detail": "dok → 船渠 (pejvo, F=6, 基本形)",
+      "documentation": "語根: dok\n入力: dok\n最終形: 船渠\n漢字: 船渠\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2707",
+      "priority": 0,
+      "sourceRoot": "dok",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2707
     },
     {
       "prefix": "doktor",
-      "body": "博士",
-      "detail": "doktor to 博士"
+      "body": "博",
+      "detail": "doktor → 博 (content, F=11, 基本形)",
+      "documentation": "語根: doktor\n入力: doktor\n最終形: 博\n漢字: 博\n識別子: なし\n型: content\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2868",
+      "priority": 0,
+      "sourceRoot": "doktor",
+      "type": "content",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 2868
     },
     {
       "prefix": "dokument",
-      "body": "文件",
-      "detail": "dokument to 文件"
-    },
-    {
-      "prefix": "dolar",
-      "body": "元",
-      "detail": "dolar to 元"
+      "body": "档ᴰ",
+      "detail": "dokument → 档ᴰ (content, F=14)",
+      "documentation": "語根: dokument\n入力: dokument\n最終形: 档ᴰ\n漢字: 档\n識別子: d\n型: content\nF(汎用性): 14\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1884",
+      "priority": 0,
+      "sourceRoot": "dokument",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 1884
     },
     {
       "prefix": "dolcx",
-      "body": "甜",
-      "detail": "dolcx to 甜"
+      "body": "甘",
+      "detail": "dolĉ → 甘 (content, F=32, 基本形)",
+      "documentation": "語根: dolĉ\n入力: dolcx\n最終形: 甘\n漢字: 甘\n識別子: なし\n型: content\nF(汎用性): 32\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2371",
+      "priority": 0,
+      "sourceRoot": "dolĉ",
+      "type": "content",
+      "frequency": 32,
+      "base": true,
+      "sourceLine": 2371
     },
     {
       "prefix": "dolor",
       "body": "痛",
-      "detail": "dolor to 痛"
+      "detail": "dolor → 痛 (content, F=42, 基本形)",
+      "documentation": "語根: dolor\n入力: dolor\n最終形: 痛\n漢字: 痛\n識別子: なし\n型: content\nF(汎用性): 42\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1657",
+      "priority": 0,
+      "sourceRoot": "dolor",
+      "type": "content",
+      "frequency": 42,
+      "base": true,
+      "sourceLine": 1657
     },
     {
       "prefix": "dom",
-      "body": "房",
-      "detail": "dom to 房"
+      "body": "屋",
+      "detail": "dom → 屋 (content, F=80, 基本形)",
+      "documentation": "語根: dom\n入力: dom\n最終形: 屋\n漢字: 屋\n識別子: なし\n型: content\nF(汎用性): 80\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2301",
+      "priority": 0,
+      "sourceRoot": "dom",
+      "type": "content",
+      "frequency": 80,
+      "base": true,
+      "sourceLine": 2301
     },
     {
       "prefix": "domagx",
       "body": "惜",
-      "detail": "domagx to 惜"
+      "detail": "domaĝ → 惜 (content, F=5, 基本形)",
+      "documentation": "語根: domaĝ\n入力: domagx\n最終形: 惜\n漢字: 惜\n識別子: なし\n型: content\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2690",
+      "priority": 0,
+      "sourceRoot": "domaĝ",
+      "type": "content",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2690
+    },
+    {
+      "prefix": "domin",
+      "body": "治ᴰ",
+      "detail": "domin → 治ᴰ (pejvo, F=9)",
+      "documentation": "語根: domin\n入力: domin\n最終形: 治ᴰ\n漢字: 治\n識別子: d\n型: pejvo\nF(汎用性): 9\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:875",
+      "priority": 0,
+      "sourceRoot": "domin",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 875
     },
     {
       "prefix": "don",
       "body": "给",
-      "detail": "don to 给"
+      "detail": "don → 给 (content, F=112, 基本形)",
+      "documentation": "語根: don\n入力: don\n最終形: 给\n漢字: 给\n識別子: なし\n型: content\nF(汎用性): 112\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3520",
+      "priority": 0,
+      "sourceRoot": "don",
+      "type": "content",
+      "frequency": 112,
+      "base": true,
+      "sourceLine": 3520
     },
     {
       "prefix": "donac",
-      "body": "捐",
-      "detail": "donac to 捐"
+      "body": "礼",
+      "detail": "donac → 礼 (content, F=13, 基本形)",
+      "documentation": "語根: donac\n入力: donac\n最終形: 礼\n漢字: 礼\n識別子: なし\n型: content\nF(汎用性): 13\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1847",
+      "priority": 0,
+      "sourceRoot": "donac",
+      "type": "content",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 1847
     },
     {
       "prefix": "dorlot",
       "body": "宠",
-      "detail": "dorlot to 宠"
+      "detail": "dorlot → 宠 (content, F=8, 基本形)",
+      "documentation": "語根: dorlot\n入力: dorlot\n最終形: 宠\n漢字: 宠\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3336",
+      "priority": 0,
+      "sourceRoot": "dorlot",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3336
     },
     {
       "prefix": "dorm",
       "body": "睡",
-      "detail": "dorm to 睡"
+      "detail": "dorm → 睡 (content, F=46, 基本形)",
+      "documentation": "語根: dorm\n入力: dorm\n最終形: 睡\n漢字: 睡\n識別子: なし\n型: content\nF(汎用性): 46\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1571",
+      "priority": 0,
+      "sourceRoot": "dorm",
+      "type": "content",
+      "frequency": 46,
+      "base": true,
+      "sourceLine": 1571
     },
     {
       "prefix": "dorn",
-      "body": "刺ᴅ",
-      "detail": "dorn to 刺ᴅ"
+      "body": "刺ᴰ",
+      "detail": "dorn → 刺ᴰ (content, F=18)",
+      "documentation": "語根: dorn\n入力: dorn\n最終形: 刺ᴰ\n漢字: 刺\n識別子: d\n型: content\nF(汎用性): 18\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:860",
+      "priority": 0,
+      "sourceRoot": "dorn",
+      "type": "content",
+      "frequency": 18,
+      "base": false,
+      "sourceLine": 860
     },
     {
       "prefix": "dors",
       "body": "背",
-      "detail": "dors to 背"
+      "detail": "dors → 背 (content, F=33, 基本形)",
+      "documentation": "語根: dors\n入力: dors\n最終形: 背\n漢字: 背\n識別子: なし\n型: content\nF(汎用性): 33\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2861",
+      "priority": 0,
+      "sourceRoot": "dors",
+      "type": "content",
+      "frequency": 33,
+      "base": true,
+      "sourceLine": 2861
+    },
+    {
+      "prefix": "dosier",
+      "body": "档",
+      "detail": "dosier → 档 (content, F=21, 基本形)",
+      "documentation": "語根: dosier\n入力: dosier\n最終形: 档\n漢字: 档\n識別子: なし\n型: content\nF(汎用性): 21\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1883",
+      "priority": 0,
+      "sourceRoot": "dosier",
+      "type": "content",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 1883
+    },
+    {
+      "prefix": "dot",
+      "body": "妆ᴰ",
+      "detail": "dot → 妆ᴰ (content, F=10)",
+      "documentation": "語根: dot\n入力: dot\n最終形: 妆ᴰ\n漢字: 妆\n識別子: d\n型: content\nF(汎用性): 10\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1202",
+      "priority": 0,
+      "sourceRoot": "dot",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1202
+    },
+    {
+      "prefix": "doz",
+      "body": "量ᴰ",
+      "detail": "doz → 量ᴰ (pejvo, F=13)",
+      "documentation": "語根: doz\n入力: doz\n最終形: 量ᴰ\n漢字: 量\n識別子: d\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1834",
+      "priority": 0,
+      "sourceRoot": "doz",
+      "type": "pejvo",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 1834
     },
     {
       "prefix": "drak",
       "body": "龙",
-      "detail": "drak to 龙"
+      "detail": "drak → 龙 (pejvo, F=9, 基本形)",
+      "documentation": "語根: drak\n入力: drak\n最終形: 龙\n漢字: 龙\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3743",
+      "priority": 0,
+      "sourceRoot": "drak",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 3743
     },
     {
       "prefix": "dram",
-      "body": "戏剧",
-      "detail": "dram to 戏剧"
+      "body": "剧ᴰ",
+      "detail": "dram → 剧ᴰ (content, F=10)",
+      "documentation": "語根: dram\n入力: dram\n最終形: 剧ᴰ\n漢字: 剧\n識別子: d\n型: content\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:290",
+      "priority": 0,
+      "sourceRoot": "dram",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 290
     },
     {
       "prefix": "drap",
-      "body": "布料",
-      "detail": "drap to 布料"
+      "body": "呢",
+      "detail": "drap → 呢 (content, F=4, 基本形)",
+      "documentation": "語根: drap\n入力: drap\n最終形: 呢\n漢字: 呢\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3306",
+      "priority": 0,
+      "sourceRoot": "drap",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3306
+    },
+    {
+      "prefix": "drast",
+      "body": "猛",
+      "detail": "drast → 猛 (pejvo, F=6, 基本形)",
+      "documentation": "語根: drast\n入力: drast\n最終形: 猛\n漢字: 猛\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2987",
+      "priority": 0,
+      "sourceRoot": "drast",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2987
+    },
+    {
+      "prefix": "drasx",
+      "body": "打ᴰ",
+      "detail": "dras^ → 打ᴰ (pejvo, F=7)",
+      "documentation": "語根: dras^\n入力: drasx\n最終形: 打ᴰ\n漢字: 打\n識別子: d\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:981",
+      "priority": 0,
+      "sourceRoot": "dras^",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 981
     },
     {
       "prefix": "drat",
-      "body": "丝ᴅ",
-      "detail": "drat to 丝ᴅ"
+      "body": "线ᴰ",
+      "detail": "drat → 线ᴰ (content, F=31)",
+      "documentation": "語根: drat\n入力: drat\n最終形: 线ᴰ\n漢字: 线\n識別子: d\n型: content\nF(汎用性): 31\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:683",
+      "priority": 0,
+      "sourceRoot": "drat",
+      "type": "content",
+      "frequency": 31,
+      "base": false,
+      "sourceLine": 683
+    },
+    {
+      "prefix": "dren",
+      "body": "排ᴰ",
+      "detail": "dren → 排ᴰ (pejvo, F=8)",
+      "documentation": "語根: dren\n入力: dren\n最終形: 排ᴰ\n漢字: 排\n識別子: d\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1047",
+      "priority": 0,
+      "sourceRoot": "dren",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 1047
     },
     {
       "prefix": "dres",
-      "body": "训",
-      "detail": "dres to 训"
+      "body": "驯",
+      "detail": "dres → 驯 (content, F=5, 基本形)",
+      "documentation": "語根: dres\n入力: dres\n最終形: 驯\n漢字: 驯\n識別子: なし\n型: content\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3709",
+      "priority": 0,
+      "sourceRoot": "dres",
+      "type": "content",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3709
     },
     {
       "prefix": "drink",
-      "body": "饮",
-      "detail": "drink to 饮"
+      "body": "饮ᴰ",
+      "detail": "drink → 饮ᴰ (content, F=16)",
+      "documentation": "語根: drink\n入力: drink\n最終形: 饮ᴰ\n漢字: 饮\n識別子: d\n型: content\nF(汎用性): 16\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2228",
+      "priority": 0,
+      "sourceRoot": "drink",
+      "type": "content",
+      "frequency": 16,
+      "base": false,
+      "sourceLine": 2228
+    },
+    {
+      "prefix": "driv",
+      "body": "漂",
+      "detail": "driv → 漂 (pejvo, F=8, 基本形)",
+      "documentation": "語根: driv\n入力: driv\n最終形: 漂\n漢字: 漂\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2904",
+      "priority": 0,
+      "sourceRoot": "driv",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2904
     },
     {
       "prefix": "drog",
-      "body": "药",
-      "detail": "drog to 药"
+      "body": "药ᴰ",
+      "detail": "drog → 药ᴰ (pejvo, F=8)",
+      "documentation": "語根: drog\n入力: drog\n最終形: 药ᴰ\n漢字: 药\n識別子: d\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1268",
+      "priority": 0,
+      "sourceRoot": "drog",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 1268
     },
     {
       "prefix": "dron",
       "body": "溺",
-      "detail": "dron to 溺"
+      "detail": "dron → 溺 (content, F=7, 基本形)",
+      "documentation": "語根: dron\n入力: dron\n最終形: 溺\n漢字: 溺\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2794",
+      "priority": 0,
+      "sourceRoot": "dron",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2794
     },
     {
       "prefix": "du",
       "body": "二",
-      "detail": "du to 二"
+      "detail": "du → 二 (num, F=319, 基本形)",
+      "documentation": "語根: du\n入力: du\n最終形: 二\n漢字: 二\n識別子: なし\n型: num\nF(汎用性): 319\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2842",
+      "priority": 0,
+      "sourceRoot": "du",
+      "type": "num",
+      "frequency": 319,
+      "base": true,
+      "sourceLine": 2842
     },
     {
       "prefix": "dual",
-      "body": "双ᴅ",
-      "detail": "dual to 双ᴅ"
+      "body": "双ᴰ",
+      "detail": "dual → 双ᴰ (pejvo, F=6)",
+      "documentation": "語根: dual\n入力: dual\n最終形: 双ᴰ\n漢字: 双\n識別子: d\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1610",
+      "priority": 0,
+      "sourceRoot": "dual",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1610
     },
     {
       "prefix": "dub",
       "body": "疑",
-      "detail": "dub to 疑"
+      "detail": "dub → 疑 (content, F=23, 基本形)",
+      "documentation": "語根: dub\n入力: dub\n最終形: 疑\n漢字: 疑\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1409",
+      "priority": 0,
+      "sourceRoot": "dub",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 1409
+    },
+    {
+      "prefix": "duel",
+      "body": "决斗",
+      "detail": "duel → 决斗 (pejvo, F=6, 基本形)",
+      "documentation": "語根: duel\n入力: duel\n最終形: 决斗\n漢字: 决斗\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3070",
+      "priority": 0,
+      "sourceRoot": "duel",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3070
+    },
+    {
+      "prefix": "duk",
+      "body": "公爵",
+      "detail": "duk → 公爵 (pejvo, F=5, 基本形)",
+      "documentation": "語根: duk\n入力: duk\n最終形: 公爵\n漢字: 公爵\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2474",
+      "priority": 0,
+      "sourceRoot": "duk",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2474
+    },
+    {
+      "prefix": "dukt",
+      "body": "管ᴰ",
+      "detail": "dukt → 管ᴰ (pejvo, F=12)",
+      "documentation": "語根: dukt\n入力: dukt\n最終形: 管ᴰ\n漢字: 管\n識別子: d\n型: pejvo\nF(汎用性): 12\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:63",
+      "priority": 0,
+      "sourceRoot": "dukt",
+      "type": "pejvo",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 63
     },
     {
       "prefix": "dum",
-      "body": "间",
-      "detail": "dum to 间"
+      "body": "期ᴰ",
+      "detail": "dum → 期ᴰ (prep, F=13)",
+      "documentation": "語根: dum\n入力: dum\n最終形: 期ᴰ\n漢字: 期\n識別子: d\n型: prep\nF(汎用性): 13\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:780",
+      "priority": 0,
+      "sourceRoot": "dum",
+      "type": "prep",
+      "frequency": 13,
+      "base": false,
+      "sourceLine": 780
     },
     {
       "prefix": "dung",
       "body": "雇",
-      "detail": "dung to 雇"
+      "detail": "dung → 雇 (content, F=23, 基本形)",
+      "documentation": "語根: dung\n入力: dung\n最終形: 雇\n漢字: 雇\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2467",
+      "priority": 0,
+      "sourceRoot": "dung",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 2467
     },
     {
       "prefix": "dusx",
-      "body": "淋浴",
-      "detail": "dusx to 淋浴"
+      "body": "淋",
+      "detail": "duŝ → 淋 (content, F=10, 基本形)",
+      "documentation": "語根: duŝ\n入力: dusx\n最終形: 淋\n漢字: 淋\n識別子: なし\n型: content\nF(汎用性): 10\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1839",
+      "priority": 0,
+      "sourceRoot": "duŝ",
+      "type": "content",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 1839
     }
   ]
 }

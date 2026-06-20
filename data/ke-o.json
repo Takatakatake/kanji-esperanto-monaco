@@ -1,364 +1,1012 @@
 {
   "items": [
     {
-      "prefix": "oaz",
-      "body": "绿洲",
-      "detail": "oaz to 绿洲"
-    },
-    {
       "prefix": "obe",
-      "body": "从ᴏ",
-      "detail": "obe to 从ᴏ"
+      "body": "服ᴼ",
+      "detail": "obe → 服ᴼ (content, F=11)",
+      "documentation": "語根: obe\n入力: obe\n最終形: 服ᴼ\n漢字: 服\n識別子: o\n型: content\nF(汎用性): 11\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:235",
+      "priority": 0,
+      "sourceRoot": "obe",
+      "type": "content",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 235
     },
     {
       "prefix": "objekt",
-      "body": "对象",
-      "detail": "objekt to 对象"
+      "body": "物ᴼ",
+      "detail": "objekt → 物ᴼ (content, F=30)",
+      "documentation": "語根: objekt\n入力: objekt\n最終形: 物ᴼ\n漢字: 物\n識別子: o\n型: content\nF(汎用性): 30\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1774",
+      "priority": 0,
+      "sourceRoot": "objekt",
+      "type": "content",
+      "frequency": 30,
+      "base": false,
+      "sourceLine": 1774
     },
     {
       "prefix": "objektiv",
-      "body": "客观",
-      "detail": "objektiv to 客观"
+      "body": "客ᴼ",
+      "detail": "objektiv → 客ᴼ (content, F=0)",
+      "documentation": "語根: objektiv\n入力: objektiv\n最終形: 客ᴼ\n漢字: 客\n識別子: o\n型: content\nF(汎用性): 0\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:413",
+      "priority": 0,
+      "sourceRoot": "objektiv",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 413
     },
     {
       "prefix": "obl",
       "body": "倍",
-      "detail": "obl to 倍"
+      "detail": "obl → 倍 (suf, F=56, 基本形)",
+      "documentation": "語根: obl\n入力: obl\n最終形: 倍\n漢字: 倍\n識別子: なし\n型: suf\nF(汎用性): 56\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1723",
+      "priority": 0,
+      "sourceRoot": "obl",
+      "type": "suf",
+      "frequency": 56,
+      "base": true,
+      "sourceLine": 1723
     },
     {
       "prefix": "obligaci",
-      "body": "债券",
-      "detail": "obligaci to 债券"
+      "body": "务ᴼ",
+      "detail": "obligaci → 务ᴼ (pejvo, F=6)",
+      "documentation": "語根: obligaci\n入力: obligaci\n最終形: 务ᴼ\n漢字: 务\n識別子: o\n型: pejvo\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1179",
+      "priority": 0,
+      "sourceRoot": "obligaci",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1179
     },
     {
       "prefix": "oblikv",
-      "body": "斜",
-      "detail": "oblikv to 斜"
+      "body": "斜ᴼ",
+      "detail": "oblikv → 斜ᴼ (content, F=8)",
+      "documentation": "語根: oblikv\n入力: oblikv\n最終形: 斜ᴼ\n漢字: 斜\n識別子: o\n型: content\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:476",
+      "priority": 0,
+      "sourceRoot": "oblikv",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 476
     },
     {
       "prefix": "observ",
-      "body": "察",
-      "detail": "observ to 察"
+      "body": "观",
+      "detail": "observ → 观 (content, F=17, 基本形)",
+      "documentation": "語根: observ\n入力: observ\n最終形: 观\n漢字: 观\n識別子: なし\n型: content\nF(汎用性): 17\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1270",
+      "priority": 0,
+      "sourceRoot": "observ",
+      "type": "content",
+      "frequency": 17,
+      "base": true,
+      "sourceLine": 1270
     },
     {
-      "prefix": "observatori",
-      "body": "观测站",
-      "detail": "observatori to 观测站"
+      "prefix": "obskur",
+      "body": "暗",
+      "detail": "obskur → 暗 (pejvo, F=8, 基本形)",
+      "documentation": "語根: obskur\n入力: obskur\n最終形: 暗\n漢字: 暗\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1333",
+      "priority": 0,
+      "sourceRoot": "obskur",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 1333
+    },
+    {
+      "prefix": "obstakl",
+      "body": "碍",
+      "detail": "obstakl → 碍 (content, F=3, 基本形)",
+      "documentation": "語根: obstakl\n入力: obstakl\n最終形: 碍\n漢字: 碍\n識別子: なし\n型: content\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2352",
+      "priority": 0,
+      "sourceRoot": "obstakl",
+      "type": "content",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 2352
     },
     {
       "prefix": "obstin",
       "body": "顽",
-      "detail": "obstin to 顽"
+      "detail": "obstin → 顽 (content, F=7, 基本形)",
+      "documentation": "語根: obstin\n入力: obstin\n最終形: 顽\n漢字: 顽\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2221",
+      "priority": 0,
+      "sourceRoot": "obstin",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2221
+    },
+    {
+      "prefix": "obtur",
+      "body": "堵ᴼ",
+      "detail": "obtur → 堵ᴼ (pejvo, F=6)",
+      "documentation": "語根: obtur\n入力: obtur\n最終形: 堵ᴼ\n漢字: 堵\n識別子: o\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1678",
+      "priority": 0,
+      "sourceRoot": "obtur",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1678
     },
     {
       "prefix": "obtuz",
       "body": "钝",
-      "detail": "obtuz to 钝"
+      "detail": "obtuz → 钝 (pejvo, F=5, 基本形)",
+      "documentation": "語根: obtuz\n入力: obtuz\n最終形: 钝\n漢字: 钝\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3635",
+      "priority": 0,
+      "sourceRoot": "obtuz",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3635
     },
     {
       "prefix": "ocean",
       "body": "洋",
-      "detail": "ocean to 洋"
-    },
-    {
-      "prefix": "od",
-      "body": "或",
-      "detail": "od to 或"
+      "detail": "ocean → 洋 (content, F=14, 基本形)",
+      "documentation": "語根: ocean\n入力: ocean\n最終形: 洋\n漢字: 洋\n識別子: なし\n型: content\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3014",
+      "priority": 0,
+      "sourceRoot": "ocean",
+      "type": "content",
+      "frequency": 14,
+      "base": true,
+      "sourceLine": 3014
     },
     {
       "prefix": "odor",
-      "body": "味ᴏ",
-      "detail": "odor to 味ᴏ"
+      "body": "气ᴼ",
+      "detail": "odor → 气ᴼ (content, F=26)",
+      "documentation": "語根: odor\n入力: odor\n最終形: 气ᴼ\n漢字: 气\n識別子: o\n型: content\nF(汎用性): 26\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:99",
+      "priority": 0,
+      "sourceRoot": "odor",
+      "type": "content",
+      "frequency": 26,
+      "base": false,
+      "sourceLine": 99
     },
     {
       "prefix": "ofend",
-      "body": "冒犯",
-      "detail": "ofend to 冒犯"
+      "body": "侮",
+      "detail": "ofend → 侮 (content, F=11, 基本形)",
+      "documentation": "語根: ofend\n入力: ofend\n最終形: 侮\n漢字: 侮\n識別子: なし\n型: content\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1765",
+      "priority": 0,
+      "sourceRoot": "ofend",
+      "type": "content",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 1765
     },
     {
       "prefix": "ofer",
-      "body": "供奉",
-      "detail": "ofer to 供奉"
+      "body": "献",
+      "detail": "ofer → 献 (content, F=24, 基本形)",
+      "documentation": "語根: ofer\n入力: ofer\n最終形: 献\n漢字: 献\n識別子: なし\n型: content\nF(汎用性): 24\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1445",
+      "priority": 0,
+      "sourceRoot": "ofer",
+      "type": "content",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 1445
     },
     {
       "prefix": "ofert",
-      "body": "献",
-      "detail": "ofert to 献"
+      "body": "供ᴼ",
+      "detail": "ofert → 供ᴼ (content, F=6)",
+      "documentation": "語根: ofert\n入力: ofert\n最終形: 供ᴼ\n漢字: 供\n識別子: o\n型: content\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:792",
+      "priority": 0,
+      "sourceRoot": "ofert",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 792
     },
     {
       "prefix": "ofic",
-      "body": "务ᴏ",
-      "detail": "ofic to 务ᴏ"
+      "body": "职",
+      "detail": "ofic → 职 (content, F=38, 基本形)",
+      "documentation": "語根: ofic\n入力: ofic\n最終形: 职\n漢字: 职\n識別子: なし\n型: content\nF(汎用性): 38\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2093",
+      "priority": 0,
+      "sourceRoot": "ofic",
+      "type": "content",
+      "frequency": 38,
+      "base": true,
+      "sourceLine": 2093
     },
     {
       "prefix": "oficial",
       "body": "官",
-      "detail": "oficial to 官"
+      "detail": "oficial → 官 (content, F=11, 基本形)",
+      "documentation": "語根: oficial\n入力: oficial\n最終形: 官\n漢字: 官\n識別子: なし\n型: content\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1387",
+      "priority": 0,
+      "sourceRoot": "oficial",
+      "type": "content",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 1387
     },
     {
       "prefix": "oficir",
       "body": "军官",
-      "detail": "oficir to 军官"
+      "detail": "oficir → 军官 (content, F=7, 基本形)",
+      "documentation": "語根: oficir\n入力: oficir\n最終形: 军官\n漢字: 军官\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3277",
+      "priority": 0,
+      "sourceRoot": "oficir",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3277
     },
     {
       "prefix": "oft",
-      "body": "频",
-      "detail": "oft to 频"
+      "body": "常",
+      "detail": "oft → 常 (content, F=12, 基本形)",
+      "documentation": "語根: oft\n入力: oft\n最終形: 常\n漢字: 常\n識別子: なし\n型: content\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2644",
+      "priority": 0,
+      "sourceRoot": "oft",
+      "type": "content",
+      "frequency": 12,
+      "base": true,
+      "sourceLine": 2644
+    },
+    {
+      "prefix": "oftalm",
+      "body": "目ᴼ",
+      "detail": "oftalm → 目ᴼ (pejvo, F=8)",
+      "documentation": "語根: oftalm\n入力: oftalm\n最終形: 目ᴼ\n漢字: 目\n識別子: o\n型: pejvo\nF(汎用性): 8\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1810",
+      "priority": 0,
+      "sourceRoot": "oftalm",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 1810
+    },
+    {
+      "prefix": "oid",
+      "body": "似",
+      "detail": "oid → 似 (suf, F=66, 基本形)",
+      "documentation": "語根: oid\n入力: oid\n最終形: 似\n漢字: 似\n識別子: なし\n型: suf\nF(汎用性): 66\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:868",
+      "priority": 0,
+      "sourceRoot": "oid",
+      "type": "suf",
+      "frequency": 66,
+      "base": true,
+      "sourceLine": 868
     },
     {
       "prefix": "ok",
       "body": "八",
-      "detail": "ok to 八"
+      "detail": "ok → 八 (num, F=24, 基本形)",
+      "documentation": "語根: ok\n入力: ok\n最終形: 八\n漢字: 八\n識別子: なし\n型: num\nF(汎用性): 24\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2879",
+      "priority": 0,
+      "sourceRoot": "ok",
+      "type": "num",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 2879
     },
     {
       "prefix": "okaz",
-      "body": "发生",
-      "detail": "okaz to 发生"
+      "body": "生ᴼ",
+      "detail": "okaz → 生ᴼ (content, F=28)",
+      "documentation": "語根: okaz\n入力: okaz\n最終形: 生ᴼ\n漢字: 生\n識別子: o\n型: content\nF(汎用性): 28\nグループ数: 9\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:5",
+      "priority": 0,
+      "sourceRoot": "okaz",
+      "type": "content",
+      "frequency": 28,
+      "base": false,
+      "sourceLine": 5
     },
     {
       "prefix": "okcident",
       "body": "西",
-      "detail": "okcident to 西"
+      "detail": "okcident → 西 (content, F=23, 基本形)",
+      "documentation": "語根: okcident\n入力: okcident\n最終形: 西\n漢字: 西\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2686",
+      "priority": 0,
+      "sourceRoot": "okcident",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 2686
     },
     {
-      "prefix": "oksigen",
+      "prefix": "oksi",
       "body": "氧",
-      "detail": "oksigen to 氧"
+      "detail": "oksi → 氧 (sci, F=19, 基本形)",
+      "documentation": "語根: oksi\n入力: oksi\n最終形: 氧\n漢字: 氧\n識別子: なし\n型: sci\nF(汎用性): 19\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3420",
+      "priority": 0,
+      "sourceRoot": "oksi",
+      "type": "sci",
+      "frequency": 19,
+      "base": true,
+      "sourceLine": 3420
     },
     {
-      "prefix": "oktav",
-      "body": "八度",
-      "detail": "oktav to 八度"
+      "prefix": "oksid",
+      "body": "氧化",
+      "detail": "oksid → 氧化 (sci, F=34, 基本形)",
+      "documentation": "語根: oksid\n入力: oksid\n最終形: 氧化\n漢字: 氧化\n識別子: なし\n型: sci\nF(汎用性): 34\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3421",
+      "priority": 0,
+      "sourceRoot": "oksid",
+      "type": "sci",
+      "frequency": 34,
+      "base": true,
+      "sourceLine": 3421
     },
     {
       "prefix": "oktobr",
       "body": "十月",
-      "detail": "oktobr to 十月"
+      "detail": "oktobr → 十月 (cal, F=1, 基本形)",
+      "documentation": "語根: oktobr\n入力: oktobr\n最終形: 十月\n漢字: 十月\n識別子: なし\n型: cal\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2602",
+      "priority": 0,
+      "sourceRoot": "oktobr",
+      "type": "cal",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2602
     },
     {
       "prefix": "okul",
-      "body": "眼",
-      "detail": "okul to 眼"
-    },
-    {
-      "prefix": "okult",
-      "body": "隐",
-      "detail": "okult to 隐"
+      "body": "目",
+      "detail": "okul → 目 (content, F=67, 基本形)",
+      "documentation": "語根: okul\n入力: okul\n最終形: 目\n漢字: 目\n識別子: なし\n型: content\nF(汎用性): 67\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1809",
+      "priority": 0,
+      "sourceRoot": "okul",
+      "type": "content",
+      "frequency": 67,
+      "base": true,
+      "sourceLine": 1809
     },
     {
       "prefix": "okup",
-      "body": "事ᴏ",
-      "detail": "okup to 事ᴏ"
+      "body": "占",
+      "detail": "okup → 占 (content, F=17, 基本形)",
+      "documentation": "語根: okup\n入力: okup\n最終形: 占\n漢字: 占\n識別子: なし\n型: content\nF(汎用性): 17\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1591",
+      "priority": 0,
+      "sourceRoot": "okup",
+      "type": "content",
+      "frequency": 17,
+      "base": true,
+      "sourceLine": 1591
     },
     {
       "prefix": "ol",
       "body": "比",
-      "detail": "ol to 比"
+      "detail": "ol → 比 (func, F=26, 基本形)",
+      "documentation": "語根: ol\n入力: ol\n最終形: 比\n漢字: 比\n識別子: なし\n型: func\nF(汎用性): 26\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1739",
+      "priority": 0,
+      "sourceRoot": "ol",
+      "type": "func",
+      "frequency": 26,
+      "base": true,
+      "sourceLine": 1739
     },
     {
       "prefix": "ole",
       "body": "油",
-      "detail": "ole to 油"
+      "detail": "ole → 油 (content, F=73, 基本形)",
+      "documentation": "語根: ole\n入力: ole\n最終形: 油\n漢字: 油\n識別子: なし\n型: content\nF(汎用性): 73\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:594",
+      "priority": 0,
+      "sourceRoot": "ole",
+      "type": "content",
+      "frequency": 73,
+      "base": true,
+      "sourceLine": 594
     },
     {
       "prefix": "oliv",
-      "body": "橄榄",
-      "detail": "oliv to 橄榄"
+      "body": "榄",
+      "detail": "oliv → 榄 (content, F=7, 基本形)",
+      "documentation": "語根: oliv\n入力: oliv\n最終形: 榄\n漢字: 榄\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3408",
+      "priority": 0,
+      "sourceRoot": "oliv",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3408
     },
     {
       "prefix": "ombr",
-      "body": "影ᴏ",
-      "detail": "ombr to 影ᴏ"
+      "body": "影ᴼ",
+      "detail": "ombr → 影ᴼ (content, F=22)",
+      "documentation": "語根: ombr\n入力: ombr\n最終形: 影ᴼ\n漢字: 影\n識別子: o\n型: content\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1342",
+      "priority": 0,
+      "sourceRoot": "ombr",
+      "type": "content",
+      "frequency": 22,
+      "base": false,
+      "sourceLine": 1342
     },
     {
       "prefix": "ombrel",
-      "body": "伞",
-      "detail": "ombrel to 伞"
-    },
-    {
-      "prefix": "omnibus",
-      "body": "公车ᴏ",
-      "detail": "omnibus to 公车ᴏ"
+      "body": "伞ᴼ",
+      "detail": "ombrel → 伞ᴼ (content, F=5)",
+      "documentation": "語根: ombrel\n入力: ombrel\n最終形: 伞ᴼ\n漢字: 伞\n識別子: o\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1936",
+      "priority": 0,
+      "sourceRoot": "ombrel",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1936
     },
     {
       "prefix": "on",
-      "body": "分ᴏ",
-      "detail": "on to 分ᴏ"
+      "body": "分ᴼ",
+      "detail": "on → 分ᴼ (suf, F=0)",
+      "documentation": "語根: on\n入力: on\n最終形: 分ᴼ\n漢字: 分\n識別子: o\n型: suf\nF(汎用性): 0\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:60",
+      "priority": 0,
+      "sourceRoot": "on",
+      "type": "suf",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 60
     },
     {
       "prefix": "ond",
       "body": "波",
-      "detail": "ond to 波"
+      "detail": "ond → 波 (content, F=95, 基本形)",
+      "documentation": "語根: ond\n入力: ond\n最終形: 波\n漢字: 波\n識別子: なし\n型: content\nF(汎用性): 95\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2858",
+      "priority": 0,
+      "sourceRoot": "ond",
+      "type": "content",
+      "frequency": 95,
+      "base": true,
+      "sourceLine": 2858
     },
     {
       "prefix": "oni",
-      "body": "人ᴏ",
-      "detail": "oni to 人ᴏ"
+      "body": "人ᴼ",
+      "detail": "oni → 人ᴼ (func, F=8)",
+      "documentation": "語根: oni\n入力: oni\n最終形: 人ᴼ\n漢字: 人\n識別子: o\n型: func\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:505",
+      "priority": 0,
+      "sourceRoot": "oni",
+      "type": "func",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 505
+    },
+    {
+      "prefix": "onim",
+      "body": "名ᴼ",
+      "detail": "onim → 名ᴼ (pejvo, F=12)",
+      "documentation": "語根: onim\n入力: onim\n最終形: 名ᴼ\n漢字: 名\n識別子: o\n型: pejvo\nF(汎用性): 12\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:256",
+      "priority": 0,
+      "sourceRoot": "onim",
+      "type": "pejvo",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 256
     },
     {
       "prefix": "onkl",
       "body": "叔",
-      "detail": "onkl to 叔"
+      "detail": "onkl → 叔 (content, F=6, 基本形)",
+      "documentation": "語根: onkl\n入力: onkl\n最終形: 叔\n漢字: 叔\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2606",
+      "priority": 0,
+      "sourceRoot": "onkl",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2606
+    },
+    {
+      "prefix": "ont",
+      "body": "将",
+      "detail": "ont → 将 (suf, F=24, 基本形)",
+      "documentation": "語根: ont\n入力: ont\n最終形: 将\n漢字: 将\n識別子: なし\n型: suf\nF(汎用性): 24\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:895",
+      "priority": 0,
+      "sourceRoot": "ont",
+      "type": "suf",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 895
     },
     {
       "prefix": "op",
-      "body": "合",
-      "detail": "op to 合"
+      "body": "组",
+      "detail": "op → 组 (suf, F=37, 基本形)",
+      "documentation": "語根: op\n入力: op\n最終形: 组\n漢字: 组\n識別子: なし\n型: suf\nF(汎用性): 37\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1261",
+      "priority": 0,
+      "sourceRoot": "op",
+      "type": "suf",
+      "frequency": 37,
+      "base": true,
+      "sourceLine": 1261
     },
     {
       "prefix": "oper",
       "body": "歌剧",
-      "detail": "oper to 歌剧"
+      "detail": "oper → 歌剧 (content, F=9, 基本形)",
+      "documentation": "語根: oper\n入力: oper\n最終形: 歌剧\n漢字: 歌剧\n識別子: なし\n型: content\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2321",
+      "priority": 0,
+      "sourceRoot": "oper",
+      "type": "content",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 2321
     },
     {
       "prefix": "operaci",
-      "body": "手术",
-      "detail": "operaci to 手术"
+      "body": "操",
+      "detail": "operaci → 操 (content, F=19, 基本形)",
+      "documentation": "語根: operaci\n入力: operaci\n最終形: 操\n漢字: 操\n識別子: なし\n型: content\nF(汎用性): 19\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:522",
+      "priority": 0,
+      "sourceRoot": "operaci",
+      "type": "content",
+      "frequency": 19,
+      "base": true,
+      "sourceLine": 522
+    },
+    {
+      "prefix": "opi",
+      "body": "鸦片",
+      "detail": "opi → 鸦片 (pejvo, F=7, 基本形)",
+      "documentation": "語根: opi\n入力: opi\n最終形: 鸦片\n漢字: 鸦片\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3732",
+      "priority": 0,
+      "sourceRoot": "opi",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3732
     },
     {
       "prefix": "opini",
-      "body": "见ᴏ",
-      "detail": "opini to 见ᴏ"
+      "body": "想",
+      "detail": "opini → 想 (content, F=23, 基本形)",
+      "documentation": "語根: opini\n入力: opini\n最終形: 想\n漢字: 想\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:967",
+      "priority": 0,
+      "sourceRoot": "opini",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 967
     },
     {
       "prefix": "opon",
-      "body": "反对",
-      "detail": "opon to 反对"
+      "body": "反ᴼ",
+      "detail": "opon → 反ᴼ (content, F=6)",
+      "documentation": "語根: opon\n入力: opon\n最終形: 反ᴼ\n漢字: 反\n識別子: o\n型: content\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1059",
+      "priority": 0,
+      "sourceRoot": "opon",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1059
     },
     {
       "prefix": "oportun",
-      "body": "宜ᴏ",
-      "detail": "oportun to 宜ᴏ"
+      "body": "便",
+      "detail": "oportun → 便 (content, F=12, 基本形)",
+      "documentation": "語根: oportun\n入力: oportun\n最終形: 便\n漢字: 便\n識別子: なし\n型: content\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2935",
+      "priority": 0,
+      "sourceRoot": "oportun",
+      "type": "content",
+      "frequency": 12,
+      "base": true,
+      "sourceLine": 2935
     },
     {
       "prefix": "opozici",
-      "body": "反对ᴏᴢ",
-      "detail": "opozici to 反对ᴏᴢ"
+      "body": "对ᴼ",
+      "detail": "opozici → 对ᴼ (content, F=8)",
+      "documentation": "語根: opozici\n入力: opozici\n最終形: 对ᴼ\n漢字: 对\n識別子: o\n型: content\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:652",
+      "priority": 0,
+      "sourceRoot": "opozici",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 652
     },
     {
-      "prefix": "optativ",
-      "body": "愿ᴏ",
-      "detail": "optativ to 愿ᴏ"
-    },
-    {
-      "prefix": "optimism",
-      "body": "乐观主义",
-      "detail": "optimism to 乐观主义"
-    },
-    {
-      "prefix": "optimist",
-      "body": "乐观家",
-      "detail": "optimist to 乐观家"
+      "prefix": "optik",
+      "body": "光学",
+      "detail": "optik → 光学 (pejvo, F=16, 基本形)",
+      "documentation": "語根: optik\n入力: optik\n最終形: 光学\n漢字: 光学\n識別子: なし\n型: pejvo\nF(汎用性): 16\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2473",
+      "priority": 0,
+      "sourceRoot": "optik",
+      "type": "pejvo",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 2473
     },
     {
       "prefix": "or",
       "body": "金",
-      "detail": "or to 金"
+      "detail": "or → 金 (content, F=61, 基本形)",
+      "documentation": "語根: or\n入力: or\n最終形: 金\n漢字: 金\n識別子: なし\n型: content\nF(汎用性): 61\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:426",
+      "priority": 0,
+      "sourceRoot": "or",
+      "type": "content",
+      "frequency": 61,
+      "base": true,
+      "sourceLine": 426
     },
     {
       "prefix": "orangx",
       "body": "橙",
-      "detail": "orangx to 橙"
+      "detail": "oranĝ → 橙 (content, F=14, 基本形)",
+      "documentation": "語根: oranĝ\n入力: orangx\n最終形: 橙\n漢字: 橙\n識別子: なし\n型: content\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3144",
+      "priority": 0,
+      "sourceRoot": "oranĝ",
+      "type": "content",
+      "frequency": 14,
+      "base": true,
+      "sourceLine": 3144
     },
     {
       "prefix": "orator",
-      "body": "演说家",
-      "detail": "orator to 演说家"
+      "body": "演说",
+      "detail": "orator → 演说 (content, F=6, 基本形)",
+      "documentation": "語根: orator\n入力: orator\n最終形: 演说\n漢字: 演说\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2290",
+      "priority": 0,
+      "sourceRoot": "orator",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2290
     },
     {
       "prefix": "orbit",
-      "body": "轨道",
-      "detail": "orbit to 轨道"
+      "body": "轨ᴼ",
+      "detail": "orbit → 轨ᴼ (pejvo, F=6)",
+      "documentation": "語根: orbit\n入力: orbit\n最終形: 轨ᴼ\n漢字: 轨\n識別子: o\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2172",
+      "priority": 0,
+      "sourceRoot": "orbit",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 2172
     },
     {
       "prefix": "ord",
       "body": "序",
-      "detail": "ord to 序"
+      "detail": "ord → 序 (content, F=47, 基本形)",
+      "documentation": "語根: ord\n入力: ord\n最終形: 序\n漢字: 序\n識別子: なし\n型: content\nF(汎用性): 47\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2618",
+      "priority": 0,
+      "sourceRoot": "ord",
+      "type": "content",
+      "frequency": 47,
+      "base": true,
+      "sourceLine": 2618
+    },
+    {
+      "prefix": "orden",
+      "body": "修会",
+      "detail": "orden → 修会 (pejvo, F=6, 基本形)",
+      "documentation": "語根: orden\n入力: orden\n最終形: 修会\n漢字: 修会\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2594",
+      "priority": 0,
+      "sourceRoot": "orden",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2594
     },
     {
       "prefix": "ordinar",
-      "body": "常",
-      "detail": "ordinar to 常"
+      "body": "普ᴼ",
+      "detail": "ordinar → 普ᴼ (content, F=19)",
+      "documentation": "語根: ordinar\n入力: ordinar\n最終形: 普ᴼ\n漢字: 普\n識別子: o\n型: content\nF(汎用性): 19\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1762",
+      "priority": 0,
+      "sourceRoot": "ordinar",
+      "type": "content",
+      "frequency": 19,
+      "base": false,
+      "sourceLine": 1762
     },
     {
       "prefix": "ordon",
-      "body": "命ᴏ",
-      "detail": "ordon to 命ᴏ"
+      "body": "令ᴼ",
+      "detail": "ordon → 令ᴼ (content, F=14)",
+      "documentation": "語根: ordon\n入力: ordon\n最終形: 令ᴼ\n漢字: 令\n識別子: o\n型: content\nF(汎用性): 14\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1842",
+      "priority": 0,
+      "sourceRoot": "ordon",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 1842
     },
     {
       "prefix": "orel",
       "body": "耳",
-      "detail": "orel to 耳"
+      "detail": "orel → 耳 (content, F=33, 基本形)",
+      "documentation": "語根: orel\n入力: orel\n最終形: 耳\n漢字: 耳\n識別子: なし\n型: content\nF(汎用性): 33\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2554",
+      "priority": 0,
+      "sourceRoot": "orel",
+      "type": "content",
+      "frequency": 33,
+      "base": true,
+      "sourceLine": 2554
     },
     {
       "prefix": "orf",
-      "body": "孤儿",
-      "detail": "orf to 孤儿"
+      "body": "孤",
+      "detail": "orf → 孤 (content, F=7, 基本形)",
+      "documentation": "語根: orf\n入力: orf\n最終形: 孤\n漢字: 孤\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2458",
+      "priority": 0,
+      "sourceRoot": "orf",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2458
     },
     {
       "prefix": "organ",
-      "body": "器官",
-      "detail": "organ to 器官"
+      "body": "器ᴼ",
+      "detail": "organ → 器ᴼ (content, F=59)",
+      "documentation": "語根: organ\n入力: organ\n最終形: 器ᴼ\n漢字: 器\n識別子: o\n型: content\nF(汎用性): 59\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:160",
+      "priority": 0,
+      "sourceRoot": "organ",
+      "type": "content",
+      "frequency": 59,
+      "base": false,
+      "sourceLine": 160
     },
     {
-      "prefix": "organism",
-      "body": "生体",
-      "detail": "organism to 生体"
+      "prefix": "organik",
+      "body": "有机",
+      "detail": "organik → 有机 (pejvo, F=10, 基本形)",
+      "documentation": "語根: organik\n入力: organik\n最終形: 有机\n漢字: 有机\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3005",
+      "priority": 0,
+      "sourceRoot": "organik",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 3005
     },
     {
       "prefix": "organiz",
-      "body": "组ᴏ",
-      "detail": "organiz to 组ᴏ"
+      "body": "组ᴼ",
+      "detail": "organiz → 组ᴼ (content, F=0)",
+      "documentation": "語根: organiz\n入力: organiz\n最終形: 组ᴼ\n漢字: 组\n識別子: o\n型: content\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1263",
+      "priority": 0,
+      "sourceRoot": "organiz",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 1263
     },
     {
       "prefix": "orient",
-      "body": "东方",
-      "detail": "orient to 东方"
+      "body": "东",
+      "detail": "orient → 东 (content, F=43, 基本形)",
+      "documentation": "語根: orient\n入力: orient\n最終形: 东\n漢字: 东\n識別子: なし\n型: content\nF(汎用性): 43\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3245",
+      "priority": 0,
+      "sourceRoot": "orient",
+      "type": "content",
+      "frequency": 43,
+      "base": true,
+      "sourceLine": 3245
     },
     {
       "prefix": "origin",
-      "body": "源ᴏ",
-      "detail": "origin to 源ᴏ"
+      "body": "源ᴼ",
+      "detail": "origin → 源ᴼ (content, F=10)",
+      "documentation": "語根: origin\n入力: origin\n最終形: 源ᴼ\n漢字: 源\n識別子: o\n型: content\nF(汎用性): 10\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:827",
+      "priority": 0,
+      "sourceRoot": "origin",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 827
     },
     {
       "prefix": "original",
-      "body": "原ᴏ",
-      "detail": "original to 原ᴏ"
+      "body": "原ᴼ",
+      "detail": "original → 原ᴼ (content, F=9)",
+      "documentation": "語根: original\n入力: original\n最終形: 原ᴼ\n漢字: 原\n識別子: o\n型: content\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:435",
+      "priority": 0,
+      "sourceRoot": "original",
+      "type": "content",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 435
     },
     {
       "prefix": "orkestr",
-      "body": "乐队",
-      "detail": "orkestr to 乐队"
+      "body": "乐ᴼ",
+      "detail": "orkestr → 乐ᴼ (content, F=8)",
+      "documentation": "語根: orkestr\n入力: orkestr\n最終形: 乐ᴼ\n漢字: 乐\n識別子: o\n型: content\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1158",
+      "priority": 0,
+      "sourceRoot": "orkestr",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 1158
     },
     {
       "prefix": "ornam",
-      "body": "饰ᴏ",
-      "detail": "ornam to 饰ᴏ"
+      "body": "饰",
+      "detail": "ornam → 饰 (content, F=22, 基本形)",
+      "documentation": "語根: ornam\n入力: ornam\n最終形: 饰\n漢字: 饰\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2229",
+      "priority": 0,
+      "sourceRoot": "ornam",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 2229
     },
     {
       "prefix": "ort",
-      "body": "直",
-      "detail": "ort to 直"
+      "body": "角ᴼ",
+      "detail": "ort → 角ᴼ (content, F=17)",
+      "documentation": "語根: ort\n入力: ort\n最終形: 角ᴼ\n漢字: 角\n識別子: o\n型: content\nF(汎用性): 17\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:156",
+      "priority": 0,
+      "sourceRoot": "ort",
+      "type": "content",
+      "frequency": 17,
+      "base": false,
+      "sourceLine": 156
+    },
+    {
+      "prefix": "orto",
+      "body": "直ᴼ",
+      "detail": "orto → 直ᴼ (pejvo, F=9)",
+      "documentation": "語根: orto\n入力: orto\n最終形: 直ᴼ\n漢字: 直\n識別子: o\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1656",
+      "priority": 0,
+      "sourceRoot": "orto",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 1656
+    },
+    {
+      "prefix": "ortodoks",
+      "body": "正统",
+      "detail": "ortodoks → 正统 (pejvo, F=8, 基本形)",
+      "documentation": "語根: ortodoks\n入力: ortodoks\n最終形: 正统\n漢字: 正统\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2683",
+      "priority": 0,
+      "sourceRoot": "ortodoks",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2683
+    },
+    {
+      "prefix": "ortografi",
+      "body": "拼",
+      "detail": "ortografi → 拼 (content, F=0, 基本形)",
+      "documentation": "語根: ortografi\n入力: ortografi\n最終形: 拼\n漢字: 拼\n識別子: なし\n型: content\nF(汎用性): 0\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3381",
+      "priority": 0,
+      "sourceRoot": "ortografi",
+      "type": "content",
+      "frequency": 0,
+      "base": true,
+      "sourceLine": 3381
+    },
+    {
+      "prefix": "osced",
+      "body": "欠ᴼ",
+      "detail": "osced → 欠ᴼ (content, F=3)",
+      "documentation": "語根: osced\n入力: osced\n最終形: 欠ᴼ\n漢字: 欠\n識別子: o\n型: content\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:819",
+      "priority": 0,
+      "sourceRoot": "osced",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 819
+    },
+    {
+      "prefix": "oscil",
+      "body": "振",
+      "detail": "oscil → 振 (pejvo, F=17, 基本形)",
+      "documentation": "語根: oscil\n入力: oscil\n最終形: 振\n漢字: 振\n識別子: なし\n型: pejvo\nF(汎用性): 17\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1565",
+      "priority": 0,
+      "sourceRoot": "oscil",
+      "type": "pejvo",
+      "frequency": 17,
+      "base": true,
+      "sourceLine": 1565
+    },
+    {
+      "prefix": "osmoz",
+      "body": "渗",
+      "detail": "osmoz → 渗 (pejvo, F=9, 基本形)",
+      "documentation": "語根: osmoz\n入力: osmoz\n最終形: 渗\n漢字: 渗\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3434",
+      "priority": 0,
+      "sourceRoot": "osmoz",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 3434
     },
     {
       "prefix": "ost",
       "body": "骨",
-      "detail": "ost to 骨"
+      "detail": "ost → 骨 (content, F=52, 基本形)",
+      "documentation": "語根: ost\n入力: ost\n最終形: 骨\n漢字: 骨\n識別子: なし\n型: content\nF(汎用性): 52\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1487",
+      "priority": 0,
+      "sourceRoot": "ost",
+      "type": "content",
+      "frequency": 52,
+      "base": true,
+      "sourceLine": 1487
+    },
+    {
+      "prefix": "ot",
+      "body": "待",
+      "detail": "ot → 待 (suf, F=21, 基本形)",
+      "documentation": "語根: ot\n入力: ot\n最終形: 待\n漢字: 待\n識別子: なし\n型: suf\nF(汎用性): 21\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1629",
+      "priority": 0,
+      "sourceRoot": "ot",
+      "type": "suf",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 1629
     },
     {
       "prefix": "ov",
       "body": "卵",
-      "detail": "ov to 卵"
+      "detail": "ov → 卵 (content, F=41, 基本形)",
+      "documentation": "語根: ov\n入力: ov\n最終形: 卵\n漢字: 卵\n識別子: なし\n型: content\nF(汎用性): 41\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1823",
+      "priority": 0,
+      "sourceRoot": "ov",
+      "type": "content",
+      "frequency": 41,
+      "base": true,
+      "sourceLine": 1823
     },
     {
       "prefix": "oval",
-      "body": "卵形",
-      "detail": "oval to 卵形"
+      "body": "椭圆ᴼ",
+      "detail": "oval → 椭圆ᴼ (content, F=3)",
+      "documentation": "語根: oval\n入力: oval\n最終形: 椭圆ᴼ\n漢字: 椭圆\n識別子: o\n型: content\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2034",
+      "priority": 0,
+      "sourceRoot": "oval",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 2034
+    },
+    {
+      "prefix": "ovari",
+      "body": "卵巢",
+      "detail": "ovari → 卵巢 (pejvo, F=6, 基本形)",
+      "documentation": "語根: ovari\n入力: ovari\n最終形: 卵巢\n漢字: 卵巢\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3024",
+      "priority": 0,
+      "sourceRoot": "ovari",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3024
+    },
+    {
+      "prefix": "ovol",
+      "body": "卵ᴼ",
+      "detail": "ovol → 卵ᴼ (pejvo, F=6)",
+      "documentation": "語根: ovol\n入力: ovol\n最終形: 卵ᴼ\n漢字: 卵\n識別子: o\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1824",
+      "priority": 0,
+      "sourceRoot": "ovol",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1824
+    },
+    {
+      "prefix": "oz",
+      "body": "富",
+      "detail": "oz → 富 (suf, F=138, 基本形)",
+      "documentation": "語根: oz\n入力: oz\n最終形: 富\n漢字: 富\n識別子: なし\n型: suf\nF(汎用性): 138\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1757",
+      "priority": 0,
+      "sourceRoot": "oz",
+      "type": "suf",
+      "frequency": 138,
+      "base": true,
+      "sourceLine": 1757
     },
     {
       "prefix": "ozon",
       "body": "臭氧",
-      "detail": "ozon to 臭氧"
+      "detail": "ozon → 臭氧 (pejvo, F=13, 基本形)",
+      "documentation": "語根: ozon\n入力: ozon\n最終形: 臭氧\n漢字: 臭氧\n識別子: なし\n型: pejvo\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2598",
+      "priority": 0,
+      "sourceRoot": "ozon",
+      "type": "pejvo",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 2598
     }
   ]
 }

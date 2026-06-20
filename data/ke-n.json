@@ -2,363 +2,1095 @@
   "items": [
     {
       "prefix": "naci",
-      "body": "民族ɴ",
-      "detail": "naci to 民族ɴ"
+      "body": "族",
+      "detail": "naci → 族 (content, F=94, 基本形)",
+      "documentation": "語根: naci\n入力: naci\n最終形: 族\n漢字: 族\n識別子: なし\n型: content\nF(汎用性): 94\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:534",
+      "priority": 0,
+      "sourceRoot": "naci",
+      "type": "content",
+      "frequency": 94,
+      "base": true,
+      "sourceLine": 534
     },
     {
       "prefix": "nadl",
-      "body": "针",
-      "detail": "nadl to 针"
-    },
-    {
-      "prefix": "naft",
-      "body": "石油",
-      "detail": "naft to 石油"
+      "body": "针ᴺ",
+      "detail": "nadl → 针ᴺ (content, F=8)",
+      "documentation": "語根: nadl\n入力: nadl\n最終形: 针ᴺ\n漢字: 针\n識別子: n\n型: content\nF(汎用性): 8\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2190",
+      "priority": 0,
+      "sourceRoot": "nadl",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 2190
     },
     {
       "prefix": "nagx",
-      "body": "泳",
-      "detail": "nagx to 泳"
+      "body": "游",
+      "detail": "naĝ → 游 (content, F=47, 基本形)",
+      "documentation": "語根: naĝ\n入力: nagx\n最終形: 游\n漢字: 游\n識別子: なし\n型: content\nF(汎用性): 47\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1891",
+      "priority": 0,
+      "sourceRoot": "naĝ",
+      "type": "content",
+      "frequency": 47,
+      "base": true,
+      "sourceLine": 1891
     },
     {
       "prefix": "naiv",
-      "body": "天真",
-      "detail": "naiv to 天真"
+      "body": "朴",
+      "detail": "naiv → 朴 (content, F=7, 基本形)",
+      "documentation": "語根: naiv\n入力: naiv\n最終形: 朴\n漢字: 朴\n識別子: なし\n型: content\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2963",
+      "priority": 0,
+      "sourceRoot": "naiv",
+      "type": "content",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2963
     },
     {
       "prefix": "najbar",
       "body": "邻",
-      "detail": "najbar to 邻"
+      "detail": "najbar → 邻 (content, F=9, 基本形)",
+      "documentation": "語根: najbar\n入力: najbar\n最終形: 邻\n漢字: 邻\n識別子: なし\n型: content\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3629",
+      "priority": 0,
+      "sourceRoot": "najbar",
+      "type": "content",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 3629
     },
     {
       "prefix": "najl",
       "body": "钉",
-      "detail": "najl to 钉"
+      "detail": "najl → 钉 (content, F=11, 基本形)",
+      "documentation": "語根: najl\n入力: najl\n最終形: 钉\n漢字: 钉\n識別子: なし\n型: content\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3634",
+      "priority": 0,
+      "sourceRoot": "najl",
+      "type": "content",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 3634
     },
     {
-      "prefix": "nap",
-      "body": "萝卜ɴ",
-      "detail": "nap to 萝卜ɴ"
+      "prefix": "najtingal",
+      "body": "夜莺",
+      "detail": "najtingal → 夜莺 (content, F=1, 基本形)",
+      "documentation": "語根: najtingal\n入力: najtingal\n最終形: 夜莺\n漢字: 夜莺\n識別子: なし\n型: content\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2995",
+      "priority": 0,
+      "sourceRoot": "najtingal",
+      "type": "content",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2995
+    },
+    {
+      "prefix": "nan",
+      "body": "矮",
+      "detail": "nan → 矮 (pejvo, F=7, 基本形)",
+      "documentation": "語根: nan\n入力: nan\n最終形: 矮\n漢字: 矮\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3172",
+      "priority": 0,
+      "sourceRoot": "nan",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3172
+    },
+    {
+      "prefix": "narcis",
+      "body": "水仙",
+      "detail": "narcis → 水仙 (pejvo, F=4, 基本形)",
+      "documentation": "語根: narcis\n入力: narcis\n最終形: 水仙\n漢字: 水仙\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2668",
+      "priority": 0,
+      "sourceRoot": "narcis",
+      "type": "pejvo",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 2668
+    },
+    {
+      "prefix": "narkot",
+      "body": "麻",
+      "detail": "narkot → 麻 (pejvo, F=7, 基本形)",
+      "documentation": "語根: narkot\n入力: narkot\n最終形: 麻\n漢字: 麻\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2968",
+      "priority": 0,
+      "sourceRoot": "narkot",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2968
     },
     {
       "prefix": "nask",
       "body": "生",
-      "detail": "nask to 生"
+      "detail": "nask → 生 (content, F=68, 基本形)",
+      "documentation": "語根: nask\n入力: nask\n最終形: 生\n漢字: 生\n識別子: なし\n型: content\nF(汎用性): 68\nグループ数: 9\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2",
+      "priority": 0,
+      "sourceRoot": "nask",
+      "type": "content",
+      "frequency": 68,
+      "base": true,
+      "sourceLine": 2
+    },
+    {
+      "prefix": "natri",
+      "body": "钠",
+      "detail": "natri → 钠 (elem, F=10, 基本形)",
+      "documentation": "語根: natri\n入力: natri\n最終形: 钠\n漢字: 钠\n識別子: なし\n型: elem\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3637",
+      "priority": 0,
+      "sourceRoot": "natri",
+      "type": "elem",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 3637
     },
     {
       "prefix": "natur",
+      "body": "然",
+      "detail": "natur → 然 (content, F=66, 基本形)",
+      "documentation": "語根: natur\n入力: natur\n最終形: 然\n漢字: 然\n識別子: なし\n型: content\nF(汎用性): 66\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2710",
+      "priority": 0,
+      "sourceRoot": "natur",
+      "type": "content",
+      "frequency": 66,
+      "base": true,
+      "sourceLine": 2710
+    },
+    {
+      "prefix": "natural",
       "body": "自然",
-      "detail": "natur to 自然"
+      "detail": "natural → 自然 (pejvo, F=5, 基本形)",
+      "documentation": "語根: natural\n入力: natural\n最終形: 自然\n漢字: 自然\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2557",
+      "priority": 0,
+      "sourceRoot": "natural",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2557
     },
     {
       "prefix": "naux",
       "body": "九",
-      "detail": "naux to 九"
+      "detail": "naŭ → 九 (num, F=11, 基本形)",
+      "documentation": "語根: naŭ\n入力: naux\n最終形: 九\n漢字: 九\n識別子: なし\n型: num\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2422",
+      "priority": 0,
+      "sourceRoot": "naŭ",
+      "type": "num",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 2422
     },
     {
       "prefix": "nauxz",
-      "body": "恶心",
-      "detail": "nauxz to 恶心"
+      "body": "呕",
+      "detail": "naŭz → 呕 (content, F=4, 基本形)",
+      "documentation": "語根: naŭz\n入力: nauxz\n最終形: 呕\n漢字: 呕\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3305",
+      "priority": 0,
+      "sourceRoot": "naŭz",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3305
     },
     {
-      "prefix": "nav",
-      "body": "船ɴ",
-      "detail": "nav to 船ɴ"
+      "prefix": "naved",
+      "body": "梭",
+      "detail": "naved → 梭 (pejvo, F=6, 基本形)",
+      "documentation": "語根: naved\n入力: naved\n最終形: 梭\n漢字: 梭\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3141",
+      "priority": 0,
+      "sourceRoot": "naved",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3141
     },
     {
       "prefix": "navig",
-      "body": "航",
-      "detail": "navig to 航"
-    },
-    {
-      "prefix": "navigaci",
-      "body": "航行",
-      "detail": "navigaci to 航行"
+      "body": "航ᴺ",
+      "detail": "navig → 航ᴺ (pejvo, F=10)",
+      "documentation": "語根: navig\n入力: navig\n最終形: 航ᴺ\n漢字: 航\n識別子: n\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1478",
+      "priority": 0,
+      "sourceRoot": "navig",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1478
     },
     {
       "prefix": "naz",
       "body": "鼻",
-      "detail": "naz to 鼻"
+      "detail": "naz → 鼻 (content, F=37, 基本形)",
+      "documentation": "語根: naz\n入力: naz\n最終形: 鼻\n漢字: 鼻\n識別子: なし\n型: content\nF(汎用性): 37\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1747",
+      "priority": 0,
+      "sourceRoot": "naz",
+      "type": "content",
+      "frequency": 37,
+      "base": true,
+      "sourceLine": 1747
     },
     {
       "prefix": "ne",
       "body": "不",
-      "detail": "ne to 不"
+      "detail": "ne → 不 (func, F=498, 基本形)",
+      "documentation": "語根: ne\n入力: ne\n最終形: 不\n漢字: 不\n識別子: なし\n型: func\nF(汎用性): 498\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2911",
+      "priority": 0,
+      "sourceRoot": "ne",
+      "type": "func",
+      "frequency": 498,
+      "base": true,
+      "sourceLine": 2911
     },
     {
       "prefix": "nebul",
       "body": "雾",
-      "detail": "nebul to 雾"
+      "detail": "nebul → 雾 (content, F=23, 基本形)",
+      "documentation": "語根: nebul\n入力: nebul\n最終形: 雾\n漢字: 雾\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3684",
+      "priority": 0,
+      "sourceRoot": "nebul",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 3684
     },
     {
       "prefix": "neces",
-      "body": "必ɴᴄ",
-      "detail": "neces to 必ɴᴄ"
+      "body": "必",
+      "detail": "neces → 必 (content, F=18, 基本形)",
+      "documentation": "語根: neces\n入力: neces\n最終形: 必\n漢字: 必\n識別子: なし\n型: content\nF(汎用性): 18\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1749",
+      "priority": 0,
+      "sourceRoot": "neces",
+      "type": "content",
+      "frequency": 18,
+      "base": true,
+      "sourceLine": 1749
+    },
+    {
+      "prefix": "nefr",
+      "body": "肾",
+      "detail": "nefr → 肾 (pejvo, F=11, 基本形)",
+      "documentation": "語根: nefr\n入力: nefr\n最終形: 肾\n漢字: 肾\n識別子: なし\n型: pejvo\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2095",
+      "priority": 0,
+      "sourceRoot": "nefr",
+      "type": "pejvo",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 2095
     },
     {
       "prefix": "negativ",
-      "body": "负",
-      "detail": "negativ to 负"
+      "body": "否",
+      "detail": "negativ → 否 (content, F=21, 基本形)",
+      "documentation": "語根: negativ\n入力: negativ\n最終形: 否\n漢字: 否\n識別子: なし\n型: content\nF(汎用性): 21\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2888",
+      "priority": 0,
+      "sourceRoot": "negativ",
+      "type": "content",
+      "frequency": 21,
+      "base": true,
+      "sourceLine": 2888
     },
     {
       "prefix": "neglekt",
-      "body": "忽略",
-      "detail": "neglekt to 忽略"
-    },
-    {
-      "prefix": "negligx",
-      "body": "睡衣",
-      "detail": "negligx to 睡衣"
+      "body": "忽ᴺ",
+      "detail": "neglekt → 忽ᴺ (content, F=3)",
+      "documentation": "語根: neglekt\n入力: neglekt\n最終形: 忽ᴺ\n漢字: 忽\n識別子: n\n型: content\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1486",
+      "priority": 0,
+      "sourceRoot": "neglekt",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 1486
     },
     {
       "prefix": "negoc",
-      "body": "买卖",
-      "detail": "negoc to 买卖"
+      "body": "贸",
+      "detail": "negoc → 贸 (pejvo, F=7, 基本形)",
+      "documentation": "語根: negoc\n入力: negoc\n最終形: 贸\n漢字: 贸\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3606",
+      "priority": 0,
+      "sourceRoot": "negoc",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3606
+    },
+    {
+      "prefix": "negr",
+      "body": "黑ᴺ",
+      "detail": "negr → 黑ᴺ (pejvo, F=7)",
+      "documentation": "語根: negr\n入力: negr\n最終形: 黑ᴺ\n漢字: 黑\n識別子: n\n型: pejvo\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1924",
+      "priority": 0,
+      "sourceRoot": "negr",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1924
     },
     {
       "prefix": "negx",
       "body": "雪",
-      "detail": "negx to 雪"
+      "detail": "neĝ → 雪 (content, F=51, 基本形)",
+      "documentation": "語根: neĝ\n入力: negx\n最終形: 雪\n漢字: 雪\n識別子: なし\n型: content\nF(汎用性): 51\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2696",
+      "priority": 0,
+      "sourceRoot": "neĝ",
+      "type": "content",
+      "frequency": 51,
+      "base": true,
+      "sourceLine": 2696
     },
     {
       "prefix": "nek",
       "body": "也不",
-      "detail": "nek to 也不"
+      "detail": "nek → 也不 (func, F=1, 基本形)",
+      "documentation": "語根: nek\n入力: nek\n最終形: 也不\n漢字: 也不\n識別子: なし\n型: func\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2992",
+      "priority": 0,
+      "sourceRoot": "nek",
+      "type": "func",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2992
     },
     {
-      "prefix": "nektar",
-      "body": "花蜜",
-      "detail": "nektar to 花蜜"
+      "prefix": "nekr",
+      "body": "死ᴺ",
+      "detail": "nekr → 死ᴺ (pejvo, F=5)",
+      "documentation": "語根: nekr\n入力: nekr\n最終形: 死ᴺ\n漢字: 死\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1524",
+      "priority": 0,
+      "sourceRoot": "nekr",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1524
+    },
+    {
+      "prefix": "neni",
+      "body": "无ᴺ",
+      "detail": "neni → 无ᴺ (pejvo, F=10)",
+      "documentation": "語根: neni\n入力: neni\n最終形: 无ᴺ\n漢字: 无\n識別子: n\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1876",
+      "priority": 0,
+      "sourceRoot": "neni",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1876
     },
     {
       "prefix": "nenia",
       "body": "无a",
-      "detail": "nenia to 无a"
+      "detail": "nenia → 无a (correl, F=1, 基本形)",
+      "documentation": "語根: nenia\n入力: nenia\n最終形: 无a\n漢字: 无a\n識別子: なし\n型: correl\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3126",
+      "priority": 0,
+      "sourceRoot": "nenia",
+      "type": "correl",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 3126
     },
     {
       "prefix": "nenial",
       "body": "无因",
-      "detail": "nenial to 无因"
+      "detail": "nenial → 无因 (correl, F=1, 基本形)",
+      "documentation": "語根: nenial\n入力: nenial\n最終形: 无因\n漢字: 无因\n識別子: なし\n型: correl\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3130",
+      "priority": 0,
+      "sourceRoot": "nenial",
+      "type": "correl",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 3130
     },
     {
       "prefix": "neniam",
       "body": "无时",
-      "detail": "neniam to 无时"
+      "detail": "neniam → 无时 (correl, F=1, 基本形)",
+      "documentation": "語根: neniam\n入力: neniam\n最終形: 无时\n漢字: 无时\n識別子: なし\n型: correl\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3135",
+      "priority": 0,
+      "sourceRoot": "neniam",
+      "type": "correl",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 3135
+    },
+    {
+      "prefix": "nenie",
+      "body": "无e",
+      "detail": "nenie → 无e (correl, F=2, 基本形)",
+      "documentation": "語根: nenie\n入力: nenie\n最終形: 无e\n漢字: 无e\n識別子: なし\n型: correl\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3127",
+      "priority": 0,
+      "sourceRoot": "nenie",
+      "type": "correl",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 3127
     },
     {
       "prefix": "neniel",
       "body": "无样",
-      "detail": "neniel to 无样"
+      "detail": "neniel → 无样 (correl, F=1, 基本形)",
+      "documentation": "語根: neniel\n入力: neniel\n最終形: 无样\n漢字: 无样\n識別子: なし\n型: correl\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3136",
+      "priority": 0,
+      "sourceRoot": "neniel",
+      "type": "correl",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 3136
     },
     {
       "prefix": "nenies",
       "body": "无之",
-      "detail": "nenies to 无之"
+      "detail": "nenies → 无之 (correl, F=2, 基本形)",
+      "documentation": "語根: nenies\n入力: nenies\n最終形: 无之\n漢字: 无之\n識別子: なし\n型: correl\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3133",
+      "priority": 0,
+      "sourceRoot": "nenies",
+      "type": "correl",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 3133
     },
     {
       "prefix": "nenio",
       "body": "无o",
-      "detail": "nenio to 无o"
+      "detail": "nenio → 无o (correl, F=2, 基本形)",
+      "documentation": "語根: nenio\n入力: nenio\n最終形: 无o\n漢字: 无o\n識別子: なし\n型: correl\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3128",
+      "priority": 0,
+      "sourceRoot": "nenio",
+      "type": "correl",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 3128
     },
     {
       "prefix": "neniom",
       "body": "无量",
-      "detail": "neniom to 无量"
+      "detail": "neniom → 无量 (correl, F=2, 基本形)",
+      "documentation": "語根: neniom\n入力: neniom\n最終形: 无量\n漢字: 无量\n識別子: なし\n型: correl\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3134",
+      "priority": 0,
+      "sourceRoot": "neniom",
+      "type": "correl",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 3134
     },
     {
       "prefix": "neniu",
-      "body": "无个",
-      "detail": "neniu to 无个"
+      "body": "无u",
+      "detail": "neniu → 无u (correl, F=2, 基本形)",
+      "documentation": "語根: neniu\n入力: neniu\n最終形: 无u\n漢字: 无u\n識別子: なし\n型: correl\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3129",
+      "priority": 0,
+      "sourceRoot": "neniu",
+      "type": "correl",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 3129
+    },
+    {
+      "prefix": "neo",
+      "body": "新ᴺ",
+      "detail": "neo → 新ᴺ (pejvo, F=7)",
+      "documentation": "語根: neo\n入力: neo\n最終形: 新ᴺ\n漢字: 新\n識別子: n\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:911",
+      "priority": 0,
+      "sourceRoot": "neo",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 911
+    },
+    {
+      "prefix": "neologism",
+      "body": "新ᴺᴸ",
+      "detail": "neologism → 新ᴺᴸ (content, F=0)",
+      "documentation": "語根: neologism\n入力: neologism\n最終形: 新ᴺᴸ\n漢字: 新\n識別子: nl\n型: content\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:912",
+      "priority": 0,
+      "sourceRoot": "neologism",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 912
+    },
+    {
+      "prefix": "neon",
+      "body": "氖",
+      "detail": "neon → 氖 (pejvo, F=5, 基本形)",
+      "documentation": "語根: neon\n入力: neon\n最終形: 氖\n漢字: 氖\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3418",
+      "priority": 0,
+      "sourceRoot": "neon",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3418
     },
     {
       "prefix": "nep",
       "body": "孙",
-      "detail": "nep to 孙"
+      "detail": "nep → 孙 (content, F=4, 基本形)",
+      "documentation": "語根: nep\n入力: nep\n最終形: 孙\n漢字: 孙\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3332",
+      "priority": 0,
+      "sourceRoot": "nep",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3332
     },
     {
       "prefix": "nepr",
-      "body": "必",
-      "detail": "nepr to 必"
+      "body": "必ᴺ",
+      "detail": "nepr → 必ᴺ (content, F=5)",
+      "documentation": "語根: nepr\n入力: nepr\n最終形: 必ᴺ\n漢字: 必\n識別子: n\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1750",
+      "priority": 0,
+      "sourceRoot": "nepr",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1750
     },
     {
       "prefix": "nerv",
-      "body": "神经",
-      "detail": "nerv to 神经"
+      "body": "神ᴺ",
+      "detail": "nerv → 神ᴺ (content, F=22)",
+      "documentation": "語根: nerv\n入力: nerv\n最終形: 神ᴺ\n漢字: 神\n識別子: n\n型: content\nF(汎用性): 22\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:917",
+      "priority": 0,
+      "sourceRoot": "nerv",
+      "type": "content",
+      "frequency": 22,
+      "base": false,
+      "sourceLine": 917
     },
     {
       "prefix": "nervoz",
-      "body": "紧张",
-      "detail": "nervoz to 紧张"
+      "body": "躁",
+      "detail": "nervoz → 躁 (content, F=5, 基本形)",
+      "documentation": "語根: nervoz\n入力: nervoz\n最終形: 躁\n漢字: 躁\n識別子: なし\n型: content\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3220",
+      "priority": 0,
+      "sourceRoot": "nervoz",
+      "type": "content",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3220
     },
     {
       "prefix": "nest",
       "body": "巢",
-      "detail": "nest to 巢"
+      "detail": "nest → 巢 (content, F=17, 基本形)",
+      "documentation": "語根: nest\n入力: nest\n最終形: 巢\n漢字: 巢\n識別子: なし\n型: content\nF(汎用性): 17\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3349",
+      "priority": 0,
+      "sourceRoot": "nest",
+      "type": "content",
+      "frequency": 17,
+      "base": true,
+      "sourceLine": 3349
     },
     {
       "prefix": "net",
-      "body": "网ɴ",
-      "detail": "net to 网ɴ"
+      "body": "清ᴺ",
+      "detail": "net → 清ᴺ (content, F=19)",
+      "documentation": "語根: net\n入力: net\n最終形: 清ᴺ\n漢字: 清\n識別子: n\n型: content\nF(汎用性): 19\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:938",
+      "priority": 0,
+      "sourceRoot": "net",
+      "type": "content",
+      "frequency": 19,
+      "base": false,
+      "sourceLine": 938
+    },
+    {
+      "prefix": "neuxr",
+      "body": "神经",
+      "detail": "neŭr → 神经 (sci, F=20, 基本形)",
+      "documentation": "語根: neŭr\n入力: neuxr\n最終形: 神经\n漢字: 神经\n識別子: なし\n型: sci\nF(汎用性): 20\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2660",
+      "priority": 0,
+      "sourceRoot": "neŭr",
+      "type": "sci",
+      "frequency": 20,
+      "base": true,
+      "sourceLine": 2660
     },
     {
       "prefix": "neuxtr",
-      "body": "中性",
-      "detail": "neuxtr to 中性"
+      "body": "中ᴺ",
+      "detail": "neu^tr → 中ᴺ (pejvo, F=11)",
+      "documentation": "語根: neu^tr\n入力: neuxtr\n最終形: 中ᴺ\n漢字: 中\n識別子: n\n型: pejvo\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1007",
+      "priority": 0,
+      "sourceRoot": "neu^tr",
+      "type": "pejvo",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 1007
     },
     {
       "prefix": "neuxtral",
-      "body": "中立",
-      "detail": "neuxtral to 中立"
+      "body": "中ᴺᵁ̆",
+      "detail": "neŭtral → 中ᴺᵁ̆ (content, F=11)",
+      "documentation": "語根: neŭtral\n入力: neuxtral\n最終形: 中ᴺᵁ̆\n漢字: 中\n識別子: nŭ\n型: content\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1008",
+      "priority": 0,
+      "sourceRoot": "neŭtral",
+      "type": "content",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 1008
     },
     {
       "prefix": "nev",
       "body": "侄",
-      "detail": "nev to 侄"
+      "detail": "nev → 侄 (content, F=6, 基本形)",
+      "documentation": "語根: nev\n入力: nev\n最終形: 侄\n漢字: 侄\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3270",
+      "priority": 0,
+      "sourceRoot": "nev",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3270
     },
     {
       "prefix": "ni",
       "body": "我们",
-      "detail": "ni to 我们"
+      "detail": "ni → 我们 (func, F=9, 基本形)",
+      "documentation": "語根: ni\n入力: ni\n最終形: 我们\n漢字: 我们\n識別子: なし\n型: func\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2334",
+      "priority": 0,
+      "sourceRoot": "ni",
+      "type": "func",
+      "frequency": 9,
+      "base": true,
+      "sourceLine": 2334
+    },
+    {
+      "prefix": "niel",
+      "body": "乌银",
+      "detail": "niel → 乌银 (pejvo, F=6, 基本形)",
+      "documentation": "語根: niel\n入力: niel\n最終形: 乌银\n漢字: 乌银\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3253",
+      "priority": 0,
+      "sourceRoot": "niel",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3253
     },
     {
       "prefix": "nigr",
       "body": "黑",
-      "detail": "nigr to 黑"
+      "detail": "nigr → 黑 (content, F=60, 基本形)",
+      "documentation": "語根: nigr\n入力: nigr\n最終形: 黑\n漢字: 黑\n識別子: なし\n型: content\nF(汎用性): 60\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1923",
+      "priority": 0,
+      "sourceRoot": "nigr",
+      "type": "content",
+      "frequency": 60,
+      "base": true,
+      "sourceLine": 1923
+    },
+    {
+      "prefix": "nikel",
+      "body": "镍",
+      "detail": "nikel → 镍 (elem, F=3, 基本形)",
+      "documentation": "語根: nikel\n入力: nikel\n最終形: 镍\n漢字: 镍\n識別子: なし\n型: elem\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3666",
+      "priority": 0,
+      "sourceRoot": "nikel",
+      "type": "elem",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 3666
+    },
+    {
+      "prefix": "nitr",
+      "body": "氮",
+      "detail": "nitr → 氮 (sci, F=19, 基本形)",
+      "documentation": "語根: nitr\n入力: nitr\n最終形: 氮\n漢字: 氮\n識別子: なし\n型: sci\nF(汎用性): 19\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3422",
+      "priority": 0,
+      "sourceRoot": "nitr",
+      "type": "sci",
+      "frequency": 19,
+      "base": true,
+      "sourceLine": 3422
     },
     {
       "prefix": "nivel",
-      "body": "级ɴ",
-      "detail": "nivel to 级ɴ"
+      "body": "平",
+      "detail": "nivel → 平 (content, F=36, 基本形)",
+      "documentation": "語根: nivel\n入力: nivel\n最終形: 平\n漢字: 平\n識別子: なし\n型: content\nF(汎用性): 36\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1777",
+      "priority": 0,
+      "sourceRoot": "nivel",
+      "type": "content",
+      "frequency": 36,
+      "base": true,
+      "sourceLine": 1777
+    },
+    {
+      "prefix": "nobel",
+      "body": "贵ᴺ",
+      "detail": "nobel → 贵ᴺ (pejvo, F=10)",
+      "documentation": "語根: nobel\n入力: nobel\n最終形: 贵ᴺ\n漢字: 贵\n識別子: n\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2164",
+      "priority": 0,
+      "sourceRoot": "nobel",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 2164
     },
     {
       "prefix": "nobl",
       "body": "贵",
-      "detail": "nobl to 贵"
+      "detail": "nobl → 贵 (content, F=13, 基本形)",
+      "documentation": "語根: nobl\n入力: nobl\n最終形: 贵\n漢字: 贵\n識別子: なし\n型: content\nF(汎用性): 13\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2163",
+      "priority": 0,
+      "sourceRoot": "nobl",
+      "type": "content",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 2163
+    },
+    {
+      "prefix": "noc",
+      "body": "害ᴺ",
+      "detail": "noc → 害ᴺ (pejvo, F=6)",
+      "documentation": "語根: noc\n入力: noc\n最終形: 害ᴺ\n漢字: 害\n識別子: n\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1374",
+      "priority": 0,
+      "sourceRoot": "noc",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1374
+    },
+    {
+      "prefix": "nocx",
+      "body": "刻ᴺ",
+      "detail": "noc^ → 刻ᴺ (pejvo, F=6)",
+      "documentation": "語根: noc^\n入力: nocx\n最終形: 刻ᴺ\n漢字: 刻\n識別子: n\n型: pejvo\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:837",
+      "priority": 0,
+      "sourceRoot": "noc^",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 837
     },
     {
       "prefix": "nod",
-      "body": "结",
-      "detail": "nod to 结"
+      "body": "结ᴺ",
+      "detail": "nod → 结ᴺ (content, F=18)",
+      "documentation": "語根: nod\n入力: nod\n最終形: 结ᴺ\n漢字: 结\n識別子: n\n型: content\nF(汎用性): 18\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:335",
+      "priority": 0,
+      "sourceRoot": "nod",
+      "type": "content",
+      "frequency": 18,
+      "base": false,
+      "sourceLine": 335
     },
     {
       "prefix": "nokt",
       "body": "夜",
-      "detail": "nokt to 夜"
+      "detail": "nokt → 夜 (content, F=61, 基本形)",
+      "documentation": "語根: nokt\n入力: nokt\n最終形: 夜\n漢字: 夜\n識別子: なし\n型: content\nF(汎用性): 61\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2994",
+      "priority": 0,
+      "sourceRoot": "nokt",
+      "type": "content",
+      "frequency": 61,
+      "base": true,
+      "sourceLine": 2994
     },
     {
       "prefix": "nom",
       "body": "名",
-      "detail": "nom to 名"
+      "detail": "nom → 名 (content, F=80, 基本形)",
+      "documentation": "語根: nom\n入力: nom\n最終形: 名\n漢字: 名\n識別子: なし\n型: content\nF(汎用性): 80\nグループ数: 5\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:254",
+      "priority": 0,
+      "sourceRoot": "nom",
+      "type": "content",
+      "frequency": 80,
+      "base": true,
+      "sourceLine": 254
+    },
+    {
+      "prefix": "nomad",
+      "body": "牧ᴺ",
+      "detail": "nomad → 牧ᴺ (pejvo, F=5)",
+      "documentation": "語根: nomad\n入力: nomad\n最終形: 牧ᴺ\n漢字: 牧\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1089",
+      "priority": 0,
+      "sourceRoot": "nomad",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1089
     },
     {
       "prefix": "nombr",
       "body": "数",
-      "detail": "nombr to 数"
+      "detail": "nombr → 数 (content, F=78, 基本形)",
+      "documentation": "語根: nombr\n入力: nombr\n最終形: 数\n漢字: 数\n識別子: なし\n型: content\nF(汎用性): 78\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:925",
+      "priority": 0,
+      "sourceRoot": "nombr",
+      "type": "content",
+      "frequency": 78,
+      "base": true,
+      "sourceLine": 925
+    },
+    {
+      "prefix": "nomi",
+      "body": "学ᴺ",
+      "detail": "nomi → 学ᴺ (suf, F=19)",
+      "documentation": "語根: nomi\n入力: nomi\n最終形: 学ᴺ\n漢字: 学\n識別子: n\n型: suf\nF(汎用性): 19\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:21",
+      "priority": 0,
+      "sourceRoot": "nomi",
+      "type": "suf",
+      "frequency": 19,
+      "base": false,
+      "sourceLine": 21
     },
     {
       "prefix": "nominal",
-      "body": "名义",
-      "detail": "nominal to 名义"
+      "body": "名ᴺ",
+      "detail": "nominal → 名ᴺ (pejvo, F=5)",
+      "documentation": "語根: nominal\n入力: nominal\n最終形: 名ᴺ\n漢字: 名\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:257",
+      "priority": 0,
+      "sourceRoot": "nominal",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 257
     },
     {
       "prefix": "nominativ",
-      "body": "主格",
-      "detail": "nominativ to 主格"
+      "body": "主ᴺ",
+      "detail": "nominativ → 主ᴺ (content, F=1)",
+      "documentation": "語根: nominativ\n入力: nominativ\n最終形: 主ᴺ\n漢字: 主\n識別子: n\n型: content\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:89",
+      "priority": 0,
+      "sourceRoot": "nominativ",
+      "type": "content",
+      "frequency": 1,
+      "base": false,
+      "sourceLine": 89
     },
     {
       "prefix": "nord",
       "body": "北",
-      "detail": "nord to 北"
+      "detail": "nord → 北 (content, F=29, 基本形)",
+      "documentation": "語根: nord\n入力: nord\n最終形: 北\n漢字: 北\n識別子: なし\n型: content\nF(汎用性): 29\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2962",
+      "priority": 0,
+      "sourceRoot": "nord",
+      "type": "content",
+      "frequency": 29,
+      "base": true,
+      "sourceLine": 2962
     },
     {
       "prefix": "norm",
-      "body": "规范",
-      "detail": "norm to 规范"
+      "body": "范",
+      "detail": "norm → 范 (content, F=32, 基本形)",
+      "documentation": "語根: norm\n入力: norm\n最終形: 范\n漢字: 范\n識別子: なし\n型: content\nF(汎用性): 32\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3198",
+      "priority": 0,
+      "sourceRoot": "norm",
+      "type": "content",
+      "frequency": 32,
+      "base": true,
+      "sourceLine": 3198
     },
     {
       "prefix": "normal",
-      "body": "正常",
-      "detail": "normal to 正常"
+      "body": "正ᴺ",
+      "detail": "normal → 正ᴺ (content, F=14)",
+      "documentation": "語根: normal\n入力: normal\n最終形: 正ᴺ\n漢字: 正\n識別子: n\n型: content\nF(汎用性): 14\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:512",
+      "priority": 0,
+      "sourceRoot": "normal",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 512
     },
     {
       "prefix": "not",
-      "body": "注ɴ",
-      "detail": "not to 注ɴ"
-    },
-    {
-      "prefix": "notari",
-      "body": "公证",
-      "detail": "notari to 公证"
+      "body": "记ᴺ",
+      "detail": "not → 记ᴺ (content, F=26)",
+      "documentation": "語根: not\n入力: not\n最終形: 记ᴺ\n漢字: 记\n識別子: n\n型: content\nF(汎用性): 26\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:351",
+      "priority": 0,
+      "sourceRoot": "not",
+      "type": "content",
+      "frequency": 26,
+      "base": false,
+      "sourceLine": 351
     },
     {
       "prefix": "nov",
       "body": "新",
-      "detail": "nov to 新"
+      "detail": "nov → 新 (content, F=104, 基本形)",
+      "documentation": "語根: nov\n入力: nov\n最終形: 新\n漢字: 新\n識別子: なし\n型: content\nF(汎用性): 104\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:910",
+      "priority": 0,
+      "sourceRoot": "nov",
+      "type": "content",
+      "frequency": 104,
+      "base": true,
+      "sourceLine": 910
     },
     {
       "prefix": "novel",
-      "body": "短篇",
-      "detail": "novel to 短篇"
+      "body": "篇ᴺ",
+      "detail": "novel → 篇ᴺ (content, F=3)",
+      "documentation": "語根: novel\n入力: novel\n最終形: 篇ᴺ\n漢字: 篇\n識別子: n\n型: content\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1782",
+      "priority": 0,
+      "sourceRoot": "novel",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 1782
     },
     {
       "prefix": "novembr",
       "body": "十一月",
-      "detail": "novembr to 十一月"
-    },
-    {
-      "prefix": "nu",
-      "body": "呢",
-      "detail": "nu to 呢"
+      "detail": "novembr → 十一月 (cal, F=1, 基本形)",
+      "documentation": "語根: novembr\n入力: novembr\n最終形: 十一月\n漢字: 十一月\n識別子: なし\n型: cal\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2601",
+      "priority": 0,
+      "sourceRoot": "novembr",
+      "type": "cal",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2601
     },
     {
       "prefix": "nuanc",
-      "body": "细差",
-      "detail": "nuanc to 细差"
+      "body": "微ᴺ",
+      "detail": "nuanc → 微ᴺ (content, F=3)",
+      "documentation": "語根: nuanc\n入力: nuanc\n最終形: 微ᴺ\n漢字: 微\n識別子: n\n型: content\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1746",
+      "priority": 0,
+      "sourceRoot": "nuanc",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 1746
     },
     {
       "prefix": "nub",
       "body": "云",
-      "detail": "nub to 云"
+      "detail": "nub → 云 (content, F=24, 基本形)",
+      "documentation": "語根: nub\n入力: nub\n最終形: 云\n漢字: 云\n識別子: なし\n型: content\nF(汎用性): 24\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2279",
+      "priority": 0,
+      "sourceRoot": "nub",
+      "type": "content",
+      "frequency": 24,
+      "base": true,
+      "sourceLine": 2279
     },
     {
       "prefix": "nud",
       "body": "裸",
-      "detail": "nud to 裸"
+      "detail": "nud → 裸 (content, F=22, 基本形)",
+      "documentation": "語根: nud\n入力: nud\n最終形: 裸\n漢字: 裸\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3019",
+      "priority": 0,
+      "sourceRoot": "nud",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 3019
+    },
+    {
+      "prefix": "nudel",
+      "body": "面ᴺ",
+      "detail": "nudel → 面ᴺ (pejvo, F=5)",
+      "documentation": "語根: nudel\n入力: nudel\n最終形: 面ᴺ\n漢字: 面\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:263",
+      "priority": 0,
+      "sourceRoot": "nudel",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 263
     },
     {
       "prefix": "nuk",
-      "body": "项",
-      "detail": "nuk to 项"
+      "body": "项ᴺ",
+      "detail": "nuk → 项ᴺ (content, F=5)",
+      "documentation": "語根: nuk\n入力: nuk\n最終形: 项ᴺ\n漢字: 项\n識別子: n\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2220",
+      "priority": 0,
+      "sourceRoot": "nuk",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 2220
+    },
+    {
+      "prefix": "nukle",
+      "body": "核",
+      "detail": "nukle → 核 (content, F=44, 基本形)",
+      "documentation": "語根: nukle\n入力: nukle\n最終形: 核\n漢字: 核\n識別子: なし\n型: content\nF(汎用性): 44\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1379",
+      "priority": 0,
+      "sourceRoot": "nukle",
+      "type": "content",
+      "frequency": 44,
+      "base": true,
+      "sourceLine": 1379
     },
     {
       "prefix": "nuks",
-      "body": "坚果",
-      "detail": "nuks to 坚果"
+      "body": "果ᴺ",
+      "detail": "nuks → 果ᴺ (content, F=14)",
+      "documentation": "語根: nuks\n入力: nuks\n最終形: 果ᴺ\n漢字: 果\n識別子: n\n型: content\nF(汎用性): 14\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:388",
+      "priority": 0,
+      "sourceRoot": "nuks",
+      "type": "content",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 388
     },
     {
       "prefix": "nul",
       "body": "零",
-      "detail": "nul to 零"
+      "detail": "nul → 零 (content, F=19, 基本形)",
+      "documentation": "語根: nul\n入力: nul\n最終形: 零\n漢字: 零\n識別子: なし\n型: content\nF(汎用性): 19\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3041",
+      "priority": 0,
+      "sourceRoot": "nul",
+      "type": "content",
+      "frequency": 19,
+      "base": true,
+      "sourceLine": 3041
     },
     {
       "prefix": "numer",
-      "body": "号",
-      "detail": "numer to 号"
+      "body": "号ᴺ",
+      "detail": "numer → 号ᴺ (content, F=21)",
+      "documentation": "語根: numer\n入力: numer\n最終形: 号ᴺ\n漢字: 号\n識別子: n\n型: content\nF(汎用性): 21\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1482",
+      "priority": 0,
+      "sourceRoot": "numer",
+      "type": "content",
+      "frequency": 21,
+      "base": false,
+      "sourceLine": 1482
+    },
+    {
+      "prefix": "numeral",
+      "body": "数ᴺ",
+      "detail": "numeral → 数ᴺ (content, F=3)",
+      "documentation": "語根: numeral\n入力: numeral\n最終形: 数ᴺ\n漢字: 数\n識別子: n\n型: content\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:927",
+      "priority": 0,
+      "sourceRoot": "numeral",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 927
     },
     {
       "prefix": "nun",
-      "body": "今",
-      "detail": "nun to 今"
+      "body": "现ᴺ",
+      "detail": "nun → 现ᴺ (func, F=14)",
+      "documentation": "語根: nun\n入力: nun\n最終形: 现ᴺ\n漢字: 现\n識別子: n\n型: func\nF(汎用性): 14\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:123",
+      "priority": 0,
+      "sourceRoot": "nun",
+      "type": "func",
+      "frequency": 14,
+      "base": false,
+      "sourceLine": 123
     },
     {
       "prefix": "nur",
       "body": "仅",
-      "detail": "nur to 仅"
+      "detail": "nur → 仅 (func, F=4, 基本形)",
+      "documentation": "語根: nur\n入力: nur\n最終形: 仅\n漢字: 仅\n識別子: なし\n型: func\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3259",
+      "priority": 0,
+      "sourceRoot": "nur",
+      "type": "func",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3259
     },
     {
       "prefix": "nutr",
-      "body": "育ɴ",
-      "detail": "nutr to 育ɴ"
+      "body": "养",
+      "detail": "nutr → 养 (content, F=40, 基本形)",
+      "documentation": "語根: nutr\n入力: nutr\n最終形: 养\n漢字: 养\n識別子: なし\n型: content\nF(汎用性): 40\nグループ数: 5\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:279",
+      "priority": 0,
+      "sourceRoot": "nutr",
+      "type": "content",
+      "frequency": 40,
+      "base": true,
+      "sourceLine": 279
     }
   ]
 }

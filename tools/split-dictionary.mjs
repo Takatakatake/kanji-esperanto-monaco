@@ -11,9 +11,21 @@ for (const it of (src.items || [])) {
   (buckets[k] ||= []).push(it);
 }
 await fs.mkdir(outDir, { recursive: true });
+for (const file of await fs.readdir(outDir)) {
+  if (/^ke-.+\.json$/.test(file)) {
+    await fs.unlink(path.join(outDir, file));
+  }
+}
+function priorityOf(item) {
+  const n = Number(item.priority);
+  return Number.isFinite(n) ? n : 999999;
+}
 for (const [k, arr] of Object.entries(buckets)) {
-  arr.sort((a,b)=> String(a.prefix).localeCompare(String(b.prefix)));
+  arr.sort((a,b)=> (
+    String(a.prefix).localeCompare(String(b.prefix))
+    || priorityOf(a) - priorityOf(b)
+    || String(a.body || '').localeCompare(String(b.body || ''))
+  ));
   await fs.writeFile(path.join(outDir, `ke-${k}.json`), JSON.stringify({ items: arr }, null, 2));
 }
 console.log('done:', Object.keys(buckets).sort().join(','));
-

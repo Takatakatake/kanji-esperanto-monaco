@@ -1,11 +1,10 @@
 {
   "name": "Kanji Esperanto Editor",
   "short_name": "KE Editor",
-  "start_url": "/ke-monaco-site/",
-  "scope": "/ke-monaco-site/",
+  "start_url": "/kanji-esperanto-monaco/",
+  "scope": "/kanji-esperanto-monaco/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007acc",
   "lang": "ja"
 }
-

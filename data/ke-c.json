@@ -1,369 +1,1048 @@
 {
   "items": [
     {
-      "prefix": "car",
-      "body": "皇",
-      "detail": "car to 皇"
-    },
-    {
       "prefix": "ced",
       "body": "让",
-      "detail": "ced to 让"
+      "detail": "ced → 让 (content, F=22, 基本形)",
+      "documentation": "語根: ced\n入力: ced\n最終形: 让\n漢字: 让\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2121",
+      "priority": 0,
+      "sourceRoot": "ced",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 2121
+    },
+    {
+      "prefix": "cefal",
+      "body": "头ᶜ",
+      "detail": "cefal → 头ᶜ (pejvo, F=16)",
+      "documentation": "語根: cefal\n入力: cefal\n最終形: 头ᶜ\n漢字: 头\n識別子: c\n型: pejvo\nF(汎用性): 16\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1982",
+      "priority": 0,
+      "sourceRoot": "cefal",
+      "type": "pejvo",
+      "frequency": 16,
+      "base": false,
+      "sourceLine": 1982
     },
     {
       "prefix": "cel",
-      "body": "目",
-      "detail": "cel to 目"
+      "body": "标",
+      "detail": "cel → 标 (content, F=45, 基本形)",
+      "documentation": "語根: cel\n入力: cel\n最終形: 标\n漢字: 标\n識別子: なし\n型: content\nF(汎用性): 45\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2027",
+      "priority": 0,
+      "sourceRoot": "cel",
+      "type": "content",
+      "frequency": 45,
+      "base": true,
+      "sourceLine": 2027
     },
     {
-      "prefix": "cend",
-      "body": "分",
-      "detail": "cend to 分"
+      "prefix": "celebr",
+      "body": "庆ᶜ",
+      "detail": "celebr → 庆ᶜ (content, F=2)",
+      "documentation": "語根: celebr\n入力: celebr\n最終形: 庆ᶜ\n漢字: 庆\n識別子: c\n型: content\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:661",
+      "priority": 0,
+      "sourceRoot": "celebr",
+      "type": "content",
+      "frequency": 2,
+      "base": false,
+      "sourceLine": 661
+    },
+    {
+      "prefix": "celeri",
+      "body": "芹",
+      "detail": "celeri → 芹 (pejvo, F=7, 基本形)",
+      "documentation": "語根: celeri\n入力: celeri\n最終形: 芹\n漢字: 芹\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2421",
+      "priority": 0,
+      "sourceRoot": "celeri",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2421
+    },
+    {
+      "prefix": "cement",
+      "body": "胶ᶜ",
+      "detail": "cement → 胶ᶜ (content, F=11)",
+      "documentation": "語根: cement\n入力: cement\n最終形: 胶ᶜ\n漢字: 胶\n識別子: c\n型: content\nF(汎用性): 11\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:342",
+      "priority": 0,
+      "sourceRoot": "cement",
+      "type": "content",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 342
     },
     {
       "prefix": "cent",
       "body": "百",
-      "detail": "cent to 百"
-    },
-    {
-      "prefix": "centim",
-      "body": "分币",
-      "detail": "centim to 分币"
+      "detail": "cent → 百 (num, F=45, 基本形)",
+      "documentation": "語根: cent\n入力: cent\n最終形: 百\n漢字: 百\n識別子: なし\n型: num\nF(汎用性): 45\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1751",
+      "priority": 0,
+      "sourceRoot": "cent",
+      "type": "num",
+      "frequency": 45,
+      "base": true,
+      "sourceLine": 1751
     },
     {
       "prefix": "centimetr",
-      "body": "厘米",
-      "detail": "centimetr to 厘米"
+      "body": "厘",
+      "detail": "centimetr → 厘 (content, F=0, 基本形)",
+      "documentation": "語根: centimetr\n入力: centimetr\n最終形: 厘\n漢字: 厘\n識別子: なし\n型: content\nF(汎用性): 0\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3038",
+      "priority": 0,
+      "sourceRoot": "centimetr",
+      "type": "content",
+      "frequency": 0,
+      "base": true,
+      "sourceLine": 3038
     },
     {
       "prefix": "centr",
       "body": "央",
-      "detail": "centr to 央"
+      "detail": "centr → 央 (content, F=61, 基本形)",
+      "documentation": "語根: centr\n入力: centr\n最終形: 央\n漢字: 央\n識別子: なし\n型: content\nF(汎用性): 61\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1353",
+      "priority": 0,
+      "sourceRoot": "centr",
+      "type": "content",
+      "frequency": 61,
+      "base": true,
+      "sourceLine": 1353
     },
     {
       "prefix": "central",
-      "body": "中央",
-      "detail": "central to 中央"
+      "body": "央ᶜ",
+      "detail": "central → 央ᶜ (content, F=19)",
+      "documentation": "語根: central\n入力: central\n最終形: 央ᶜ\n漢字: 央\n識別子: c\n型: content\nF(汎用性): 19\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1354",
+      "priority": 0,
+      "sourceRoot": "central",
+      "type": "content",
+      "frequency": 19,
+      "base": false,
+      "sourceLine": 1354
     },
     {
-      "prefix": "centraliz",
-      "body": "聚",
-      "detail": "centraliz to 聚"
+      "prefix": "centrifug",
+      "body": "离心",
+      "detail": "centrifug → 离心 (pejvo, F=8, 基本形)",
+      "documentation": "語根: centrifug\n入力: centrifug\n最終形: 离心\n漢字: 离心\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3487",
+      "priority": 0,
+      "sourceRoot": "centrifug",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3487
+    },
+    {
+      "prefix": "cenzur",
+      "body": "审",
+      "detail": "cenzur → 审 (pejvo, F=7, 基本形)",
+      "documentation": "語根: cenzur\n入力: cenzur\n最終形: 审\n漢字: 审\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1989",
+      "priority": 0,
+      "sourceRoot": "cenzur",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 1989
     },
     {
       "prefix": "cep",
       "body": "葱",
-      "detail": "cep to 葱"
+      "detail": "cep → 葱 (content, F=4, 基本形)",
+      "documentation": "語根: cep\n入力: cep\n最終形: 葱\n漢字: 葱\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2850",
+      "priority": 0,
+      "sourceRoot": "cep",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 2850
+    },
+    {
+      "prefix": "ceramik",
+      "body": "陶",
+      "detail": "ceramik → 陶 (content, F=8, 基本形)",
+      "documentation": "語根: ceramik\n入力: ceramik\n最終形: 陶\n漢字: 陶\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2824",
+      "priority": 0,
+      "sourceRoot": "ceramik",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2824
     },
     {
       "prefix": "cerb",
       "body": "脑",
-      "detail": "cerb to 脑"
+      "detail": "cerb → 脑 (content, F=33, 基本形)",
+      "documentation": "語根: cerb\n入力: cerb\n最終形: 脑\n漢字: 脑\n識別子: なし\n型: content\nF(汎用性): 33\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2097",
+      "priority": 0,
+      "sourceRoot": "cerb",
+      "type": "content",
+      "frequency": 33,
+      "base": true,
+      "sourceLine": 2097
     },
     {
       "prefix": "ceremoni",
-      "body": "仪式",
-      "detail": "ceremoni to 仪式"
+      "body": "式ᶜ",
+      "detail": "ceremoni → 式ᶜ (content, F=12)",
+      "documentation": "語根: ceremoni\n入力: ceremoni\n最終形: 式ᶜ\n漢字: 式\n識別子: c\n型: content\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:472",
+      "priority": 0,
+      "sourceRoot": "ceremoni",
+      "type": "content",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 472
     },
     {
       "prefix": "cert",
-      "body": "确定",
-      "detail": "cert to 确定"
+      "body": "确",
+      "detail": "cert → 确 (content, F=18, 基本形)",
+      "documentation": "語根: cert\n入力: cert\n最終形: 确\n漢字: 确\n識別子: なし\n型: content\nF(汎用性): 18\nグループ数: 5\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:324",
+      "priority": 0,
+      "sourceRoot": "cert",
+      "type": "content",
+      "frequency": 18,
+      "base": true,
+      "sourceLine": 324
     },
     {
       "prefix": "cerv",
       "body": "鹿",
-      "detail": "cerv to 鹿"
+      "detail": "cerv → 鹿 (content, F=18, 基本形)",
+      "documentation": "語根: cerv\n入力: cerv\n最終形: 鹿\n漢字: 鹿\n識別子: なし\n型: content\nF(汎用性): 18\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2560",
+      "priority": 0,
+      "sourceRoot": "cerv",
+      "type": "content",
+      "frequency": 18,
+      "base": true,
+      "sourceLine": 2560
     },
     {
       "prefix": "ceter",
-      "body": "余ᴄ",
-      "detail": "ceter to 余ᴄ"
+      "body": "余ᶜ",
+      "detail": "ceter → 余ᶜ (content, F=4)",
+      "documentation": "語根: ceter\n入力: ceter\n最終形: 余ᶜ\n漢字: 余\n識別子: c\n型: content\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1104",
+      "priority": 0,
+      "sourceRoot": "ceter",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 1104
     },
     {
       "prefix": "ci",
-      "body": "汝",
-      "detail": "ci to 汝"
+      "body": "尔",
+      "detail": "ci → 尔 (pejvo, F=5, 基本形)",
+      "documentation": "語根: ci\n入力: ci\n最終形: 尔\n漢字: 尔\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3344",
+      "priority": 0,
+      "sourceRoot": "ci",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3344
+    },
+    {
+      "prefix": "cian",
+      "body": "氰",
+      "detail": "cian → 氰 (pejvo, F=8, 基本形)",
+      "documentation": "語根: cian\n入力: cian\n最終形: 氰\n漢字: 氰\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3424",
+      "priority": 0,
+      "sourceRoot": "cian",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3424
+    },
+    {
+      "prefix": "cidoni",
+      "body": "榅桲",
+      "detail": "cidoni → 榅桲 (pejvo, F=6, 基本形)",
+      "documentation": "語根: cidoni\n入力: cidoni\n最終形: 榅桲\n漢字: 榅桲\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3409",
+      "priority": 0,
+      "sourceRoot": "cidoni",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 3409
     },
     {
       "prefix": "cifer",
-      "body": "数字",
-      "detail": "cifer to 数字"
+      "body": "数ᶜ",
+      "detail": "cifer → 数ᶜ (content, F=25)",
+      "documentation": "語根: cifer\n入力: cifer\n最終形: 数ᶜ\n漢字: 数\n識別子: c\n型: content\nF(汎用性): 25\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:926",
+      "priority": 0,
+      "sourceRoot": "cifer",
+      "type": "content",
+      "frequency": 25,
+      "base": false,
+      "sourceLine": 926
+    },
+    {
+      "prefix": "cigared",
+      "body": "烟ᶜ",
+      "detail": "cigared → 烟ᶜ (content, F=7)",
+      "documentation": "語根: cigared\n入力: cigared\n最終形: 烟ᶜ\n漢字: 烟\n識別子: c\n型: content\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1140",
+      "priority": 0,
+      "sourceRoot": "cigared",
+      "type": "content",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1140
+    },
+    {
+      "prefix": "cign",
+      "body": "鹅ᶜ",
+      "detail": "cign → 鹅ᶜ (content, F=4)",
+      "documentation": "語根: cign\n入力: cign\n最終形: 鹅ᶜ\n漢字: 鹅\n識別子: c\n型: content\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2242",
+      "priority": 0,
+      "sourceRoot": "cign",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 2242
     },
     {
       "prefix": "cikad",
       "body": "蝉",
-      "detail": "cikad to 蝉"
+      "detail": "cikad → 蝉 (content, F=5, 基本形)",
+      "documentation": "語根: cikad\n入力: cikad\n最終形: 蝉\n漢字: 蝉\n識別子: なし\n型: content\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2699",
+      "priority": 0,
+      "sourceRoot": "cikad",
+      "type": "content",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2699
+    },
+    {
+      "prefix": "cikatr",
+      "body": "疤",
+      "detail": "cikatr → 疤 (content, F=4, 基本形)",
+      "documentation": "語根: cikatr\n入力: cikatr\n最終形: 疤\n漢字: 疤\n識別子: なし\n型: content\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3465",
+      "priority": 0,
+      "sourceRoot": "cikatr",
+      "type": "content",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 3465
     },
     {
       "prefix": "cikl",
-      "body": "周期",
-      "detail": "cikl to 周期"
+      "body": "环ᶜ",
+      "detail": "cikl → 环ᶜ (content, F=42)",
+      "documentation": "語根: cikl\n入力: cikl\n最終形: 环ᶜ\n漢字: 环\n識別子: c\n型: content\nF(汎用性): 42\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:675",
+      "priority": 0,
+      "sourceRoot": "cikl",
+      "type": "content",
+      "frequency": 42,
+      "base": false,
+      "sourceLine": 675
     },
     {
       "prefix": "ciklon",
-      "body": "气旋",
-      "detail": "ciklon to 气旋"
+      "body": "旋ᶜ",
+      "detail": "ciklon → 旋ᶜ (pejvo, F=5)",
+      "documentation": "語根: ciklon\n入力: ciklon\n最終形: 旋ᶜ\n漢字: 旋\n識別子: c\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:208",
+      "priority": 0,
+      "sourceRoot": "ciklon",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 208
+    },
+    {
+      "prefix": "cikoni",
+      "body": "鹳",
+      "detail": "cikoni → 鹳 (content, F=3, 基本形)",
+      "documentation": "語根: cikoni\n入力: cikoni\n最終形: 鹳\n漢字: 鹳\n識別子: なし\n型: content\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3740",
+      "priority": 0,
+      "sourceRoot": "cikoni",
+      "type": "content",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 3740
     },
     {
       "prefix": "cilindr",
       "body": "圆柱",
-      "detail": "cilindr to 圆柱"
+      "detail": "cilindr → 圆柱 (pejvo, F=13, 基本形)",
+      "documentation": "語根: cilindr\n入力: cilindr\n最終形: 圆柱\n漢字: 圆柱\n識別子: なし\n型: pejvo\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3316",
+      "priority": 0,
+      "sourceRoot": "cilindr",
+      "type": "pejvo",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 3316
+    },
+    {
+      "prefix": "cim",
+      "body": "臭虫",
+      "detail": "cim → 臭虫 (pejvo, F=7, 基本形)",
+      "documentation": "語根: cim\n入力: cim\n最終形: 臭虫\n漢字: 臭虫\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2597",
+      "priority": 0,
+      "sourceRoot": "cim",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2597
+    },
+    {
+      "prefix": "cinam",
+      "body": "桂ᶜ",
+      "detail": "cinam → 桂ᶜ (content, F=5)",
+      "documentation": "語根: cinam\n入力: cinam\n最終形: 桂ᶜ\n漢字: 桂\n識別子: c\n型: content\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1438",
+      "priority": 0,
+      "sourceRoot": "cinam",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1438
     },
     {
       "prefix": "cindr",
-      "body": "灰ᴄ",
-      "detail": "cindr to 灰ᴄ"
+      "body": "灰",
+      "detail": "cindr → 灰 (content, F=22, 基本形)",
+      "documentation": "語根: cindr\n入力: cindr\n最終形: 灰\n漢字: 灰\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1371",
+      "priority": 0,
+      "sourceRoot": "cindr",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 1371
     },
     {
-      "prefix": "cipres",
-      "body": "柏",
-      "detail": "cipres to 柏"
+      "prefix": "cir",
+      "body": "膏ᶜ",
+      "detail": "cir → 膏ᶜ (content, F=4)",
+      "documentation": "語根: cir\n入力: cir\n最終形: 膏ᶜ\n漢字: 膏\n識別子: c\n型: content\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1476",
+      "priority": 0,
+      "sourceRoot": "cir",
+      "type": "content",
+      "frequency": 4,
+      "base": false,
+      "sourceLine": 1476
     },
     {
       "prefix": "cirkel",
-      "body": "圆规",
-      "detail": "cirkel to 圆规"
+      "body": "规ᶜ",
+      "detail": "cirkel → 规ᶜ (content, F=7)",
+      "documentation": "語根: cirkel\n入力: cirkel\n最終形: 规ᶜ\n漢字: 规\n識別子: c\n型: content\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1274",
+      "priority": 0,
+      "sourceRoot": "cirkel",
+      "type": "content",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1274
     },
     {
       "prefix": "cirkl",
-      "body": "圆ᴄ",
-      "detail": "cirkl to 圆ᴄ"
+      "body": "圆ᶜ",
+      "detail": "cirkl → 圆ᶜ (content, F=23)",
+      "documentation": "語根: cirkl\n入力: cirkl\n最終形: 圆ᶜ\n漢字: 圆\n識別子: c\n型: content\nF(汎用性): 23\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1970",
+      "priority": 0,
+      "sourceRoot": "cirkl",
+      "type": "content",
+      "frequency": 23,
+      "base": false,
+      "sourceLine": 1970
     },
     {
       "prefix": "cirkonstanc",
-      "body": "况",
-      "detail": "cirkonstanc to 况"
+      "body": "况ᶜ",
+      "detail": "cirkonstanc → 况ᶜ (content, F=7)",
+      "documentation": "語根: cirkonstanc\n入力: cirkonstanc\n最終形: 况ᶜ\n漢字: 况\n識別子: c\n型: content\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1860",
+      "priority": 0,
+      "sourceRoot": "cirkonstanc",
+      "type": "content",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1860
     },
     {
       "prefix": "cirkul",
-      "body": "循环",
-      "detail": "cirkul to 循环"
+      "body": "环ᶜᴿ",
+      "detail": "cirkul → 环ᶜᴿ (content, F=8)",
+      "documentation": "語根: cirkul\n入力: cirkul\n最終形: 环ᶜᴿ\n漢字: 环\n識別子: cr\n型: content\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:676",
+      "priority": 0,
+      "sourceRoot": "cirkul",
+      "type": "content",
+      "frequency": 8,
+      "base": false,
+      "sourceLine": 676
     },
     {
       "prefix": "cirkuler",
-      "body": "通告",
-      "detail": "cirkuler to 通告"
+      "body": "函",
+      "detail": "cirkuler → 函 (content, F=2, 基本形)",
+      "documentation": "語根: cirkuler\n入力: cirkuler\n最終形: 函\n漢字: 函\n識別子: なし\n型: content\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2878",
+      "priority": 0,
+      "sourceRoot": "cirkuler",
+      "type": "content",
+      "frequency": 2,
+      "base": true,
+      "sourceLine": 2878
     },
     {
       "prefix": "cirkvit",
-      "body": "电路",
-      "detail": "cirkvit to 电路"
+      "body": "路ᶜ",
+      "detail": "cirkvit → 路ᶜ (content, F=16)",
+      "documentation": "語根: cirkvit\n入力: cirkvit\n最終形: 路ᶜ\n漢字: 路\n識別子: c\n型: content\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1121",
+      "priority": 0,
+      "sourceRoot": "cirkvit",
+      "type": "content",
+      "frequency": 16,
+      "base": false,
+      "sourceLine": 1121
+    },
+    {
+      "prefix": "cistern",
+      "body": "池",
+      "detail": "cistern → 池 (pejvo, F=7, 基本形)",
+      "documentation": "語根: cistern\n入力: cistern\n最終形: 池\n漢字: 池\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2762",
+      "priority": 0,
+      "sourceRoot": "cistern",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2762
     },
     {
       "prefix": "cit",
       "body": "引",
-      "detail": "cit to 引"
+      "detail": "cit → 引 (content, F=23, 基本形)",
+      "documentation": "語根: cit\n入力: cit\n最終形: 引\n漢字: 引\n識別子: なし\n型: content\nF(汎用性): 23\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1337",
+      "priority": 0,
+      "sourceRoot": "cit",
+      "type": "content",
+      "frequency": 23,
+      "base": true,
+      "sourceLine": 1337
+    },
+    {
+      "prefix": "cito",
+      "body": "胞ᶜ",
+      "detail": "cito → 胞ᶜ (pejvo, F=6)",
+      "documentation": "語根: cito\n入力: cito\n最終形: 胞ᶜ\n漢字: 胞\n識別子: c\n型: pejvo\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1082",
+      "priority": 0,
+      "sourceRoot": "cito",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 1082
+    },
+    {
+      "prefix": "citoz",
+      "body": "胞ᶜᵀ",
+      "detail": "citoz → 胞ᶜᵀ (pejvo, F=5)",
+      "documentation": "語根: citoz\n入力: citoz\n最終形: 胞ᶜᵀ\n漢字: 胞\n識別子: ct\n型: pejvo\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1083",
+      "priority": 0,
+      "sourceRoot": "citoz",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 1083
     },
     {
       "prefix": "civil",
-      "body": "民ᴄ",
-      "detail": "civil to 民ᴄ"
+      "body": "民ᶜ",
+      "detail": "civil → 民ᶜ (content, F=30)",
+      "documentation": "語根: civil\n入力: civil\n最終形: 民ᶜ\n漢字: 民\n識別子: c\n型: content\nF(汎用性): 30\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:591",
+      "priority": 0,
+      "sourceRoot": "civil",
+      "type": "content",
+      "frequency": 30,
+      "base": false,
+      "sourceLine": 591
     },
     {
-      "prefix": "civilizaci",
-      "body": "文明",
-      "detail": "civilizaci to 文明"
+      "prefix": "civiliz",
+      "body": "教ᶜ",
+      "detail": "civiliz → 教ᶜ (content, F=0)",
+      "documentation": "語根: civiliz\n入力: civiliz\n最終形: 教ᶜ\n漢字: 教\n識別子: c\n型: content\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:798",
+      "priority": 0,
+      "sourceRoot": "civiliz",
+      "type": "content",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 798
     },
     {
       "prefix": "civit",
-      "body": "城",
-      "detail": "civit to 城"
-    },
-    {
-      "prefix": "col",
-      "body": "寸",
-      "detail": "col to 寸"
+      "body": "市ᶜ",
+      "detail": "civit → 市ᶜ (content, F=15)",
+      "documentation": "語根: civit\n入力: civit\n最終形: 市ᶜ\n漢字: 市\n識別子: c\n型: content\nF(汎用性): 15\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:181",
+      "priority": 0,
+      "sourceRoot": "civit",
+      "type": "content",
+      "frequency": 15,
+      "base": false,
+      "sourceLine": 181
     },
     {
       "prefix": "cxagren",
-      "body": "懊",
-      "detail": "cxagren to 懊"
+      "body": "恼",
+      "detail": "ĉagren → 恼 (content, F=6, 基本形)",
+      "documentation": "語根: ĉagren\n入力: cxagren\n最終形: 恼\n漢字: 恼\n識別子: なし\n型: content\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2003",
+      "priority": 0,
+      "sourceRoot": "ĉagren",
+      "type": "content",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2003
     },
     {
       "prefix": "cxambr",
       "body": "室",
-      "detail": "cxambr to 室"
+      "detail": "ĉambr → 室 (content, F=68, 基本形)",
+      "documentation": "語根: ĉambr\n入力: cxambr\n最終形: 室\n漢字: 室\n識別子: なし\n型: content\nF(汎用性): 68\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1527",
+      "priority": 0,
+      "sourceRoot": "ĉambr",
+      "type": "content",
+      "frequency": 68,
+      "base": true,
+      "sourceLine": 1527
+    },
+    {
+      "prefix": "cxampion",
+      "body": "冠ᶜ̂",
+      "detail": "ĉampion → 冠ᶜ̂ (content, F=5)",
+      "documentation": "語根: ĉampion\n入力: cxampion\n最終形: 冠ᶜ̂\n漢字: 冠\n識別子: ĉ\n型: content\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:401",
+      "priority": 0,
+      "sourceRoot": "ĉampion",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 401
     },
     {
       "prefix": "cxap",
-      "body": "帽",
-      "detail": "cxap to 帽"
+      "body": "帽ᶜ̂",
+      "detail": "ĉap → 帽ᶜ̂ (content, F=16)",
+      "documentation": "語根: ĉap\n入力: cxap\n最終形: 帽ᶜ̂\n漢字: 帽\n識別子: ĉ\n型: content\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1085",
+      "priority": 0,
+      "sourceRoot": "ĉap",
+      "type": "content",
+      "frequency": 16,
+      "base": false,
+      "sourceLine": 1085
     },
     {
       "prefix": "cxapel",
-      "body": "帽ᴄ̂ʟ",
-      "detail": "cxapel to 帽ᴄ̂ʟ"
+      "body": "帽",
+      "detail": "ĉapel → 帽 (content, F=22, 基本形)",
+      "documentation": "語根: ĉapel\n入力: cxapel\n最終形: 帽\n漢字: 帽\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1084",
+      "priority": 0,
+      "sourceRoot": "ĉapel",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 1084
     },
     {
       "prefix": "cxapitr",
       "body": "章",
-      "detail": "cxapitr to 章"
+      "detail": "ĉapitr → 章 (content, F=1, 基本形)",
+      "documentation": "語根: ĉapitr\n入力: cxapitr\n最終形: 章\n漢字: 章\n識別子: なし\n型: content\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2635",
+      "priority": 0,
+      "sourceRoot": "ĉapitr",
+      "type": "content",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2635
     },
     {
       "prefix": "cxar",
       "body": "因",
-      "detail": "cxar to 因"
+      "detail": "ĉar → 因 (func, F=35, 基本形)",
+      "documentation": "語根: ĉar\n入力: cxar\n最終形: 因\n漢字: 因\n識別子: なし\n型: func\nF(汎用性): 35\nグループ数: 4\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:382",
+      "priority": 0,
+      "sourceRoot": "ĉar",
+      "type": "func",
+      "frequency": 35,
+      "base": true,
+      "sourceLine": 382
     },
     {
       "prefix": "cxarlatan",
-      "body": "骗商",
-      "detail": "cxarlatan to 骗商"
+      "body": "骗ᶜ",
+      "detail": "c^arlatan → 骗ᶜ (pejvo, F=5)",
+      "documentation": "語根: c^arlatan\n入力: cxarlatan\n最終形: 骗ᶜ\n漢字: 骗\n識別子: c\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:728",
+      "priority": 0,
+      "sourceRoot": "c^arlatan",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 728
     },
     {
       "prefix": "cxarm",
       "body": "魅",
-      "detail": "cxarm to 魅"
+      "detail": "ĉarm → 魅 (content, F=10, 基本形)",
+      "documentation": "語根: ĉarm\n入力: cxarm\n最終形: 魅\n漢字: 魅\n識別子: なし\n型: content\nF(汎用性): 10\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1801",
+      "priority": 0,
+      "sourceRoot": "ĉarm",
+      "type": "content",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 1801
     },
     {
       "prefix": "cxarpent",
-      "body": "木工",
-      "detail": "cxarpent to 木工"
+      "body": "架",
+      "detail": "c^arpent → 架 (pejvo, F=8, 基本形)",
+      "documentation": "語根: c^arpent\n入力: cxarpent\n最終形: 架\n漢字: 架\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:751",
+      "priority": 0,
+      "sourceRoot": "c^arpent",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 751
+    },
+    {
+      "prefix": "cxart",
+      "body": "租ᶜ",
+      "detail": "c^art → 租ᶜ (pejvo, F=9)",
+      "documentation": "語根: c^art\n入力: cxart\n最終形: 租ᶜ\n漢字: 租\n識別子: c\n型: pejvo\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:520",
+      "priority": 0,
+      "sourceRoot": "c^art",
+      "type": "pejvo",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 520
     },
     {
       "prefix": "cxas",
       "body": "猎",
-      "detail": "cxas to 猎"
+      "detail": "ĉas → 猎 (content, F=44, 基本形)",
+      "documentation": "語根: ĉas\n入力: cxas\n最終形: 猎\n漢字: 猎\n識別子: なし\n型: content\nF(汎用性): 44\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3456",
+      "priority": 0,
+      "sourceRoot": "ĉas",
+      "type": "content",
+      "frequency": 44,
+      "base": true,
+      "sourceLine": 3456
     },
     {
       "prefix": "cxast",
-      "body": "贞",
-      "detail": "cxast to 贞"
+      "body": "洁",
+      "detail": "c^ast → 洁 (pejvo, F=17, 基本形)",
+      "documentation": "語根: c^ast\n入力: cxast\n最終形: 洁\n漢字: 洁\n識別子: なし\n型: pejvo\nF(汎用性): 17\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3429",
+      "priority": 0,
+      "sourceRoot": "c^ast",
+      "type": "pejvo",
+      "frequency": 17,
+      "base": true,
+      "sourceLine": 3429
     },
     {
       "prefix": "cxe",
-      "body": "在",
-      "detail": "cxe to 在"
+      "body": "在ᶜ̂",
+      "detail": "ĉe → 在ᶜ̂ (prep, F=22)",
+      "documentation": "語根: ĉe\n入力: cxe\n最終形: 在ᶜ̂\n漢字: 在\n識別子: ĉ\n型: prep\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1498",
+      "priority": 0,
+      "sourceRoot": "ĉe",
+      "type": "prep",
+      "frequency": 22,
+      "base": false,
+      "sourceLine": 1498
     },
     {
       "prefix": "cxef",
       "body": "首",
-      "detail": "cxef to 首"
+      "detail": "ĉef → 首 (pref, F=93, 基本形)",
+      "documentation": "語根: ĉef\n入力: cxef\n最終形: 首\n漢字: 首\n識別子: なし\n型: pref\nF(汎用性): 93\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2588",
+      "priority": 0,
+      "sourceRoot": "ĉef",
+      "type": "pref",
+      "frequency": 93,
+      "base": true,
+      "sourceLine": 2588
     },
     {
       "prefix": "cxek",
-      "body": "支票",
-      "detail": "cxek to 支票"
+      "body": "票ᶜ̂",
+      "detail": "ĉek → 票ᶜ̂ (content, F=10)",
+      "documentation": "語根: ĉek\n入力: cxek\n最終形: 票ᶜ̂\n漢字: 票\n識別子: ĉ\n型: content\nF(汎用性): 10\nグループ数: 3\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1065",
+      "priority": 0,
+      "sourceRoot": "ĉek",
+      "type": "content",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 1065
     },
     {
       "prefix": "cxel",
-      "body": "室ᴄ̂ʟ",
-      "detail": "cxel to 室ᴄ̂ʟ"
+      "body": "胞",
+      "detail": "ĉel → 胞 (content, F=47, 基本形)",
+      "documentation": "語根: ĉel\n入力: cxel\n最終形: 胞\n漢字: 胞\n識別子: なし\n型: content\nF(汎用性): 47\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1081",
+      "priority": 0,
+      "sourceRoot": "ĉel",
+      "type": "content",
+      "frequency": 47,
+      "base": true,
+      "sourceLine": 1081
     },
     {
       "prefix": "cxemiz",
-      "body": "衬衫",
-      "detail": "cxemiz to 衬衫"
+      "body": "衫",
+      "detail": "ĉemiz → 衫 (content, F=14, 基本形)",
+      "documentation": "語根: ĉemiz\n入力: cxemiz\n最終形: 衫\n漢字: 衫\n識別子: なし\n型: content\nF(汎用性): 14\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1913",
+      "priority": 0,
+      "sourceRoot": "ĉemiz",
+      "type": "content",
+      "frequency": 14,
+      "base": true,
+      "sourceLine": 1913
     },
     {
       "prefix": "cxen",
       "body": "链",
-      "detail": "cxen to 链"
+      "detail": "ĉen → 链 (content, F=46, 基本形)",
+      "documentation": "語根: ĉen\n入力: cxen\n最終形: 链\n漢字: 链\n識別子: なし\n型: content\nF(汎用性): 46\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2203",
+      "priority": 0,
+      "sourceRoot": "ĉen",
+      "type": "content",
+      "frequency": 46,
+      "base": true,
+      "sourceLine": 2203
     },
     {
       "prefix": "cxeriz",
       "body": "樱",
-      "detail": "cxeriz to 樱"
+      "detail": "ĉeriz → 樱 (content, F=13, 基本形)",
+      "documentation": "語根: ĉeriz\n入力: cxeriz\n最終形: 樱\n漢字: 樱\n識別子: なし\n型: content\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3411",
+      "priority": 0,
+      "sourceRoot": "ĉeriz",
+      "type": "content",
+      "frequency": 13,
+      "base": true,
+      "sourceLine": 3411
     },
     {
       "prefix": "cxerk",
       "body": "棺",
-      "detail": "cxerk to 棺"
+      "detail": "ĉerk → 棺 (content, F=8, 基本形)",
+      "documentation": "語根: ĉerk\n入力: cxerk\n最終形: 棺\n漢字: 棺\n識別子: なし\n型: content\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2369",
+      "priority": 0,
+      "sourceRoot": "ĉerk",
+      "type": "content",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 2369
     },
     {
       "prefix": "cxerp",
       "body": "汲",
-      "detail": "cxerp to 汲"
+      "detail": "ĉerp → 汲 (content, F=16, 基本形)",
+      "documentation": "語根: ĉerp\n入力: cxerp\n最終形: 汲\n漢字: 汲\n識別子: なし\n型: content\nF(汎用性): 16\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2399",
+      "priority": 0,
+      "sourceRoot": "ĉerp",
+      "type": "content",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 2399
     },
     {
       "prefix": "cxes",
       "body": "止",
-      "detail": "cxes to 止"
+      "detail": "ĉes → 止 (content, F=10, 基本形)",
+      "documentation": "語根: ĉes\n入力: cxes\n最終形: 止\n漢字: 止\n識別子: なし\n型: content\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2548",
+      "priority": 0,
+      "sourceRoot": "ĉes",
+      "type": "content",
+      "frequency": 10,
+      "base": true,
+      "sourceLine": 2548
     },
     {
       "prefix": "cxeval",
       "body": "马",
-      "detail": "cxeval to 马"
+      "detail": "ĉeval → 马 (content, F=51, 基本形)",
+      "documentation": "語根: ĉeval\n入力: cxeval\n最終形: 马\n漢字: 马\n識別子: なし\n型: content\nF(汎用性): 51\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3708",
+      "priority": 0,
+      "sourceRoot": "ĉeval",
+      "type": "content",
+      "frequency": 51,
+      "base": true,
+      "sourceLine": 3708
     },
     {
       "prefix": "cxia",
       "body": "全a",
-      "detail": "cxia to 全a"
+      "detail": "ĉia → 全a (correl, F=7, 基本形)",
+      "documentation": "語根: ĉia\n入力: cxia\n最終形: 全a\n漢字: 全a\n識別子: なし\n型: correl\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2711",
+      "priority": 0,
+      "sourceRoot": "ĉia",
+      "type": "correl",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2711
     },
     {
       "prefix": "cxial",
       "body": "全因",
-      "detail": "cxial to 全因"
+      "detail": "ĉial → 全因 (correl, F=1, 基本形)",
+      "documentation": "語根: ĉial\n入力: cxial\n最終形: 全因\n漢字: 全因\n識別子: なし\n型: correl\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2715",
+      "priority": 0,
+      "sourceRoot": "ĉial",
+      "type": "correl",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 2715
     },
     {
       "prefix": "cxiam",
       "body": "全时",
-      "detail": "cxiam to 全时"
+      "detail": "ĉiam → 全时 (correl, F=11, 基本形)",
+      "documentation": "語根: ĉiam\n入力: cxiam\n最終形: 全时\n漢字: 全时\n識別子: なし\n型: correl\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2718",
+      "priority": 0,
+      "sourceRoot": "ĉiam",
+      "type": "correl",
+      "frequency": 11,
+      "base": true,
+      "sourceLine": 2718
     },
     {
       "prefix": "cxie",
       "body": "全e",
-      "detail": "cxie to 全e"
+      "detail": "ĉie → 全e (correl, F=5, 基本形)",
+      "documentation": "語根: ĉie\n入力: cxie\n最終形: 全e\n漢字: 全e\n識別子: なし\n型: correl\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2712",
+      "priority": 0,
+      "sourceRoot": "ĉie",
+      "type": "correl",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2712
     },
     {
       "prefix": "cxiel",
-      "body": "天",
-      "detail": "cxiel to 天"
+      "body": "全样",
+      "detail": "ĉiel → 全样 (correl, F=26, 基本形)",
+      "documentation": "語根: ĉiel\n入力: cxiel\n最終形: 全样\n漢字: 全样\n識別子: なし\n型: correl\nF(汎用性): 26\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2719",
+      "priority": 0,
+      "sourceRoot": "ĉiel",
+      "type": "correl",
+      "frequency": 26,
+      "base": true,
+      "sourceLine": 2719
     },
     {
       "prefix": "cxies",
       "body": "全之",
-      "detail": "cxies to 全之"
+      "detail": "ĉies → 全之 (correl, F=4, 基本形)",
+      "documentation": "語根: ĉies\n入力: cxies\n最終形: 全之\n漢字: 全之\n識別子: なし\n型: correl\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2716",
+      "priority": 0,
+      "sourceRoot": "ĉies",
+      "type": "correl",
+      "frequency": 4,
+      "base": true,
+      "sourceLine": 2716
     },
     {
       "prefix": "cxif",
-      "body": "皱",
-      "detail": "cxif to 皱"
+      "body": "皱ᶜ̂",
+      "detail": "ĉif → 皱ᶜ̂ (content, F=5)",
+      "documentation": "語根: ĉif\n入力: cxif\n最終形: 皱ᶜ̂\n漢字: 皱\n識別子: ĉ\n型: content\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:680",
+      "priority": 0,
+      "sourceRoot": "ĉif",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 680
+    },
+    {
+      "prefix": "cxifon",
+      "body": "破ᶜ̂",
+      "detail": "ĉifon → 破ᶜ̂ (content, F=12)",
+      "documentation": "語根: ĉifon\n入力: cxifon\n最終形: 破ᶜ̂\n漢字: 破\n識別子: ĉ\n型: content\nF(汎用性): 12\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1718",
+      "priority": 0,
+      "sourceRoot": "ĉifon",
+      "type": "content",
+      "frequency": 12,
+      "base": false,
+      "sourceLine": 1718
     },
     {
       "prefix": "cxifr",
-      "body": "密码",
-      "detail": "cxifr to 密码"
-    },
-    {
-      "prefix": "cxikan",
-      "body": "欺",
-      "detail": "cxikan to 欺"
+      "body": "密ᶜ",
+      "detail": "c^ifr → 密ᶜ (pejvo, F=10)",
+      "documentation": "語根: c^ifr\n入力: cxifr\n最終形: 密ᶜ\n漢字: 密\n識別子: c\n型: pejvo\nF(汎用性): 10\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:588",
+      "priority": 0,
+      "sourceRoot": "c^ifr",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 588
     },
     {
       "prefix": "cxio",
       "body": "全o",
-      "detail": "cxio to 全o"
+      "detail": "ĉio → 全o (correl, F=14, 基本形)",
+      "documentation": "語根: ĉio\n入力: cxio\n最終形: 全o\n漢字: 全o\n識別子: なし\n型: correl\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2713",
+      "priority": 0,
+      "sourceRoot": "ĉio",
+      "type": "correl",
+      "frequency": 14,
+      "base": true,
+      "sourceLine": 2713
     },
     {
       "prefix": "cxiom",
       "body": "全量",
-      "detail": "cxiom to 全量"
+      "detail": "ĉiom → 全量 (correl, F=3, 基本形)",
+      "documentation": "語根: ĉiom\n入力: cxiom\n最終形: 全量\n漢字: 全量\n識別子: なし\n型: correl\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2717",
+      "priority": 0,
+      "sourceRoot": "ĉiom",
+      "type": "correl",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 2717
     },
     {
       "prefix": "cxirkaux",
       "body": "围",
-      "detail": "cxirkaux to 围"
+      "detail": "ĉirkaŭ → 围 (prep, F=71, 基本形)",
+      "documentation": "語根: ĉirkaŭ\n入力: cxirkaux\n最終形: 围\n漢字: 围\n識別子: なし\n型: prep\nF(汎用性): 71\nグループ数: 3\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1192",
+      "priority": 0,
+      "sourceRoot": "ĉirkaŭ",
+      "type": "prep",
+      "frequency": 71,
+      "base": true,
+      "sourceLine": 1192
     },
     {
       "prefix": "cxiu",
-      "body": "全个",
-      "detail": "cxiu to 全个"
+      "body": "全u",
+      "detail": "ĉiu → 全u (correl, F=44, 基本形)",
+      "documentation": "語根: ĉiu\n入力: cxiu\n最終形: 全u\n漢字: 全u\n識別子: なし\n型: correl\nF(汎用性): 44\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2714",
+      "priority": 0,
+      "sourceRoot": "ĉiu",
+      "type": "correl",
+      "frequency": 44,
+      "base": true,
+      "sourceLine": 2714
     },
     {
       "prefix": "cxiz",
-      "body": "凿",
-      "detail": "cxiz to 凿"
-    },
-    {
-      "prefix": "cxokolad",
-      "body": "可可糖",
-      "detail": "cxokolad to 可可糖"
+      "body": "雕ᶜ",
+      "detail": "c^iz → 雕ᶜ (pejvo, F=11)",
+      "documentation": "語根: c^iz\n入力: cxiz\n最終形: 雕ᶜ\n漢字: 雕\n識別子: c\n型: pejvo\nF(汎用性): 11\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:623",
+      "priority": 0,
+      "sourceRoot": "c^iz",
+      "type": "pejvo",
+      "frequency": 11,
+      "base": false,
+      "sourceLine": 623
     },
     {
       "prefix": "cxu",
       "body": "吗",
-      "detail": "cxu to 吗"
+      "detail": "ĉu → 吗 (func, F=3, 基本形)",
+      "documentation": "語根: ĉu\n入力: cxu\n最終形: 吗\n漢字: 吗\n識別子: なし\n型: func\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3301",
+      "priority": 0,
+      "sourceRoot": "ĉu",
+      "type": "func",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 3301
     }
   ]
 }

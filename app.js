@@ -73,23 +73,44 @@ require(['vs/editor/editor.main'], function () {
       source = window.KE_SNIPPETS;
     }
 
-    // 入力したprefixで始まるものだけをフィルタリング（大文字小文字区別）
-    let items = source
-      .filter(s => s.prefix && String(s.prefix).startsWith(prefix))
-      .map(s => ({
-        label: (s.label || (s.prefix + ' → ' + s.body)),
-        kind: monaco.languages.CompletionItemKind.Snippet,
-        insertText: s.body,
-        insertTextRules: monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet,
-        range: new monaco.Range(position.lineNumber, col0 - prefix.length + 1, position.lineNumber, col0 + 1),
-        detail: s.detail || '',
-        documentation: s.documentation || undefined,
-        // 辞書順でソート（完全一致を優先）
-        sortText: (String(s.prefix) === prefix ? '0' : '1') + String(s.prefix),
-        // 完全一致を先頭に
-        preselect: String(s.prefix) === prefix
-      }))
-      .slice(0, SUGGEST_LIMIT);
+    const query = prefix.toLowerCase();
+    const priorityOf = (s, fallback) => {
+      const n = Number(s.priority);
+      return Number.isFinite(n) ? n : fallback;
+    };
+
+    const candidates = source
+      .map((s, index) => ({ source: s, index, sourcePrefix: String(s.prefix || '').toLowerCase() }))
+      .filter(c => c.sourcePrefix && c.sourcePrefix.startsWith(query))
+      .sort((a, b) => {
+        const aExact = a.sourcePrefix === query ? 0 : 1;
+        const bExact = b.sourcePrefix === query ? 0 : 1;
+        return aExact - bExact
+          || priorityOf(a.source, a.index) - priorityOf(b.source, b.index)
+          || a.sourcePrefix.localeCompare(b.sourcePrefix)
+          || String(a.source.body || '').localeCompare(String(b.source.body || ''));
+      });
+
+    let exactPreselected = false;
+    let items = candidates
+      .slice(0, SUGGEST_LIMIT)
+      .map(({ source: s, index, sourcePrefix }) => {
+        const exact = sourcePrefix === query;
+        const priority = priorityOf(s, index);
+        const preselect = exact && !exactPreselected;
+        if (preselect) exactPreselected = true;
+        return {
+          label: (s.label || (s.prefix + ' → ' + s.body)),
+          kind: monaco.languages.CompletionItemKind.Snippet,
+          insertText: s.body,
+          insertTextRules: monaco.languages.CompletionItemInsertTextRule.InsertAsSnippet,
+          range: new monaco.Range(position.lineNumber, col0 - prefix.length + 1, position.lineNumber, col0 + 1),
+          detail: s.detail || '',
+          documentation: s.documentation || undefined,
+          sortText: `${exact ? '0' : '1'}${String(priority).padStart(6, '0')}:${sourcePrefix}:${String(s.body || '')}`,
+          preselect
+        };
+      });
     return items;
   }
 
@@ -102,7 +123,7 @@ require(['vs/editor/editor.main'], function () {
   }
 
   function finalizeItems(prefix, items) {
-    const exact = items.filter(i => i.label && String(i.label).startsWith(prefix + ' '));
+    const exact = items.filter(i => String(i.sortText || '').startsWith('0'));
     return exact.length ? exact : items;
   }
 

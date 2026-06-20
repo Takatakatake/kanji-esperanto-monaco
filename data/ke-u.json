@@ -3,112 +3,338 @@
     {
       "prefix": "uj",
       "body": "器",
-      "detail": "uj to 器"
+      "detail": "uj → 器 (suf, F=414, 基本形)",
+      "documentation": "語根: uj\n入力: uj\n最終形: 器\n漢字: 器\n識別子: なし\n型: suf\nF(汎用性): 414\nグループ数: 5\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:159",
+      "priority": 0,
+      "sourceRoot": "uj",
+      "type": "suf",
+      "frequency": 414,
+      "base": true,
+      "sourceLine": 159
     },
     {
       "prefix": "ul",
-      "body": "人",
-      "detail": "ul to 人"
+      "body": "者",
+      "detail": "ul → 者 (suf, F=926, 基本形)",
+      "documentation": "語根: ul\n入力: ul\n最終形: 者\n漢字: 者\n識別子: なし\n型: suf\nF(汎用性): 926\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2569",
+      "priority": 0,
+      "sourceRoot": "ul",
+      "type": "suf",
+      "frequency": 926,
+      "base": true,
+      "sourceLine": 2569
     },
     {
-      "prefix": "ultimat",
-      "body": "极",
-      "detail": "ultimat to 极"
+      "prefix": "ulcer",
+      "body": "溃疡",
+      "detail": "ulcer → 溃疡 (pejvo, F=7, 基本形)",
+      "documentation": "語根: ulcer\n入力: ulcer\n最終形: 溃疡\n漢字: 溃疡\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3436",
+      "priority": 0,
+      "sourceRoot": "ulcer",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3436
+    },
+    {
+      "prefix": "ultra",
+      "body": "极ᵁ",
+      "detail": "ultra → 极ᵁ (pejvo, F=10)",
+      "documentation": "語根: ultra\n入力: ultra\n最終形: 极ᵁ\n漢字: 极\n識別子: u\n型: pejvo\nF(汎用性): 10\nグループ数: 6\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:112",
+      "priority": 0,
+      "sourceRoot": "ultra",
+      "type": "pejvo",
+      "frequency": 10,
+      "base": false,
+      "sourceLine": 112
     },
     {
       "prefix": "umbilik",
-      "body": "肚脐",
-      "detail": "umbilik to 肚脐"
+      "body": "脐",
+      "detail": "umbilik → 脐 (pejvo, F=5, 基本形)",
+      "documentation": "語根: umbilik\n入力: umbilik\n最終形: 脐\n漢字: 脐\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3543",
+      "priority": 0,
+      "sourceRoot": "umbilik",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 3543
     },
     {
       "prefix": "ung",
       "body": "爪",
-      "detail": "ung to 爪"
+      "detail": "ung → 爪 (content, F=15, 基本形)",
+      "documentation": "語根: ung\n入力: ung\n最終形: 爪\n漢字: 爪\n識別子: なし\n型: content\nF(汎用性): 15\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1661",
+      "priority": 0,
+      "sourceRoot": "ung",
+      "type": "content",
+      "frequency": 15,
+      "base": true,
+      "sourceLine": 1661
+    },
+    {
+      "prefix": "uni",
+      "body": "联ᵁ",
+      "detail": "uni → 联ᵁ (content, F=5)",
+      "documentation": "語根: uni\n入力: uni\n最終形: 联ᵁ\n漢字: 联\n識別子: u\n型: content\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:697",
+      "priority": 0,
+      "sourceRoot": "uni",
+      "type": "content",
+      "frequency": 5,
+      "base": false,
+      "sourceLine": 697
     },
     {
       "prefix": "uniform",
-      "body": "制服",
-      "detail": "uniform to 制服"
+      "body": "服ᵁ",
+      "detail": "uniform → 服ᵁ (content, F=6)",
+      "documentation": "語根: uniform\n入力: uniform\n最終形: 服ᵁ\n漢字: 服\n識別子: u\n型: content\nF(汎用性): 6\nグループ数: 5\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:237",
+      "priority": 0,
+      "sourceRoot": "uniform",
+      "type": "content",
+      "frequency": 6,
+      "base": false,
+      "sourceLine": 237
     },
     {
       "prefix": "unik",
-      "body": "唯",
-      "detail": "unik to 唯"
+      "body": "独ᵁ",
+      "detail": "unik → 独ᵁ (content, F=7)",
+      "documentation": "語根: unik\n入力: unik\n最終形: 独ᵁ\n漢字: 独\n識別子: u\n型: content\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1704",
+      "priority": 0,
+      "sourceRoot": "unik",
+      "type": "content",
+      "frequency": 7,
+      "base": false,
+      "sourceLine": 1704
+    },
+    {
+      "prefix": "unit",
+      "body": "单位",
+      "detail": "unit → 单位 (pejvo, F=8, 基本形)",
+      "documentation": "語根: unit\n入力: unit\n最終形: 单位\n漢字: 单位\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3292",
+      "priority": 0,
+      "sourceRoot": "unit",
+      "type": "pejvo",
+      "frequency": 8,
+      "base": true,
+      "sourceLine": 3292
     },
     {
       "prefix": "univers",
-      "body": "万有",
-      "detail": "univers to 万有"
+      "body": "宇ᵁ",
+      "detail": "univers → 宇ᵁ (content, F=3)",
+      "documentation": "語根: univers\n入力: univers\n最終形: 宇ᵁ\n漢字: 宇\n識別子: u\n型: content\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1340",
+      "priority": 0,
+      "sourceRoot": "univers",
+      "type": "content",
+      "frequency": 3,
+      "base": false,
+      "sourceLine": 1340
     },
     {
       "prefix": "universal",
-      "body": "普遍",
-      "detail": "universal to 普遍"
+      "body": "普",
+      "detail": "universal → 普 (content, F=22, 基本形)",
+      "documentation": "語根: universal\n入力: universal\n最終形: 普\n漢字: 普\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1761",
+      "priority": 0,
+      "sourceRoot": "universal",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 1761
     },
     {
       "prefix": "universitat",
-      "body": "大学",
-      "detail": "universitat to 大学"
+      "body": "学ᵁ",
+      "detail": "universitat → 学ᵁ (content, F=9)",
+      "documentation": "語根: universitat\n入力: universitat\n最終形: 学ᵁ\n漢字: 学\n識別子: u\n型: content\nF(汎用性): 9\nグループ数: 7\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:24",
+      "priority": 0,
+      "sourceRoot": "universitat",
+      "type": "content",
+      "frequency": 9,
+      "base": false,
+      "sourceLine": 24
     },
     {
       "prefix": "unu",
       "body": "一",
-      "detail": "unu to 一"
+      "detail": "unu → 一 (num, F=174, 基本形)",
+      "documentation": "語根: unu\n入力: unu\n最終形: 一\n漢字: 一\n識別子: なし\n型: num\nF(汎用性): 174\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2268",
+      "priority": 0,
+      "sourceRoot": "unu",
+      "type": "num",
+      "frequency": 174,
+      "base": true,
+      "sourceLine": 2268
     },
     {
       "prefix": "uragan",
-      "body": "台风",
-      "detail": "uragan to 台风"
+      "body": "飓",
+      "detail": "uragan → 飓 (content, F=3, 基本形)",
+      "documentation": "語根: uragan\n入力: uragan\n最終形: 飓\n漢字: 飓\n識別子: なし\n型: content\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3702",
+      "priority": 0,
+      "sourceRoot": "uragan",
+      "type": "content",
+      "frequency": 3,
+      "base": true,
+      "sourceLine": 3702
+    },
+    {
+      "prefix": "uran",
+      "body": "铀ᵁ",
+      "detail": "uran → 铀ᵁ (elem, F=1)",
+      "documentation": "語根: uran\n入力: uran\n最終形: 铀ᵁ\n漢字: 铀\n識別子: u\n型: elem\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2198",
+      "priority": 0,
+      "sourceRoot": "uran",
+      "type": "elem",
+      "frequency": 1,
+      "base": false,
+      "sourceLine": 2198
+    },
+    {
+      "prefix": "urani",
+      "body": "铀",
+      "detail": "urani → 铀 (pejvo, F=6, 基本形)",
+      "documentation": "語根: urani\n入力: urani\n最終形: 铀\n漢字: 铀\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2197",
+      "priority": 0,
+      "sourceRoot": "urani",
+      "type": "pejvo",
+      "frequency": 6,
+      "base": true,
+      "sourceLine": 2197
     },
     {
       "prefix": "urb",
       "body": "市",
-      "detail": "urb to 市"
+      "detail": "urb → 市 (content, F=72, 基本形)",
+      "documentation": "語根: urb\n入力: urb\n最終形: 市\n漢字: 市\n識別子: なし\n型: content\nF(汎用性): 72\nグループ数: 5\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:179",
+      "priority": 0,
+      "sourceRoot": "urb",
+      "type": "content",
+      "frequency": 72,
+      "base": true,
+      "sourceLine": 179
+    },
+    {
+      "prefix": "ure",
+      "body": "尿素",
+      "detail": "ure → 尿素 (pejvo, F=7, 基本形)",
+      "documentation": "語根: ure\n入力: ure\n最終形: 尿素\n漢字: 尿素\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2848",
+      "priority": 0,
+      "sourceRoot": "ure",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 2848
     },
     {
       "prefix": "urgx",
-      "body": "急ᴜ",
-      "detail": "urgx to 急ᴜ"
+      "body": "急",
+      "detail": "urĝ → 急 (content, F=22, 基本形)",
+      "documentation": "語根: urĝ\n入力: urgx\n最終形: 急\n漢字: 急\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2395",
+      "priority": 0,
+      "sourceRoot": "urĝ",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 2395
     },
     {
       "prefix": "urin",
       "body": "尿",
-      "detail": "urin to 尿"
-    },
-    {
-      "prefix": "urn",
-      "body": "壶",
-      "detail": "urn to 壶"
+      "detail": "urin → 尿 (content, F=18, 基本形)",
+      "documentation": "語根: urin\n入力: urin\n最終形: 尿\n漢字: 尿\n識別子: なし\n型: content\nF(汎用性): 18\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1713",
+      "priority": 0,
+      "sourceRoot": "urin",
+      "type": "content",
+      "frequency": 18,
+      "base": true,
+      "sourceLine": 1713
     },
     {
       "prefix": "urs",
       "body": "熊",
-      "detail": "urs to 熊"
+      "detail": "urs → 熊 (content, F=22, 基本形)",
+      "documentation": "語根: urs\n入力: urs\n最終形: 熊\n漢字: 熊\n識別子: なし\n型: content\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2432",
+      "priority": 0,
+      "sourceRoot": "urs",
+      "type": "content",
+      "frequency": 22,
+      "base": true,
+      "sourceLine": 2432
     },
     {
       "prefix": "uter",
-      "body": "子宫",
-      "detail": "uter to 子宫"
+      "body": "宫",
+      "detail": "uter → 宫 (pejvo, F=16, 基本形)",
+      "documentation": "語根: uter\n入力: uter\n最終形: 宫\n漢字: 宫\n識別子: なし\n型: pejvo\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1991",
+      "priority": 0,
+      "sourceRoot": "uter",
+      "type": "pejvo",
+      "frequency": 16,
+      "base": true,
+      "sourceLine": 1991
     },
     {
       "prefix": "util",
-      "body": "用",
-      "detail": "util to 用"
-    },
-    {
-      "prefix": "uxa",
-      "body": "哇",
-      "detail": "uxa to 哇"
-    },
-    {
-      "prefix": "uxat",
-      "body": "瓦",
-      "detail": "uxat to 瓦"
+      "body": "益",
+      "detail": "util → 益 (content, F=28, 基本形)",
+      "documentation": "語根: util\n入力: util\n最終形: 益\n漢字: 益\n識別子: なし\n型: content\nF(汎用性): 28\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2285",
+      "priority": 0,
+      "sourceRoot": "util",
+      "type": "content",
+      "frequency": 28,
+      "base": true,
+      "sourceLine": 2285
     },
     {
       "prefix": "uz",
-      "body": "使ᴜ",
-      "detail": "uz to 使ᴜ"
+      "body": "用",
+      "detail": "uz → 用 (content, F=54, 基本形)",
+      "documentation": "語根: uz\n入力: uz\n最終形: 用\n漢字: 用\n識別子: なし\n型: content\nF(汎用性): 54\nグループ数: 2\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1815",
+      "priority": 0,
+      "sourceRoot": "uz",
+      "type": "content",
+      "frequency": 54,
+      "base": true,
+      "sourceLine": 1815
+    },
+    {
+      "prefix": "uzin",
+      "body": "厂ᵁ",
+      "detail": "uzin → 厂ᵁ (content, F=2)",
+      "documentation": "語根: uzin\n入力: uzin\n最終形: 厂ᵁ\n漢字: 厂\n識別子: u\n型: content\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:1862",
+      "priority": 0,
+      "sourceRoot": "uzin",
+      "type": "content",
+      "frequency": 2,
+      "base": false,
+      "sourceLine": 1862
+    },
+    {
+      "prefix": "uzur",
+      "body": "高利",
+      "detail": "uzur → 高利 (pejvo, F=5, 基本形)",
+      "documentation": "語根: uzur\n入力: uzur\n最終形: 高利\n漢字: 高利\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:2499",
+      "priority": 0,
+      "sourceRoot": "uzur",
+      "type": "pejvo",
+      "frequency": 5,
+      "base": true,
+      "sourceLine": 2499
+    },
+    {
+      "prefix": "uzurp",
+      "body": "篡",
+      "detail": "uzurp → 篡 (pejvo, F=7, 基本形)",
+      "documentation": "語根: uzurp\n入力: uzurp\n最終形: 篡\n漢字: 篡\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: 漢字割当一覧_識別子付きプレビュー_20260614.tsv:3499",
+      "priority": 0,
+      "sourceRoot": "uzurp",
+      "type": "pejvo",
+      "frequency": 7,
+      "base": true,
+      "sourceLine": 3499
     }
   ]
 }
