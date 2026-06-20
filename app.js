@@ -17,12 +17,16 @@ require(['vs/editor/editor.main'], function () {
   const SUGGEST_LIMIT = 100;
   const params = new URLSearchParams(location.search);
   const STRICT = params.get('strict') === '1';
+  const APP_VERSION = window.KE_APP_VERSION || 'dev';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260620';
+  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
       id: DEFAULT_DICTIONARY_ID,
       label: 'PEJVO/PIV 2026-06-20',
+      assetVersion: DEFAULT_DICTIONARY_ASSET_VERSION,
+      bucketLetters: 'abcdefghijklmnoprstuvz',
       bucketUrl: (letter) => `./data/ke-${letter}.json`,
       reverseUrl: './data/reverse.json'
     }
@@ -41,27 +45,60 @@ require(['vs/editor/editor.main'], function () {
     return DICTIONARY_SETS[activeDictionaryId] || DICTIONARY_SETS[DEFAULT_DICTIONARY_ID];
   }
 
+  function withVersion(url, version) {
+    const sep = String(url).includes('?') ? '&' : '?';
+    return `${url}${sep}v=${encodeURIComponent(version || APP_VERSION)}`;
+  }
+
+  function dictionaryUrl(url, dictionary) {
+    return withVersion(url, dictionary.assetVersion || dictionary.id);
+  }
+
+  function showStatus(msg, kind = 'info', timeout = 2200) {
+    const toastEl = document.getElementById('ke-toast');
+    if (!toastEl) return;
+    toastEl.dataset.kind = kind;
+    toastEl.textContent = msg;
+    clearTimeout(showStatus._t);
+    if (timeout > 0) {
+      showStatus._t = setTimeout(() => {
+        toastEl.textContent = '';
+        toastEl.dataset.kind = 'info';
+      }, timeout);
+    }
+  }
+
+  const reportedLoadFailures = new Set();
+  function reportLoadFailure(key, message, error) {
+    if (reportedLoadFailures.has(key)) return;
+    reportedLoadFailures.add(key);
+    console.warn(message, error || '');
+    showStatus(message, 'error', 4000);
+  }
+
   async function loadBucket(ch) {
     const letter = (ch || '').toLowerCase();
     if (!letter || letter.length !== 1) return [];
     const dictionary = activeDictionarySet();
+    if (dictionary.bucketLetters && !dictionary.bucketLetters.includes(letter)) return [];
     const key = `${dictionary.id}:${letter}`;
     if (cache.has(key)) return cache.get(key);
     if (inflight.has(key)) return inflight.get(key);
     const p = (async () => {
       try {
-        const url = dictionary.bucketUrl(letter);
+        const url = dictionaryUrl(dictionary.bucketUrl(letter), dictionary);
         let res = await fetch(url, { cache: 'force-cache' });
         if (!res.ok) {
-          // one retry with cache busting to avoid transient 404/opaque
-          res = await fetch(url + `?v=${Date.now()}`);
+          // One retry with cache busting to avoid transient 404/opaque responses.
+          res = await fetch(url + `&retry=${Date.now()}`, { cache: 'reload' });
         }
-        if (!res.ok) return [];
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         const arr = Array.isArray(json.items) ? json.items : [];
         cache.set(key, arr);
         return arr;
-      } catch {
+      } catch (error) {
+        reportLoadFailure(key, `辞書データを読み込めませんでした: ${dictionary.label}`, error);
         return [];
       } finally {
         inflight.delete(key);
@@ -78,14 +115,16 @@ require(['vs/editor/editor.main'], function () {
     if (reverseInflight.has(key)) return reverseInflight.get(key);
     const p = (async () => {
       try {
-        let res = await fetch(dictionary.reverseUrl, { cache: 'force-cache' });
-        if (!res.ok) res = await fetch(dictionary.reverseUrl + `?v=${Date.now()}`);
-        if (!res.ok) return [];
+        const url = dictionaryUrl(dictionary.reverseUrl, dictionary);
+        let res = await fetch(url, { cache: 'force-cache' });
+        if (!res.ok) res = await fetch(url + `&retry=${Date.now()}`, { cache: 'reload' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         const arr = Array.isArray(json.items) ? json.items : [];
         reverseCache.set(key, arr);
         return arr;
-      } catch {
+      } catch (error) {
+        reportLoadFailure(`${key}:reverse`, `割当検索データを読み込めませんでした: ${dictionary.label}`, error);
         return [];
       } finally {
         reverseInflight.delete(key);
@@ -95,7 +134,7 @@ require(['vs/editor/editor.main'], function () {
     return p;
   }
 
-  // NOTE: No global fallback (all.json) — use only the active bucket or inline snippets
+  // NOTE: No global fallback (all.json or old inline snippets); use only the active bucket.
 
   function extractAsciiPrefix(line, caret0) {
     // カーソル直前の連続した英字・ハイフンのみを抽出
@@ -112,13 +151,7 @@ require(['vs/editor/editor.main'], function () {
   }
 
   async function buildItemsForPrefix(prefix, position, col0) {
-    let source = [];
-    const bucket = await loadBucket(prefix[0]);
-    if (bucket && bucket.length) {
-      source = bucket;
-    } else if (Array.isArray(window.KE_SNIPPETS)) {
-      source = window.KE_SNIPPETS;
-    }
+    const source = await loadBucket(prefix[0]);
 
     const query = prefix.toLowerCase();
     const priorityOf = (s, fallback) => {
@@ -165,7 +198,7 @@ require(['vs/editor/editor.main'], function () {
 
   function preloadAllBucketsIfStrict() {
     if (!STRICT) return Promise.resolve();
-    const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
+    const letters = (activeDictionarySet().bucketLetters || 'abcdefghijklmnopqrstuvwxyz').split('');
     return Promise.all([...letters.map(ch => loadBucket(ch)), loadReverseIndex()]);
   }
 
@@ -389,13 +422,7 @@ require(['vs/editor/editor.main'], function () {
 
   // === Mobile-friendly Clipboard & Utility Toolbar ===
   (function setupMobileToolbar(){
-    const toastEl = document.getElementById('ke-toast');
-    const showToast = (msg) => {
-      if (!toastEl) { return; }
-      toastEl.textContent = msg;
-      clearTimeout(showToast._t);
-      showToast._t = setTimeout(() => { toastEl.textContent = ''; }, 1800);
-    };
+    const showToast = (msg) => showStatus(msg);
 
     async function copySelectionOrAll() {
       try {
@@ -474,8 +501,10 @@ require(['vs/editor/editor.main'], function () {
     function setupDictionarySelect() {
       const select = byId('dict-select');
       if (!select) return;
+      const dictionaries = Object.values(DICTIONARY_SETS);
+      select.hidden = dictionaries.length < 2;
       select.textContent = '';
-      for (const dict of Object.values(DICTIONARY_SETS)) {
+      for (const dict of dictionaries) {
         const option = document.createElement('option');
         option.value = dict.id;
         option.textContent = dict.label;

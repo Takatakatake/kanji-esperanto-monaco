@@ -1,17 +1,19 @@
-const CACHE = 'ke-site-v14';
+const CACHE = 'ke-site-v15';
+const APP_VERSION = '20260621-hardening-1';
+const DICTIONARY_VERSION = 'pejvo-piv-20260620';
+const DICTIONARY_BUCKETS = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','r','s','t','u','v','z'];
+const versioned = (url, version) => `${url}?v=${encodeURIComponent(version)}`;
 const ASSETS = [
   './',
   './index.html',
-  './app.js?v=20260620-current-sample-1',
-  './all.json',
-  './data/reverse.json',
-  './ke-snippets.js?v=20260620-current-sample-1',
+  versioned('./app.js', APP_VERSION),
+  versioned('./all.json', DICTIONARY_VERSION),
+  versioned('./data/reverse.json', DICTIONARY_VERSION),
   './manifest.webmanifest',
   // Monaco minimal (for online page)
   'https://unpkg.com/monaco-editor@0.52.0/min/vs/loader.js',
   'https://unpkg.com/monaco-editor@0.52.0/min/vs/base/worker/workerMain.js',
-  // Dictionary buckets
-  './data/ke-a.json','./data/ke-b.json','./data/ke-c.json','./data/ke-d.json','./data/ke-e.json','./data/ke-f.json','./data/ke-g.json','./data/ke-h.json','./data/ke-i.json','./data/ke-j.json','./data/ke-k.json','./data/ke-l.json','./data/ke-m.json','./data/ke-n.json','./data/ke-o.json','./data/ke-p.json','./data/ke-r.json','./data/ke-s.json','./data/ke-t.json','./data/ke-u.json','./data/ke-v.json','./data/ke-z.json'
+  ...DICTIONARY_BUCKETS.map(letter => versioned(`./data/ke-${letter}.json`, DICTIONARY_VERSION))
 ];
 
 self.addEventListener('install', (event) => {
@@ -45,7 +47,6 @@ self.addEventListener('fetch', (event) => {
     const networkFirst = req.mode === 'navigate'
       || url.pathname.endsWith('/index.html')
       || url.pathname.endsWith('/app.js')
-      || url.pathname.endsWith('/ke-snippets.js')
       || url.pathname.endsWith('/sw.js');
     if (networkFirst) {
       try {

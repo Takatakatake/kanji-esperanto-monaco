@@ -1,5 +1,5 @@
-// 小規模辞書の例。実運用ではあなたの辞書をここに貼り替え。
-// 大きい場合は data/ 以下に分割し、app.js の遅延読込が自動で利用します。
+// 旧来の小規模辞書サンプル。現在のアプリは通常 data/ke-*.json を使います。
+// 明示的に読み込んだ場合だけ window.KE_SNIPPETS として参照できます。
 window.KE_SNIPPETS = [
   { prefix: "li",  body: "他", detail: "li → 他" },
   { prefix: "mi",  body: "我", detail: "mi → 我" },
