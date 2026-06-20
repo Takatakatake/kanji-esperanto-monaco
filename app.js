@@ -218,9 +218,16 @@ require(['vs/editor/editor.main'], function () {
   // 直前の内容を復元（ローカル保存）
   let saved = null;
   try { saved = localStorage.getItem(STORAGE_KEY); } catch { }
+  const DEFAULT_SAMPLE_TEXT = 'Kiam Okcidento renkontas Orienton kaj surmetas orientan veston, unu sola lingvo akiras du aspektojn — ambaŭ belajn —, kaj naskiĝas nova kompreno.\n何时 西o 遇as 东on 和ᴷ 上置as 东an 衣on, 一 唯a 语o 获as 二 显ojn — 两 美ajn —, 和ᴷ 生成as 新a 解o.\n';
+  const LEGACY_DEFAULT_SAMPLE_TEXTS = new Set([
+    'Kiam Okcidento renkontas Orienton kaj surmetas orientan veston, unu sola lingvo akiras du aspektojn — ambaŭ belajn —, kaj naskiĝas nova kompreno.\n何时 西o 遇as 东方on 和 上置as 东方an 服on, 一 独a 语o 获as 二 观ojn — 两 美ajn —, 和 生成as 新a 懂o.\n'
+  ]);
+  if (!saved || LEGACY_DEFAULT_SAMPLE_TEXTS.has(saved)) {
+    saved = DEFAULT_SAMPLE_TEXT;
+  }
 
   const editor = monaco.editor.create(host, Object.assign({
-    value: saved || 'Kiam Okcidento renkontas Orienton kaj surmetas orientan veston, unu sola lingvo akiras du aspektojn — ambaŭ belajn —, kaj naskiĝas nova kompreno.\n何时 西o 遇as 东方on 和 上置as 东方an 服on, 一 独a 语o 获as 二 观ojn — 两 美ajn —, 和 生成as 新a 懂o.\n',
+    value: saved,
     language: 'kanji-esperanto',
     theme: 'vs',
     fontSize: 16,
