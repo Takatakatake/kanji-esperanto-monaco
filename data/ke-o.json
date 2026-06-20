@@ -3,59 +3,35 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 150,
+    "itemCount": 148,
     "skippedCount": 0,
     "bucket": "o",
-    "dictionaryItemCount": 6577
+    "dictionaryItemCount": 6575
   },
   "items": [
-    {
-      "prefix": "o-brasik",
-      "body": "菜ᴼ",
-      "detail": "o-brasik → 菜ᴼ (piv, F=2)",
-      "documentation": "語根: o-brasik\n入力: o-brasik\n最終形: 菜ᴼ\n漢字: 菜\n識別子: o\n型: piv\nF(汎用性): 2\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1964",
-      "priority": 0,
-      "sourceRoot": "o-brasik",
-      "type": "piv",
-      "frequency": 2,
-      "base": false,
-      "sourceLine": 1964
-    },
-    {
-      "prefix": "o-re",
-      "body": "往ᴼ",
-      "detail": "o-re → 往ᴼ (pejvo, F=2)",
-      "documentation": "語根: o-re\n入力: o-re\n最終形: 往ᴼ\n漢字: 往\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:521",
-      "priority": 0,
-      "sourceRoot": "o-re",
-      "type": "pejvo",
-      "frequency": 2,
-      "base": false,
-      "sourceLine": 521
-    },
     {
       "prefix": "obe",
       "body": "服",
       "detail": "obe → 服 (basic, F=11, 基本形)",
-      "documentation": "語根: obe\n入力: obe\n最終形: 服\n漢字: 服\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:1929",
+      "documentation": "語根: obe\n入力: obe\n最終形: 服\n漢字: 服\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:1930",
       "priority": 0,
       "sourceRoot": "obe",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 1929
+      "sourceLine": 1930
     },
     {
       "prefix": "obez",
       "body": "胖",
       "detail": "obez → 胖 (pejvo, F=3, 基本形)",
-      "documentation": "語根: obez\n入力: obez\n最終形: 胖\n漢字: 胖\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5346",
+      "documentation": "語根: obez\n入力: obez\n最終形: 胖\n漢字: 胖\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5345",
       "priority": 0,
       "sourceRoot": "obez",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5346
+      "sourceLine": 5345
     },
     {
       "prefix": "objekt",
@@ -145,13 +121,13 @@
       "prefix": "obsed",
       "body": "缠ᴼ",
       "detail": "obsed → 缠ᴼ (pejvo, F=4)",
-      "documentation": "語根: obsed\n入力: obsed\n最終形: 缠ᴼ\n漢字: 缠\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3975",
+      "documentation": "語根: obsed\n入力: obsed\n最終形: 缠ᴼ\n漢字: 缠\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3974",
       "priority": 0,
       "sourceRoot": "obsed",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 3975
+      "sourceLine": 3974
     },
     {
       "prefix": "observ",
@@ -169,49 +145,49 @@
       "prefix": "observatori",
       "body": "天文台",
       "detail": "observatori → 天文台 (pejvo, F=4, 基本形)",
-      "documentation": "語根: observatori\n入力: observatori\n最終形: 天文台\n漢字: 天文台\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5244",
+      "documentation": "語根: observatori\n入力: observatori\n最終形: 天文台\n漢字: 天文台\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5243",
       "priority": 0,
       "sourceRoot": "observatori",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5244
+      "sourceLine": 5243
     },
     {
       "prefix": "obskur",
       "body": "暗ᴼ",
       "detail": "obskur → 暗ᴼ (pejvo, F=8)",
-      "documentation": "語根: obskur\n入力: obskur\n最終形: 暗ᴼ\n漢字: 暗\n識別子: o\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3531",
+      "documentation": "語根: obskur\n入力: obskur\n最終形: 暗ᴼ\n漢字: 暗\n識別子: o\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3529",
       "priority": 0,
       "sourceRoot": "obskur",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 3531
+      "sourceLine": 3529
     },
     {
       "prefix": "obstakl",
       "body": "碍",
       "detail": "obstakl → 碍 (basic, F=3, 基本形)",
-      "documentation": "語根: obstakl\n入力: obstakl\n最終形: 碍\n漢字: 碍\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3713",
+      "documentation": "語根: obstakl\n入力: obstakl\n最終形: 碍\n漢字: 碍\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3711",
       "priority": 0,
       "sourceRoot": "obstakl",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 3713
+      "sourceLine": 3711
     },
     {
       "prefix": "obstetrik",
       "body": "产科",
       "detail": "obstetrik → 产科 (pejvo, F=2, 基本形)",
-      "documentation": "語根: obstetrik\n入力: obstetrik\n最終形: 产科\n漢字: 产科\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5743",
+      "documentation": "語根: obstetrik\n入力: obstetrik\n最終形: 产科\n漢字: 产科\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5741",
       "priority": 0,
       "sourceRoot": "obstetrik",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5743
+      "sourceLine": 5741
     },
     {
       "prefix": "obstin",
@@ -229,13 +205,13 @@
       "prefix": "obstrukc",
       "body": "阻",
       "detail": "obstrukc → 阻 (pejvo, F=3, 基本形)",
-      "documentation": "語根: obstrukc\n入力: obstrukc\n最終形: 阻\n漢字: 阻\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5552",
+      "documentation": "語根: obstrukc\n入力: obstrukc\n最終形: 阻\n漢字: 阻\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5551",
       "priority": 0,
       "sourceRoot": "obstrukc",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5552
+      "sourceLine": 5551
     },
     {
       "prefix": "obtur",
@@ -277,37 +253,37 @@
       "prefix": "ocean",
       "body": "洋",
       "detail": "ocean → 洋 (basic, F=14, 基本形)",
-      "documentation": "語根: ocean\n入力: ocean\n最終形: 洋\n漢字: 洋\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3714",
+      "documentation": "語根: ocean\n入力: ocean\n最終形: 洋\n漢字: 洋\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3712",
       "priority": 0,
       "sourceRoot": "ocean",
       "type": "basic",
       "frequency": 14,
       "base": true,
-      "sourceLine": 3714
+      "sourceLine": 3712
     },
     {
       "prefix": "ocel",
       "body": "单眼",
       "detail": "ocel → 单眼 (piv, F=2, 基本形)",
-      "documentation": "語根: ocel\n入力: ocel\n最終形: 单眼\n漢字: 单眼\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6139",
+      "documentation": "語根: ocel\n入力: ocel\n最終形: 单眼\n漢字: 单眼\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6136",
       "priority": 0,
       "sourceRoot": "ocel",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6139
+      "sourceLine": 6136
     },
     {
       "prefix": "od",
       "body": "颂ᴼ",
       "detail": "od → 颂ᴼ (pejvo, F=2)",
-      "documentation": "語根: od\n入力: od\n最終形: 颂ᴼ\n漢字: 颂\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3970",
+      "documentation": "語根: od\n入力: od\n最終形: 颂ᴼ\n漢字: 颂\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3969",
       "priority": 0,
       "sourceRoot": "od",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3970
+      "sourceLine": 3969
     },
     {
       "prefix": "odor",
@@ -325,13 +301,13 @@
       "prefix": "oestr",
       "body": "发情",
       "detail": "oestr → 发情 (piv, F=2, 基本形)",
-      "documentation": "語根: oestr\n入力: oestr\n最終形: 发情\n漢字: 发情\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6290",
+      "documentation": "語根: oestr\n入力: oestr\n最終形: 发情\n漢字: 发情\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6287",
       "priority": 0,
       "sourceRoot": "oestr",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6290
+      "sourceLine": 6287
     },
     {
       "prefix": "ofend",
@@ -433,13 +409,13 @@
       "prefix": "ofiur",
       "body": "蛇尾",
       "detail": "ofiur → 蛇尾 (piv, F=2, 基本形)",
-      "documentation": "語根: ofiur\n入力: ofiur\n最終形: 蛇尾\n漢字: 蛇尾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6446",
+      "documentation": "語根: ofiur\n入力: ofiur\n最終形: 蛇尾\n漢字: 蛇尾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6443",
       "priority": 0,
       "sourceRoot": "ofiur",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6446
+      "sourceLine": 6443
     },
     {
       "prefix": "oft",
@@ -469,13 +445,13 @@
       "prefix": "ogiv",
       "body": "尖拱",
       "detail": "ogiv → 尖拱 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ogiv\n入力: ogiv\n最終形: 尖拱\n漢字: 尖拱\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5484",
+      "documentation": "語根: ogiv\n入力: ogiv\n最終形: 尖拱\n漢字: 尖拱\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5483",
       "priority": 0,
       "sourceRoot": "ogiv",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5484
+      "sourceLine": 5483
     },
     {
       "prefix": "oid",
@@ -517,13 +493,13 @@
       "prefix": "okaz",
       "body": "生ᴼ",
       "detail": "okaz → 生ᴼ (basic, F=28)",
-      "documentation": "語根: okaz\n入力: okaz\n最終形: 生ᴼ\n漢字: 生\n識別子: o\n型: basic\nF(汎用性): 28\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:608",
+      "documentation": "語根: okaz\n入力: okaz\n最終形: 生ᴼ\n漢字: 生\n識別子: o\n型: basic\nF(汎用性): 28\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:607",
       "priority": 0,
       "sourceRoot": "okaz",
       "type": "basic",
       "frequency": 28,
       "base": false,
-      "sourceLine": 608
+      "sourceLine": 607
     },
     {
       "prefix": "okcident",
@@ -541,13 +517,13 @@
       "prefix": "okcipit",
       "body": "后脑",
       "detail": "okcipit → 后脑 (pejvo, F=2, 基本形)",
-      "documentation": "語根: okcipit\n入力: okcipit\n最終形: 后脑\n漢字: 后脑\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6000",
+      "documentation": "語根: okcipit\n入力: okcipit\n最終形: 后脑\n漢字: 后脑\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5997",
       "priority": 0,
       "sourceRoot": "okcipit",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6000
+      "sourceLine": 5997
     },
     {
       "prefix": "oks",
@@ -601,13 +577,13 @@
       "prefix": "okt",
       "body": "八度ᴼᴷ",
       "detail": "okt → 八度ᴼᴷ (piv, F=2)",
-      "documentation": "語根: okt\n入力: okt\n最終形: 八度ᴼᴷ\n漢字: 八度\n識別子: ok\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5298",
+      "documentation": "語根: okt\n入力: okt\n最終形: 八度ᴼᴷ\n漢字: 八度\n識別子: ok\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5297",
       "priority": 0,
       "sourceRoot": "okt",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5298
+      "sourceLine": 5297
     },
     {
       "prefix": "okta",
@@ -625,25 +601,25 @@
       "prefix": "oktant",
       "body": "八分",
       "detail": "oktant → 八分 (pejvo, F=2, 基本形)",
-      "documentation": "語根: oktant\n入力: oktant\n最終形: 八分\n漢字: 八分\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6033",
+      "documentation": "語根: oktant\n入力: oktant\n最終形: 八分\n漢字: 八分\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6030",
       "priority": 0,
       "sourceRoot": "oktant",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6033
+      "sourceLine": 6030
     },
     {
       "prefix": "oktav",
       "body": "八度",
       "detail": "oktav → 八度 (pejvo, F=3, 基本形)",
-      "documentation": "語根: oktav\n入力: oktav\n最終形: 八度\n漢字: 八度\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5297",
+      "documentation": "語根: oktav\n入力: oktav\n最終形: 八度\n漢字: 八度\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5296",
       "priority": 0,
       "sourceRoot": "oktav",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5297
+      "sourceLine": 5296
     },
     {
       "prefix": "oktobr",
@@ -697,13 +673,13 @@
       "prefix": "okzal",
       "body": "酸模",
       "detail": "okzal → 酸模 (pejvo, F=2, 基本形)",
-      "documentation": "語根: okzal\n入力: okzal\n最終形: 酸模\n漢字: 酸模\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6362",
+      "documentation": "語根: okzal\n入力: okzal\n最終形: 酸模\n漢字: 酸模\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6359",
       "priority": 0,
       "sourceRoot": "okzal",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6362
+      "sourceLine": 6359
     },
     {
       "prefix": "ol",
@@ -745,13 +721,13 @@
       "prefix": "oliban",
       "body": "乳香",
       "detail": "oliban → 乳香 (pejvo, F=2, 基本形)",
-      "documentation": "語根: oliban\n入力: oliban\n最終形: 乳香\n漢字: 乳香\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6193",
+      "documentation": "語根: oliban\n入力: oliban\n最終形: 乳香\n漢字: 乳香\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6190",
       "priority": 0,
       "sourceRoot": "oliban",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6193
+      "sourceLine": 6190
     },
     {
       "prefix": "oligo",
@@ -793,13 +769,13 @@
       "prefix": "omar",
       "body": "龙虾",
       "detail": "omar → 龙虾 (pejvo, F=2, 基本形)",
-      "documentation": "語根: omar\n入力: omar\n最終形: 龙虾\n漢字: 龙虾\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6571",
+      "documentation": "語根: omar\n入力: omar\n最終形: 龙虾\n漢字: 龙虾\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6568",
       "priority": 0,
       "sourceRoot": "omar",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6571
+      "sourceLine": 6568
     },
     {
       "prefix": "ombr",
@@ -877,37 +853,37 @@
       "prefix": "oniks",
       "body": "玛瑙",
       "detail": "oniks → 玛瑙 (pejvo, F=3, 基本形)",
-      "documentation": "語根: oniks\n入力: oniks\n最終形: 玛瑙\n漢字: 玛瑙\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5269",
+      "documentation": "語根: oniks\n入力: oniks\n最終形: 玛瑙\n漢字: 玛瑙\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5268",
       "priority": 0,
       "sourceRoot": "oniks",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5269
+      "sourceLine": 5268
     },
     {
       "prefix": "onim",
       "body": "名ᴼ",
       "detail": "onim → 名ᴼ (pejvo, F=12)",
-      "documentation": "語根: onim\n入力: onim\n最終形: 名ᴼ\n漢字: 名\n識別子: o\n型: pejvo\nF(汎用性): 12\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:602",
+      "documentation": "語根: onim\n入力: onim\n最終形: 名ᴼ\n漢字: 名\n識別子: o\n型: pejvo\nF(汎用性): 12\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:601",
       "priority": 0,
       "sourceRoot": "onim",
       "type": "pejvo",
       "frequency": 12,
       "base": false,
-      "sourceLine": 602
+      "sourceLine": 601
     },
     {
       "prefix": "onk",
       "body": "肿瘤",
       "detail": "onk → 肿瘤 (piv, F=3, 基本形)",
-      "documentation": "語根: onk\n入力: onk\n最終形: 肿瘤\n漢字: 肿瘤\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5310",
+      "documentation": "語根: onk\n入力: onk\n最終形: 肿瘤\n漢字: 肿瘤\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5309",
       "priority": 0,
       "sourceRoot": "onk",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5310
+      "sourceLine": 5309
     },
     {
       "prefix": "onkl",
@@ -925,13 +901,13 @@
       "prefix": "onkocerk",
       "body": "盘尾",
       "detail": "onkocerk → 盘尾 (piv, F=2, 基本形)",
-      "documentation": "語根: onkocerk\n入力: onkocerk\n最終形: 盘尾\n漢字: 盘尾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6276",
+      "documentation": "語根: onkocerk\n入力: onkocerk\n最終形: 盘尾\n漢字: 盘尾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6273",
       "priority": 0,
       "sourceRoot": "onkocerk",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6276
+      "sourceLine": 6273
     },
     {
       "prefix": "ont",
@@ -961,13 +937,13 @@
       "prefix": "opal",
       "body": "蛋白石",
       "detail": "opal → 蛋白石 (pejvo, F=4, 基本形)",
-      "documentation": "語根: opal\n入力: opal\n最終形: 蛋白石\n漢字: 蛋白石\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5167",
+      "documentation": "語根: opal\n入力: opal\n最終形: 蛋白石\n漢字: 蛋白石\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5166",
       "priority": 0,
       "sourceRoot": "opal",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5167
+      "sourceLine": 5166
     },
     {
       "prefix": "oper",
@@ -985,13 +961,13 @@
       "prefix": "operac",
       "body": "作战",
       "detail": "operac → 作战 (pejvo, F=2, 基本形)",
-      "documentation": "語根: operac\n入力: operac\n最終形: 作战\n漢字: 作战\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6410",
+      "documentation": "語根: operac\n入力: operac\n最終形: 作战\n漢字: 作战\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6407",
       "priority": 0,
       "sourceRoot": "operac",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6410
+      "sourceLine": 6407
     },
     {
       "prefix": "operaci",
@@ -1009,13 +985,13 @@
       "prefix": "operator",
       "body": "算子",
       "detail": "operator → 算子 (piv, F=2, 基本形)",
-      "documentation": "語根: operator\n入力: operator\n最終形: 算子\n漢字: 算子\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5765",
+      "documentation": "語根: operator\n入力: operator\n最終形: 算子\n漢字: 算子\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5763",
       "priority": 0,
       "sourceRoot": "operator",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5765
+      "sourceLine": 5763
     },
     {
       "prefix": "opi",
@@ -1033,13 +1009,13 @@
       "prefix": "opilion",
       "body": "盲蛛",
       "detail": "opilion → 盲蛛 (piv, F=2, 基本形)",
-      "documentation": "語根: opilion\n入力: opilion\n最終形: 盲蛛\n漢字: 盲蛛\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6435",
+      "documentation": "語根: opilion\n入力: opilion\n最終形: 盲蛛\n漢字: 盲蛛\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6432",
       "priority": 0,
       "sourceRoot": "opilion",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6435
+      "sourceLine": 6432
     },
     {
       "prefix": "opini",
@@ -1129,13 +1105,13 @@
       "prefix": "optimum",
       "body": "优ᴼ",
       "detail": "optimum → 优ᴼ (pejvo, F=2)",
-      "documentation": "語根: optimum\n入力: optimum\n最終形: 优ᴼ\n漢字: 优\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3883",
+      "documentation": "語根: optimum\n入力: optimum\n最終形: 优ᴼ\n漢字: 优\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3882",
       "priority": 0,
       "sourceRoot": "optimum",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3883
+      "sourceLine": 3882
     },
     {
       "prefix": "or",
@@ -1189,13 +1165,13 @@
       "prefix": "oratori",
       "body": "清唱剧",
       "detail": "oratori → 清唱剧 (piv, F=2, 基本形)",
-      "documentation": "語根: oratori\n入力: oratori\n最終形: 清唱剧\n漢字: 清唱剧\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5820",
+      "documentation": "語根: oratori\n入力: oratori\n最終形: 清唱剧\n漢字: 清唱剧\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5818",
       "priority": 0,
       "sourceRoot": "oratori",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5820
+      "sourceLine": 5818
     },
     {
       "prefix": "orbit",
@@ -1237,13 +1213,13 @@
       "prefix": "ordin",
       "body": "叙",
       "detail": "ordin → 叙 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ordin\n入力: ordin\n最終形: 叙\n漢字: 叙\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5481",
+      "documentation": "語根: ordin\n入力: ordin\n最終形: 叙\n漢字: 叙\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5480",
       "priority": 0,
       "sourceRoot": "ordin",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5481
+      "sourceLine": 5480
     },
     {
       "prefix": "ordinar",
@@ -1261,13 +1237,13 @@
       "prefix": "ordinat",
       "body": "纵标",
       "detail": "ordinat → 纵标 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ordinat\n入力: ordinat\n最終形: 纵标\n漢字: 纵标\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6133",
+      "documentation": "語根: ordinat\n入力: ordinat\n最終形: 纵标\n漢字: 纵标\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6130",
       "priority": 0,
       "sourceRoot": "ordinat",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6133
+      "sourceLine": 6130
     },
     {
       "prefix": "ordon",
@@ -1345,25 +1321,25 @@
       "prefix": "orgasm",
       "body": "高潮",
       "detail": "orgasm → 高潮 (pejvo, F=3, 基本形)",
-      "documentation": "語根: orgasm\n入力: orgasm\n最終形: 高潮\n漢字: 高潮\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5673",
+      "documentation": "語根: orgasm\n入力: orgasm\n最終形: 高潮\n漢字: 高潮\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5672",
       "priority": 0,
       "sourceRoot": "orgasm",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5673
+      "sourceLine": 5672
     },
     {
       "prefix": "orgen",
       "body": "琴ᴼ",
       "detail": "orgen → 琴ᴼ (pejvo, F=4)",
-      "documentation": "語根: orgen\n入力: orgen\n最終形: 琴ᴼ\n漢字: 琴\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:3736",
+      "documentation": "語根: orgen\n入力: orgen\n最終形: 琴ᴼ\n漢字: 琴\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3734",
       "priority": 0,
       "sourceRoot": "orgen",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 3736
+      "sourceLine": 3734
     },
     {
       "prefix": "orgi",
@@ -1441,25 +1417,25 @@
       "prefix": "oriol",
       "body": "鸟ᴼᴸ",
       "detail": "oriol → 鸟ᴼᴸ (pejvo, F=1)",
-      "documentation": "語根: oriol\n入力: oriol\n最終形: 鸟ᴼᴸ\n漢字: 鸟\n識別子: ol\n型: pejvo\nF(汎用性): 1\nグループ数: 26\n基本形: no\n出典: _identifier_sidecar.tsv:725",
+      "documentation": "語根: oriol\n入力: oriol\n最終形: 鸟ᴼᴸ\n漢字: 鸟\n識別子: ol\n型: pejvo\nF(汎用性): 1\nグループ数: 27\n基本形: no\n出典: _identifier_sidecar.tsv:724",
       "priority": 0,
       "sourceRoot": "oriol",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 725
+      "sourceLine": 724
     },
     {
       "prefix": "ork",
       "body": "虎鲸",
       "detail": "ork → 虎鲸 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ork\n入力: ork\n最終形: 虎鲸\n漢字: 虎鲸\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6495",
+      "documentation": "語根: ork\n入力: ork\n最終形: 虎鲸\n漢字: 虎鲸\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6492",
       "priority": 0,
       "sourceRoot": "ork",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6495
+      "sourceLine": 6492
     },
     {
       "prefix": "orkestr",
@@ -1477,37 +1453,37 @@
       "prefix": "orkid",
       "body": "兰",
       "detail": "orkid → 兰 (pejvo, F=4, 基本形)",
-      "documentation": "語根: orkid\n入力: orkid\n最終形: 兰\n漢字: 兰\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5116",
+      "documentation": "語根: orkid\n入力: orkid\n最終形: 兰\n漢字: 兰\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5115",
       "priority": 0,
       "sourceRoot": "orkid",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5116
+      "sourceLine": 5115
     },
     {
       "prefix": "orkide",
       "body": "兰ᴼᴱ",
       "detail": "orkide → 兰ᴼᴱ (pejvo, F=2)",
-      "documentation": "語根: orkide\n入力: orkide\n最終形: 兰ᴼᴱ\n漢字: 兰\n識別子: oe\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5117",
+      "documentation": "語根: orkide\n入力: orkide\n最終形: 兰ᴼᴱ\n漢字: 兰\n識別子: oe\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5116",
       "priority": 0,
       "sourceRoot": "orkide",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5117
+      "sourceLine": 5116
     },
     {
       "prefix": "orl",
       "body": "缝边",
       "detail": "orl → 缝边 (pejvo, F=2, 基本形)",
-      "documentation": "語根: orl\n入力: orl\n最終形: 缝边\n漢字: 缝边\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6567",
+      "documentation": "語根: orl\n入力: orl\n最終形: 缝边\n漢字: 缝边\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6564",
       "priority": 0,
       "sourceRoot": "orl",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6567
+      "sourceLine": 6564
     },
     {
       "prefix": "ornam",
@@ -1525,13 +1501,13 @@
       "prefix": "ornit",
       "body": "鸟ᴼ",
       "detail": "ornit → 鸟ᴼ (pejvo, F=3)",
-      "documentation": "語根: ornit\n入力: ornit\n最終形: 鸟ᴼ\n漢字: 鸟\n識別子: o\n型: pejvo\nF(汎用性): 3\nグループ数: 26\n基本形: no\n出典: _identifier_sidecar.tsv:720",
+      "documentation": "語根: ornit\n入力: ornit\n最終形: 鸟ᴼ\n漢字: 鸟\n識別子: o\n型: pejvo\nF(汎用性): 3\nグループ数: 27\n基本形: no\n出典: _identifier_sidecar.tsv:719",
       "priority": 0,
       "sourceRoot": "ornit",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 720
+      "sourceLine": 719
     },
     {
       "prefix": "ort",
@@ -1573,25 +1549,25 @@
       "prefix": "ortografi",
       "body": "拼",
       "detail": "ortografi → 拼 (basic, F=0, 基本形)",
-      "documentation": "語根: ortografi\n入力: ortografi\n最終形: 拼\n漢字: 拼\n識別子: なし\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3715",
+      "documentation": "語根: ortografi\n入力: ortografi\n最終形: 拼\n漢字: 拼\n識別子: なし\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3713",
       "priority": 0,
       "sourceRoot": "ortografi",
       "type": "basic",
       "frequency": 0,
       "base": true,
-      "sourceLine": 3715
+      "sourceLine": 3713
     },
     {
       "prefix": "ortopedi",
       "body": "矫",
       "detail": "ortopedi → 矫 (pejvo, F=4, 基本形)",
-      "documentation": "語根: ortopedi\n入力: ortopedi\n最終形: 矫\n漢字: 矫\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5188",
+      "documentation": "語根: ortopedi\n入力: ortopedi\n最終形: 矫\n漢字: 矫\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5187",
       "priority": 0,
       "sourceRoot": "ortopedi",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5188
+      "sourceLine": 5187
     },
     {
       "prefix": "osced",
@@ -1657,13 +1633,13 @@
       "prefix": "ostagx",
       "body": "人质",
       "detail": "ostag^ → 人质 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ostag^\n入力: ostagx\n最終形: 人质\n漢字: 人质\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5692",
+      "documentation": "語根: ostag^\n入力: ostagx\n最終形: 人质\n漢字: 人质\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5691",
       "priority": 0,
       "sourceRoot": "ostag^",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5692
+      "sourceLine": 5691
     },
     {
       "prefix": "ostr",
@@ -1681,25 +1657,25 @@
       "prefix": "ostrak",
       "body": "陶片",
       "detail": "ostrak → 陶片 (piv, F=2, 基本形)",
-      "documentation": "語根: ostrak\n入力: ostrak\n最終形: 陶片\n漢字: 陶片\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6323",
+      "documentation": "語根: ostrak\n入力: ostrak\n最終形: 陶片\n漢字: 陶片\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6320",
       "priority": 0,
       "sourceRoot": "ostrak",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6323
+      "sourceLine": 6320
     },
     {
       "prefix": "ot",
       "body": "待",
       "detail": "ot → 待 (suf, F=21, 基本形)",
-      "documentation": "語根: ot\n入力: ot\n最終形: 待\n漢字: 待\n識別子: なし\n型: suf\nF(汎用性): 21\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:706",
+      "documentation": "語根: ot\n入力: ot\n最終形: 待\n漢字: 待\n識別子: なし\n型: suf\nF(汎用性): 21\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:705",
       "priority": 0,
       "sourceRoot": "ot",
       "type": "suf",
       "frequency": 21,
       "base": true,
-      "sourceLine": 706
+      "sourceLine": 705
     },
     {
       "prefix": "otari",
@@ -1789,13 +1765,13 @@
       "prefix": "oz",
       "body": "富ᴼ",
       "detail": "oz → 富ᴼ (suf, F=138)",
-      "documentation": "語根: oz\n入力: oz\n最終形: 富ᴼ\n漢字: 富\n識別子: o\n型: suf\nF(汎用性): 138\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:638",
+      "documentation": "語根: oz\n入力: oz\n最終形: 富ᴼ\n漢字: 富\n識別子: o\n型: suf\nF(汎用性): 138\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:637",
       "priority": 0,
       "sourceRoot": "oz",
       "type": "suf",
       "frequency": 138,
       "base": false,
-      "sourceLine": 638
+      "sourceLine": 637
     },
     {
       "prefix": "ozon",

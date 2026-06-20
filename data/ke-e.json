@@ -3,10 +3,10 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 287,
+    "itemCount": 286,
     "skippedCount": 0,
     "bucket": "e",
-    "dictionaryItemCount": 6577
+    "dictionaryItemCount": 6575
   },
   "items": [
     {
@@ -109,13 +109,13 @@
       "prefix": "edif",
       "body": "教化",
       "detail": "edif → 教化 (pejvo, F=4, 基本形)",
-      "documentation": "語根: edif\n入力: edif\n最終形: 教化\n漢字: 教化\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5201",
+      "documentation": "語根: edif\n入力: edif\n最終形: 教化\n漢字: 教化\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5200",
       "priority": 0,
       "sourceRoot": "edif",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5201
+      "sourceLine": 5200
     },
     {
       "prefix": "edikt",
@@ -181,13 +181,13 @@
       "prefix": "efedrin",
       "body": "麻黄碱",
       "detail": "efedrin → 麻黄碱 (piv, F=2, 基本形)",
-      "documentation": "語根: efedrin\n入力: efedrin\n最終形: 麻黄碱\n漢字: 麻黄碱\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5924",
+      "documentation": "語根: efedrin\n入力: efedrin\n最終形: 麻黄碱\n漢字: 麻黄碱\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5922",
       "priority": 0,
       "sourceRoot": "efedrin",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5924
+      "sourceLine": 5922
     },
     {
       "prefix": "efekt",
@@ -229,13 +229,13 @@
       "prefix": "efervesk",
       "body": "泡ᴱ",
       "detail": "efervesk → 泡ᴱ (pejvo, F=3)",
-      "documentation": "語根: efervesk\n入力: efervesk\n最終形: 泡ᴱ\n漢字: 泡\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3870",
+      "documentation": "語根: efervesk\n入力: efervesk\n最終形: 泡ᴱ\n漢字: 泡\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3869",
       "priority": 0,
       "sourceRoot": "efervesk",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 3870
+      "sourceLine": 3869
     },
     {
       "prefix": "efik",
@@ -325,13 +325,13 @@
       "prefix": "egret",
       "body": "冠羽",
       "detail": "egret → 冠羽 (pejvo, F=2, 基本形)",
-      "documentation": "語根: egret\n入力: egret\n最終形: 冠羽\n漢字: 冠羽\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6041",
+      "documentation": "語根: egret\n入力: egret\n最終形: 冠羽\n漢字: 冠羽\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6038",
       "priority": 0,
       "sourceRoot": "egret",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6041
+      "sourceLine": 6038
     },
     {
       "prefix": "egx",
@@ -349,25 +349,25 @@
       "prefix": "ehx",
       "body": "回",
       "detail": "eĥ → 回 (basic, F=13, 基本形)",
-      "documentation": "語根: eĥ\n入力: ehx\n最終形: 回\n漢字: 回\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3571",
+      "documentation": "語根: eĥ\n入力: ehx\n最終形: 回\n漢字: 回\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3569",
       "priority": 0,
       "sourceRoot": "eĥ",
       "type": "basic",
       "frequency": 13,
       "base": true,
-      "sourceLine": 3571
+      "sourceLine": 3569
     },
     {
       "prefix": "ehxin",
       "body": "海胆ᴱᴴ̂",
       "detail": "eh^in → 海胆ᴱᴴ̂ (piv, F=2)",
-      "documentation": "語根: eh^in\n入力: ehxin\n最終形: 海胆ᴱᴴ̂\n漢字: 海胆\n識別子: eĥ\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5185",
+      "documentation": "語根: eh^in\n入力: ehxin\n最終形: 海胆ᴱᴴ̂\n漢字: 海胆\n識別子: eĥ\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5184",
       "priority": 0,
       "sourceRoot": "eh^in",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5185
+      "sourceLine": 5184
     },
     {
       "prefix": "ej",
@@ -397,13 +397,13 @@
       "prefix": "ejgen",
       "body": "特征",
       "detail": "ejgen → 特征 (piv, F=2, 基本形)",
-      "documentation": "語根: ejgen\n入力: ejgen\n最終形: 特征\n漢字: 特征\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5770",
+      "documentation": "語根: ejgen\n入力: ejgen\n最終形: 特征\n漢字: 特征\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5768",
       "priority": 0,
       "sourceRoot": "ejgen",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5770
+      "sourceLine": 5768
     },
     {
       "prefix": "ek",
@@ -421,13 +421,13 @@
       "prefix": "ekin",
       "body": "海胆",
       "detail": "ekin → 海胆 (pejvo, F=4, 基本形)",
-      "documentation": "語根: ekin\n入力: ekin\n最終形: 海胆\n漢字: 海胆\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5184",
+      "documentation": "語根: ekin\n入力: ekin\n最終形: 海胆\n漢字: 海胆\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5183",
       "priority": 0,
       "sourceRoot": "ekin",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5184
+      "sourceLine": 5183
     },
     {
       "prefix": "ekip",
@@ -445,13 +445,13 @@
       "prefix": "eklektik",
       "body": "折衷",
       "detail": "eklektik → 折衷 (pejvo, F=4, 基本形)",
-      "documentation": "語根: eklektik\n入力: eklektik\n最終形: 折衷\n漢字: 折衷\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5236",
+      "documentation": "語根: eklektik\n入力: eklektik\n最終形: 折衷\n漢字: 折衷\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5235",
       "priority": 0,
       "sourceRoot": "eklektik",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5236
+      "sourceLine": 5235
     },
     {
       "prefix": "eklezi",
@@ -481,13 +481,13 @@
       "prefix": "eko",
       "body": "境ᴱ",
       "detail": "eko → 境ᴱ (pejvo, F=13)",
-      "documentation": "語根: eko\n入力: eko\n最終形: 境ᴱ\n漢字: 境\n識別子: e\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3612",
+      "documentation": "語根: eko\n入力: eko\n最終形: 境ᴱ\n漢字: 境\n識別子: e\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3610",
       "priority": 0,
       "sourceRoot": "eko",
       "type": "pejvo",
       "frequency": 13,
       "base": false,
-      "sourceLine": 3612
+      "sourceLine": 3610
     },
     {
       "prefix": "ekologi",
@@ -529,13 +529,13 @@
       "prefix": "ekran",
       "body": "屏",
       "detail": "ekran → 屏 (basic, F=16, 基本形)",
-      "documentation": "語根: ekran\n入力: ekran\n最終形: 屏\n漢字: 屏\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3572",
+      "documentation": "語根: ekran\n入力: ekran\n最終形: 屏\n漢字: 屏\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3570",
       "priority": 0,
       "sourceRoot": "ekran",
       "type": "basic",
       "frequency": 16,
       "base": true,
-      "sourceLine": 3572
+      "sourceLine": 3570
     },
     {
       "prefix": "eks",
@@ -565,13 +565,13 @@
       "prefix": "ekscentrik",
       "body": "偏心",
       "detail": "ekscentrik → 偏心 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ekscentrik\n入力: ekscentrik\n最終形: 偏心\n漢字: 偏心\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6146",
+      "documentation": "語根: ekscentrik\n入力: ekscentrik\n最終形: 偏心\n漢字: 偏心\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6143",
       "priority": 0,
       "sourceRoot": "ekscentrik",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6146
+      "sourceLine": 6143
     },
     {
       "prefix": "eksces",
@@ -637,25 +637,25 @@
       "prefix": "ekskomunik",
       "body": "开除",
       "detail": "ekskomunik → 开除 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ekskomunik\n入力: ekskomunik\n最終形: 开除\n漢字: 开除\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5595",
+      "documentation": "語根: ekskomunik\n入力: ekskomunik\n最終形: 开除\n漢字: 开除\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5594",
       "priority": 0,
       "sourceRoot": "ekskomunik",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5595
+      "sourceLine": 5594
     },
     {
       "prefix": "ekskori",
       "body": "擦伤",
       "detail": "ekskori → 擦伤 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ekskori\n入力: ekskori\n最終形: 擦伤\n漢字: 擦伤\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6556",
+      "documentation": "語根: ekskori\n入力: ekskori\n最終形: 擦伤\n漢字: 擦伤\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6553",
       "priority": 0,
       "sourceRoot": "ekskori",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6556
+      "sourceLine": 6553
     },
     {
       "prefix": "ekskreci",
@@ -721,37 +721,37 @@
       "prefix": "eksped",
       "body": "送ᴱ",
       "detail": "eksped → 送ᴱ (basic, F=6)",
-      "documentation": "語根: eksped\n入力: eksped\n最終形: 送ᴱ\n漢字: 送\n識別子: e\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:657",
+      "documentation": "語根: eksped\n入力: eksped\n最終形: 送ᴱ\n漢字: 送\n識別子: e\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:656",
       "priority": 0,
       "sourceRoot": "eksped",
       "type": "basic",
       "frequency": 6,
       "base": false,
-      "sourceLine": 657
+      "sourceLine": 656
     },
     {
       "prefix": "ekspedici",
       "body": "远征",
       "detail": "ekspedici → 远征 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ekspedici\n入力: ekspedici\n最終形: 远征\n漢字: 远征\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6426",
+      "documentation": "語根: ekspedici\n入力: ekspedici\n最終形: 远征\n漢字: 远征\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6423",
       "priority": 0,
       "sourceRoot": "ekspedici",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6426
+      "sourceLine": 6423
     },
     {
       "prefix": "ekspektor",
       "body": "咳痰",
       "detail": "ekspektor → 咳痰 (piv, F=2, 基本形)",
-      "documentation": "語根: ekspektor\n入力: ekspektor\n最終形: 咳痰\n漢字: 咳痰\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6520",
+      "documentation": "語根: ekspektor\n入力: ekspektor\n最終形: 咳痰\n漢字: 咳痰\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6517",
       "priority": 0,
       "sourceRoot": "ekspektor",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6520
+      "sourceLine": 6517
     },
     {
       "prefix": "eksperiment",
@@ -769,25 +769,25 @@
       "prefix": "ekspertiz",
       "body": "鉴",
       "detail": "ekspertiz → 鉴 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ekspertiz\n入力: ekspertiz\n最終形: 鉴\n漢字: 鉴\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5658",
+      "documentation": "語根: ekspertiz\n入力: ekspertiz\n最終形: 鉴\n漢字: 鉴\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5657",
       "priority": 0,
       "sourceRoot": "ekspertiz",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5658
+      "sourceLine": 5657
     },
     {
       "prefix": "eksplic",
       "body": "释ᴱᶜ",
       "detail": "eksplic → 释ᴱᶜ (piv, F=2)",
-      "documentation": "語根: eksplic\n入力: eksplic\n最終形: 释ᴱᶜ\n漢字: 释\n識別子: ec\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5499",
+      "documentation": "語根: eksplic\n入力: eksplic\n最終形: 释ᴱᶜ\n漢字: 释\n識別子: ec\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5498",
       "priority": 0,
       "sourceRoot": "eksplic",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5499
+      "sourceLine": 5498
     },
     {
       "prefix": "eksplicit",
@@ -805,13 +805,13 @@
       "prefix": "eksplik",
       "body": "释ᴱˢ",
       "detail": "eksplik → 释ᴱˢ (pejvo, F=2)",
-      "documentation": "語根: eksplik\n入力: eksplik\n最終形: 释ᴱˢ\n漢字: 释\n識別子: es\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5498",
+      "documentation": "語根: eksplik\n入力: eksplik\n最終形: 释ᴱˢ\n漢字: 释\n識別子: es\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5497",
       "priority": 0,
       "sourceRoot": "eksplik",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5498
+      "sourceLine": 5497
     },
     {
       "prefix": "eksplod",
@@ -829,13 +829,13 @@
       "prefix": "ekspluat",
       "body": "采",
       "detail": "ekspluat → 采 (basic, F=13, 基本形)",
-      "documentation": "語根: ekspluat\n入力: ekspluat\n最終形: 采\n漢字: 采\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3573",
+      "documentation": "語根: ekspluat\n入力: ekspluat\n最終形: 采\n漢字: 采\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3571",
       "priority": 0,
       "sourceRoot": "ekspluat",
       "type": "basic",
       "frequency": 13,
       "base": true,
-      "sourceLine": 3573
+      "sourceLine": 3571
     },
     {
       "prefix": "ekspon",
@@ -889,13 +889,13 @@
       "prefix": "ekspres",
       "body": "速ᴱ",
       "detail": "ekspres → 速ᴱ (basic, F=11)",
-      "documentation": "語根: ekspres\n入力: ekspres\n最終形: 速ᴱ\n漢字: 速\n識別子: e\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:634",
+      "documentation": "語根: ekspres\n入力: ekspres\n最終形: 速ᴱ\n漢字: 速\n識別子: e\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:633",
       "priority": 0,
       "sourceRoot": "ekspres",
       "type": "basic",
       "frequency": 11,
       "base": false,
-      "sourceLine": 634
+      "sourceLine": 633
     },
     {
       "prefix": "ekspresion",
@@ -985,13 +985,13 @@
       "prefix": "ekstradici",
       "body": "引渡",
       "detail": "ekstradici → 引渡 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ekstradici\n入力: ekstradici\n最終形: 引渡\n漢字: 引渡\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6538",
+      "documentation": "語根: ekstradici\n入力: ekstradici\n最終形: 引渡\n漢字: 引渡\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6535",
       "priority": 0,
       "sourceRoot": "ekstradici",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6538
+      "sourceLine": 6535
     },
     {
       "prefix": "ekstrakt",
@@ -1009,13 +1009,13 @@
       "prefix": "ekstrapol",
       "body": "外推",
       "detail": "ekstrapol → 外推 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ekstrapol\n入力: ekstrapol\n最終形: 外推\n漢字: 外推\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5941",
+      "documentation": "語根: ekstrapol\n入力: ekstrapol\n最終形: 外推\n漢字: 外推\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5939",
       "priority": 0,
       "sourceRoot": "ekstrapol",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5941
+      "sourceLine": 5939
     },
     {
       "prefix": "ekstravaganc",
@@ -1093,13 +1093,13 @@
       "prefix": "ektopi",
       "body": "异位",
       "detail": "ektopi → 异位 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ektopi\n入力: ektopi\n最終形: 异位\n漢字: 异位\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5437",
+      "documentation": "語根: ektopi\n入力: ektopi\n最終形: 异位\n漢字: 异位\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5436",
       "priority": 0,
       "sourceRoot": "ektopi",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5437
+      "sourceLine": 5436
     },
     {
       "prefix": "ekvaci",
@@ -1117,13 +1117,13 @@
       "prefix": "ekvator",
       "body": "赤",
       "detail": "ekvator → 赤 (basic, F=2, 基本形)",
-      "documentation": "語根: ekvator\n入力: ekvator\n最終形: 赤\n漢字: 赤\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3933",
+      "documentation": "語根: ekvator\n入力: ekvator\n最終形: 赤\n漢字: 赤\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3932",
       "priority": 0,
       "sourceRoot": "ekvator",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 3933
+      "sourceLine": 3932
     },
     {
       "prefix": "ekvilibr",
@@ -1153,13 +1153,13 @@
       "prefix": "ekvipotencial",
       "body": "等势",
       "detail": "ekvipotencial → 等势 (piv, F=2, 基本形)",
-      "documentation": "語根: ekvipotencial\n入力: ekvipotencial\n最終形: 等势\n漢字: 等势\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5972",
+      "documentation": "語根: ekvipotencial\n入力: ekvipotencial\n最終形: 等势\n漢字: 等势\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5970",
       "priority": 0,
       "sourceRoot": "ekvipotencial",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5972
+      "sourceLine": 5970
     },
     {
       "prefix": "ekvivalent",
@@ -1177,25 +1177,25 @@
       "prefix": "ekvizet",
       "body": "问荆",
       "detail": "ekvizet → 问荆 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ekvizet\n入力: ekvizet\n最終形: 问荆\n漢字: 问荆\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5677",
+      "documentation": "語根: ekvizet\n入力: ekvizet\n最終形: 问荆\n漢字: 问荆\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5676",
       "priority": 0,
       "sourceRoot": "ekvizet",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5677
+      "sourceLine": 5676
     },
     {
       "prefix": "ekzakt",
       "body": "精",
       "detail": "ekzakt → 精 (basic, F=7, 基本形)",
-      "documentation": "語根: ekzakt\n入力: ekzakt\n最終形: 精\n漢字: 精\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:3574",
+      "documentation": "語根: ekzakt\n入力: ekzakt\n最終形: 精\n漢字: 精\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:3572",
       "priority": 0,
       "sourceRoot": "ekzakt",
       "type": "basic",
       "frequency": 7,
       "base": true,
-      "sourceLine": 3574
+      "sourceLine": 3572
     },
     {
       "prefix": "ekzalt",
@@ -1225,49 +1225,49 @@
       "prefix": "ekzantem",
       "body": "疹ᴱ",
       "detail": "ekzantem → 疹ᴱ (pejvo, F=3)",
-      "documentation": "語根: ekzantem\n入力: ekzantem\n最終形: 疹ᴱ\n漢字: 疹\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5171",
+      "documentation": "語根: ekzantem\n入力: ekzantem\n最終形: 疹ᴱ\n漢字: 疹\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5170",
       "priority": 0,
       "sourceRoot": "ekzantem",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5171
+      "sourceLine": 5170
     },
     {
       "prefix": "ekzegez",
       "body": "释",
       "detail": "ekzegez → 释 (pejvo, F=3, 基本形)",
-      "documentation": "語根: ekzegez\n入力: ekzegez\n最終形: 释\n漢字: 释\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:5497",
+      "documentation": "語根: ekzegez\n入力: ekzegez\n最終形: 释\n漢字: 释\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:5496",
       "priority": 0,
       "sourceRoot": "ekzegez",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5497
+      "sourceLine": 5496
     },
     {
       "prefix": "ekzekuci",
       "body": "执ᴱᶜ",
       "detail": "ekzekuci → 执ᴱᶜ (pejvo, F=3)",
-      "documentation": "語根: ekzekuci\n入力: ekzekuci\n最終形: 执ᴱᶜ\n漢字: 执\n識別子: ec\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3935",
+      "documentation": "語根: ekzekuci\n入力: ekzekuci\n最終形: 执ᴱᶜ\n漢字: 执\n識別子: ec\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3934",
       "priority": 0,
       "sourceRoot": "ekzekuci",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 3935
+      "sourceLine": 3934
     },
     {
       "prefix": "ekzekut",
       "body": "执",
       "detail": "ekzekut → 执 (basic, F=5, 基本形)",
-      "documentation": "語根: ekzekut\n入力: ekzekut\n最終形: 执\n漢字: 执\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3934",
+      "documentation": "語根: ekzekut\n入力: ekzekut\n最終形: 执\n漢字: 执\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3933",
       "priority": 0,
       "sourceRoot": "ekzekut",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 3934
+      "sourceLine": 3933
     },
     {
       "prefix": "ekzempl",
@@ -1285,13 +1285,13 @@
       "prefix": "ekzempler",
       "body": "册ᴱ",
       "detail": "ekzempler → 册ᴱ (basic, F=5)",
-      "documentation": "語根: ekzempler\n入力: ekzempler\n最終形: 册ᴱ\n漢字: 册\n識別子: e\n型: basic\nF(汎用性): 5\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1937",
+      "documentation": "語根: ekzempler\n入力: ekzempler\n最終形: 册ᴱ\n漢字: 册\n識別子: e\n型: basic\nF(汎用性): 5\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1938",
       "priority": 0,
       "sourceRoot": "ekzempler",
       "type": "basic",
       "frequency": 5,
       "base": false,
-      "sourceLine": 1937
+      "sourceLine": 1938
     },
     {
       "prefix": "ekzerc",
@@ -1357,25 +1357,25 @@
       "prefix": "ekzoftalmi",
       "body": "凸眼",
       "detail": "ekzoftalmi → 凸眼 (piv, F=2, 基本形)",
-      "documentation": "語根: ekzoftalmi\n入力: ekzoftalmi\n最終形: 凸眼\n漢字: 凸眼\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6327",
+      "documentation": "語根: ekzoftalmi\n入力: ekzoftalmi\n最終形: 凸眼\n漢字: 凸眼\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6324",
       "priority": 0,
       "sourceRoot": "ekzoftalmi",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6327
+      "sourceLine": 6324
     },
     {
       "prefix": "ekzorc",
       "body": "驱魔",
       "detail": "ekzorc → 驱魔 (pejvo, F=4, 基本形)",
-      "documentation": "語根: ekzorc\n入力: ekzorc\n最終形: 驱魔\n漢字: 驱魔\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5181",
+      "documentation": "語根: ekzorc\n入力: ekzorc\n最終形: 驱魔\n漢字: 驱魔\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5180",
       "priority": 0,
       "sourceRoot": "ekzorc",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5181
+      "sourceLine": 5180
     },
     {
       "prefix": "ekzot",
@@ -1477,13 +1477,13 @@
       "prefix": "elegi",
       "body": "挽歌",
       "detail": "elegi → 挽歌 (pejvo, F=2, 基本形)",
-      "documentation": "語根: elegi\n入力: elegi\n最終形: 挽歌\n漢字: 挽歌\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6137",
+      "documentation": "語根: elegi\n入力: elegi\n最終形: 挽歌\n漢字: 挽歌\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6134",
       "priority": 0,
       "sourceRoot": "elegi",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6137
+      "sourceLine": 6134
     },
     {
       "prefix": "elekt",
@@ -1585,37 +1585,37 @@
       "prefix": "elit",
       "body": "优ᴱ",
       "detail": "elit → 优ᴱ (pejvo, F=2)",
-      "documentation": "語根: elit\n入力: elit\n最終形: 优ᴱ\n漢字: 优\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3882",
+      "documentation": "語根: elit\n入力: elit\n最終形: 优ᴱ\n漢字: 优\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3881",
       "priority": 0,
       "sourceRoot": "elit",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3882
+      "sourceLine": 3881
     },
     {
       "prefix": "elitr",
       "body": "硬翅",
       "detail": "elitr → 硬翅 (pejvo, F=2, 基本形)",
-      "documentation": "語根: elitr\n入力: elitr\n最終形: 硬翅\n漢字: 硬翅\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6512",
+      "documentation": "語根: elitr\n入力: elitr\n最終形: 硬翅\n漢字: 硬翅\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6509",
       "priority": 0,
       "sourceRoot": "elitr",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6512
+      "sourceLine": 6509
     },
     {
       "prefix": "elize",
       "body": "福ᴱ",
       "detail": "elize → 福ᴱ (pejvo, F=3)",
-      "documentation": "語根: elize\n入力: elize\n最終形: 福ᴱ\n漢字: 福\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5521",
+      "documentation": "語根: elize\n入力: elize\n最終形: 福ᴱ\n漢字: 福\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5520",
       "priority": 0,
       "sourceRoot": "elize",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5521
+      "sourceLine": 5520
     },
     {
       "prefix": "elizi",
@@ -1789,25 +1789,25 @@
       "prefix": "emerit",
       "body": "退",
       "detail": "emerit → 退 (basic, F=7, 基本形)",
-      "documentation": "語根: emerit\n入力: emerit\n最終形: 退\n漢字: 退\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3581",
+      "documentation": "語根: emerit\n入力: emerit\n最終形: 退\n漢字: 退\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3579",
       "priority": 0,
       "sourceRoot": "emerit",
       "type": "basic",
       "frequency": 7,
       "base": true,
-      "sourceLine": 3581
+      "sourceLine": 3579
     },
     {
       "prefix": "emeritur",
       "body": "退休金",
       "detail": "emeritur → 退休金 (pejvo, F=2, 基本形)",
-      "documentation": "語根: emeritur\n入力: emeritur\n最終形: 退休金\n漢字: 退休金\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5964",
+      "documentation": "語根: emeritur\n入力: emeritur\n最終形: 退休金\n漢字: 退休金\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5962",
       "priority": 0,
       "sourceRoot": "emeritur",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5964
+      "sourceLine": 5962
     },
     {
       "prefix": "emfaz",
@@ -1825,13 +1825,13 @@
       "prefix": "emfizem",
       "body": "气肿",
       "detail": "emfizem → 气肿 (pejvo, F=3, 基本形)",
-      "documentation": "語根: emfizem\n入力: emfizem\n最終形: 气肿\n漢字: 气肿\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5621",
+      "documentation": "語根: emfizem\n入力: emfizem\n最終形: 气肿\n漢字: 气肿\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5620",
       "priority": 0,
       "sourceRoot": "emfizem",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5621
+      "sourceLine": 5620
     },
     {
       "prefix": "emi",
@@ -1849,13 +1849,13 @@
       "prefix": "emid",
       "body": "龟ᴱ",
       "detail": "emid → 龟ᴱ (piv, F=1)",
-      "documentation": "語根: emid\n入力: emid\n最終形: 龟ᴱ\n漢字: 龟\n識別子: e\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3811",
+      "documentation": "語根: emid\n入力: emid\n最終形: 龟ᴱ\n漢字: 龟\n識別子: e\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3810",
       "priority": 0,
       "sourceRoot": "emid",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 3811
+      "sourceLine": 3810
     },
     {
       "prefix": "emigr",
@@ -1885,13 +1885,13 @@
       "prefix": "emisi",
       "body": "发ᴱ",
       "detail": "emisi → 发ᴱ (pejvo, F=4)",
-      "documentation": "語根: emisi\n入力: emisi\n最終形: 发ᴱ\n漢字: 发\n識別子: e\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3596",
+      "documentation": "語根: emisi\n入力: emisi\n最終形: 发ᴱ\n漢字: 发\n識別子: e\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3594",
       "priority": 0,
       "sourceRoot": "emisi",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 3596
+      "sourceLine": 3594
     },
     {
       "prefix": "emoci",
@@ -1909,13 +1909,13 @@
       "prefix": "empir",
       "body": "帝风",
       "detail": "empir → 帝风 (pejvo, F=3, 基本形)",
-      "documentation": "語根: empir\n入力: empir\n最終形: 帝风\n漢字: 帝风\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5325",
+      "documentation": "語根: empir\n入力: empir\n最終形: 帝风\n漢字: 帝风\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5324",
       "priority": 0,
       "sourceRoot": "empir",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5325
+      "sourceLine": 5324
     },
     {
       "prefix": "empiri",
@@ -1952,18 +1952,6 @@
       "frequency": 0,
       "base": true,
       "sourceLine": 111
-    },
-    {
-      "prefix": "en-",
-      "body": "入",
-      "detail": "en- → 入 (pejvo, F=2, 基本形)",
-      "documentation": "語根: en-\n入力: en-\n最終形: 入\n漢字: 入\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5736",
-      "priority": 0,
-      "sourceRoot": "en-",
-      "type": "pejvo",
-      "frequency": 2,
-      "base": true,
-      "sourceLine": 5736
     },
     {
       "prefix": "enantio",
@@ -2029,13 +2017,13 @@
       "prefix": "endivi",
       "body": "苦菜",
       "detail": "endivi → 苦菜 (pejvo, F=3, 基本形)",
-      "documentation": "語根: endivi\n入力: endivi\n最終形: 苦菜\n漢字: 苦菜\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5554",
+      "documentation": "語根: endivi\n入力: endivi\n最終形: 苦菜\n漢字: 苦菜\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5553",
       "priority": 0,
       "sourceRoot": "endivi",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5554
+      "sourceLine": 5553
     },
     {
       "prefix": "endo",
@@ -2065,25 +2053,25 @@
       "prefix": "energi",
       "body": "能ᴱ",
       "detail": "energi → 能ᴱ (basic, F=55)",
-      "documentation": "語根: energi\n入力: energi\n最終形: 能ᴱ\n漢字: 能\n識別子: e\n型: basic\nF(汎用性): 55\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:627",
+      "documentation": "語根: energi\n入力: energi\n最終形: 能ᴱ\n漢字: 能\n識別子: e\n型: basic\nF(汎用性): 55\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:626",
       "priority": 0,
       "sourceRoot": "energi",
       "type": "basic",
       "frequency": 55,
       "base": false,
-      "sourceLine": 627
+      "sourceLine": 626
     },
     {
       "prefix": "engagx",
       "body": "聘",
       "detail": "engag^ → 聘 (pejvo, F=3, 基本形)",
-      "documentation": "語根: engag^\n入力: engagx\n最終形: 聘\n漢字: 聘\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5618",
+      "documentation": "語根: engag^\n入力: engagx\n最終形: 聘\n漢字: 聘\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5617",
       "priority": 0,
       "sourceRoot": "engag^",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5618
+      "sourceLine": 5617
     },
     {
       "prefix": "enigm",
@@ -2101,13 +2089,13 @@
       "prefix": "enkauxstik",
       "body": "蜡画",
       "detail": "enkau^stik → 蜡画 (piv, F=2, 基本形)",
-      "documentation": "語根: enkau^stik\n入力: enkauxstik\n最終形: 蜡画\n漢字: 蜡画\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6047",
+      "documentation": "語根: enkau^stik\n入力: enkauxstik\n最終形: 蜡画\n漢字: 蜡画\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6044",
       "priority": 0,
       "sourceRoot": "enkau^stik",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6047
+      "sourceLine": 6044
     },
     {
       "prefix": "enket",
@@ -2149,13 +2137,13 @@
       "prefix": "ensembl",
       "body": "套ᴱ",
       "detail": "ensembl → 套ᴱ (pejvo, F=3)",
-      "documentation": "語根: ensembl\n入力: ensembl\n最終形: 套ᴱ\n漢字: 套\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4095",
+      "documentation": "語根: ensembl\n入力: ensembl\n最終形: 套ᴱ\n漢字: 套\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4094",
       "priority": 0,
       "sourceRoot": "ensembl",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4095
+      "sourceLine": 4094
     },
     {
       "prefix": "enter",
@@ -2173,13 +2161,13 @@
       "prefix": "entjer",
       "body": "整ᴱ",
       "detail": "entjer → 整ᴱ (pejvo, F=3)",
-      "documentation": "語根: entjer\n入力: entjer\n最終形: 整ᴱ\n漢字: 整\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:673",
+      "documentation": "語根: entjer\n入力: entjer\n最終形: 整ᴱ\n漢字: 整\n識別子: e\n型: pejvo\nF(汎用性): 3\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:672",
       "priority": 0,
       "sourceRoot": "entjer",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 673
+      "sourceLine": 672
     },
     {
       "prefix": "entom",
@@ -2209,13 +2197,13 @@
       "prefix": "entuziasm",
       "body": "热ᴱ",
       "detail": "entuziasm → 热ᴱ (basic, F=9)",
-      "documentation": "語根: entuziasm\n入力: entuziasm\n最終形: 热ᴱ\n漢字: 热\n識別子: e\n型: basic\nF(汎用性): 9\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1914",
+      "documentation": "語根: entuziasm\n入力: entuziasm\n最終形: 热ᴱ\n漢字: 热\n識別子: e\n型: basic\nF(汎用性): 9\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:1915",
       "priority": 0,
       "sourceRoot": "entuziasm",
       "type": "basic",
       "frequency": 9,
       "base": false,
-      "sourceLine": 1914
+      "sourceLine": 1915
     },
     {
       "prefix": "enu",
@@ -2245,13 +2233,13 @@
       "prefix": "enurez",
       "body": "遗尿",
       "detail": "enurez → 遗尿 (pejvo, F=2, 基本形)",
-      "documentation": "語根: enurez\n入力: enurez\n最終形: 遗尿\n漢字: 遗尿\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5778",
+      "documentation": "語根: enurez\n入力: enurez\n最終形: 遗尿\n漢字: 遗尿\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5776",
       "priority": 0,
       "sourceRoot": "enurez",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5778
+      "sourceLine": 5776
     },
     {
       "prefix": "envi",
@@ -2269,13 +2257,13 @@
       "prefix": "envult",
       "body": "咒ᴱ",
       "detail": "envult → 咒ᴱ (pejvo, F=2)",
-      "documentation": "語根: envult\n入力: envult\n最終形: 咒ᴱ\n漢字: 咒\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5927",
+      "documentation": "語根: envult\n入力: envult\n最終形: 咒ᴱ\n漢字: 咒\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5925",
       "priority": 0,
       "sourceRoot": "envult",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5927
+      "sourceLine": 5925
     },
     {
       "prefix": "enzim",
@@ -2293,13 +2281,13 @@
       "prefix": "ependim",
       "body": "室膜",
       "detail": "ependim → 室膜 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ependim\n入力: ependim\n最終形: 室膜\n漢字: 室膜\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6024",
+      "documentation": "語根: ependim\n入力: ependim\n最終形: 室膜\n漢字: 室膜\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6021",
       "priority": 0,
       "sourceRoot": "ependim",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6024
+      "sourceLine": 6021
     },
     {
       "prefix": "epi",
@@ -2317,49 +2305,49 @@
       "prefix": "epidemi",
       "body": "疫",
       "detail": "epidemi → 疫 (basic, F=6, 基本形)",
-      "documentation": "語根: epidemi\n入力: epidemi\n最終形: 疫\n漢字: 疫\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3936",
+      "documentation": "語根: epidemi\n入力: epidemi\n最終形: 疫\n漢字: 疫\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3935",
       "priority": 0,
       "sourceRoot": "epidemi",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 3936
+      "sourceLine": 3935
     },
     {
       "prefix": "epifiz",
       "body": "骨端",
       "detail": "epifiz → 骨端 (pejvo, F=2, 基本形)",
-      "documentation": "語根: epifiz\n入力: epifiz\n最終形: 骨端\n漢字: 骨端\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6521",
+      "documentation": "語根: epifiz\n入力: epifiz\n最終形: 骨端\n漢字: 骨端\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6518",
       "priority": 0,
       "sourceRoot": "epifiz",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6521
+      "sourceLine": 6518
     },
     {
       "prefix": "epik",
       "body": "史诗ᴱᴷ",
       "detail": "epik → 史诗ᴱᴷ (piv, F=2)",
-      "documentation": "語根: epik\n入力: epik\n最終形: 史诗ᴱᴷ\n漢字: 史诗\n識別子: ek\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5742",
+      "documentation": "語根: epik\n入力: epik\n最終形: 史诗ᴱᴷ\n漢字: 史诗\n識別子: ek\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5740",
       "priority": 0,
       "sourceRoot": "epik",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5742
+      "sourceLine": 5740
     },
     {
       "prefix": "epiornit",
       "body": "隆鸟",
       "detail": "epiornit → 隆鸟 (pejvo, F=2, 基本形)",
-      "documentation": "語根: epiornit\n入力: epiornit\n最終形: 隆鸟\n漢字: 隆鸟\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6016",
+      "documentation": "語根: epiornit\n入力: epiornit\n最終形: 隆鸟\n漢字: 隆鸟\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6013",
       "priority": 0,
       "sourceRoot": "epiornit",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6016
+      "sourceLine": 6013
     },
     {
       "prefix": "episkop",
@@ -2377,49 +2365,49 @@
       "prefix": "epistol",
       "body": "信ᴱ",
       "detail": "epistol → 信ᴱ (pejvo, F=2)",
-      "documentation": "語根: epistol\n入力: epistol\n最終形: 信ᴱ\n漢字: 信\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:551",
+      "documentation": "語根: epistol\n入力: epistol\n最終形: 信ᴱ\n漢字: 信\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:550",
       "priority": 0,
       "sourceRoot": "epistol",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 551
+      "sourceLine": 550
     },
     {
       "prefix": "epiteli",
       "body": "上皮",
       "detail": "epiteli → 上皮 (pejvo, F=2, 基本形)",
-      "documentation": "語根: epiteli\n入力: epiteli\n最終形: 上皮\n漢字: 上皮\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5892",
+      "documentation": "語根: epiteli\n入力: epiteli\n最終形: 上皮\n漢字: 上皮\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5890",
       "priority": 0,
       "sourceRoot": "epiteli",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5892
+      "sourceLine": 5890
     },
     {
       "prefix": "epitet",
       "body": "修饰",
       "detail": "epitet → 修饰 (pejvo, F=2, 基本形)",
-      "documentation": "語根: epitet\n入力: epitet\n最終形: 修饰\n漢字: 修饰\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6168",
+      "documentation": "語根: epitet\n入力: epitet\n最終形: 修饰\n漢字: 修饰\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6165",
       "priority": 0,
       "sourceRoot": "epitet",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6168
+      "sourceLine": 6165
     },
     {
       "prefix": "epitom",
       "body": "抄",
       "detail": "epitom → 抄 (pejvo, F=3, 基本形)",
-      "documentation": "語根: epitom\n入力: epitom\n最終形: 抄\n漢字: 抄\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5353",
+      "documentation": "語根: epitom\n入力: epitom\n最終形: 抄\n漢字: 抄\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5352",
       "priority": 0,
       "sourceRoot": "epitom",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5353
+      "sourceLine": 5352
     },
     {
       "prefix": "epizod",
@@ -2449,25 +2437,25 @@
       "prefix": "epoksi",
       "body": "环氧",
       "detail": "epoksi → 环氧 (piv, F=2, 基本形)",
-      "documentation": "語根: epoksi\n入力: epoksi\n最終形: 环氧\n漢字: 环氧\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5817",
+      "documentation": "語根: epoksi\n入力: epoksi\n最終形: 环氧\n漢字: 环氧\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5815",
       "priority": 0,
       "sourceRoot": "epoksi",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5817
+      "sourceLine": 5815
     },
     {
       "prefix": "epope",
       "body": "史诗",
       "detail": "epope → 史诗 (pejvo, F=2, 基本形)",
-      "documentation": "語根: epope\n入力: epope\n最終形: 史诗\n漢字: 史诗\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5741",
+      "documentation": "語根: epope\n入力: epope\n最終形: 史诗\n漢字: 史诗\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5739",
       "priority": 0,
       "sourceRoot": "epope",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5741
+      "sourceLine": 5739
     },
     {
       "prefix": "er",
@@ -2557,61 +2545,61 @@
       "prefix": "erik",
       "body": "石南",
       "detail": "erik → 石南 (pejvo, F=3, 基本形)",
-      "documentation": "語根: erik\n入力: erik\n最終形: 石南\n漢字: 石南\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5285",
+      "documentation": "語根: erik\n入力: erik\n最終形: 石南\n漢字: 石南\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5284",
       "priority": 0,
       "sourceRoot": "erik",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5285
+      "sourceLine": 5284
     },
     {
       "prefix": "erinac",
       "body": "猬",
       "detail": "erinac → 猬 (pejvo, F=2, 基本形)",
-      "documentation": "語根: erinac\n入力: erinac\n最終形: 猬\n漢字: 猬\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6131",
+      "documentation": "語根: erinac\n入力: erinac\n最終形: 猬\n漢字: 猬\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6128",
       "priority": 0,
       "sourceRoot": "erinac",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6131
+      "sourceLine": 6128
     },
     {
       "prefix": "eritrocit",
       "body": "红胞",
       "detail": "eritrocit → 红胞 (pejvo, F=3, 基本形)",
-      "documentation": "語根: eritrocit\n入力: eritrocit\n最終形: 红胞\n漢字: 红胞\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5319",
+      "documentation": "語根: eritrocit\n入力: eritrocit\n最終形: 红胞\n漢字: 红胞\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5318",
       "priority": 0,
       "sourceRoot": "eritrocit",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5319
+      "sourceLine": 5318
     },
     {
       "prefix": "eritroni",
       "body": "猪牙花",
       "detail": "eritroni → 猪牙花 (pejvo, F=2, 基本形)",
-      "documentation": "語根: eritroni\n入力: eritroni\n最終形: 猪牙花\n漢字: 猪牙花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6513",
+      "documentation": "語根: eritroni\n入力: eritroni\n最終形: 猪牙花\n漢字: 猪牙花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6510",
       "priority": 0,
       "sourceRoot": "eritroni",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6513
+      "sourceLine": 6510
     },
     {
       "prefix": "erizipel",
       "body": "丹毒",
       "detail": "erizipel → 丹毒 (pejvo, F=1, 基本形)",
-      "documentation": "語根: erizipel\n入力: erizipel\n最終形: 丹毒\n漢字: 丹毒\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6577",
+      "documentation": "語根: erizipel\n入力: erizipel\n最終形: 丹毒\n漢字: 丹毒\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6574",
       "priority": 0,
       "sourceRoot": "erizipel",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 6577
+      "sourceLine": 6574
     },
     {
       "prefix": "ermen",
@@ -2677,13 +2665,13 @@
       "prefix": "eroto",
       "body": "色情",
       "detail": "eroto → 色情 (pejvo, F=2, 基本形)",
-      "documentation": "語根: eroto\n入力: eroto\n最終形: 色情\n漢字: 色情\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6370",
+      "documentation": "語根: eroto\n入力: eroto\n最終形: 色情\n漢字: 色情\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6367",
       "priority": 0,
       "sourceRoot": "eroto",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6370
+      "sourceLine": 6367
     },
     {
       "prefix": "erozi",
@@ -2737,13 +2725,13 @@
       "prefix": "esamen",
       "body": "蜂群",
       "detail": "esamen → 蜂群 (piv, F=2, 基本形)",
-      "documentation": "語根: esamen\n入力: esamen\n最終形: 蜂群\n漢字: 蜂群\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6069",
+      "documentation": "語根: esamen\n入力: esamen\n最終形: 蜂群\n漢字: 蜂群\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6066",
       "priority": 0,
       "sourceRoot": "esamen",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6069
+      "sourceLine": 6066
     },
     {
       "prefix": "escept",
@@ -2809,37 +2797,37 @@
       "prefix": "eskalon",
       "body": "梯队",
       "detail": "eskalon → 梯队 (piv, F=2, 基本形)",
-      "documentation": "語根: eskalon\n入力: eskalon\n最終形: 梯队\n漢字: 梯队\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6281",
+      "documentation": "語根: eskalon\n入力: eskalon\n最終形: 梯队\n漢字: 梯队\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6278",
       "priority": 0,
       "sourceRoot": "eskalon",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6281
+      "sourceLine": 6278
     },
     {
       "prefix": "eskap",
       "body": "逃ᴱ",
       "detail": "eskap → 逃ᴱ (basic, F=7)",
-      "documentation": "語根: eskap\n入力: eskap\n最終形: 逃ᴱ\n漢字: 逃\n識別子: e\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3939",
+      "documentation": "語根: eskap\n入力: eskap\n最終形: 逃ᴱ\n漢字: 逃\n識別子: e\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3938",
       "priority": 0,
       "sourceRoot": "eskap",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 3939
+      "sourceLine": 3938
     },
     {
       "prefix": "eskar",
       "body": "焦疤",
       "detail": "eskar → 焦疤 (piv, F=2, 基本形)",
-      "documentation": "語根: eskar\n入力: eskar\n最終形: 焦疤\n漢字: 焦疤\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5806",
+      "documentation": "語根: eskar\n入力: eskar\n最終形: 焦疤\n漢字: 焦疤\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5804",
       "priority": 0,
       "sourceRoot": "eskar",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5806
+      "sourceLine": 5804
     },
     {
       "prefix": "eskarp",
@@ -3133,13 +3121,13 @@
       "prefix": "etil",
       "body": "乙",
       "detail": "etil → 乙 (pejvo, F=2, 基本形)",
-      "documentation": "語根: etil\n入力: etil\n最終形: 乙\n漢字: 乙\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6268",
+      "documentation": "語根: etil\n入力: etil\n最終形: 乙\n漢字: 乙\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6265",
       "priority": 0,
       "sourceRoot": "etil",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6268
+      "sourceLine": 6265
     },
     {
       "prefix": "etim",
@@ -3157,25 +3145,25 @@
       "prefix": "etn",
       "body": "族ᴱ",
       "detail": "etn → 族ᴱ (basic, F=15)",
-      "documentation": "語根: etn\n入力: etn\n最終形: 族ᴱ\n漢字: 族\n識別子: e\n型: basic\nF(汎用性): 15\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:596",
+      "documentation": "語根: etn\n入力: etn\n最終形: 族ᴱ\n漢字: 族\n識別子: e\n型: basic\nF(汎用性): 15\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:595",
       "priority": 0,
       "sourceRoot": "etn",
       "type": "basic",
       "frequency": 15,
       "base": false,
-      "sourceLine": 596
+      "sourceLine": 595
     },
     {
       "prefix": "etos",
       "body": "氛",
       "detail": "etos → 氛 (pejvo, F=3, 基本形)",
-      "documentation": "語根: etos\n入力: etos\n最終形: 氛\n漢字: 氛\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5386",
+      "documentation": "語根: etos\n入力: etos\n最終形: 氛\n漢字: 氛\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5385",
       "priority": 0,
       "sourceRoot": "etos",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5386
+      "sourceLine": 5385
     },
     {
       "prefix": "etuv",
@@ -3205,13 +3193,13 @@
       "prefix": "euxfauxzi",
       "body": "磷虾",
       "detail": "eu^fau^zi → 磷虾 (piv, F=2, 基本形)",
-      "documentation": "語根: eu^fau^zi\n入力: euxfauxzi\n最終形: 磷虾\n漢字: 磷虾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6162",
+      "documentation": "語根: eu^fau^zi\n入力: euxfauxzi\n最終形: 磷虾\n漢字: 磷虾\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6159",
       "priority": 0,
       "sourceRoot": "eu^fau^zi",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6162
+      "sourceLine": 6159
     },
     {
       "prefix": "euxforbi",
@@ -3229,73 +3217,73 @@
       "prefix": "euxfori",
       "body": "欣快",
       "detail": "eu^fori → 欣快 (piv, F=2, 基本形)",
-      "documentation": "語根: eu^fori\n入力: euxfori\n最終形: 欣快\n漢字: 欣快\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6300",
+      "documentation": "語根: eu^fori\n入力: euxfori\n最終形: 欣快\n漢字: 欣快\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6297",
       "priority": 0,
       "sourceRoot": "eu^fori",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6300
+      "sourceLine": 6297
     },
     {
       "prefix": "euxgenik",
       "body": "优生",
       "detail": "eu^genik → 优生 (pejvo, F=3, 基本形)",
-      "documentation": "語根: eu^genik\n入力: euxgenik\n最終形: 优生\n漢字: 优生\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5696",
+      "documentation": "語根: eu^genik\n入力: euxgenik\n最終形: 优生\n漢字: 优生\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5695",
       "priority": 0,
       "sourceRoot": "eu^genik",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5696
+      "sourceLine": 5695
     },
     {
       "prefix": "euxkariot",
       "body": "真核",
       "detail": "eu^kariot → 真核 (piv, F=3, 基本形)",
-      "documentation": "語根: eu^kariot\n入力: euxkariot\n最終形: 真核\n漢字: 真核\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5600",
+      "documentation": "語根: eu^kariot\n入力: euxkariot\n最終形: 真核\n漢字: 真核\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5599",
       "priority": 0,
       "sourceRoot": "eu^kariot",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5600
+      "sourceLine": 5599
     },
     {
       "prefix": "euxkaristi",
       "body": "圣餐ᴱ",
       "detail": "eu^karisti → 圣餐ᴱ (pejvo, F=2)",
-      "documentation": "語根: eu^karisti\n入力: euxkaristi\n最終形: 圣餐ᴱ\n漢字: 圣餐\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5190",
+      "documentation": "語根: eu^karisti\n入力: euxkaristi\n最終形: 圣餐ᴱ\n漢字: 圣餐\n識別子: e\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5189",
       "priority": 0,
       "sourceRoot": "eu^karisti",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5190
+      "sourceLine": 5189
     },
     {
       "prefix": "euxmetrop",
       "body": "正视",
       "detail": "eu^metrop → 正视 (piv, F=2, 基本形)",
-      "documentation": "語根: eu^metrop\n入力: euxmetrop\n最終形: 正视\n漢字: 正视\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6175",
+      "documentation": "語根: eu^metrop\n入力: euxmetrop\n最終形: 正视\n漢字: 正视\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6172",
       "priority": 0,
       "sourceRoot": "eu^metrop",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6175
+      "sourceLine": 6172
     },
     {
       "prefix": "euxroparlament",
       "body": "欧议",
       "detail": "eu^roparlament → 欧议 (pejvo, F=2, 基本形)",
-      "documentation": "語根: eu^roparlament\n入力: euxroparlament\n最終形: 欧议\n漢字: 欧议\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5737",
+      "documentation": "語根: eu^roparlament\n入力: euxroparlament\n最終形: 欧议\n漢字: 欧议\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5735",
       "priority": 0,
       "sourceRoot": "eu^roparlament",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5737
+      "sourceLine": 5735
     },
     {
       "prefix": "euxropi",
@@ -3325,13 +3313,13 @@
       "prefix": "euxtrof",
       "body": "富养",
       "detail": "eu^trof → 富养 (pejvo, F=2, 基本形)",
-      "documentation": "語根: eu^trof\n入力: euxtrof\n最終形: 富养\n漢字: 富养\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5857",
+      "documentation": "語根: eu^trof\n入力: euxtrof\n最終形: 富养\n漢字: 富养\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5855",
       "priority": 0,
       "sourceRoot": "eu^trof",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5857
+      "sourceLine": 5855
     },
     {
       "prefix": "evaku",

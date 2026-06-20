@@ -3,10 +3,10 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 161,
+    "itemCount": 160,
     "skippedCount": 0,
     "bucket": "c",
-    "dictionaryItemCount": 6577
+    "dictionaryItemCount": 6575
   },
   "items": [
     {
@@ -25,13 +25,13 @@
       "prefix": "ceb",
       "body": "猴",
       "detail": "ceb → 猴 (piv, F=1, 基本形)",
-      "documentation": "語根: ceb\n入力: ceb\n最終形: 猴\n漢字: 猴\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:5788",
+      "documentation": "語根: ceb\n入力: ceb\n最終形: 猴\n漢字: 猴\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:5786",
       "priority": 0,
       "sourceRoot": "ceb",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 5788
+      "sourceLine": 5786
     },
     {
       "prefix": "ced",
@@ -49,13 +49,13 @@
       "prefix": "cedr",
       "body": "雪松",
       "detail": "cedr → 雪松 (pejvo, F=4, 基本形)",
-      "documentation": "語根: cedr\n入力: cedr\n最終形: 雪松\n漢字: 雪松\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5248",
+      "documentation": "語根: cedr\n入力: cedr\n最終形: 雪松\n漢字: 雪松\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5247",
       "priority": 0,
       "sourceRoot": "cedr",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5248
+      "sourceLine": 5247
     },
     {
       "prefix": "cedrat",
@@ -73,49 +73,49 @@
       "prefix": "cefal",
       "body": "头ᶜ",
       "detail": "cefal → 头ᶜ (pejvo, F=16)",
-      "documentation": "語根: cefal\n入力: cefal\n最終形: 头ᶜ\n漢字: 头\n識別子: c\n型: pejvo\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:528",
+      "documentation": "語根: cefal\n入力: cefal\n最終形: 头ᶜ\n漢字: 头\n識別子: c\n型: pejvo\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:527",
       "priority": 0,
       "sourceRoot": "cefal",
       "type": "pejvo",
       "frequency": 16,
       "base": false,
-      "sourceLine": 528
+      "sourceLine": 527
     },
     {
       "prefix": "cefalaspid",
       "body": "头甲",
       "detail": "cefalaspid → 头甲 (piv, F=3, 基本形)",
-      "documentation": "語根: cefalaspid\n入力: cefalaspid\n最終形: 头甲\n漢字: 头甲\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5331",
+      "documentation": "語根: cefalaspid\n入力: cefalaspid\n最終形: 头甲\n漢字: 头甲\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5330",
       "priority": 0,
       "sourceRoot": "cefalaspid",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5331
+      "sourceLine": 5330
     },
     {
       "prefix": "cejan",
       "body": "蓝菊",
       "detail": "cejan → 蓝菊 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cejan\n入力: cejan\n最終形: 蓝菊\n漢字: 蓝菊\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6120",
+      "documentation": "語根: cejan\n入力: cejan\n最終形: 蓝菊\n漢字: 蓝菊\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6117",
       "priority": 0,
       "sourceRoot": "cejan",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6120
+      "sourceLine": 6117
     },
     {
       "prefix": "cekum",
       "body": "盲肠",
       "detail": "cekum → 盲肠 (pejvo, F=3, 基本形)",
-      "documentation": "語根: cekum\n入力: cekum\n最終形: 盲肠\n漢字: 盲肠\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5377",
+      "documentation": "語根: cekum\n入力: cekum\n最終形: 盲肠\n漢字: 盲肠\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5376",
       "priority": 0,
       "sourceRoot": "cekum",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5377
+      "sourceLine": 5376
     },
     {
       "prefix": "cel",
@@ -133,13 +133,13 @@
       "prefix": "celakant",
       "body": "矛尾鱼",
       "detail": "celakant → 矛尾鱼 (pejvo, F=2, 基本形)",
-      "documentation": "語根: celakant\n入力: celakant\n最終形: 矛尾鱼\n漢字: 矛尾鱼\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6447",
+      "documentation": "語根: celakant\n入力: celakant\n最終形: 矛尾鱼\n漢字: 矛尾鱼\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6444",
       "priority": 0,
       "sourceRoot": "celakant",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6447
+      "sourceLine": 6444
     },
     {
       "prefix": "celebr",
@@ -157,13 +157,13 @@
       "prefix": "celenter",
       "body": "腔肠",
       "detail": "celenter → 腔肠 (pejvo, F=2, 基本形)",
-      "documentation": "語根: celenter\n入力: celenter\n最終形: 腔肠\n漢字: 腔肠\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6462",
+      "documentation": "語根: celenter\n入力: celenter\n最終形: 腔肠\n漢字: 腔肠\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6459",
       "priority": 0,
       "sourceRoot": "celenter",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6462
+      "sourceLine": 6459
     },
     {
       "prefix": "celeri",
@@ -181,49 +181,49 @@
       "prefix": "celom",
       "body": "体腔",
       "detail": "celom → 体腔 (piv, F=3, 基本形)",
-      "documentation": "語根: celom\n入力: celom\n最終形: 体腔\n漢字: 体腔\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5323",
+      "documentation": "語根: celom\n入力: celom\n最終形: 体腔\n漢字: 体腔\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5322",
       "priority": 0,
       "sourceRoot": "celom",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5323
+      "sourceLine": 5322
     },
     {
       "prefix": "celsius",
       "body": "摄氏",
       "detail": "celsius → 摄氏 (pejvo, F=3, 基本形)",
-      "documentation": "語根: celsius\n入力: celsius\n最終形: 摄氏\n漢字: 摄氏\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5712",
+      "documentation": "語根: celsius\n入力: celsius\n最終形: 摄氏\n漢字: 摄氏\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5711",
       "priority": 0,
       "sourceRoot": "celsius",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5712
+      "sourceLine": 5711
     },
     {
       "prefix": "celul",
       "body": "胞ᶜ",
       "detail": "celul → 胞ᶜ (pejvo, F=2)",
-      "documentation": "語根: celul\n入力: celul\n最終形: 胞ᶜ\n漢字: 胞\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3552",
+      "documentation": "語根: celul\n入力: celul\n最終形: 胞ᶜ\n漢字: 胞\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3550",
       "priority": 0,
       "sourceRoot": "celul",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3552
+      "sourceLine": 3550
     },
     {
       "prefix": "celuloz",
       "body": "纤素",
       "detail": "celuloz → 纤素 (pejvo, F=2, 基本形)",
-      "documentation": "語根: celuloz\n入力: celuloz\n最終形: 纤素\n漢字: 纤素\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6052",
+      "documentation": "語根: celuloz\n入力: celuloz\n最終形: 纤素\n漢字: 纤素\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6049",
       "priority": 0,
       "sourceRoot": "celuloz",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6052
+      "sourceLine": 6049
     },
     {
       "prefix": "cement",
@@ -265,13 +265,13 @@
       "prefix": "centauxr",
       "body": "半人马",
       "detail": "centau^r → 半人马 (pejvo, F=2, 基本形)",
-      "documentation": "語根: centau^r\n入力: centauxr\n最終形: 半人马\n漢字: 半人马\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5934",
+      "documentation": "語根: centau^r\n入力: centauxr\n最終形: 半人马\n漢字: 半人马\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5932",
       "priority": 0,
       "sourceRoot": "centau^r",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5934
+      "sourceLine": 5932
     },
     {
       "prefix": "centezimal",
@@ -289,25 +289,25 @@
       "prefix": "centi",
       "body": "厘",
       "detail": "centi → 厘 (pejvo, F=5, 基本形)",
-      "documentation": "語根: centi\n入力: centi\n最終形: 厘\n漢字: 厘\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3913",
+      "documentation": "語根: centi\n入力: centi\n最終形: 厘\n漢字: 厘\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3912",
       "priority": 0,
       "sourceRoot": "centi",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 3913
+      "sourceLine": 3912
     },
     {
       "prefix": "centimetr",
       "body": "厘ᶜᴹ",
       "detail": "centimetr → 厘ᶜᴹ (basic, F=0)",
-      "documentation": "語根: centimetr\n入力: centimetr\n最終形: 厘ᶜᴹ\n漢字: 厘\n識別子: cm\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3914",
+      "documentation": "語根: centimetr\n入力: centimetr\n最終形: 厘ᶜᴹ\n漢字: 厘\n識別子: cm\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3913",
       "priority": 0,
       "sourceRoot": "centimetr",
       "type": "basic",
       "frequency": 0,
       "base": false,
-      "sourceLine": 3914
+      "sourceLine": 3913
     },
     {
       "prefix": "centr",
@@ -361,37 +361,37 @@
       "prefix": "centuri",
       "body": "百队",
       "detail": "centuri → 百队 (piv, F=2, 基本形)",
-      "documentation": "語根: centuri\n入力: centuri\n最終形: 百队\n漢字: 百队\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6084",
+      "documentation": "語根: centuri\n入力: centuri\n最終形: 百队\n漢字: 百队\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6081",
       "priority": 0,
       "sourceRoot": "centuri",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6084
+      "sourceLine": 6081
     },
     {
       "prefix": "cenzur",
       "body": "审ᶜ",
       "detail": "cenzur → 审ᶜ (pejvo, F=7)",
-      "documentation": "語根: cenzur\n入力: cenzur\n最終形: 审ᶜ\n漢字: 审\n識別子: c\n型: pejvo\nF(汎用性): 7\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3772",
+      "documentation": "語根: cenzur\n入力: cenzur\n最終形: 审ᶜ\n漢字: 审\n識別子: c\n型: pejvo\nF(汎用性): 7\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3771",
       "priority": 0,
       "sourceRoot": "cenzur",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 3772
+      "sourceLine": 3771
     },
     {
       "prefix": "cep",
       "body": "葱",
       "detail": "cep → 葱 (basic, F=4, 基本形)",
-      "documentation": "語根: cep\n入力: cep\n最終形: 葱\n漢字: 葱\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3555",
+      "documentation": "語根: cep\n入力: cep\n最終形: 葱\n漢字: 葱\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3553",
       "priority": 0,
       "sourceRoot": "cep",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 3555
+      "sourceLine": 3553
     },
     {
       "prefix": "cerambik",
@@ -445,13 +445,13 @@
       "prefix": "cerebel",
       "body": "小脑",
       "detail": "cerebel → 小脑 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cerebel\n入力: cerebel\n最終形: 小脑\n漢字: 小脑\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6234",
+      "documentation": "語根: cerebel\n入力: cerebel\n最終形: 小脑\n漢字: 小脑\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6231",
       "priority": 0,
       "sourceRoot": "cerebel",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6234
+      "sourceLine": 6231
     },
     {
       "prefix": "cerebr",
@@ -493,13 +493,13 @@
       "prefix": "cerkopitek",
       "body": "猴ᶜᴿ",
       "detail": "cerkopitek → 猴ᶜᴿ (piv, F=1)",
-      "documentation": "語根: cerkopitek\n入力: cerkopitek\n最終形: 猴ᶜᴿ\n漢字: 猴\n識別子: cr\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:5793",
+      "documentation": "語根: cerkopitek\n入力: cerkopitek\n最終形: 猴ᶜᴿ\n漢字: 猴\n識別子: cr\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:5791",
       "priority": 0,
       "sourceRoot": "cerkopitek",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5793
+      "sourceLine": 5791
     },
     {
       "prefix": "cert",
@@ -517,13 +517,13 @@
       "prefix": "cerv",
       "body": "鹿",
       "detail": "cerv → 鹿 (basic, F=18, 基本形)",
-      "documentation": "語根: cerv\n入力: cerv\n最終形: 鹿\n漢字: 鹿\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3556",
+      "documentation": "語根: cerv\n入力: cerv\n最終形: 鹿\n漢字: 鹿\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3554",
       "priority": 0,
       "sourceRoot": "cerv",
       "type": "basic",
       "frequency": 18,
       "base": true,
-      "sourceLine": 3556
+      "sourceLine": 3554
     },
     {
       "prefix": "cervik",
@@ -589,13 +589,13 @@
       "prefix": "cibet",
       "body": "灵猫香",
       "detail": "cibet → 灵猫香 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cibet\n入力: cibet\n最終形: 灵猫香\n漢字: 灵猫香\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6394",
+      "documentation": "語根: cibet\n入力: cibet\n最終形: 灵猫香\n漢字: 灵猫香\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6391",
       "priority": 0,
       "sourceRoot": "cibet",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6394
+      "sourceLine": 6391
     },
     {
       "prefix": "cic",
@@ -649,37 +649,37 @@
       "prefix": "cign",
       "body": "天鹅",
       "detail": "cign → 天鹅 (basic, F=4, 基本形)",
-      "documentation": "語根: cign\n入力: cign\n最終形: 天鹅\n漢字: 天鹅\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3560",
+      "documentation": "語根: cign\n入力: cign\n最終形: 天鹅\n漢字: 天鹅\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3558",
       "priority": 0,
       "sourceRoot": "cign",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 3560
+      "sourceLine": 3558
     },
     {
       "prefix": "cikad",
       "body": "蝉",
       "detail": "cikad → 蝉 (basic, F=5, 基本形)",
-      "documentation": "語根: cikad\n入力: cikad\n最終形: 蝉\n漢字: 蝉\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3916",
+      "documentation": "語根: cikad\n入力: cikad\n最終形: 蝉\n漢字: 蝉\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3915",
       "priority": 0,
       "sourceRoot": "cikad",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 3916
+      "sourceLine": 3915
     },
     {
       "prefix": "cikatr",
       "body": "疤",
       "detail": "cikatr → 疤 (basic, F=4, 基本形)",
-      "documentation": "語根: cikatr\n入力: cikatr\n最終形: 疤\n漢字: 疤\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3917",
+      "documentation": "語根: cikatr\n入力: cikatr\n最終形: 疤\n漢字: 疤\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3916",
       "priority": 0,
       "sourceRoot": "cikatr",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 3917
+      "sourceLine": 3916
     },
     {
       "prefix": "cikl",
@@ -721,37 +721,37 @@
       "prefix": "cikoni",
       "body": "鸟ᶜ",
       "detail": "cikoni → 鸟ᶜ (basic, F=3)",
-      "documentation": "語根: cikoni\n入力: cikoni\n最終形: 鸟ᶜ\n漢字: 鸟\n識別子: c\n型: basic\nF(汎用性): 3\nグループ数: 26\n基本形: no\n出典: _identifier_sidecar.tsv:716",
+      "documentation": "語根: cikoni\n入力: cikoni\n最終形: 鸟ᶜ\n漢字: 鸟\n識別子: c\n型: basic\nF(汎用性): 3\nグループ数: 27\n基本形: no\n出典: _identifier_sidecar.tsv:715",
       "priority": 0,
       "sourceRoot": "cikoni",
       "type": "basic",
       "frequency": 3,
       "base": false,
-      "sourceLine": 716
+      "sourceLine": 715
     },
     {
       "prefix": "cikut",
       "body": "毒芹",
       "detail": "cikut → 毒芹 (pejvo, F=3, 基本形)",
-      "documentation": "語根: cikut\n入力: cikut\n最終形: 毒芹\n漢字: 毒芹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5281",
+      "documentation": "語根: cikut\n入力: cikut\n最終形: 毒芹\n漢字: 毒芹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5280",
       "priority": 0,
       "sourceRoot": "cikut",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5281
+      "sourceLine": 5280
     },
     {
       "prefix": "cili",
       "body": "纤毛",
       "detail": "cili → 纤毛 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cili\n入力: cili\n最終形: 纤毛\n漢字: 纤毛\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6010",
+      "documentation": "語根: cili\n入力: cili\n最終形: 纤毛\n漢字: 纤毛\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6007",
       "priority": 0,
       "sourceRoot": "cili",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6010
+      "sourceLine": 6007
     },
     {
       "prefix": "cilindr",
@@ -781,37 +781,37 @@
       "prefix": "cimbal",
       "body": "铜盘",
       "detail": "cimbal → 铜盘 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cimbal\n入力: cimbal\n最終形: 铜盘\n漢字: 铜盘\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5731",
+      "documentation": "語根: cimbal\n入力: cimbal\n最終形: 铜盘\n漢字: 铜盘\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5730",
       "priority": 0,
       "sourceRoot": "cimbal",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5731
+      "sourceLine": 5730
     },
     {
       "prefix": "cinabr",
       "body": "朱",
       "detail": "cinabr → 朱 (pejvo, F=4, 基本形)",
-      "documentation": "語根: cinabr\n入力: cinabr\n最終形: 朱\n漢字: 朱\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5120",
+      "documentation": "語根: cinabr\n入力: cinabr\n最終形: 朱\n漢字: 朱\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5119",
       "priority": 0,
       "sourceRoot": "cinabr",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5120
+      "sourceLine": 5119
     },
     {
       "prefix": "cinam",
       "body": "桂",
       "detail": "cinam → 桂 (basic, F=5, 基本形)",
-      "documentation": "語根: cinam\n入力: cinam\n最終形: 桂\n漢字: 桂\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3918",
+      "documentation": "語根: cinam\n入力: cinam\n最終形: 桂\n漢字: 桂\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3917",
       "priority": 0,
       "sourceRoot": "cinam",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 3918
+      "sourceLine": 3917
     },
     {
       "prefix": "cindr",
@@ -829,13 +829,13 @@
       "prefix": "cinik",
       "body": "冷笑",
       "detail": "cinik → 冷笑 (pejvo, F=4, 基本形)",
-      "documentation": "語根: cinik\n入力: cinik\n最終形: 冷笑\n漢字: 冷笑\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5199",
+      "documentation": "語根: cinik\n入力: cinik\n最終形: 冷笑\n漢字: 冷笑\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5198",
       "priority": 0,
       "sourceRoot": "cinik",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5199
+      "sourceLine": 5198
     },
     {
       "prefix": "cinip",
@@ -853,7 +853,7 @@
       "prefix": "cinkl",
       "body": "鸟ᶜᴺ",
       "detail": "cinkl → 鸟ᶜᴺ (piv, F=1)",
-      "documentation": "語根: cinkl\n入力: cinkl\n最終形: 鸟ᶜᴺ\n漢字: 鸟\n識別子: cn\n型: piv\nF(汎用性): 1\nグループ数: 26\n基本形: no\n出典: _identifier_sidecar.tsv:734",
+      "documentation": "語根: cinkl\n入力: cinkl\n最終形: 鸟ᶜᴺ\n漢字: 鸟\n識別子: cn\n型: piv\nF(汎用性): 1\nグループ数: 27\n基本形: no\n出典: _identifier_sidecar.tsv:734",
       "priority": 0,
       "sourceRoot": "cinkl",
       "type": "piv",
@@ -865,13 +865,13 @@
       "prefix": "cintr",
       "body": "拱架",
       "detail": "cintr → 拱架 (piv, F=4, 基本形)",
-      "documentation": "語根: cintr\n入力: cintr\n最終形: 拱架\n漢字: 拱架\n識別子: なし\n型: piv\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5254",
+      "documentation": "語根: cintr\n入力: cintr\n最終形: 拱架\n漢字: 拱架\n識別子: なし\n型: piv\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5253",
       "priority": 0,
       "sourceRoot": "cintr",
       "type": "piv",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5254
+      "sourceLine": 5253
     },
     {
       "prefix": "ciper",
@@ -889,49 +889,49 @@
       "prefix": "cipre",
       "body": "宝贝",
       "detail": "cipre → 宝贝 (piv, F=2, 基本形)",
-      "documentation": "語根: cipre\n入力: cipre\n最終形: 宝贝\n漢字: 宝贝\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5903",
+      "documentation": "語根: cipre\n入力: cipre\n最終形: 宝贝\n漢字: 宝贝\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5901",
       "priority": 0,
       "sourceRoot": "cipre",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5903
+      "sourceLine": 5901
     },
     {
       "prefix": "cipres",
       "body": "柏",
       "detail": "cipres → 柏 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cipres\n入力: cipres\n最終形: 柏\n漢字: 柏\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6493",
+      "documentation": "語根: cipres\n入力: cipres\n最終形: 柏\n漢字: 柏\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6490",
       "priority": 0,
       "sourceRoot": "cipres",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6493
+      "sourceLine": 6490
     },
     {
       "prefix": "ciprin",
       "body": "鲤ᶜ",
       "detail": "ciprin → 鲤ᶜ (pejvo, F=2)",
-      "documentation": "語根: ciprin\n入力: ciprin\n最終形: 鲤ᶜ\n漢字: 鲤\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4111",
+      "documentation": "語根: ciprin\n入力: ciprin\n最終形: 鲤ᶜ\n漢字: 鲤\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4110",
       "priority": 0,
       "sourceRoot": "ciprin",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4111
+      "sourceLine": 4110
     },
     {
       "prefix": "cir",
       "body": "膏",
       "detail": "cir → 膏 (basic, F=4, 基本形)",
-      "documentation": "語根: cir\n入力: cir\n最終形: 膏\n漢字: 膏\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3920",
+      "documentation": "語根: cir\n入力: cir\n最終形: 膏\n漢字: 膏\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3919",
       "priority": 0,
       "sourceRoot": "cir",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 3920
+      "sourceLine": 3919
     },
     {
       "prefix": "cirk",
@@ -997,49 +997,49 @@
       "prefix": "cirkuler",
       "body": "函",
       "detail": "cirkuler → 函 (basic, F=2, 基本形)",
-      "documentation": "語根: cirkuler\n入力: cirkuler\n最終形: 函\n漢字: 函\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3561",
+      "documentation": "語根: cirkuler\n入力: cirkuler\n最終形: 函\n漢字: 函\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3559",
       "priority": 0,
       "sourceRoot": "cirkuler",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 3561
+      "sourceLine": 3559
     },
     {
       "prefix": "cirkumcid",
       "body": "割礼",
       "detail": "cirkumcid → 割礼 (pejvo, F=3, 基本形)",
-      "documentation": "語根: cirkumcid\n入力: cirkumcid\n最終形: 割礼\n漢字: 割礼\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5630",
+      "documentation": "語根: cirkumcid\n入力: cirkumcid\n最終形: 割礼\n漢字: 割礼\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5629",
       "priority": 0,
       "sourceRoot": "cirkumcid",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5630
+      "sourceLine": 5629
     },
     {
       "prefix": "cirkvit",
       "body": "路ᶜ",
       "detail": "cirkvit → 路ᶜ (basic, F=16)",
-      "documentation": "語根: cirkvit\n入力: cirkvit\n最終形: 路ᶜ\n漢字: 路\n識別子: c\n型: basic\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:687",
+      "documentation": "語根: cirkvit\n入力: cirkvit\n最終形: 路ᶜ\n漢字: 路\n識別子: c\n型: basic\nF(汎用性): 16\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:686",
       "priority": 0,
       "sourceRoot": "cirkvit",
       "type": "basic",
       "frequency": 16,
       "base": false,
-      "sourceLine": 687
+      "sourceLine": 686
     },
     {
       "prefix": "ciroz",
       "body": "硬ᶜ",
       "detail": "ciroz → 硬ᶜ (pejvo, F=2)",
-      "documentation": "語根: ciroz\n入力: ciroz\n最終形: 硬ᶜ\n漢字: 硬\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3778",
+      "documentation": "語根: ciroz\n入力: ciroz\n最終形: 硬ᶜ\n漢字: 硬\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3777",
       "priority": 0,
       "sourceRoot": "ciroz",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3778
+      "sourceLine": 3777
     },
     {
       "prefix": "cirus",
@@ -1055,15 +1055,15 @@
     },
     {
       "prefix": "cis",
-      "body": "此",
-      "detail": "cis → 此 (pejvo, F=2, 基本形)",
-      "documentation": "語根: cis\n入力: cis\n最終形: 此\n漢字: 此\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6005",
+      "body": "此ᶜ",
+      "detail": "cis → 此ᶜ (pejvo, F=2)",
+      "documentation": "語根: cis\n入力: cis\n最終形: 此ᶜ\n漢字: 此\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6003",
       "priority": 0,
       "sourceRoot": "cis",
       "type": "pejvo",
       "frequency": 2,
-      "base": true,
-      "sourceLine": 6005
+      "base": false,
+      "sourceLine": 6003
     },
     {
       "prefix": "cist",
@@ -1093,13 +1093,13 @@
       "prefix": "cisticerk",
       "body": "囊尾虫",
       "detail": "cisticerk → 囊尾虫 (piv, F=2, 基本形)",
-      "documentation": "語根: cisticerk\n入力: cisticerk\n最終形: 囊尾虫\n漢字: 囊尾虫\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6233",
+      "documentation": "語根: cisticerk\n入力: cisticerk\n最終形: 囊尾虫\n漢字: 囊尾虫\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6230",
       "priority": 0,
       "sourceRoot": "cisticerk",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6233
+      "sourceLine": 6230
     },
     {
       "prefix": "cit",
@@ -1117,37 +1117,37 @@
       "prefix": "cito",
       "body": "胞ᶜᵀ",
       "detail": "cito → 胞ᶜᵀ (piv, F=6)",
-      "documentation": "語根: cito\n入力: cito\n最終形: 胞ᶜᵀ\n漢字: 胞\n識別子: ct\n型: piv\nF(汎用性): 6\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3553",
+      "documentation": "語根: cito\n入力: cito\n最終形: 胞ᶜᵀ\n漢字: 胞\n識別子: ct\n型: piv\nF(汎用性): 6\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3551",
       "priority": 0,
       "sourceRoot": "cito",
       "type": "piv",
       "frequency": 6,
       "base": false,
-      "sourceLine": 3553
+      "sourceLine": 3551
     },
     {
       "prefix": "citoz",
       "body": "胞ᶜᶻ",
       "detail": "citoz → 胞ᶜᶻ (piv, F=5)",
-      "documentation": "語根: citoz\n入力: citoz\n最終形: 胞ᶜᶻ\n漢字: 胞\n識別子: cz\n型: piv\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3554",
+      "documentation": "語根: citoz\n入力: citoz\n最終形: 胞ᶜᶻ\n漢字: 胞\n識別子: cz\n型: piv\nF(汎用性): 5\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3552",
       "priority": 0,
       "sourceRoot": "citoz",
       "type": "piv",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3554
+      "sourceLine": 3552
     },
     {
       "prefix": "citr",
       "body": "琴ᶜ",
       "detail": "citr → 琴ᶜ (pejvo, F=2)",
-      "documentation": "語根: citr\n入力: citr\n最終形: 琴ᶜ\n漢字: 琴\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:3738",
+      "documentation": "語根: citr\n入力: citr\n最終形: 琴ᶜ\n漢字: 琴\n識別子: c\n型: pejvo\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3736",
       "priority": 0,
       "sourceRoot": "citr",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3738
+      "sourceLine": 3736
     },
     {
       "prefix": "citron",
@@ -1165,25 +1165,25 @@
       "prefix": "citronel",
       "body": "香茅",
       "detail": "citronel → 香茅 (piv, F=2, 基本形)",
-      "documentation": "語根: citronel\n入力: citronel\n最終形: 香茅\n漢字: 香茅\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6541",
+      "documentation": "語根: citronel\n入力: citronel\n最終形: 香茅\n漢字: 香茅\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6538",
       "priority": 0,
       "sourceRoot": "citronel",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6541
+      "sourceLine": 6538
     },
     {
       "prefix": "citrus",
       "body": "柑",
       "detail": "citrus → 柑 (pejvo, F=3, 基本形)",
-      "documentation": "語根: citrus\n入力: citrus\n最終形: 柑\n漢字: 柑\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5318",
+      "documentation": "語根: citrus\n入力: citrus\n最終形: 柑\n漢字: 柑\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5317",
       "priority": 0,
       "sourceRoot": "citrus",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5318
+      "sourceLine": 5317
     },
     {
       "prefix": "civil",
@@ -1237,25 +1237,25 @@
       "prefix": "cug",
       "body": "铁杉",
       "detail": "cug → 铁杉 (piv, F=2, 基本形)",
-      "documentation": "語根: cug\n入力: cug\n最終形: 铁杉\n漢字: 铁杉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5816",
+      "documentation": "語根: cug\n入力: cug\n最終形: 铁杉\n漢字: 铁杉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5814",
       "priority": 0,
       "sourceRoot": "cug",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5816
+      "sourceLine": 5814
     },
     {
       "prefix": "cum",
       "body": "聚伞",
       "detail": "cum → 聚伞 (piv, F=2, 基本形)",
-      "documentation": "語根: cum\n入力: cum\n最終形: 聚伞\n漢字: 聚伞\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6456",
+      "documentation": "語根: cum\n入力: cum\n最終形: 聚伞\n漢字: 聚伞\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6453",
       "priority": 0,
       "sourceRoot": "cum",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6456
+      "sourceLine": 6453
     },
     {
       "prefix": "cxagren",
@@ -1273,25 +1273,25 @@
       "prefix": "cxam",
       "body": "羚",
       "detail": "c^am → 羚 (pejvo, F=3, 基本形)",
-      "documentation": "語根: c^am\n入力: cxam\n最終形: 羚\n漢字: 羚\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5329",
+      "documentation": "語根: c^am\n入力: cxam\n最終形: 羚\n漢字: 羚\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5328",
       "priority": 0,
       "sourceRoot": "c^am",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5329
+      "sourceLine": 5328
     },
     {
       "prefix": "cxambelan",
       "body": "侍臣",
       "detail": "c^ambelan → 侍臣 (pejvo, F=3, 基本形)",
-      "documentation": "語根: c^ambelan\n入力: cxambelan\n最終形: 侍臣\n漢字: 侍臣\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5365",
+      "documentation": "語根: c^ambelan\n入力: cxambelan\n最終形: 侍臣\n漢字: 侍臣\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5364",
       "priority": 0,
       "sourceRoot": "c^ambelan",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5365
+      "sourceLine": 5364
     },
     {
       "prefix": "cxambr",
@@ -1345,13 +1345,13 @@
       "prefix": "cxantagx",
       "body": "讹",
       "detail": "c^antag^ → 讹 (pejvo, F=3, 基本形)",
-      "documentation": "語根: c^antag^\n入力: cxantagx\n最終形: 讹\n漢字: 讹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5451",
+      "documentation": "語根: c^antag^\n入力: cxantagx\n最終形: 讹\n漢字: 讹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5450",
       "priority": 0,
       "sourceRoot": "c^antag^",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5451
+      "sourceLine": 5450
     },
     {
       "prefix": "cxap",
@@ -1513,25 +1513,25 @@
       "prefix": "cxel",
       "body": "胞",
       "detail": "ĉel → 胞 (basic, F=47, 基本形)",
-      "documentation": "語根: ĉel\n入力: cxel\n最終形: 胞\n漢字: 胞\n識別子: なし\n型: basic\nF(汎用性): 47\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3551",
+      "documentation": "語根: ĉel\n入力: cxel\n最終形: 胞\n漢字: 胞\n識別子: なし\n型: basic\nF(汎用性): 47\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3549",
       "priority": 0,
       "sourceRoot": "ĉel",
       "type": "basic",
       "frequency": 47,
       "base": true,
-      "sourceLine": 3551
+      "sourceLine": 3549
     },
     {
       "prefix": "cxement",
       "body": "牙骨质",
       "detail": "c^ement → 牙骨质 (piv, F=2, 基本形)",
-      "documentation": "語根: c^ement\n入力: cxement\n最終形: 牙骨质\n漢字: 牙骨质\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6032",
+      "documentation": "語根: c^ement\n入力: cxement\n最終形: 牙骨质\n漢字: 牙骨质\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6029",
       "priority": 0,
       "sourceRoot": "c^ement",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6032
+      "sourceLine": 6029
     },
     {
       "prefix": "cxemiz",
@@ -1585,13 +1585,13 @@
       "prefix": "cxerk",
       "body": "棺",
       "detail": "ĉerk → 棺 (basic, F=8, 基本形)",
-      "documentation": "語根: ĉerk\n入力: cxerk\n最終形: 棺\n漢字: 棺\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3915",
+      "documentation": "語根: ĉerk\n入力: cxerk\n最終形: 棺\n漢字: 棺\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3914",
       "priority": 0,
       "sourceRoot": "ĉerk",
       "type": "basic",
       "frequency": 8,
       "base": true,
-      "sourceLine": 3915
+      "sourceLine": 3914
     },
     {
       "prefix": "cxerp",
@@ -1642,28 +1642,16 @@
       "sourceLine": 4268
     },
     {
-      "prefix": "cxi-jar",
-      "body": "今年",
-      "detail": "c^i-jar → 今年 (pejvo, F=2, 基本形)",
-      "documentation": "語根: c^i-jar\n入力: cxi-jar\n最終形: 今年\n漢字: 今年\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5990",
+      "prefix": "cxi",
+      "body": "此",
+      "detail": "c^i → 此 (func, F=42, 基本形)",
+      "documentation": "語根: c^i\n入力: cxi\n最終形: 此\n漢字: 此\n識別子: なし\n型: func\nF(汎用性): 42\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6002",
       "priority": 0,
-      "sourceRoot": "c^i-jar",
-      "type": "pejvo",
-      "frequency": 2,
+      "sourceRoot": "c^i",
+      "type": "func",
+      "frequency": 42,
       "base": true,
-      "sourceLine": 5990
-    },
-    {
-      "prefix": "cxi-tie",
-      "body": "此ᶜ̂",
-      "detail": "c^i-tie → 此ᶜ̂ (pejvo, F=2)",
-      "documentation": "語根: c^i-tie\n入力: cxi-tie\n最終形: 此ᶜ̂\n漢字: 此\n識別子: ĉ\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6006",
-      "priority": 0,
-      "sourceRoot": "c^i-tie",
-      "type": "pejvo",
-      "frequency": 2,
-      "base": false,
-      "sourceLine": 6006
+      "sourceLine": 6002
     },
     {
       "prefix": "cxia",
@@ -1789,13 +1777,13 @@
       "prefix": "cxikan",
       "body": "刁",
       "detail": "c^ikan → 刁 (pejvo, F=3, 基本形)",
-      "documentation": "語根: c^ikan\n入力: cxikan\n最終形: 刁\n漢字: 刁\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5585",
+      "documentation": "語根: c^ikan\n入力: cxikan\n最終形: 刁\n漢字: 刁\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5584",
       "priority": 0,
       "sourceRoot": "c^ikan",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5585
+      "sourceLine": 5584
     },
     {
       "prefix": "cxio",
@@ -1825,13 +1813,13 @@
       "prefix": "cxir",
       "body": "卷须",
       "detail": "c^ir → 卷须 (piv, F=2, 基本形)",
-      "documentation": "語根: c^ir\n入力: cxir\n最終形: 卷须\n漢字: 卷须\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5922",
+      "documentation": "語根: c^ir\n入力: cxir\n最終形: 卷须\n漢字: 卷须\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5920",
       "priority": 0,
       "sourceRoot": "c^ir",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5922
+      "sourceLine": 5920
     },
     {
       "prefix": "cxirkaux",
@@ -1849,13 +1837,13 @@
       "prefix": "cxirp",
       "body": "鸣ᶜ̂",
       "detail": "c^irp → 鸣ᶜ̂ (pejvo, F=2)",
-      "documentation": "語根: c^irp\n入力: cxirp\n最終形: 鸣ᶜ̂\n漢字: 鸣\n識別子: ĉ\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3544",
+      "documentation": "語根: c^irp\n入力: cxirp\n最終形: 鸣ᶜ̂\n漢字: 鸣\n識別子: ĉ\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3542",
       "priority": 0,
       "sourceRoot": "c^irp",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3544
+      "sourceLine": 3542
     },
     {
       "prefix": "cxiu",
@@ -1921,13 +1909,13 @@
       "prefix": "cxuk",
       "body": "夹头",
       "detail": "c^uk → 夹头 (piv, F=2, 基本形)",
-      "documentation": "語根: c^uk\n入力: cxuk\n最終形: 夹头\n漢字: 夹头\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6238",
+      "documentation": "語根: c^uk\n入力: cxuk\n最終形: 夹头\n漢字: 夹头\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6235",
       "priority": 0,
       "sourceRoot": "c^uk",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6238
+      "sourceLine": 6235
     },
     {
       "prefix": "cxur",
