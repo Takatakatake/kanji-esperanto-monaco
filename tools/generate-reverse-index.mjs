@@ -24,7 +24,7 @@ function aliasesFromSourceRoot(sourceRoot, fallbackPrefix) {
   const aliases = String(sourceRoot || '')
     .split(',')
     .map(part => toXSystem(part))
-    .filter(alias => /^[a-z]+$/.test(alias));
+    .filter(alias => /^[a-z-]+$/.test(alias));
   if (!aliases.length && fallbackPrefix) aliases.push(String(fallbackPrefix));
   return Array.from(new Set(aliases)).sort((a, b) => b.length - a.length || a.localeCompare(b));
 }

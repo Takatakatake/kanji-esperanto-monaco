@@ -1,6 +1,7 @@
 // Convert the kanji assignment preview TSV into all.json format.
 // Usage:
 //   node tools/kanji-assignments-tsv-to-all.mjs /path/to/漢字割当一覧_識別子付きプレビュー_20260614.tsv ./all.json
+//   node tools/kanji-assignments-tsv-to-all.mjs /path/to/_identifier_sidecar.tsv ./all.json
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
@@ -10,7 +11,8 @@ if (!inPath) {
   process.exit(1);
 }
 
-const REQUIRED_COLUMNS = ['最終形', '識別子', '漢字', '語根', '型', 'F(汎用性)', 'グループ数', '基本形'];
+const PREVIEW_COLUMNS = ['最終形', '識別子', '漢字', '語根', '型', 'F(汎用性)', 'グループ数', '基本形'];
+const SIDECAR_COLUMNS = ['root', 'kanji', 'id', 'disp', 'band', 'F', 'groupkey'];
 
 function toXSystem(input) {
   return String(input || '')
@@ -31,18 +33,40 @@ function parseIntOrZero(value) {
   return Number.isFinite(n) ? n : 0;
 }
 
-function parseTsv(raw) {
+function parseTsvLine(line) {
+  const out = [];
+  let field = '';
+  let quoted = false;
+  for (let i = 0; i < line.length; i += 1) {
+    const ch = line[i];
+    if (ch === '"') {
+      if (quoted && line[i + 1] === '"') {
+        field += '"';
+        i += 1;
+      } else {
+        quoted = !quoted;
+      }
+      continue;
+    }
+    if (ch === '\t' && !quoted) {
+      out.push(field);
+      field = '';
+      continue;
+    }
+    field += ch;
+  }
+  out.push(field);
+  return out;
+}
+
+function parseGenericTsv(raw) {
   const lines = raw.replace(/^\uFEFF/, '').split(/\r?\n/).filter(line => line.trim());
   if (!lines.length) throw new Error('Input TSV is empty');
 
-  const header = lines.shift().replace(/^\uFEFF/, '').split('\t');
-  const missing = REQUIRED_COLUMNS.filter(col => !header.includes(col));
-  if (missing.length) {
-    throw new Error(`Missing required column(s): ${missing.join(', ')}`);
-  }
+  const header = parseTsvLine(lines.shift().replace(/^\uFEFF/, ''));
 
-  return lines.map((line, index) => {
-    const cols = line.split('\t');
+  const rows = lines.map((line, index) => {
+    const cols = parseTsvLine(line);
     const row = {};
     header.forEach((col, colIndex) => {
       row[col] = cols[colIndex] ?? '';
@@ -50,6 +74,53 @@ function parseTsv(raw) {
     row.__line = index + 2;
     return row;
   });
+
+  return { header, rows };
+}
+
+function assertColumns(header, columns) {
+  const missing = columns.filter(col => !header.includes(col));
+  if (missing.length) {
+    throw new Error(`Missing required column(s): ${missing.join(', ')}`);
+  }
+}
+
+function normalizeSidecarRows(rows) {
+  const groupCounts = new Map();
+  for (const row of rows) {
+    const groupKey = String(row.groupkey || row.kanji || row.disp || '').trim();
+    if (!groupKey) continue;
+    groupCounts.set(groupKey, (groupCounts.get(groupKey) || 0) + 1);
+  }
+
+  return rows.map(row => {
+    const groupKey = String(row.groupkey || row.kanji || row.disp || '').trim();
+    const identifier = String(row.id || '').trim();
+    return {
+      '最終形': String(row.disp || row.kanji || '').trim(),
+      '識別子': identifier,
+      '漢字': String(row.kanji || '').trim(),
+      '語根': String(row.root || '').trim(),
+      '型': String(row.band || '').trim(),
+      'F(汎用性)': String(row.F || '').trim(),
+      'グループ数': String(groupCounts.get(groupKey) || 1),
+      '基本形': identifier ? '' : '✓',
+      __line: row.__line
+    };
+  });
+}
+
+function parseTsv(raw) {
+  const { header, rows } = parseGenericTsv(raw);
+  if (PREVIEW_COLUMNS.every(col => header.includes(col))) {
+    assertColumns(header, PREVIEW_COLUMNS);
+    return { schema: 'preview', rows };
+  }
+  if (SIDECAR_COLUMNS.every(col => header.includes(col))) {
+    assertColumns(header, SIDECAR_COLUMNS);
+    return { schema: 'identifier-sidecar', rows: normalizeSidecarRows(rows) };
+  }
+  throw new Error(`Unsupported assignment TSV columns: ${header.join(', ')}`);
 }
 
 function rootAliases(root) {
@@ -84,7 +155,8 @@ function makeDocumentation(row, prefix, sourceRoot, sourceName) {
 }
 
 const raw = await fs.readFile(inPath, 'utf8');
-const rows = parseTsv(raw);
+const parsed = parseTsv(raw);
+const rows = parsed.rows;
 const sourceName = path.basename(inPath);
 
 const grouped = new Map();
@@ -100,7 +172,7 @@ for (const row of rows) {
 
   const aliases = rootAliases(sourceRoot);
   for (const prefix of aliases) {
-    if (!/^[a-z]+$/.test(prefix)) {
+    if (!/^[a-z-]+$/.test(prefix)) {
       skipped.push({ line: row.__line, reason: 'non-ASCII prefix after normalization', root: sourceRoot, prefix });
       continue;
     }
@@ -155,6 +227,7 @@ items.sort((a, b) => (
 const out = {
   meta: {
     sourceName,
+    sourceSchema: parsed.schema,
     prefixNotation: 'x-system',
     itemCount: items.length,
     skippedCount: skipped.length

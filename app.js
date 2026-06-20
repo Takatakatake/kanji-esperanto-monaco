@@ -6,7 +6,7 @@ require(['vs/editor/editor.main'], function () {
   monaco.languages.register({ id: 'kanji-esperanto' });
   monaco.languages.setLanguageConfiguration('kanji-esperanto', {
     // No global flag to avoid stateful RegExp interactions
-    wordPattern: /([a-zA-Z]+)|([\u3400-\u9fff\uf900-\ufaff々〻\u02b0-\u02ff\u1d00-\u1d7f\u2070-\u209f\u2c60-\u2c7f\u0300-\u036f]+)/
+    wordPattern: /([a-zA-Z-]+)|([\u3400-\u9fff\uf900-\ufaff々〻\u02b0-\u02ff\u1d00-\u1d7f\u2070-\u209f\u2c60-\u2c7f\u0300-\u036f]+)/
   });
 
   // 遅延読込用のシンプルキャッシュ（先頭文字 → アイテム配列）
@@ -17,12 +17,12 @@ require(['vs/editor/editor.main'], function () {
   const SUGGEST_LIMIT = 100;
   const params = new URLSearchParams(location.search);
   const STRICT = params.get('strict') === '1';
-  const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260614';
+  const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260620';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
       id: DEFAULT_DICTIONARY_ID,
-      label: 'PEJVO/PIV 2026-06-14',
+      label: 'PEJVO/PIV 2026-06-20',
       bucketUrl: (letter) => `./data/ke-${letter}.json`,
       reverseUrl: './data/reverse.json'
     }
@@ -98,10 +98,10 @@ require(['vs/editor/editor.main'], function () {
   // NOTE: No global fallback (all.json) — use only the active bucket or inline snippets
 
   function extractAsciiPrefix(line, caret0) {
-    // カーソル直前の連続したアルファベットのみを抽出
-    // スペースや漢字の後ろのアルファベットだけを取得
+    // カーソル直前の連続した英字・ハイフンのみを抽出
+    // スペースや漢字の後ろの語根だけを取得
     const left = line.slice(0, caret0);
-    const m = left.match(/[A-Za-z]+$/);
+    const m = left.match(/[A-Za-z-]+$/);
     return m ? m[0] : '';
   }
 
@@ -183,7 +183,7 @@ require(['vs/editor/editor.main'], function () {
     monaco.languages.registerCompletionItemProvider('kanji-esperanto', {
       // 通常入力（a-z）でも補完を自動発火させる
       // onDidType での明示トリガーも併用し、どちらからでも開くように冗長化
-      triggerCharacters: 'abcdefghijklmnopqrstuvwxyz'.split(''),
+      triggerCharacters: 'abcdefghijklmnopqrstuvwxyz-'.split(''),
       provideCompletionItems: async (model, position, _context, token) => {
         const line = model.getLineContent(position.lineNumber);
         const col0 = position.column - 1; // 0-based caret index
@@ -332,7 +332,7 @@ require(['vs/editor/editor.main'], function () {
       hideSuggest();
       return;
     }
-    if (!/^[a-z]$/i.test(text)) {
+    if (!/^[a-z-]$/i.test(text)) {
       hideSuggest();
       return;
     }

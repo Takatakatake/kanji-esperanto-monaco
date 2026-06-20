@@ -21,10 +21,10 @@ kanji-esperanto-monaco/
 ```
 
 ## 漢字割当 TSV からの取り込み
-`PEJVO・PIV語根分解資料` の `漢字割当一覧_識別子付きプレビュー_20260614.tsv` を、Monaco 補完用の `all.json` に変換できます。
+`PEJVO・PIV語根分解資料` の `_identifier_sidecar.tsv` または `漢字割当一覧_識別子付きプレビュー_20260614.tsv` を、Monaco 補完用の `all.json` に変換できます。
 
 ```
-node tools/kanji-assignments-tsv-to-all.mjs "/path/to/漢字割当一覧_識別子付きプレビュー_20260614.tsv" ./all.json
+node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 ```
@@ -72,7 +72,7 @@ Actions による自動デプロイ（同梱）:
 - `wordPattern` は ASCII 語根と CJK(々/〻) の語境界を想定
 - 通常入力（a-z）でも候補を自動表示＋Backspace/Delete 後に候補を自動再表示、Ctrl+Space で強制表示
 - `割当検索` パネルの `割当漢字` 欄で、漢字に割り当てられている語根を一覧できます。
-- `漢字割当案` セレクトは複数の割当案を切り替えるための土台です（現時点では `PEJVO/PIV 2026-06-14` の1案）。
+- `漢字割当案` セレクトは複数の割当案を切り替えるための土台です（現時点では `PEJVO/PIV 2026-06-20` の1案）。
 - 大辞書は 1 文字バケツで遅延読込（更に大規模なら 2 文字バケツや Trie を検討）
 
 ## PWA（オフライン対応）
