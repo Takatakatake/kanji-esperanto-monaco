@@ -19,7 +19,7 @@ require(['vs/editor/editor.main'], function () {
   const STRICT = params.get('strict') === '1';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260614';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
-  const MODE_KEY = `ke-lookup-mode-v1:${location.pathname}`;
+  const MODE_KEY = window.KE_LOOKUP_MODE_KEY || `ke-lookup-mode-v1:${location.pathname}`;
   const LOOKUP_MODES = { FORWARD: 'forward', REVERSE: 'reverse' };
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
@@ -37,7 +37,9 @@ require(['vs/editor/editor.main'], function () {
     activeDictionaryId = params.get('dict') || localStorage.getItem(DICTIONARY_SET_KEY) || DEFAULT_DICTIONARY_ID;
   } catch { }
   if (!DICTIONARY_SETS[activeDictionaryId]) activeDictionaryId = DEFAULT_DICTIONARY_ID;
-  let lookupMode = LOOKUP_MODES.FORWARD;
+  let lookupMode = Object.values(LOOKUP_MODES).includes(window.KE_EARLY_LOOKUP_MODE)
+    ? window.KE_EARLY_LOOKUP_MODE
+    : LOOKUP_MODES.FORWARD;
   try {
     const savedMode = localStorage.getItem(MODE_KEY);
     if (Object.values(LOOKUP_MODES).includes(savedMode)) lookupMode = savedMode;
@@ -50,6 +52,8 @@ require(['vs/editor/editor.main'], function () {
 
   function setLookupMode(mode) {
     lookupMode = mode === LOOKUP_MODES.REVERSE ? LOOKUP_MODES.REVERSE : LOOKUP_MODES.FORWARD;
+    window.KE_EARLY_LOOKUP_MODE = lookupMode;
+    window.KE_LOOKUP_MODE = lookupMode;
     try { localStorage.setItem(MODE_KEY, lookupMode); } catch { }
     updateModeButton();
     hideSuggest();
@@ -379,6 +383,10 @@ require(['vs/editor/editor.main'], function () {
   }
 
   function updateModeButton() {
+    if (typeof window.KE_SET_MODE_BUTTON === 'function') {
+      window.KE_SET_MODE_BUTTON(lookupMode);
+      return;
+    }
     const btn = document.getElementById('btn-mode-toggle');
     if (!btn) return;
     const reverse = lookupMode === LOOKUP_MODES.REVERSE;
@@ -387,6 +395,9 @@ require(['vs/editor/editor.main'], function () {
     btn.title = reverse ? '漢字からエスペラント語根を検索' : 'エスペラント語根から漢字を入力';
   }
   updateModeButton();
+  window.KE_LOOKUP_MODE = lookupMode;
+  window.KE_SET_LOOKUP_MODE = setLookupMode;
+  window.KE_APP_MODE_READY = true;
 
   // strict モードは全データ読込後に補完プロバイダを登録（初回から決定的）
   preloadAllBucketsIfStrict().then(registerProvider).catch(registerProvider);

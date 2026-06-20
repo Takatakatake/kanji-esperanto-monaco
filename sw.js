@@ -1,11 +1,11 @@
-const CACHE = 'ke-site-v7';
+const CACHE = 'ke-site-v8';
 const ASSETS = [
   './',
   './index.html',
-  './app.js',
+  './app.js?v=20260620-lookup-mode-2',
   './all.json',
   './data/reverse.json',
-  './ke-snippets.js',
+  './ke-snippets.js?v=20260620-lookup-mode-2',
   './manifest.webmanifest',
   // Monaco minimal (for online page)
   'https://unpkg.com/monaco-editor@0.52.0/min/vs/loader.js',
@@ -41,6 +41,22 @@ self.addEventListener('fetch', (event) => {
   event.respondWith((async () => {
     const cache = await caches.open(CACHE);
     const cached = await cache.match(req);
+    const url = new URL(req.url);
+    const networkFirst = req.mode === 'navigate'
+      || url.pathname.endsWith('/index.html')
+      || url.pathname.endsWith('/app.js')
+      || url.pathname.endsWith('/ke-snippets.js')
+      || url.pathname.endsWith('/sw.js');
+    if (networkFirst) {
+      try {
+        const res = await fetch(req);
+        if (req.method === 'GET' && res.status === 200) cache.put(req, res.clone());
+        return res;
+      } catch {
+        if (cached) return cached;
+        return new Response('Offline', { status: 503 });
+      }
+    }
     if (cached) return cached;
     try {
       const res = await fetch(req);
