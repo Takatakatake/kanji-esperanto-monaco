@@ -615,7 +615,7 @@ require(['vs/editor/editor.main'], function () {
       plainMode = !plainMode;
       const btn = document.getElementById('btn-plain-toggle');
       if (plainMode) { switchToPlain(); btn && (btn.textContent = 'Monacoに戻る'); }
-      else { switchToMonaco(); btn && (btn.textContent = 'シンプル編集'); }
+      else { switchToMonaco(); btn && (btn.textContent = 'シンプル編集へ'); }
     });
   })();
   // === End of Mobile-friendly Toolbar ===

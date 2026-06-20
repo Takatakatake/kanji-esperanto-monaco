@@ -62,7 +62,7 @@
         <button id="btn-share" type="button">共有</button>
         <select id="dict-select" title="漢字割当案"></select>
         <button id="btn-assignment-lookup" type="button" aria-expanded="false">割当検索</button>
-        <button id="btn-plain-toggle" type="button">シンプル編集</button>
+        <button id="btn-plain-toggle" type="button">シンプル編集へ</button>
       </div>
       <span id="ke-toast" class="toast" aria-live="polite"></span>
     </header>
@@ -78,10 +78,10 @@
 
   <!-- Small dictionary (override with your real data or use data/ lazy buckets) -->
   <script>
-    window.KE_APP_VERSION = '20260620-assignment-search-1';
+    window.KE_APP_VERSION = '20260620-plain-toggle-label-1';
   </script>
-  <script src="./ke-snippets.js?v=20260620-assignment-search-1"></script>
-  <script src="./app.js?v=20260620-assignment-search-1"></script>
+  <script src="./ke-snippets.js?v=20260620-plain-toggle-label-1"></script>
+  <script src="./app.js?v=20260620-plain-toggle-label-1"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
@@ -93,7 +93,7 @@
       });
       window.addEventListener('load', async () => {
         try {
-          const reg = await navigator.serviceWorker.register('./sw.js?v=20260620-assignment-search-1');
+          const reg = await navigator.serviceWorker.register('./sw.js?v=20260620-plain-toggle-label-1');
           await reg.update();
         } catch {}
       });
@@ -101,7 +101,7 @@
   </script>
 
   <footer>
-    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-20-assignment-search-1
+    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-20-plain-toggle-label-1
   </footer>
 </body>
 </html>
