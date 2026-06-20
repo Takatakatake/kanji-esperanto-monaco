@@ -291,6 +291,27 @@ require(['vs/editor/editor.main'], function () {
     } catch { }
   }
 
+  function layoutEditorToViewport() {
+    const header = document.querySelector('header');
+    const lookup = document.getElementById('assignment-lookup');
+    const footer = document.querySelector('footer');
+    const viewportHeight = (window.visualViewport && window.visualViewport.height) || window.innerHeight;
+    const headerHeight = header ? header.getBoundingClientRect().height : 0;
+    const lookupHeight = lookup ? lookup.getBoundingClientRect().height : 0;
+    const footerHeight = footer ? footer.getBoundingClientRect().height : 0;
+    const height = Math.max(160, Math.floor(viewportHeight - headerHeight - lookupHeight - footerHeight));
+    host.style.height = `${height}px`;
+    editor.layout({ width: host.clientWidth, height });
+  }
+
+  const layoutEditorDebounced = debounce(layoutEditorToViewport, 50);
+  window.addEventListener('resize', layoutEditorDebounced);
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener('resize', layoutEditorDebounced);
+  }
+  requestAnimationFrame(layoutEditorToViewport);
+  setTimeout(layoutEditorToViewport, 100);
+
   // strict モードは全データ読込後に補完プロバイダを登録（初回から決定的）
   preloadAllBucketsIfStrict().then(registerProvider).catch(registerProvider);
 
@@ -368,34 +389,6 @@ require(['vs/editor/editor.main'], function () {
       clearTimeout(showToast._t);
       showToast._t = setTimeout(() => { toastEl.textContent = ''; }, 1800);
     };
-
-    const appRoot = document.getElementById('app');
-    const plain = document.createElement('textarea');
-    plain.id = 'ke-plain';
-    plain.style.display = 'none';
-    plain.style.width = '100%';
-    plain.style.height = '100%';
-    plain.style.boxSizing = 'border-box';
-    plain.style.fontFamily = 'monospace';
-    plain.style.fontSize = '16px';
-    plain.style.padding = '10px';
-    appRoot.appendChild(plain);
-
-    function switchToPlain() {
-      try { plain.value = editor.getValue(); } catch {}
-      host.style.display = 'none';
-      plain.style.display = 'block';
-      plain.focus();
-      showToast('テキスト欄に切替えました');
-    }
-    function switchToMonaco() {
-      try { editor.setValue(plain.value); saveNow(); } catch {}
-      plain.style.display = 'none';
-      host.style.display = 'block';
-      editor.focus();
-      showToast('Monacoに戻りました');
-    }
-    let plainMode = false;
 
     async function copySelectionOrAll() {
       try {
@@ -519,8 +512,9 @@ require(['vs/editor/editor.main'], function () {
       if (!query) {
         const empty = document.createElement('div');
         empty.className = 'lookup-empty';
-        empty.textContent = '漢字を入力してください';
+        empty.textContent = '割当漢字を入力してください';
         target.appendChild(empty);
+        layoutEditorToViewport();
         return;
       }
       if (!results.length) {
@@ -528,6 +522,7 @@ require(['vs/editor/editor.main'], function () {
         empty.className = 'lookup-empty';
         empty.textContent = '該当なし';
         target.appendChild(empty);
+        layoutEditorToViewport();
         return;
       }
       for (const item of results.slice(0, 80)) {
@@ -558,6 +553,7 @@ require(['vs/editor/editor.main'], function () {
         more.textContent = `${results.length}件中80件を表示`;
         target.appendChild(more);
       }
+      layoutEditorToViewport();
     }
 
     async function runAssignmentLookup() {
@@ -585,6 +581,7 @@ require(['vs/editor/editor.main'], function () {
       const panel = byId('assignment-lookup');
       const button = byId('btn-assignment-lookup');
       const input = byId('lookup-query');
+      const run = byId('lookup-run');
       const clear = byId('lookup-clear');
       if (!panel || !button || !input) return;
       const setOpen = (open) => {
@@ -594,9 +591,11 @@ require(['vs/editor/editor.main'], function () {
           input.focus();
           runAssignmentLookup();
         }
+        layoutEditorToViewport();
       };
       button.addEventListener('click', () => setOpen(panel.dataset.open !== 'true'));
       input.addEventListener('input', () => runAssignmentLookup());
+      run && run.addEventListener('click', () => runAssignmentLookup());
       clear && clear.addEventListener('click', () => {
         input.value = '';
         renderLookupResults([], '');
@@ -611,25 +610,6 @@ require(['vs/editor/editor.main'], function () {
     wire('btn-paste', () => pasteFromClipboard());
     wire('btn-select-all', () => selectAll());
     wire('btn-share', () => shareSelectionOrAll());
-    wire('btn-plain-toggle', () => {
-      plainMode = !plainMode;
-      const btn = document.getElementById('btn-plain-toggle');
-      if (plainMode) {
-        switchToPlain();
-        if (btn) {
-          btn.textContent = 'Monacoに戻る';
-          btn.title = 'Monaco Editorに戻る';
-          btn.setAttribute('aria-pressed', 'true');
-        }
-      } else {
-        switchToMonaco();
-        if (btn) {
-          btn.textContent = 'テキスト欄へ';
-          btn.title = '通常のテキスト欄に切替';
-          btn.setAttribute('aria-pressed', 'false');
-        }
-      }
-    });
   })();
   // === End of Mobile-friendly Toolbar ===
 });
