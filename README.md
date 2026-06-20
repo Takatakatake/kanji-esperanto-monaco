@@ -8,6 +8,7 @@ Monaco Editor を使った「漢字化エスペラント」最小デモサイト
    - 例: `npx serve kanji-esperanto-monaco`
 2. ブラウザで `http://localhost:5173/` を開く（初回から決定的にするには `?strict=1` を付与: `http://localhost:5173/?strict=1`）。
 3. エディタに `bon` と入力 → 候補「良」が表示。Enter で確定。
+4. ツールバーの `語根→漢字` を押すと `漢字→語根` に切り替わり、`良` → `bon` のように逆引きできます。
 
 ## フォルダ構成
 ```
@@ -25,10 +26,12 @@ kanji-esperanto-monaco/
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/漢字割当一覧_識別子付きプレビュー_20260614.tsv" ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
+node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 ```
 
 - `ĉ`, `ĝ`, `ŝ`, `ŭ` と `c^`, `g^`, `s^`, `u^` などは、入力用に `cx`, `gx`, `sx`, `ux` へ正規化します。
 - 同一語根に複数候補がある場合は、`priority` の小さい順に候補表示します。
+- `data/reverse.json` は漢字本文から語根を引くための逆引きインデックスです。
 
 ## 大辞書（分割・遅延読込）
 - `data/ke-a.json`, `data/ke-b.json`, ... に `{ items: [{ prefix, body, detail? }] }` 形式で保存。
@@ -68,24 +71,13 @@ Actions による自動デプロイ（同梱）:
 - Monaco worker は data URL で自己完結（CDN 金輪際に依存、サーバ側設定不要）
 - `wordPattern` は ASCII 語根と CJK(々/〻) の語境界を想定
 - 通常入力（a-z）でも候補を自動表示＋Backspace/Delete 後に候補を自動再表示、Ctrl+Space で強制表示
+- ツールバーで `語根→漢字` / `漢字→語根` を切替可能。逆引きは完全一致、前方一致、部分一致の順に候補を出します。
 - 大辞書は 1 文字バケツで遅延読込（更に大規模なら 2 文字バケツや Trie を検討）
 
-## CodeMirror 版（よりシンプルな代替）
-`/cm` に CodeMirror 6 ベースの最小実装を同梱しました。
-
-- URL: `./cm/index.html`（Pages公開後は `https://<user>.github.io/kanji-esperanto-monaco/cm/`）
-- 特徴:
-  - 依存は ESM CDN のみ。Web Worker や AMD ローダ設定が不要。
-  - 通常入力・Backspace で自動補完が確実に発火。
-  - 末尾の ASCII 語根は「p l i」のような単一スペース混じりも `pli` として正規化。
-  - localStorage に自動保存＋スナップショット履歴（最大50）。
-- `../all.json` を読み込み、前方一致で候補提示。
-
 ## PWA（オフライン対応）
-- ルートに `manifest.webmanifest` と `sw.js` を追加。`index.html` と `cm/index.html` で登録しています。
+- ルートに `manifest.webmanifest` と `sw.js` を追加。`index.html` で登録しています。
 - 初回アクセス時に以下を事前キャッシュし、以後はオフラインでも動作します。
-  - ルート: `index.html`, `app.js`, `all.json`, `data/ke-*.json`
-  - CodeMirror 版: `cm/index.html`, `cm/app.js`, ESM依存（`@codemirror/*`）
+  - ルート: `index.html`, `app.js`, `all.json`, `data/ke-*.json`, `data/reverse.json`
   - Monaco 版の最小依存（loader/worker）
 - 注意: PWAのスコープは GitHub Pages の公開パス（例: `/kanji-esperanto-monaco/`）。`manifest.webmanifest` の `start_url`/`scope` はそれに合わせています。
 
