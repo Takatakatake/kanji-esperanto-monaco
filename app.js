@@ -19,8 +19,6 @@ require(['vs/editor/editor.main'], function () {
   const STRICT = params.get('strict') === '1';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260614';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
-  const MODE_KEY = window.KE_LOOKUP_MODE_KEY || `ke-lookup-mode-v1:${location.pathname}`;
-  const LOOKUP_MODES = { FORWARD: 'forward', REVERSE: 'reverse' };
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
       id: DEFAULT_DICTIONARY_ID,
@@ -37,31 +35,10 @@ require(['vs/editor/editor.main'], function () {
     activeDictionaryId = params.get('dict') || localStorage.getItem(DICTIONARY_SET_KEY) || DEFAULT_DICTIONARY_ID;
   } catch { }
   if (!DICTIONARY_SETS[activeDictionaryId]) activeDictionaryId = DEFAULT_DICTIONARY_ID;
-  let lookupMode = Object.values(LOOKUP_MODES).includes(window.KE_EARLY_LOOKUP_MODE)
-    ? window.KE_EARLY_LOOKUP_MODE
-    : LOOKUP_MODES.FORWARD;
-  try {
-    const savedMode = localStorage.getItem(MODE_KEY);
-    if (Object.values(LOOKUP_MODES).includes(savedMode)) lookupMode = savedMode;
-  } catch { }
-  let lastCompletionSnapshot = { mode: lookupMode, query: '', fingerprint: '', timestamp: 0 };
+  let lastCompletionSnapshot = { query: '', fingerprint: '', timestamp: 0 };
 
   function activeDictionarySet() {
     return DICTIONARY_SETS[activeDictionaryId] || DICTIONARY_SETS[DEFAULT_DICTIONARY_ID];
-  }
-
-  function setLookupMode(mode) {
-    lookupMode = mode === LOOKUP_MODES.REVERSE ? LOOKUP_MODES.REVERSE : LOOKUP_MODES.FORWARD;
-    window.KE_EARLY_LOOKUP_MODE = lookupMode;
-    window.KE_LOOKUP_MODE = lookupMode;
-    try { localStorage.setItem(MODE_KEY, lookupMode); } catch { }
-    updateModeButton();
-    hideSuggest();
-    setTimeout(() => editor && editor.trigger('ke', 'editor.action.triggerSuggest', {}), 0);
-  }
-
-  function toggleLookupMode() {
-    setLookupMode(lookupMode === LOOKUP_MODES.FORWARD ? LOOKUP_MODES.REVERSE : LOOKUP_MODES.FORWARD);
   }
 
   async function loadBucket(ch) {
@@ -128,24 +105,10 @@ require(['vs/editor/editor.main'], function () {
     return m ? m[0] : '';
   }
 
-  const HAN_RE = /[\u3400-\u9fff\uf900-\ufaff々〻]/;
-  const BODY_QUERY_RE = /[A-Za-z\u3400-\u9fff\uf900-\ufaff々〻\u02b0-\u02ff\u1d00-\u1d7f\u2070-\u209f\u2c60-\u2c7f\u0300-\u036f]+$/;
-
-  function extractBodyQuery(line, caret0) {
-    const left = line.slice(0, caret0);
-    const m = left.match(BODY_QUERY_RE);
-    if (!m || !HAN_RE.test(m[0])) return '';
-    return m[0];
-  }
-
-  function extractQueryForMode(mode, line, caret0) {
-    return mode === LOOKUP_MODES.REVERSE ? extractBodyQuery(line, caret0) : extractAsciiPrefix(line, caret0);
-  }
-
-  function currentQuery(model, position, mode = lookupMode) {
+  function currentPrefix(model, position) {
     const line = model.getLineContent(position.lineNumber);
     const col0 = position.column - 1;
-    return extractQueryForMode(mode, line, col0);
+    return extractAsciiPrefix(line, col0);
   }
 
   async function buildItemsForPrefix(prefix, position, col0) {
@@ -198,59 +161,6 @@ require(['vs/editor/editor.main'], function () {
     return items;
   }
 
-  function reverseMatchRank(body, query) {
-    const haystack = String(body || '').toLowerCase();
-    const needle = String(query || '').toLowerCase();
-    if (!needle) return -1;
-    if (haystack === needle) return 0;
-    if (haystack.startsWith(needle)) return 1;
-    if (haystack.includes(needle)) return 2;
-    return -1;
-  }
-
-  async function buildReverseItemsForQuery(query, position, col0) {
-    const source = await loadReverseIndex();
-    const matches = source
-      .map((s, index) => ({ source: s, index, rank: reverseMatchRank(s.body, query) }))
-      .filter(c => c.rank >= 0)
-      .sort((a, b) => (
-        a.rank - b.rank
-        || Number(a.source.priority || 0) - Number(b.source.priority || 0)
-        || Number(b.source.frequency || 0) - Number(a.source.frequency || 0)
-        || String(a.source.body || '').localeCompare(String(b.source.body || ''))
-        || String(a.source.root || '').localeCompare(String(b.source.root || ''))
-      ));
-
-    let exactPreselected = false;
-    return matches
-      .slice(0, SUGGEST_LIMIT)
-      .map(({ source: s, index, rank }) => {
-        const prefixes = Array.isArray(s.prefixes) ? s.prefixes : [];
-        const root = String(s.root || s.insertText || prefixes[0] || '');
-        const insertText = String(s.insertText || prefixes[0] || root);
-        const priority = Number.isFinite(Number(s.priority)) ? Number(s.priority) : index;
-        const preselect = rank === 0 && !exactPreselected;
-        if (preselect) exactPreselected = true;
-        return {
-          label: `${s.body} → ${root}`,
-          kind: monaco.languages.CompletionItemKind.Reference,
-          insertText,
-          range: new monaco.Range(position.lineNumber, col0 - query.length + 1, position.lineNumber, col0 + 1),
-          detail: prefixes.length ? `入力候補: ${prefixes.join(', ')}` : '',
-          documentation: s.documentation || s.detail || '',
-          filterText: `${s.body} ${root} ${prefixes.join(' ')}`,
-          sortText: `${rank}${String(priority).padStart(6, '0')}:${s.body}:${root}`,
-          preselect
-        };
-      });
-  }
-
-  function buildCompletionItems(mode, query, position, col0) {
-    return mode === LOOKUP_MODES.REVERSE
-      ? buildReverseItemsForQuery(query, position, col0)
-      : buildItemsForPrefix(query, position, col0);
-  }
-
   // No test hooks or debug endpoints in production — keep behavior minimal/explicit
 
   function preloadAllBucketsIfStrict() {
@@ -277,26 +187,25 @@ require(['vs/editor/editor.main'], function () {
       provideCompletionItems: async (model, position, _context, token) => {
         const line = model.getLineContent(position.lineNumber);
         const col0 = position.column - 1; // 0-based caret index
-        const mode = lookupMode;
-        const query = extractQueryForMode(mode, line, col0);
-        if (!query || query.length < 1) return { suggestions: [] }; // 1文字以上で候補
-        let items = await buildCompletionItems(mode, query, position, col0);
-        items = finalizeItems(query, items);
+        const prefix = extractAsciiPrefix(line, col0);
+        if (!prefix || prefix.length < 1) return { suggestions: [] }; // 1文字以上で候補
+        let items = await buildItemsForPrefix(prefix, position, col0);
+        items = finalizeItems(prefix, items);
         // レース防止: 返却直前のプレフィクスが当初と異なる場合は結果を捨てる
         try {
           if (token && token.isCancellationRequested) return { suggestions: [] };
-          const nowQuery = currentQuery(model, editor.getPosition(), mode);
-          if (lookupMode !== mode || nowQuery !== query) return { suggestions: [] };
+          const nowPrefix = currentPrefix(model, editor.getPosition());
+          if (nowPrefix !== prefix) return { suggestions: [] };
         } catch { }
         // まれに辞書ロードの直後で空になる揺らぎに対応（1回だけ待って再試行）
-        const bucketKey = `${activeDictionarySet().id}:${query[0].toLowerCase()}`;
-        if (mode === LOOKUP_MODES.FORWARD && !items.length && inflight.has(bucketKey)) {
+        const bucketKey = `${activeDictionarySet().id}:${prefix[0].toLowerCase()}`;
+        if (!items.length && inflight.has(bucketKey)) {
           try { await inflight.get(bucketKey); } catch { }
-          items = await buildCompletionItems(mode, query, position, col0);
-          items = finalizeItems(query, items);
+          items = await buildItemsForPrefix(prefix, position, col0);
+          items = finalizeItems(prefix, items);
         }
-        const fingerprint = fingerprintItems(query, items);
-        lastCompletionSnapshot = { mode, query, fingerprint, timestamp: Date.now() };
+        const fingerprint = fingerprintItems(prefix, items);
+        lastCompletionSnapshot = { query: prefix, fingerprint, timestamp: Date.now() };
         return { suggestions: items };
       }
     });
@@ -382,23 +291,6 @@ require(['vs/editor/editor.main'], function () {
     } catch { }
   }
 
-  function updateModeButton() {
-    if (typeof window.KE_SET_MODE_BUTTON === 'function') {
-      window.KE_SET_MODE_BUTTON(lookupMode);
-      return;
-    }
-    const btn = document.getElementById('btn-mode-toggle');
-    if (!btn) return;
-    const reverse = lookupMode === LOOKUP_MODES.REVERSE;
-    btn.textContent = reverse ? '漢字→語根' : '語根→漢字';
-    btn.setAttribute('aria-pressed', reverse ? 'true' : 'false');
-    btn.title = reverse ? '漢字からエスペラント語根を検索' : 'エスペラント語根から漢字を入力';
-  }
-  updateModeButton();
-  window.KE_LOOKUP_MODE = lookupMode;
-  window.KE_SET_LOOKUP_MODE = setLookupMode;
-  window.KE_APP_MODE_READY = true;
-
   // strict モードは全データ読込後に補完プロバイダを登録（初回から決定的）
   preloadAllBucketsIfStrict().then(registerProvider).catch(registerProvider);
 
@@ -419,9 +311,7 @@ require(['vs/editor/editor.main'], function () {
       hideSuggest();
       return;
     }
-    const mode = lookupMode;
-    // 語根→漢字では a-z 以外を閉じる。漢字→語根では漢字を含む検索語がない場合だけ閉じる。
-    if (mode === LOOKUP_MODES.FORWARD && !/^[a-z]$/i.test(text)) {
+    if (!/^[a-z]$/i.test(text)) {
       hideSuggest();
       return;
     }
@@ -430,9 +320,9 @@ require(['vs/editor/editor.main'], function () {
       const pos = editor.getPosition();
       const col0 = pos.column - 1;
       const line = model.getLineContent(pos.lineNumber);
-      const query = extractQueryForMode(mode, line, col0);
-      if (!query) { hideSuggest(); return; }
-      const maybe = mode === LOOKUP_MODES.REVERSE ? loadReverseIndex() : loadBucket(query[0]);
+      const prefix = extractAsciiPrefix(line, col0);
+      if (!prefix) { hideSuggest(); return; }
+      const maybe = loadBucket(prefix[0]);
       Promise.resolve(maybe)
         .then(async () => {
           let shouldRetrigger = true;
@@ -442,12 +332,12 @@ require(['vs/editor/editor.main'], function () {
             if (!curModel || !curPos) return;
             const curCol0 = curPos.column - 1;
             const curLine = curModel.getLineContent(curPos.lineNumber);
-            const curQuery = extractQueryForMode(mode, curLine, curCol0);
-            if (lookupMode !== mode || curQuery !== query) return;
-            let projected = await buildCompletionItems(mode, query, curPos, curCol0);
-            projected = finalizeItems(query, projected);
-            const fingerprint = fingerprintItems(query, projected);
-            if (lastCompletionSnapshot.mode === mode && lastCompletionSnapshot.query === query && lastCompletionSnapshot.fingerprint === fingerprint) {
+            const curPrefix = extractAsciiPrefix(curLine, curCol0);
+            if (curPrefix !== prefix) return;
+            let projected = await buildItemsForPrefix(prefix, curPos, curCol0);
+            projected = finalizeItems(prefix, projected);
+            const fingerprint = fingerprintItems(prefix, projected);
+            if (lastCompletionSnapshot.query === prefix && lastCompletionSnapshot.fingerprint === fingerprint) {
               shouldRetrigger = false;
             }
           } catch {
@@ -580,11 +470,147 @@ require(['vs/editor/editor.main'], function () {
 
     const byId = (id) => document.getElementById(id);
     const wire = (id, fn) => { const el = byId(id); if (el) el.addEventListener('click', fn, { passive: true }); };
+
+    function setupDictionarySelect() {
+      const select = byId('dict-select');
+      if (!select) return;
+      select.textContent = '';
+      for (const dict of Object.values(DICTIONARY_SETS)) {
+        const option = document.createElement('option');
+        option.value = dict.id;
+        option.textContent = dict.label;
+        select.appendChild(option);
+      }
+      select.value = activeDictionaryId;
+      select.addEventListener('change', () => {
+        const next = select.value;
+        if (!DICTIONARY_SETS[next] || next === activeDictionaryId) return;
+        activeDictionaryId = next;
+        try { localStorage.setItem(DICTIONARY_SET_KEY, activeDictionaryId); } catch {}
+        cache.clear();
+        inflight.clear();
+        reverseCache.clear();
+        reverseInflight.clear();
+        runAssignmentLookup();
+        hideSuggest();
+        showToast('割当案を切替えました');
+      });
+    }
+
+    function assignmentMatchRank(item, rawQuery) {
+      const query = String(rawQuery || '').trim();
+      if (!query) return -1;
+      const kanji = String(item.kanji || '');
+      const body = String(item.body || '');
+      if (kanji === query || body === query) return 0;
+      if (kanji.startsWith(query) || body.startsWith(query)) return 1;
+      if (kanji.includes(query) || body.includes(query)) return 2;
+      return -1;
+    }
+
+    function clearNode(node) {
+      while (node && node.firstChild) node.removeChild(node.firstChild);
+    }
+
+    function renderLookupResults(results, query) {
+      const target = byId('lookup-results');
+      if (!target) return;
+      clearNode(target);
+      if (!query) {
+        const empty = document.createElement('div');
+        empty.className = 'lookup-empty';
+        empty.textContent = '漢字を入力してください';
+        target.appendChild(empty);
+        return;
+      }
+      if (!results.length) {
+        const empty = document.createElement('div');
+        empty.className = 'lookup-empty';
+        empty.textContent = '該当なし';
+        target.appendChild(empty);
+        return;
+      }
+      for (const item of results.slice(0, 80)) {
+        const row = document.createElement('div');
+        row.className = 'lookup-item';
+
+        const kanji = document.createElement('div');
+        kanji.className = 'lookup-kanji';
+        kanji.textContent = item.body || item.kanji || '';
+
+        const root = document.createElement('div');
+        root.className = 'lookup-root';
+        root.textContent = item.root || '';
+
+        const meta = document.createElement('div');
+        meta.className = 'lookup-meta';
+        const frequency = Number.isFinite(Number(item.frequency)) ? `F${item.frequency}` : '';
+        meta.textContent = [item.type, frequency, item.base ? '基本' : ''].filter(Boolean).join(' / ');
+
+        row.appendChild(kanji);
+        row.appendChild(root);
+        row.appendChild(meta);
+        target.appendChild(row);
+      }
+      if (results.length > 80) {
+        const more = document.createElement('div');
+        more.className = 'lookup-empty';
+        more.textContent = `${results.length}件中80件を表示`;
+        target.appendChild(more);
+      }
+    }
+
+    async function runAssignmentLookup() {
+      const input = byId('lookup-query');
+      const query = input ? input.value.trim() : '';
+      if (!query) { renderLookupResults([], query); return; }
+      const items = await loadReverseIndex();
+      const results = items
+        .map((item, index) => ({ item, index, rank: assignmentMatchRank(item, query) }))
+        .filter(entry => entry.rank >= 0)
+        .sort((a, b) => (
+          a.rank - b.rank
+          || String(a.item.kanji || '').length - String(b.item.kanji || '').length
+          || String(a.item.body || '').length - String(b.item.body || '').length
+          || Number(a.item.priority || 0) - Number(b.item.priority || 0)
+          || Number(b.item.frequency || 0) - Number(a.item.frequency || 0)
+          || String(a.item.root || '').localeCompare(String(b.item.root || ''))
+          || a.index - b.index
+        ))
+        .map(entry => entry.item);
+      renderLookupResults(results, query);
+    }
+
+    function setupAssignmentLookup() {
+      const panel = byId('assignment-lookup');
+      const button = byId('btn-assignment-lookup');
+      const input = byId('lookup-query');
+      const clear = byId('lookup-clear');
+      if (!panel || !button || !input) return;
+      const setOpen = (open) => {
+        panel.dataset.open = open ? 'true' : 'false';
+        button.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) {
+          input.focus();
+          runAssignmentLookup();
+        }
+      };
+      button.addEventListener('click', () => setOpen(panel.dataset.open !== 'true'));
+      input.addEventListener('input', () => runAssignmentLookup());
+      clear && clear.addEventListener('click', () => {
+        input.value = '';
+        renderLookupResults([], '');
+        input.focus();
+      });
+      renderLookupResults([], '');
+    }
+
+    setupDictionarySelect();
+    setupAssignmentLookup();
     wire('btn-copy', () => copySelectionOrAll());
     wire('btn-paste', () => pasteFromClipboard());
     wire('btn-select-all', () => selectAll());
     wire('btn-share', () => shareSelectionOrAll());
-    wire('btn-mode-toggle', () => toggleLookupMode());
     wire('btn-plain-toggle', () => {
       plainMode = !plainMode;
       const btn = document.getElementById('btn-plain-toggle');

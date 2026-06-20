@@ -34,6 +34,13 @@ function numberOrZero(value) {
   return Number.isFinite(n) ? n : 0;
 }
 
+function documentationField(documentation, label) {
+  const line = String(documentation || '')
+    .split(/\r?\n/)
+    .find(part => part.startsWith(`${label}: `));
+  return line ? line.slice(label.length + 2).trim() : '';
+}
+
 const src = JSON.parse(await fs.readFile(inPath, 'utf8'));
 const groups = new Map();
 
@@ -43,6 +50,7 @@ for (const item of src.items || []) {
   if (!body || !prefix) continue;
 
   const sourceRoot = String(item.sourceRoot || prefix).trim();
+  const kanji = documentationField(item.documentation, '漢字') || body;
   const key = `${body}\u0000${sourceRoot}`;
   const existing = groups.get(key);
   const aliases = aliasesFromSourceRoot(sourceRoot, prefix);
@@ -52,11 +60,13 @@ for (const item of src.items || []) {
     existing.priority = Math.min(existing.priority, numberOrZero(item.priority));
     existing.frequency = Math.max(existing.frequency, numberOrZero(item.frequency));
     existing.base = existing.base || Boolean(item.base);
+    if (!existing.kanji) existing.kanji = kanji;
     continue;
   }
 
   groups.set(key, {
     body,
+    kanji,
     root: sourceRoot,
     prefixes: new Set(aliases),
     insertText: aliases[0] || prefix,
