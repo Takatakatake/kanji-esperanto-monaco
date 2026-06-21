@@ -187,6 +187,7 @@ for (const row of rows) {
     const item = {
       prefix,
       body,
+      kanji: String(row['漢字'] || '').trim(),
       detail: makeDetail(row, sourceRoot),
       documentation: makeDocumentation(row, prefix, sourceRoot, sourceName),
       priority: 0,

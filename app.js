@@ -19,7 +19,7 @@ require(['vs/editor/editor.main'], function () {
   const STRICT = params.get('strict') === '1';
   const APP_VERSION = window.KE_APP_VERSION || 'dev';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260620';
-  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r3';
+  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r4';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
@@ -58,6 +58,9 @@ require(['vs/editor/editor.main'], function () {
     const toastEl = document.getElementById('ke-toast');
     if (!toastEl) return;
     toastEl.dataset.kind = kind;
+    // Errors must be announced assertively to screen readers (role=alert / aria-live=assertive);
+    // info messages stay polite (role=status). Set the role before writing the text.
+    toastEl.setAttribute('role', kind === 'error' ? 'alert' : 'status');
     toastEl.textContent = msg;
     clearTimeout(showStatus._t);
     if (timeout > 0) {
@@ -455,6 +458,44 @@ require(['vs/editor/editor.main'], function () {
       }
     }
 
+    // Fallback paste UI: a real multiline <textarea> overlay (window.prompt is single-line and
+    // silently strips newlines, corrupting multi-line documents on iOS Safari / non-secure
+    // contexts where the async Clipboard API is unavailable). Resolves to the pasted string,
+    // or null if the user cancels.
+    function pasteViaTextarea() {
+      return new Promise((resolve) => {
+        const overlay = document.createElement('div');
+        overlay.setAttribute('role', 'dialog');
+        overlay.setAttribute('aria-label', 'クリップボードから貼り付け');
+        overlay.style.cssText = 'position:fixed;inset:0;z-index:2000;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.4);padding:16px;';
+        const box = document.createElement('div');
+        box.style.cssText = 'background:#fff;border-radius:8px;padding:14px;max-width:560px;width:100%;display:flex;flex-direction:column;gap:10px;';
+        const label = document.createElement('div');
+        label.textContent = 'ここに貼り付けて「貼り付け」を押してください（複数行可）';
+        label.style.cssText = 'font-size:13px;color:#333;';
+        const ta = document.createElement('textarea');
+        ta.style.cssText = 'width:100%;min-height:140px;font-size:16px;padding:8px;border:1px solid #bbb;border-radius:6px;box-sizing:border-box;';
+        const row = document.createElement('div');
+        row.style.cssText = 'display:flex;gap:8px;justify-content:flex-end;';
+        const cancel = document.createElement('button');
+        cancel.type = 'button'; cancel.textContent = 'キャンセル';
+        const ok = document.createElement('button');
+        ok.type = 'button'; ok.textContent = '貼り付け';
+        for (const b of [cancel, ok]) b.style.cssText = 'font-size:14px;padding:8px 14px;border:1px solid #ccc;border-radius:6px;background:#f8f8f8;';
+        function onKey(e) { if (e.key === 'Escape') { e.preventDefault(); close(null); } }
+        function close(value) { document.removeEventListener('keydown', onKey, true); overlay.remove(); editor.focus(); resolve(value); }
+        cancel.addEventListener('click', () => close(null));
+        ok.addEventListener('click', () => close(ta.value));
+        overlay.addEventListener('click', (e) => { if (e.target === overlay) close(null); });
+        document.addEventListener('keydown', onKey, true);
+        row.appendChild(cancel); row.appendChild(ok);
+        box.appendChild(label); box.appendChild(ta); box.appendChild(row);
+        overlay.appendChild(box);
+        document.body.appendChild(overlay);
+        ta.focus();
+      });
+    }
+
     async function pasteFromClipboard() {
       try {
         if (navigator.clipboard && navigator.clipboard.readText) {
@@ -468,7 +509,7 @@ require(['vs/editor/editor.main'], function () {
           }
         }
       } catch {}
-      const fallback = window.prompt('クリップボード読み取り不可です。ここに貼り付けてください：', '');
+      const fallback = await pasteViaTextarea();
       if (fallback != null) {
         const sel = editor.getSelection();
         editor.executeEdits('ke-paste', [{ range: sel, text: String(fallback), forceMoveMarkers: true }]);
