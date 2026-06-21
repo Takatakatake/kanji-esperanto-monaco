@@ -59,6 +59,38 @@ for (const [bucket, bucketItems] of buckets) {
   }
 }
 
+// Cross-check the two HAND-MAINTAINED bucket lists (sw.js DICTIONARY_BUCKETS for the PWA
+// precache, app.js bucketLetters for the lazy loader) against the buckets actually generated
+// from all.json. Otherwise a future root whose prefix starts with q/w/x/y would emit a new
+// ke-<letter>.json that is silently never precached (offline gap) and never loaded (app.js
+// short-circuits unknown letters to []), with no error surfaced.
+const generatedBuckets = Array.from(buckets.keys()).sort().join(',');
+try {
+  const repoRoot = path.dirname(path.resolve(allPath));
+  const swText = await fs.readFile(path.join(repoRoot, 'sw.js'), 'utf8');
+  const appText = await fs.readFile(path.join(repoRoot, 'app.js'), 'utf8');
+  const swMatch = swText.match(/const DICTIONARY_BUCKETS = \[([^\]]*)\]/);
+  if (!swMatch) {
+    errors.push('could not find DICTIONARY_BUCKETS in sw.js');
+  } else {
+    const swBuckets = (swMatch[1].match(/'([a-z])'/g) || []).map(s => s.replace(/'/g, '')).sort().join(',');
+    if (swBuckets !== generatedBuckets) {
+      errors.push(`sw.js DICTIONARY_BUCKETS [${swBuckets}] != generated buckets [${generatedBuckets}]`);
+    }
+  }
+  const appMatch = appText.match(/bucketLetters:\s*'([a-z]+)'/);
+  if (!appMatch) {
+    errors.push('could not find bucketLetters in app.js');
+  } else {
+    const appBuckets = appMatch[1].split('').sort().join(',');
+    if (appBuckets !== generatedBuckets) {
+      errors.push(`app.js bucketLetters [${appBuckets}] != generated buckets [${generatedBuckets}]`);
+    }
+  }
+} catch (error) {
+  errors.push(`cannot cross-check bucket lists: ${error.message}`);
+}
+
 const reversePath = path.join(dataDir, 'reverse.json');
 try {
   const reverse = JSON.parse(await fs.readFile(reversePath, 'utf8'));
