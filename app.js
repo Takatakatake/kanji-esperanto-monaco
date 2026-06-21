@@ -92,8 +92,11 @@ require(['vs/editor/editor.main'], function () {
         const url = dictionaryUrl(dictionary.bucketUrl(letter), dictionary);
         let res = await fetch(url, { cache: 'force-cache' });
         if (!res.ok) {
-          // One retry with cache busting to avoid transient 404/opaque responses.
-          res = await fetch(url + `&retry=${Date.now()}`, { cache: 'reload' });
+          // One retry forcing a fresh network fetch to recover from a transient failure.
+          // Use the SAME (versioned) URL, not a unique ?retry= timestamp: a unique URL would
+          // be stored as a new, never-reused entry in the service-worker cache on every flaky
+          // request, growing it without bound. cache:'reload' bypasses the HTTP cache.
+          res = await fetch(url, { cache: 'reload' });
         }
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
@@ -120,7 +123,9 @@ require(['vs/editor/editor.main'], function () {
       try {
         const url = dictionaryUrl(dictionary.reverseUrl, dictionary);
         let res = await fetch(url, { cache: 'force-cache' });
-        if (!res.ok) res = await fetch(url + `&retry=${Date.now()}`, { cache: 'reload' });
+        // Retry on the same versioned URL (cache:'reload') — never a unique ?retry= timestamp,
+        // which would bloat the service-worker cache with never-reused entries.
+        if (!res.ok) res = await fetch(url, { cache: 'reload' });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         const arr = Array.isArray(json.items) ? json.items : [];
