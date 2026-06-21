@@ -15,6 +15,7 @@ require(['vs/editor/editor.main'], function () {
   const reverseCache = new Map();
   const reverseInflight = new Map();
   const SUGGEST_LIMIT = 100;
+  const LOOKUP_LIMIT = 80;
   const params = new URLSearchParams(location.search);
   const STRICT = params.get('strict') === '1';
   const APP_VERSION = window.KE_APP_VERSION || 'dev';
@@ -274,7 +275,8 @@ require(['vs/editor/editor.main'], function () {
     fontSize: 16,
     minimap: { enabled: false },
     automaticLayout: true,
-    suggestOnTriggerCharacters: true
+    suggestOnTriggerCharacters: true,
+    ariaLabel: '漢字化エスペラント エディタ'
   }, extraOpts));
 
   // Ctrl+Space で常に候補を表示
@@ -607,7 +609,7 @@ require(['vs/editor/editor.main'], function () {
         layoutEditorToViewport();
         return;
       }
-      for (const item of results.slice(0, 80)) {
+      for (const item of results.slice(0, LOOKUP_LIMIT)) {
         const row = document.createElement('div');
         row.className = 'lookup-item';
 
@@ -633,10 +635,10 @@ require(['vs/editor/editor.main'], function () {
         row.appendChild(meta);
         target.appendChild(row);
       }
-      if (results.length > 80) {
+      if (results.length > LOOKUP_LIMIT) {
         const more = document.createElement('div');
         more.className = 'lookup-empty';
-        more.textContent = `${results.length}件中80件を表示`;
+        more.textContent = `${results.length}件中${LOOKUP_LIMIT}件を表示`;
         target.appendChild(more);
       }
       layoutEditorToViewport();

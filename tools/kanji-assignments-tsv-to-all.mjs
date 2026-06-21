@@ -4,6 +4,7 @@
 //   node tools/kanji-assignments-tsv-to-all.mjs /path/to/_identifier_sidecar.tsv ./all.json
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { toXSystem } from './x-system.mjs';
 
 const [,, inPath, outPath = './all.json'] = process.argv;
 if (!inPath) {
@@ -13,20 +14,6 @@ if (!inPath) {
 
 const PREVIEW_COLUMNS = ['最終形', '識別子', '漢字', '語根', '型', 'F(汎用性)', 'グループ数', '基本形'];
 const SIDECAR_COLUMNS = ['root', 'kanji', 'id', 'disp', 'band', 'F', 'groupkey'];
-
-function toXSystem(input) {
-  return String(input || '')
-    .trim()
-    .normalize('NFC')
-    .replace(/([cghjsuCGHJSU])\^/g, (_m, ch) => ch.toLowerCase() + 'x')
-    .replace(/[ĉĈ]/g, 'cx')
-    .replace(/[ĝĜ]/g, 'gx')
-    .replace(/[ĥĤ]/g, 'hx')
-    .replace(/[ĵĴ]/g, 'jx')
-    .replace(/[ŝŜ]/g, 'sx')
-    .replace(/[ŭŬ]/g, 'ux')
-    .toLowerCase();
-}
 
 function parseIntOrZero(value) {
   const n = Number.parseInt(String(value || '').trim(), 10);
@@ -78,13 +65,6 @@ function parseGenericTsv(raw) {
   return { header, rows };
 }
 
-function assertColumns(header, columns) {
-  const missing = columns.filter(col => !header.includes(col));
-  if (missing.length) {
-    throw new Error(`Missing required column(s): ${missing.join(', ')}`);
-  }
-}
-
 function normalizeSidecarRows(rows) {
   const groupCounts = new Map();
   for (const row of rows) {
@@ -112,12 +92,12 @@ function normalizeSidecarRows(rows) {
 
 function parseTsv(raw) {
   const { header, rows } = parseGenericTsv(raw);
+  // The .every(includes) guards above already guarantee every column is present, so an
+  // explicit assertColumns() here was unreachable; the schema is determined by the guard.
   if (PREVIEW_COLUMNS.every(col => header.includes(col))) {
-    assertColumns(header, PREVIEW_COLUMNS);
     return { schema: 'preview', rows };
   }
   if (SIDECAR_COLUMNS.every(col => header.includes(col))) {
-    assertColumns(header, SIDECAR_COLUMNS);
     return { schema: 'identifier-sidecar', rows: normalizeSidecarRows(rows) };
   }
   throw new Error(`Unsupported assignment TSV columns: ${header.join(', ')}`);

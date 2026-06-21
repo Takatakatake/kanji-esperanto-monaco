@@ -14,14 +14,14 @@
       display:flex; align-items:center; gap:12px; padding: calc(env(safe-area-inset-top, 0px) + 8px) 16px 8px;
       border-bottom:1px solid #ddd; flex-wrap: wrap; background:#fff;
     }
-    header strong { font-size: 16px; }
+    header h1 { font-size: 16px; margin: 0; font-weight: bold; }
     .hint { font-size: 12px; color: #666; }
     .toolbar { display:flex; gap:8px; flex-wrap: wrap; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .toolbar button, .toolbar select { font-size: 12px; padding:6px 10px; border:1px solid #ccc; background:#f8f8f8; border-radius:6px; }
     .toolbar [hidden] { display:none; }
     .toolbar button[aria-expanded="true"] { border-color:#007acc; background:#e8f2ff; color:#005a9e; }
     .toolbar button:active { background:#eee; }
-    .toast { font-size: 12px; color:#0a7; margin-left: auto; white-space: nowrap; }
+    .toast { font-size: 12px; color:#157347; margin-left: auto; white-space: nowrap; }
     .toast[data-kind="error"] { color:#b00020; }
     #editor { min-height:0; overflow:hidden; }
     #assignment-lookup {
@@ -31,7 +31,7 @@
     #assignment-lookup[data-open="true"] { display:block; }
     .lookup-controls { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
     .lookup-label { font-size:13px; font-weight:600; color:#333; }
-    #lookup-query { font-size:14px; padding:7px 9px; min-width:180px; max-width:100%; border:1px solid #bbb; border-radius:6px; }
+    #lookup-query { font-size:16px; padding:7px 9px; min-width:180px; max-width:100%; border:1px solid #bbb; border-radius:6px; }
     #assignment-lookup button { font-size:12px; padding:6px 10px; border:1px solid #ccc; background:#f8f8f8; border-radius:6px; }
     #lookup-results { margin-top:8px; display:grid; gap:6px; max-height:220px; overflow:auto; }
     .lookup-item { display:grid; grid-template-columns: minmax(64px, auto) 1fr auto; gap:10px; align-items:center; padding:7px 9px; border:1px solid #e1e1e1; background:#fff; border-radius:6px; }
@@ -57,14 +57,14 @@
 <body>
   <div id="app">
     <header>
-      <strong>Kanji Esperanto Editor</strong>
+      <h1>Kanji Esperanto Editor</h1>
       <span class="hint">スマホは上のボタンでコピペ可能</span>
       <div class="toolbar">
         <button id="btn-copy" type="button">コピー</button>
         <button id="btn-paste" type="button">ペースト</button>
         <button id="btn-select-all" type="button">全選択</button>
         <button id="btn-share" type="button">共有</button>
-        <select id="dict-select" title="漢字割当案" hidden></select>
+        <select id="dict-select" title="漢字割当案" aria-label="漢字割当案" hidden></select>
         <button id="btn-assignment-lookup" type="button" aria-expanded="false">割当検索</button>
       </div>
       <span id="ke-toast" class="toast" aria-live="polite"></span>
@@ -78,13 +78,13 @@
       </div>
       <div id="lookup-results" aria-live="polite"></div>
     </section>
-    <div id="editor" data-options='{"wordBasedSuggestions":false,"quickSuggestions":{"other":false,"comments":false,"strings":false},"quickSuggestionsDelay":10,"suggest":{"showSnippets":true,"showWords":false}}'></div>
+    <div id="editor" role="main" aria-label="漢字化エスペラント エディタ" data-options='{"wordBasedSuggestions":false,"quickSuggestions":{"other":false,"comments":false,"strings":false},"quickSuggestionsDelay":10,"suggest":{"showSnippets":true,"showWords":false}}'></div>
   </div>
 
   <script>
-    window.KE_APP_VERSION = '20260621-dictionary-refresh-4';
+    window.KE_APP_VERSION = '20260621-dictionary-refresh-5';
   </script>
-  <script src="./app.js?v=20260621-dictionary-refresh-4"></script>
+  <script src="./app.js?v=20260621-dictionary-refresh-5"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
@@ -96,7 +96,7 @@
       });
       window.addEventListener('load', async () => {
         try {
-          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-4');
+          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-5');
           await reg.update();
         } catch {}
       });
@@ -104,7 +104,7 @@
   </script>
 
   <footer>
-    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-4
+    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-5
   </footer>
 </body>
 </html>
