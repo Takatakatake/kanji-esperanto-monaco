@@ -164,7 +164,12 @@ const skipped = [];
 
 for (const row of rows) {
   const sourceRoot = String(row['語根'] || '').trim();
-  const body = String(row['最終形'] || '').trim();
+  // Strip any trailing comma/space from the final form. A comma-separated root such as
+  // "dio,Di" leaks its separator into the identifier (disp "神ᴰ,"); that stray comma must
+  // not reach the inserted body or the reverse-lookup key. Write it back so detail/
+  // documentation stay consistent with the cleaned body.
+  const body = String(row['最終形'] || '').trim().replace(/[,\s]+$/u, '');
+  row['最終形'] = body;
   if (!sourceRoot || !body) {
     skipped.push({ line: row.__line, reason: 'missing root or final form', root: sourceRoot, body });
     continue;

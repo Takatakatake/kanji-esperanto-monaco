@@ -9,6 +9,13 @@ if (!inPath) {
   process.exit(1);
 }
 
+// DEPRECATED legacy ingest. This emits only {prefix, body, detail} — it does NOT carry
+// sourceRoot / priority / type / frequency / base / sourceLine. Feeding its output into
+// split-dictionary / generate-reverse-index / the reverter build yields a green-but-degraded
+// dictionary (wrong reverse roots, lost ranking). The canonical pipeline is
+// kanji-assignments-tsv-to-all.mjs. Use this only for quick editor-only experiments.
+console.warn('[ke-txt-to-all] DEPRECATED: emits a reduced schema unsuitable for the split/reverse/reverter pipeline. Use tools/kanji-assignments-tsv-to-all.mjs for production dictionaries.');
+
 const raw = await fs.readFile(inPath, 'utf8');
 const lines = raw.split(/\r?\n/);
 

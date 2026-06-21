@@ -19,7 +19,7 @@ require(['vs/editor/editor.main'], function () {
   const STRICT = params.get('strict') === '1';
   const APP_VERSION = window.KE_APP_VERSION || 'dev';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260620';
-  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r2';
+  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r3';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {
@@ -571,7 +571,11 @@ require(['vs/editor/editor.main'], function () {
 
         const root = document.createElement('div');
         root.className = 'lookup-root';
-        root.textContent = item.root || '';
+        // Show the x-system string the user must actually type (insertText / prefixes),
+        // NOT item.root, which mixes caret-notation (adag^) and literal diacritics (aĉ)
+        // that the editor never accepts. Keep the human-readable root on hover.
+        root.textContent = item.insertText || (item.prefixes && item.prefixes[0]) || item.root || '';
+        if (item.root) root.title = item.root;
 
         const meta = document.createElement('div');
         meta.className = 'lookup-meta';

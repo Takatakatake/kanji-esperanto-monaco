@@ -2,6 +2,7 @@
 // Verify that split dictionary assets match all.json.
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { buildReverseItems } from './generate-reverse-index.mjs';
 
 const [,, allPath = './all.json', dataDir = './data'] = process.argv;
 
@@ -16,13 +17,6 @@ function sortBucketItems(items) {
     || priorityOf(a) - priorityOf(b)
     || String(a.body || '').localeCompare(String(b.body || ''))
   ));
-}
-
-function reverseKey(item) {
-  const body = String(item.body || '').trim();
-  const prefix = String(item.prefix || '').trim();
-  const sourceRoot = String(item.sourceRoot || prefix).trim();
-  return body && prefix ? `${body}\u0000${sourceRoot}` : '';
 }
 
 const errors = [];
@@ -68,12 +62,27 @@ for (const [bucket, bucketItems] of buckets) {
 const reversePath = path.join(dataDir, 'reverse.json');
 try {
   const reverse = JSON.parse(await fs.readFile(reversePath, 'utf8'));
-  const expectedReverseCount = new Set(items.map(reverseKey).filter(Boolean)).size;
+  // Re-derive the expected reverse index from all.json and verify its CONTENT
+  // (kanji / prefixes / insertText / priority / ...), not merely its item count, so a
+  // stale or corrupted reverse.json with a matching count cannot pass undetected.
+  // The comparison is ORDER-INDEPENDENT: reverse.json's array order comes from a kanji
+  // collation that can differ slightly across environments/ICU versions, but its set of
+  // entries must match all.json exactly. We normalise by sorting each side's serialised
+  // entries, so ordering never causes a false failure while any content change is caught.
+  const expectedReverseItems = buildReverseItems(items);
   if (Number(reverse.meta?.dictionaryItemCount) !== items.length) {
     errors.push(`wrong reverse dictionaryItemCount: ${reverse.meta?.dictionaryItemCount}`);
   }
-  if (Array.isArray(reverse.items) && reverse.items.length !== expectedReverseCount) {
-    errors.push(`wrong reverse item count: ${reverse.items.length}, expected ${expectedReverseCount}`);
+  const actualReverseItems = Array.isArray(reverse.items) ? reverse.items : [];
+  if (actualReverseItems.length !== expectedReverseItems.length) {
+    errors.push(`wrong reverse item count: ${actualReverseItems.length}, expected ${expectedReverseItems.length}`);
+  } else {
+    const normalize = (arr) => arr.map(it => JSON.stringify(it)).sort();
+    const expectedNorm = normalize(expectedReverseItems);
+    const actualNorm = normalize(actualReverseItems);
+    if (JSON.stringify(actualNorm) !== JSON.stringify(expectedNorm)) {
+      errors.push('reverse index content differs from all.json: data/reverse.json');
+    }
   }
 } catch (error) {
   errors.push(`cannot read reverse index: ${error.message}`);

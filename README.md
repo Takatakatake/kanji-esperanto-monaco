@@ -21,15 +21,19 @@ kanji-esperanto-monaco/
 ```
 
 ## 漢字割当 TSV からの取り込み
-`PEJVO・PIV語根分解資料` の `_identifier_sidecar.tsv` または `漢字割当一覧_識別子付きプレビュー_20260614.tsv` を、Monaco 補完用の `all.json` に変換できます。
+割当の正典ディレクトリ `漢字化・語彙資料/エスペラント語根＿漢字割り当て＿20260621`（旧 `PEJVO・PIV語根分解資料_20260613` の後継・現行の正）の `_identifier_sidecar.tsv` を、Monaco 補完用の `all.json` に変換できます。`漢字割当一覧_識別子付きプレビュー` 形式の TSV も同じツールで取り込めます。
 
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 node tools/check-dictionary-assets.mjs ./all.json ./data
+node tools/check-versions.mjs
 ```
 
+- `check-dictionary-assets.mjs` は、分割バケットと逆引きインデックスの**内容**が `all.json` と一致するか検証します。
+- `check-versions.mjs` は、`sw.js` / `app.js` / `index.html` のバージョン文字列が食い違っていないか検証します（辞書更新時の手動バンプ漏れ対策）。
+- これら2つのチェックは GitHub Actions（`.github/workflows/pages.yml` の `verify` ジョブ）で push / PR 時に自動実行され、不一致ならデプロイを止めます。
 - `ĉ`, `ĝ`, `ŝ`, `ŭ` と `c^`, `g^`, `s^`, `u^` などは、入力用に `cx`, `gx`, `sx`, `ux` へ正規化します。
 - 同一語根に複数候補がある場合は、`priority` の小さい順に候補表示します。
 - `data/reverse.json` は、漢字ごとの割当語根検索に使う逆引きインデックスです。
@@ -46,11 +50,12 @@ node tools/split-dictionary.mjs ./all.json ./data
 node tools/check-dictionary-assets.mjs ./all.json ./data
 ```
 
-`.ke.txt` からの変換（例）:
+`.ke.txt` からの変換（**非推奨・レガシー**）:
 ```
 node tools/ke-txt-to-all.mjs /path/to/dictionary.ke.txt ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 ```
+> ⚠️ `ke-txt-to-all.mjs` は `{prefix, body, detail}` のみの縮退スキーマを出力し、`sourceRoot`/`priority`/`frequency` 等を持ちません。逆引き語根やランキングが壊れた辞書になるため、本番辞書は必ず `kanji-assignments-tsv-to-all.mjs` を使ってください（エディタ単体の簡易実験用途のみ）。
 
 `all.json` 例:
 ```json

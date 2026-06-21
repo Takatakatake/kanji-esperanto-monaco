@@ -82,9 +82,9 @@
   </div>
 
   <script>
-    window.KE_APP_VERSION = '20260621-dictionary-refresh-1';
+    window.KE_APP_VERSION = '20260621-dictionary-refresh-2';
   </script>
-  <script src="./app.js?v=20260621-dictionary-refresh-1"></script>
+  <script src="./app.js?v=20260621-dictionary-refresh-2"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
@@ -96,7 +96,7 @@
       });
       window.addEventListener('load', async () => {
         try {
-          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-1');
+          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-2');
           await reg.update();
         } catch {}
       });
@@ -104,7 +104,7 @@
   </script>
 
   <footer>
-    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-1
+    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-2
   </footer>
 </body>
 </html>

@@ -3,6 +3,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches: [ main ]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -15,7 +16,24 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Gate every push/PR: the deployed buckets, reverse index, and version strings must all
+  # agree with all.json before anything ships. Runs on PRs too, so drift is caught pre-merge.
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Verify dictionary assets match all.json
+        run: node tools/check-dictionary-assets.mjs ./all.json ./data
+      - name: Verify version strings are consistent
+        run: node tools/check-versions.mjs
+
   build:
+    needs: verify
+    # Only publish on push to main / manual dispatch, never on pull_request.
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,6 +43,7 @@ jobs:
           path: '.'
   deploy:
     needs: build
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -32,4 +51,3 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-

@@ -6,7 +6,7 @@
     "itemCount": 218,
     "skippedCount": 0,
     "bucket": "i",
-    "dictionaryItemCount": 6575
+    "dictionaryItemCount": 6578
   },
   "items": [
     {
@@ -49,13 +49,13 @@
       "prefix": "icid",
       "body": "杀",
       "detail": "icid → 杀 (pejvo, F=10, 基本形)",
-      "documentation": "語根: icid\n入力: icid\n最終形: 杀\n漢字: 杀\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4438",
+      "documentation": "語根: icid\n入力: icid\n最終形: 杀\n漢字: 杀\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4440",
       "priority": 0,
       "sourceRoot": "icid",
       "type": "pejvo",
       "frequency": 10,
       "base": true,
-      "sourceLine": 4438
+      "sourceLine": 4440
     },
     {
       "prefix": "id",
@@ -73,25 +73,25 @@
       "prefix": "ide",
       "body": "意",
       "detail": "ide → 意 (basic, F=31, 基本形)",
-      "documentation": "語根: ide\n入力: ide\n最終形: 意\n漢字: 意\n識別子: なし\n型: basic\nF(汎用性): 31\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:1113",
+      "documentation": "語根: ide\n入力: ide\n最終形: 意\n漢字: 意\n識別子: なし\n型: basic\nF(汎用性): 31\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:1114",
       "priority": 0,
       "sourceRoot": "ide",
       "type": "basic",
       "frequency": 31,
       "base": true,
-      "sourceLine": 1113
+      "sourceLine": 1114
     },
     {
       "prefix": "ideal",
       "body": "想ᴵᴰ",
       "detail": "ideal → 想ᴵᴰ (basic, F=7)",
-      "documentation": "語根: ideal\n入力: ideal\n最終形: 想ᴵᴰ\n漢字: 想\n識別子: id\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1185",
+      "documentation": "語根: ideal\n入力: ideal\n最終形: 想ᴵᴰ\n漢字: 想\n識別子: id\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1186",
       "priority": 0,
       "sourceRoot": "ideal",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 1185
+      "sourceLine": 1186
     },
     {
       "prefix": "ident",
@@ -109,73 +109,73 @@
       "prefix": "ideologi",
       "body": "观ᴵ",
       "detail": "ideologi → 观ᴵ (basic, F=0)",
-      "documentation": "語根: ideologi\n入力: ideologi\n最終形: 观ᴵ\n漢字: 观\n識別子: i\n型: basic\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3316",
+      "documentation": "語根: ideologi\n入力: ideologi\n最終形: 观ᴵ\n漢字: 观\n識別子: i\n型: basic\nF(汎用性): 0\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3317",
       "priority": 0,
       "sourceRoot": "ideologi",
       "type": "basic",
       "frequency": 0,
       "base": false,
-      "sourceLine": 3316
+      "sourceLine": 3317
     },
     {
       "prefix": "idili",
       "body": "田园",
       "detail": "idili → 田园 (pejvo, F=2, 基本形)",
-      "documentation": "語根: idili\n入力: idili\n最終形: 田园\n漢字: 田园\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6178",
+      "documentation": "語根: idili\n入力: idili\n最終形: 田园\n漢字: 田园\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6180",
       "priority": 0,
       "sourceRoot": "idili",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6178
+      "sourceLine": 6180
     },
     {
       "prefix": "idiom",
       "body": "语ᴵ",
       "detail": "idiom → 语ᴵ (pejvo, F=3)",
-      "documentation": "語根: idiom\n入力: idiom\n最終形: 语ᴵ\n漢字: 语\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:823",
+      "documentation": "語根: idiom\n入力: idiom\n最終形: 语ᴵ\n漢字: 语\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:824",
       "priority": 0,
       "sourceRoot": "idiom",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 823
+      "sourceLine": 824
     },
     {
       "prefix": "idiot",
       "body": "愚ᴵ",
       "detail": "idiot → 愚ᴵ (basic, F=6)",
-      "documentation": "語根: idiot\n入力: idiot\n最終形: 愚ᴵ\n漢字: 愚\n識別子: i\n型: basic\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2398",
+      "documentation": "語根: idiot\n入力: idiot\n最終形: 愚ᴵ\n漢字: 愚\n識別子: i\n型: basic\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2399",
       "priority": 0,
       "sourceRoot": "idiot",
       "type": "basic",
       "frequency": 6,
       "base": false,
-      "sourceLine": 2398
+      "sourceLine": 2399
     },
     {
       "prefix": "idl",
       "body": "空ᴵ",
       "detail": "idl → 空ᴵ (piv, F=3)",
-      "documentation": "語根: idl\n入力: idl\n最終形: 空ᴵ\n漢字: 空\n識別子: i\n型: piv\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2386",
+      "documentation": "語根: idl\n入力: idl\n最終形: 空ᴵ\n漢字: 空\n識別子: i\n型: piv\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2387",
       "priority": 0,
       "sourceRoot": "idl",
       "type": "piv",
       "frequency": 3,
       "base": false,
-      "sourceLine": 2386
+      "sourceLine": 2387
     },
     {
       "prefix": "idol",
       "body": "偶像",
       "detail": "idol → 偶像 (pejvo, F=7, 基本形)",
-      "documentation": "語根: idol\n入力: idol\n最終形: 偶像\n漢字: 偶像\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4643",
+      "documentation": "語根: idol\n入力: idol\n最終形: 偶像\n漢字: 偶像\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4645",
       "priority": 0,
       "sourceRoot": "idol",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 4643
+      "sourceLine": 4645
     },
     {
       "prefix": "ie",
@@ -229,25 +229,25 @@
       "prefix": "ignor",
       "body": "忽",
       "detail": "ignor → 忽 (basic, F=6, 基本形)",
-      "documentation": "語根: ignor\n入力: ignor\n最終形: 忽\n漢字: 忽\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3709",
+      "documentation": "語根: ignor\n入力: ignor\n最終形: 忽\n漢字: 忽\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3710",
       "priority": 0,
       "sourceRoot": "ignor",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 3709
+      "sourceLine": 3710
     },
     {
       "prefix": "igvan",
       "body": "龙ᴵ",
       "detail": "igvan → 龙ᴵ (pejvo, F=1)",
-      "documentation": "語根: igvan\n入力: igvan\n最終形: 龙ᴵ\n漢字: 龙\n識別子: i\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4467",
+      "documentation": "語根: igvan\n入力: igvan\n最終形: 龙ᴵ\n漢字: 龙\n識別子: i\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4469",
       "priority": 0,
       "sourceRoot": "igvan",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4467
+      "sourceLine": 4469
     },
     {
       "prefix": "igx",
@@ -289,49 +289,49 @@
       "prefix": "ikon",
       "body": "圣像",
       "detail": "ikon → 圣像 (pejvo, F=10, 基本形)",
-      "documentation": "語根: ikon\n入力: ikon\n最終形: 圣像\n漢字: 圣像\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4433",
+      "documentation": "語根: ikon\n入力: ikon\n最終形: 圣像\n漢字: 圣像\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4435",
       "priority": 0,
       "sourceRoot": "ikon",
       "type": "pejvo",
       "frequency": 10,
       "base": true,
-      "sourceLine": 4433
+      "sourceLine": 4435
     },
     {
       "prefix": "ikt",
       "body": "拍ᴵ",
       "detail": "ikt → 拍ᴵ (piv, F=2)",
-      "documentation": "語根: ikt\n入力: ikt\n最終形: 拍ᴵ\n漢字: 拍\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1766",
+      "documentation": "語根: ikt\n入力: ikt\n最終形: 拍ᴵ\n漢字: 拍\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1767",
       "priority": 0,
       "sourceRoot": "ikt",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 1766
+      "sourceLine": 1767
     },
     {
       "prefix": "iktio",
       "body": "鱼ᴵ",
       "detail": "iktio → 鱼ᴵ (piv, F=2)",
-      "documentation": "語根: iktio\n入力: iktio\n最終形: 鱼ᴵ\n漢字: 鱼\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 32\n基本形: no\n出典: _identifier_sidecar.tsv:1065",
+      "documentation": "語根: iktio\n入力: iktio\n最終形: 鱼ᴵ\n漢字: 鱼\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 32\n基本形: no\n出典: _identifier_sidecar.tsv:1066",
       "priority": 0,
       "sourceRoot": "iktio",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 1065
+      "sourceLine": 1066
     },
     {
       "prefix": "iktiosauxr",
       "body": "鱼龙",
       "detail": "iktiosau^r → 鱼龙 (pejvo, F=2, 基本形)",
-      "documentation": "語根: iktiosau^r\n入力: iktiosauxr\n最終形: 鱼龙\n漢字: 鱼龙\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5836",
+      "documentation": "語根: iktiosau^r\n入力: iktiosauxr\n最終形: 鱼龙\n漢字: 鱼龙\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5838",
       "priority": 0,
       "sourceRoot": "iktiosau^r",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5836
+      "sourceLine": 5838
     },
     {
       "prefix": "il",
@@ -349,25 +349,25 @@
       "prefix": "ile",
       "body": "肠ᴵᴸ",
       "detail": "ile → 肠ᴵᴸ (pejvo, F=1)",
-      "documentation": "語根: ile\n入力: ile\n最終形: 肠ᴵᴸ\n漢字: 肠\n識別子: il\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3451",
+      "documentation": "語根: ile\n入力: ile\n最終形: 肠ᴵᴸ\n漢字: 肠\n識別子: il\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3452",
       "priority": 0,
       "sourceRoot": "ile",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 3451
+      "sourceLine": 3452
     },
     {
       "prefix": "ileks",
       "body": "冬青",
       "detail": "ileks → 冬青 (pejvo, F=2, 基本形)",
-      "documentation": "語根: ileks\n入力: ileks\n最終形: 冬青\n漢字: 冬青\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6062",
+      "documentation": "語根: ileks\n入力: ileks\n最終形: 冬青\n漢字: 冬青\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6064",
       "priority": 0,
       "sourceRoot": "ileks",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6062
+      "sourceLine": 6064
     },
     {
       "prefix": "ili",
@@ -385,85 +385,85 @@
       "prefix": "iliak",
       "body": "盆骨",
       "detail": "iliak → 盆骨 (piv, F=2, 基本形)",
-      "documentation": "語根: iliak\n入力: iliak\n最終形: 盆骨\n漢字: 盆骨\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6166",
+      "documentation": "語根: iliak\n入力: iliak\n最終形: 盆骨\n漢字: 盆骨\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6168",
       "priority": 0,
       "sourceRoot": "iliak",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6166
+      "sourceLine": 6168
     },
     {
       "prefix": "ilumin",
       "body": "照ᴵ",
       "detail": "ilumin → 照ᴵ (pejvo, F=10)",
-      "documentation": "語根: ilumin\n入力: ilumin\n最終形: 照ᴵ\n漢字: 照\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2566",
+      "documentation": "語根: ilumin\n入力: ilumin\n最終形: 照ᴵ\n漢字: 照\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2567",
       "priority": 0,
       "sourceRoot": "ilumin",
       "type": "pejvo",
       "frequency": 10,
       "base": false,
-      "sourceLine": 2566
+      "sourceLine": 2567
     },
     {
       "prefix": "ilustr",
       "body": "图ᴵ",
       "detail": "ilustr → 图ᴵ (basic, F=7)",
-      "documentation": "語根: ilustr\n入力: ilustr\n最終形: 图ᴵ\n漢字: 图\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2488",
+      "documentation": "語根: ilustr\n入力: ilustr\n最終形: 图ᴵ\n漢字: 图\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2489",
       "priority": 0,
       "sourceRoot": "ilustr",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 2488
+      "sourceLine": 2489
     },
     {
       "prefix": "iluzi",
       "body": "幻ᴵ",
       "detail": "iluzi → 幻ᴵ (basic, F=11)",
-      "documentation": "語根: iluzi\n入力: iluzi\n最終形: 幻ᴵ\n漢字: 幻\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2510",
+      "documentation": "語根: iluzi\n入力: iluzi\n最終形: 幻ᴵ\n漢字: 幻\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2511",
       "priority": 0,
       "sourceRoot": "iluzi",
       "type": "basic",
       "frequency": 11,
       "base": false,
-      "sourceLine": 2510
+      "sourceLine": 2511
     },
     {
       "prefix": "imag",
       "body": "想ᴵ",
       "detail": "imag → 想ᴵ (basic, F=15)",
-      "documentation": "語根: imag\n入力: imag\n最終形: 想ᴵ\n漢字: 想\n識別子: i\n型: basic\nF(汎用性): 15\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1184",
+      "documentation": "語根: imag\n入力: imag\n最終形: 想ᴵ\n漢字: 想\n識別子: i\n型: basic\nF(汎用性): 15\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1185",
       "priority": 0,
       "sourceRoot": "imag",
       "type": "basic",
       "frequency": 15,
       "base": false,
-      "sourceLine": 1184
+      "sourceLine": 1185
     },
     {
       "prefix": "imagin",
       "body": "成虫",
       "detail": "imagin → 成虫 (pejvo, F=2, 基本形)",
-      "documentation": "語根: imagin\n入力: imagin\n最終形: 成虫\n漢字: 成虫\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6414",
+      "documentation": "語根: imagin\n入力: imagin\n最終形: 成虫\n漢字: 成虫\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6417",
       "priority": 0,
       "sourceRoot": "imagin",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6414
+      "sourceLine": 6417
     },
     {
       "prefix": "imaginar",
       "body": "虚ᴵ",
       "detail": "imaginar → 虚ᴵ (pejvo, F=2)",
-      "documentation": "語根: imaginar\n入力: imaginar\n最終形: 虚ᴵ\n漢字: 虚\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3944",
+      "documentation": "語根: imaginar\n入力: imaginar\n最終形: 虚ᴵ\n漢字: 虚\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3946",
       "priority": 0,
       "sourceRoot": "imaginar",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3944
+      "sourceLine": 3946
     },
     {
       "prefix": "imanent",
@@ -481,277 +481,277 @@
       "prefix": "imbecil",
       "body": "痴ᴵ",
       "detail": "imbecil → 痴ᴵ (piv, F=2)",
-      "documentation": "語根: imbecil\n入力: imbecil\n最終形: 痴ᴵ\n漢字: 痴\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5232",
+      "documentation": "語根: imbecil\n入力: imbecil\n最終形: 痴ᴵ\n漢字: 痴\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5234",
       "priority": 0,
       "sourceRoot": "imbecil",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5232
+      "sourceLine": 5234
     },
     {
       "prefix": "imit",
       "body": "仿",
       "detail": "imit → 仿 (basic, F=16, 基本形)",
-      "documentation": "語根: imit\n入力: imit\n最終形: 仿\n漢字: 仿\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1922",
+      "documentation": "語根: imit\n入力: imit\n最終形: 仿\n漢字: 仿\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1923",
       "priority": 0,
       "sourceRoot": "imit",
       "type": "basic",
       "frequency": 16,
       "base": true,
-      "sourceLine": 1922
+      "sourceLine": 1923
     },
     {
       "prefix": "imperativ",
       "body": "令ᴵ",
       "detail": "imperativ → 令ᴵ (pejvo, F=2)",
-      "documentation": "語根: imperativ\n入力: imperativ\n最終形: 令ᴵ\n漢字: 令\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1405",
+      "documentation": "語根: imperativ\n入力: imperativ\n最終形: 令ᴵ\n漢字: 令\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1406",
       "priority": 0,
       "sourceRoot": "imperativ",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 1405
+      "sourceLine": 1406
     },
     {
       "prefix": "imperator",
       "body": "帝ᴵᵀ",
       "detail": "imperator → 帝ᴵᵀ (piv, F=2)",
-      "documentation": "語根: imperator\n入力: imperator\n最終形: 帝ᴵᵀ\n漢字: 帝\n識別子: it\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3053",
+      "documentation": "語根: imperator\n入力: imperator\n最終形: 帝ᴵᵀ\n漢字: 帝\n識別子: it\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3054",
       "priority": 0,
       "sourceRoot": "imperator",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3053
+      "sourceLine": 3054
     },
     {
       "prefix": "imperfekt",
       "body": "未完",
       "detail": "imperfekt → 未完 (pejvo, F=2, 基本形)",
-      "documentation": "語根: imperfekt\n入力: imperfekt\n最終形: 未完\n漢字: 未完\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6418",
+      "documentation": "語根: imperfekt\n入力: imperfekt\n最終形: 未完\n漢字: 未完\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6421",
       "priority": 0,
       "sourceRoot": "imperfekt",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6418
+      "sourceLine": 6421
     },
     {
       "prefix": "imperi",
       "body": "帝",
       "detail": "imperi → 帝 (basic, F=14, 基本形)",
-      "documentation": "語根: imperi\n入力: imperi\n最終形: 帝\n漢字: 帝\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3051",
+      "documentation": "語根: imperi\n入力: imperi\n最終形: 帝\n漢字: 帝\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3052",
       "priority": 0,
       "sourceRoot": "imperi",
       "type": "basic",
       "frequency": 14,
       "base": true,
-      "sourceLine": 3051
+      "sourceLine": 3052
     },
     {
       "prefix": "imperial",
       "body": "顶ᴵ",
       "detail": "imperial → 顶ᴵ (pejvo, F=3)",
-      "documentation": "語根: imperial\n入力: imperial\n最終形: 顶ᴵ\n漢字: 顶\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:1313",
+      "documentation": "語根: imperial\n入力: imperial\n最終形: 顶ᴵ\n漢字: 顶\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:1314",
       "priority": 0,
       "sourceRoot": "imperial",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 1313
+      "sourceLine": 1314
     },
     {
       "prefix": "impertinent",
       "body": "放肆",
       "detail": "impertinent → 放肆 (pejvo, F=6, 基本形)",
-      "documentation": "語根: impertinent\n入力: impertinent\n最終形: 放肆\n漢字: 放肆\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4697",
+      "documentation": "語根: impertinent\n入力: impertinent\n最終形: 放肆\n漢字: 放肆\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4699",
       "priority": 0,
       "sourceRoot": "impertinent",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 4697
+      "sourceLine": 4699
     },
     {
       "prefix": "impet",
       "body": "突ᴵ",
       "detail": "impet → 突ᴵ (basic, F=11)",
-      "documentation": "語根: impet\n入力: impet\n最終形: 突ᴵ\n漢字: 突\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2123",
+      "documentation": "語根: impet\n入力: impet\n最終形: 突ᴵ\n漢字: 突\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2124",
       "priority": 0,
       "sourceRoot": "impet",
       "type": "basic",
       "frequency": 11,
       "base": false,
-      "sourceLine": 2123
+      "sourceLine": 2124
     },
     {
       "prefix": "impetig",
       "body": "脓疮",
       "detail": "impetig → 脓疮 (piv, F=3, 基本形)",
-      "documentation": "語根: impetig\n入力: impetig\n最終形: 脓疮\n漢字: 脓疮\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5503",
+      "documentation": "語根: impetig\n入力: impetig\n最終形: 脓疮\n漢字: 脓疮\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5505",
       "priority": 0,
       "sourceRoot": "impetig",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5503
+      "sourceLine": 5505
     },
     {
       "prefix": "implic",
       "body": "含ᴵᴹ",
       "detail": "implic → 含ᴵᴹ (pejvo, F=11)",
-      "documentation": "語根: implic\n入力: implic\n最終形: 含ᴵᴹ\n漢字: 含\n識別子: im\n型: pejvo\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1768",
+      "documentation": "語根: implic\n入力: implic\n最終形: 含ᴵᴹ\n漢字: 含\n識別子: im\n型: pejvo\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1769",
       "priority": 0,
       "sourceRoot": "implic",
       "type": "pejvo",
       "frequency": 11,
       "base": false,
-      "sourceLine": 1768
+      "sourceLine": 1769
     },
     {
       "prefix": "implik",
       "body": "缠",
       "detail": "implik → 缠 (basic, F=11, 基本形)",
-      "documentation": "語根: implik\n入力: implik\n最終形: 缠\n漢字: 缠\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3973",
+      "documentation": "語根: implik\n入力: implik\n最終形: 缠\n漢字: 缠\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3975",
       "priority": 0,
       "sourceRoot": "implik",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 3973
+      "sourceLine": 3975
     },
     {
       "prefix": "impon",
       "body": "威",
       "detail": "impon → 威 (basic, F=6, 基本形)",
-      "documentation": "語根: impon\n入力: impon\n最終形: 威\n漢字: 威\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3401",
+      "documentation": "語根: impon\n入力: impon\n最終形: 威\n漢字: 威\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3402",
       "priority": 0,
       "sourceRoot": "impon",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 3401
+      "sourceLine": 3402
     },
     {
       "prefix": "import",
       "body": "进ᴵ",
       "detail": "import → 进ᴵ (basic, F=9)",
-      "documentation": "語根: import\n入力: import\n最終形: 进ᴵ\n漢字: 进\n識別子: i\n型: basic\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2053",
+      "documentation": "語根: import\n入力: import\n最終形: 进ᴵ\n漢字: 进\n識別子: i\n型: basic\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2054",
       "priority": 0,
       "sourceRoot": "import",
       "type": "basic",
       "frequency": 9,
       "base": false,
-      "sourceLine": 2053
+      "sourceLine": 2054
     },
     {
       "prefix": "impost",
       "body": "税",
       "detail": "impost → 税 (basic, F=44, 基本形)",
-      "documentation": "語根: impost\n入力: impost\n最終形: 税\n漢字: 税\n識別子: なし\n型: basic\nF(汎用性): 44\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3054",
+      "documentation": "語根: impost\n入力: impost\n最終形: 税\n漢字: 税\n識別子: なし\n型: basic\nF(汎用性): 44\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3055",
       "priority": 0,
       "sourceRoot": "impost",
       "type": "basic",
       "frequency": 44,
       "base": true,
-      "sourceLine": 3054
+      "sourceLine": 3055
     },
     {
       "prefix": "imposxt",
       "body": "拱座",
       "detail": "impos^t → 拱座 (piv, F=2, 基本形)",
-      "documentation": "語根: impos^t\n入力: imposxt\n最終形: 拱座\n漢字: 拱座\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6470",
+      "documentation": "語根: impos^t\n入力: imposxt\n最終形: 拱座\n漢字: 拱座\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6473",
       "priority": 0,
       "sourceRoot": "impos^t",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6470
+      "sourceLine": 6473
     },
     {
       "prefix": "impotent",
       "body": "性无能",
       "detail": "impotent → 性无能 (pejvo, F=2, 基本形)",
-      "documentation": "語根: impotent\n入力: impotent\n最終形: 性无能\n漢字: 性无能\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6196",
+      "documentation": "語根: impotent\n入力: impotent\n最終形: 性无能\n漢字: 性无能\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6198",
       "priority": 0,
       "sourceRoot": "impotent",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6196
+      "sourceLine": 6198
     },
     {
       "prefix": "impregn",
       "body": "浸ᴵᴹ",
       "detail": "impregn → 浸ᴵᴹ (piv, F=2)",
-      "documentation": "語根: impregn\n入力: impregn\n最終形: 浸ᴵᴹ\n漢字: 浸\n識別子: im\n型: piv\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3147",
+      "documentation": "語根: impregn\n入力: impregn\n最終形: 浸ᴵᴹ\n漢字: 浸\n識別子: im\n型: piv\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3148",
       "priority": 0,
       "sourceRoot": "impregn",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3147
+      "sourceLine": 3148
     },
     {
       "prefix": "impres",
       "body": "印ᴵ",
       "detail": "impres → 印ᴵ (basic, F=10)",
-      "documentation": "語根: impres\n入力: impres\n最終形: 印ᴵ\n漢字: 印\n識別子: i\n型: basic\nF(汎用性): 10\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2044",
+      "documentation": "語根: impres\n入力: impres\n最終形: 印ᴵ\n漢字: 印\n識別子: i\n型: basic\nF(汎用性): 10\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2045",
       "priority": 0,
       "sourceRoot": "impres",
       "type": "basic",
       "frequency": 10,
       "base": false,
-      "sourceLine": 2044
+      "sourceLine": 2045
     },
     {
       "prefix": "impresion",
       "body": "印象",
       "detail": "impresion → 印象 (pejvo, F=2, 基本形)",
-      "documentation": "語根: impresion\n入力: impresion\n最終形: 印象\n漢字: 印象\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6258",
+      "documentation": "語根: impresion\n入力: impresion\n最終形: 印象\n漢字: 印象\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6260",
       "priority": 0,
       "sourceRoot": "impresion",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6258
+      "sourceLine": 6260
     },
     {
       "prefix": "improviz",
       "body": "即兴",
       "detail": "improviz → 即兴 (pejvo, F=6, 基本形)",
-      "documentation": "語根: improviz\n入力: improviz\n最終形: 即兴\n漢字: 即兴\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4743",
+      "documentation": "語根: improviz\n入力: improviz\n最終形: 即兴\n漢字: 即兴\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4745",
       "priority": 0,
       "sourceRoot": "improviz",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 4743
+      "sourceLine": 4745
     },
     {
       "prefix": "impuls",
       "body": "冲",
       "detail": "impuls → 冲 (basic, F=11, 基本形)",
-      "documentation": "語根: impuls\n入力: impuls\n最終形: 冲\n漢字: 冲\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:3457",
+      "documentation": "語根: impuls\n入力: impuls\n最終形: 冲\n漢字: 冲\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:3458",
       "priority": 0,
       "sourceRoot": "impuls",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 3457
+      "sourceLine": 3458
     },
     {
       "prefix": "imun",
       "body": "免",
       "detail": "imun → 免 (basic, F=30, 基本形)",
-      "documentation": "語根: imun\n入力: imun\n最終形: 免\n漢字: 免\n識別子: なし\n型: basic\nF(汎用性): 30\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3975",
+      "documentation": "語根: imun\n入力: imun\n最終形: 免\n漢字: 免\n識別子: なし\n型: basic\nF(汎用性): 30\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3977",
       "priority": 0,
       "sourceRoot": "imun",
       "type": "basic",
       "frequency": 30,
       "base": true,
-      "sourceLine": 3975
+      "sourceLine": 3977
     },
     {
       "prefix": "in",
@@ -769,85 +769,85 @@
       "prefix": "inauxgur",
       "body": "开ᴵ",
       "detail": "inaŭgur → 开ᴵ (basic, F=5)",
-      "documentation": "語根: inaŭgur\n入力: inauxgur\n最終形: 开ᴵ\n漢字: 开\n識別子: i\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3403",
+      "documentation": "語根: inaŭgur\n入力: inauxgur\n最終形: 开ᴵ\n漢字: 开\n識別子: i\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3404",
       "priority": 0,
       "sourceRoot": "inaŭgur",
       "type": "basic",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3403
+      "sourceLine": 3404
     },
     {
       "prefix": "incendi",
       "body": "焚",
       "detail": "incendi → 焚 (pejvo, F=7, 基本形)",
-      "documentation": "語根: incendi\n入力: incendi\n最終形: 焚\n漢字: 焚\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4673",
+      "documentation": "語根: incendi\n入力: incendi\n最終形: 焚\n漢字: 焚\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4675",
       "priority": 0,
       "sourceRoot": "incendi",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 4673
+      "sourceLine": 4675
     },
     {
       "prefix": "incens",
       "body": "香ᴵ",
       "detail": "incens → 香ᴵ (pejvo, F=10)",
-      "documentation": "語根: incens\n入力: incens\n最終形: 香ᴵ\n漢字: 香\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:2692",
+      "documentation": "語根: incens\n入力: incens\n最終形: 香ᴵ\n漢字: 香\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:2693",
       "priority": 0,
       "sourceRoot": "incens",
       "type": "pejvo",
       "frequency": 10,
       "base": false,
-      "sourceLine": 2692
+      "sourceLine": 2693
     },
     {
       "prefix": "incid",
       "body": "射ᴵ",
       "detail": "incid → 射ᴵ (pejvo, F=7)",
-      "documentation": "語根: incid\n入力: incid\n最終形: 射ᴵ\n漢字: 射\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:1683",
+      "documentation": "語根: incid\n入力: incid\n最終形: 射ᴵ\n漢字: 射\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:1684",
       "priority": 0,
       "sourceRoot": "incid",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 1683
+      "sourceLine": 1684
     },
     {
       "prefix": "incident",
       "body": "附ᴵ",
       "detail": "incident → 附ᴵ (pejvo, F=4)",
-      "documentation": "語根: incident\n入力: incident\n最終形: 附ᴵ\n漢字: 附\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5062",
+      "documentation": "語根: incident\n入力: incident\n最終形: 附ᴵ\n漢字: 附\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5064",
       "priority": 0,
       "sourceRoot": "incident",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5062
+      "sourceLine": 5064
     },
     {
       "prefix": "incit",
       "body": "惹",
       "detail": "incit → 惹 (basic, F=9, 基本形)",
-      "documentation": "語根: incit\n入力: incit\n最終形: 惹\n漢字: 惹\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3976",
+      "documentation": "語根: incit\n入力: incit\n最終形: 惹\n漢字: 惹\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3978",
       "priority": 0,
       "sourceRoot": "incit",
       "type": "basic",
       "frequency": 9,
       "base": true,
-      "sourceLine": 3976
+      "sourceLine": 3978
     },
     {
       "prefix": "inciz",
       "body": "切ᴵ",
       "detail": "inciz → 切ᴵ (piv, F=4)",
-      "documentation": "語根: inciz\n入力: inciz\n最終形: 切ᴵ\n漢字: 切\n識別子: i\n型: piv\nF(汎用性): 4\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1220",
+      "documentation": "語根: inciz\n入力: inciz\n最終形: 切ᴵ\n漢字: 切\n識別子: i\n型: piv\nF(汎用性): 4\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1221",
       "priority": 0,
       "sourceRoot": "inciz",
       "type": "piv",
       "frequency": 4,
       "base": false,
-      "sourceLine": 1220
+      "sourceLine": 1221
     },
     {
       "prefix": "ind",
@@ -865,13 +865,13 @@
       "prefix": "indeks",
       "body": "索",
       "detail": "indeks → 索 (basic, F=4, 基本形)",
-      "documentation": "語根: indeks\n入力: indeks\n最終形: 索\n漢字: 索\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3405",
+      "documentation": "語根: indeks\n入力: indeks\n最終形: 索\n漢字: 索\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3406",
       "priority": 0,
       "sourceRoot": "indeks",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 3405
+      "sourceLine": 3406
     },
     {
       "prefix": "indi",
@@ -889,193 +889,193 @@
       "prefix": "indic",
       "body": "征",
       "detail": "indic → 征 (basic, F=18, 基本形)",
-      "documentation": "語根: indic\n入力: indic\n最終形: 征\n漢字: 征\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3409",
+      "documentation": "語根: indic\n入力: indic\n最終形: 征\n漢字: 征\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3410",
       "priority": 0,
       "sourceRoot": "indic",
       "type": "basic",
       "frequency": 18,
       "base": true,
-      "sourceLine": 3409
+      "sourceLine": 3410
     },
     {
       "prefix": "indiferent",
       "body": "冷",
       "detail": "indiferent → 冷 (basic, F=6, 基本形)",
-      "documentation": "語根: indiferent\n入力: indiferent\n最終形: 冷\n漢字: 冷\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3056",
+      "documentation": "語根: indiferent\n入力: indiferent\n最終形: 冷\n漢字: 冷\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:3057",
       "priority": 0,
       "sourceRoot": "indiferent",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 3056
+      "sourceLine": 3057
     },
     {
       "prefix": "indig",
       "body": "蓝ᴵ",
       "detail": "indig → 蓝ᴵ (pejvo, F=7)",
-      "documentation": "語根: indig\n入力: indig\n最終形: 蓝ᴵ\n漢字: 蓝\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1011",
+      "documentation": "語根: indig\n入力: indig\n最終形: 蓝ᴵ\n漢字: 蓝\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1012",
       "priority": 0,
       "sourceRoot": "indig",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 1011
+      "sourceLine": 1012
     },
     {
       "prefix": "indign",
       "body": "愤",
       "detail": "indign → 愤 (basic, F=9, 基本形)",
-      "documentation": "語根: indign\n入力: indign\n最終形: 愤\n漢字: 愤\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3977",
+      "documentation": "語根: indign\n入力: indign\n最終形: 愤\n漢字: 愤\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3979",
       "priority": 0,
       "sourceRoot": "indign",
       "type": "basic",
       "frequency": 9,
       "base": true,
-      "sourceLine": 3977
+      "sourceLine": 3979
     },
     {
       "prefix": "indigxen",
       "body": "土著",
       "detail": "indig^en → 土著 (pejvo, F=6, 基本形)",
-      "documentation": "語根: indig^en\n入力: indigxen\n最終形: 土著\n漢字: 土著\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4794",
+      "documentation": "語根: indig^en\n入力: indigxen\n最終形: 土著\n漢字: 土著\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4796",
       "priority": 0,
       "sourceRoot": "indig^en",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 4794
+      "sourceLine": 4796
     },
     {
       "prefix": "indik",
       "body": "指ᴵ",
       "detail": "indik → 指ᴵ (basic, F=21)",
-      "documentation": "語根: indik\n入力: indik\n最終形: 指ᴵ\n漢字: 指\n識別子: i\n型: basic\nF(汎用性): 21\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:763",
+      "documentation": "語根: indik\n入力: indik\n最終形: 指ᴵ\n漢字: 指\n識別子: i\n型: basic\nF(汎用性): 21\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:764",
       "priority": 0,
       "sourceRoot": "indik",
       "type": "basic",
       "frequency": 21,
       "base": false,
-      "sourceLine": 763
+      "sourceLine": 764
     },
     {
       "prefix": "indikator",
       "body": "指ᴵᵀ",
       "detail": "indikator → 指ᴵᵀ (pejvo, F=6)",
-      "documentation": "語根: indikator\n入力: indikator\n最終形: 指ᴵᵀ\n漢字: 指\n識別子: it\n型: pejvo\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:764",
+      "documentation": "語根: indikator\n入力: indikator\n最終形: 指ᴵᵀ\n漢字: 指\n識別子: it\n型: pejvo\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:765",
       "priority": 0,
       "sourceRoot": "indikator",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 764
+      "sourceLine": 765
     },
     {
       "prefix": "individu",
       "body": "个",
       "detail": "individu → 个 (basic, F=11, 基本形)",
-      "documentation": "語根: individu\n入力: individu\n最終形: 个\n漢字: 个\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3978",
+      "documentation": "語根: individu\n入力: individu\n最終形: 个\n漢字: 个\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3980",
       "priority": 0,
       "sourceRoot": "individu",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 3978
+      "sourceLine": 3980
     },
     {
       "prefix": "individual",
       "body": "个ᴵᴸ",
       "detail": "individual → 个ᴵᴸ (pejvo, F=2)",
-      "documentation": "語根: individual\n入力: individual\n最終形: 个ᴵᴸ\n漢字: 个\n識別子: il\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3979",
+      "documentation": "語根: individual\n入力: individual\n最終形: 个ᴵᴸ\n漢字: 个\n識別子: il\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3981",
       "priority": 0,
       "sourceRoot": "individual",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3979
+      "sourceLine": 3981
     },
     {
       "prefix": "induk",
       "body": "感ᴵ",
       "detail": "induk → 感ᴵ (pejvo, F=10)",
-      "documentation": "語根: induk\n入力: induk\n最終形: 感ᴵ\n漢字: 感\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:913",
+      "documentation": "語根: induk\n入力: induk\n最終形: 感ᴵ\n漢字: 感\n識別子: i\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:914",
       "priority": 0,
       "sourceRoot": "induk",
       "type": "pejvo",
       "frequency": 10,
       "base": false,
-      "sourceLine": 913
+      "sourceLine": 914
     },
     {
       "prefix": "indukt",
       "body": "诱ᴵ",
       "detail": "indukt → 诱ᴵ (pejvo, F=22)",
-      "documentation": "語根: indukt\n入力: indukt\n最終形: 诱ᴵ\n漢字: 诱\n識別子: i\n型: pejvo\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2836",
+      "documentation": "語根: indukt\n入力: indukt\n最終形: 诱ᴵ\n漢字: 诱\n識別子: i\n型: pejvo\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2837",
       "priority": 0,
       "sourceRoot": "indukt",
       "type": "pejvo",
       "frequency": 22,
       "base": false,
-      "sourceLine": 2836
+      "sourceLine": 2837
     },
     {
       "prefix": "induktanc",
       "body": "电感",
       "detail": "induktanc → 电感 (pejvo, F=3, 基本形)",
-      "documentation": "語根: induktanc\n入力: induktanc\n最終形: 电感\n漢字: 电感\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5295",
+      "documentation": "語根: induktanc\n入力: induktanc\n最終形: 电感\n漢字: 电感\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5297",
       "priority": 0,
       "sourceRoot": "induktanc",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5295
+      "sourceLine": 5297
     },
     {
       "prefix": "indulg",
       "body": "饶",
       "detail": "indulg → 饶 (basic, F=10, 基本形)",
-      "documentation": "語根: indulg\n入力: indulg\n最終形: 饶\n漢字: 饶\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3980",
+      "documentation": "語根: indulg\n入力: indulg\n最終形: 饶\n漢字: 饶\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3982",
       "priority": 0,
       "sourceRoot": "indulg",
       "type": "basic",
       "frequency": 10,
       "base": true,
-      "sourceLine": 3980
+      "sourceLine": 3982
     },
     {
       "prefix": "industri",
       "body": "业",
       "detail": "industri → 业 (basic, F=37, 基本形)",
-      "documentation": "語根: industri\n入力: industri\n最終形: 业\n漢字: 业\n識別子: なし\n型: basic\nF(汎用性): 37\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1925",
+      "documentation": "語根: industri\n入力: industri\n最終形: 业\n漢字: 业\n識別子: なし\n型: basic\nF(汎用性): 37\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1926",
       "priority": 0,
       "sourceRoot": "industri",
       "type": "basic",
       "frequency": 37,
       "base": true,
-      "sourceLine": 1925
+      "sourceLine": 1926
     },
     {
       "prefix": "inerci",
       "body": "惯ᴵ",
       "detail": "inerci → 惯ᴵ (pejvo, F=9)",
-      "documentation": "語根: inerci\n入力: inerci\n最終形: 惯ᴵ\n漢字: 惯\n識別子: i\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4496",
+      "documentation": "語根: inerci\n入力: inerci\n最終形: 惯ᴵ\n漢字: 惯\n識別子: i\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4498",
       "priority": 0,
       "sourceRoot": "inerci",
       "type": "pejvo",
       "frequency": 9,
       "base": false,
-      "sourceLine": 4496
+      "sourceLine": 4498
     },
     {
       "prefix": "inert",
       "body": "惰",
       "detail": "inert → 惰 (pejvo, F=4, 基本形)",
-      "documentation": "語根: inert\n入力: inert\n最終形: 惰\n漢字: 惰\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5154",
+      "documentation": "語根: inert\n入力: inert\n最終形: 惰\n漢字: 惰\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5156",
       "priority": 0,
       "sourceRoot": "inert",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5154
+      "sourceLine": 5156
     },
     {
       "prefix": "infan",
@@ -1093,85 +1093,85 @@
       "prefix": "infanteri",
       "body": "步兵",
       "detail": "infanteri → 步兵 (pejvo, F=4, 基本形)",
-      "documentation": "語根: infanteri\n入力: infanteri\n最終形: 步兵\n漢字: 步兵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5114",
+      "documentation": "語根: infanteri\n入力: infanteri\n最終形: 步兵\n漢字: 步兵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5116",
       "priority": 0,
       "sourceRoot": "infanteri",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5114
+      "sourceLine": 5116
     },
     {
       "prefix": "infarkt",
       "body": "梗",
       "detail": "infarkt → 梗 (pejvo, F=4, 基本形)",
-      "documentation": "語根: infarkt\n入力: infarkt\n最終形: 梗\n漢字: 梗\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4990",
+      "documentation": "語根: infarkt\n入力: infarkt\n最終形: 梗\n漢字: 梗\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4992",
       "priority": 0,
       "sourceRoot": "infarkt",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 4990
+      "sourceLine": 4992
     },
     {
       "prefix": "infekt",
       "body": "染",
       "detail": "infekt → 染 (basic, F=17, 基本形)",
-      "documentation": "語根: infekt\n入力: infekt\n最終形: 染\n漢字: 染\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3981",
+      "documentation": "語根: infekt\n入力: infekt\n最終形: 染\n漢字: 染\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3983",
       "priority": 0,
       "sourceRoot": "infekt",
       "type": "basic",
       "frequency": 17,
       "base": true,
-      "sourceLine": 3981
+      "sourceLine": 3983
     },
     {
       "prefix": "infer",
       "body": "狱",
       "detail": "infer → 狱 (basic, F=8, 基本形)",
-      "documentation": "語根: infer\n入力: infer\n最終形: 狱\n漢字: 狱\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3984",
+      "documentation": "語根: infer\n入力: infer\n最終形: 狱\n漢字: 狱\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3986",
       "priority": 0,
       "sourceRoot": "infer",
       "type": "basic",
       "frequency": 8,
       "base": true,
-      "sourceLine": 3984
+      "sourceLine": 3986
     },
     {
       "prefix": "inferenc",
       "body": "推ᴵ",
       "detail": "inferenc → 推ᴵ (piv, F=2)",
-      "documentation": "語根: inferenc\n入力: inferenc\n最終形: 推ᴵ\n漢字: 推\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1283",
+      "documentation": "語根: inferenc\n入力: inferenc\n最終形: 推ᴵ\n漢字: 推\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1284",
       "priority": 0,
       "sourceRoot": "inferenc",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 1283
+      "sourceLine": 1284
     },
     {
       "prefix": "infest",
       "body": "患",
       "detail": "infest → 患 (piv, F=3, 基本形)",
-      "documentation": "語根: infest\n入力: infest\n最終形: 患\n漢字: 患\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5342",
+      "documentation": "語根: infest\n入力: infest\n最終形: 患\n漢字: 患\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5344",
       "priority": 0,
       "sourceRoot": "infest",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5342
+      "sourceLine": 5344
     },
     {
       "prefix": "infiltr",
       "body": "浸ᴵ",
       "detail": "infiltr → 浸ᴵ (piv, F=2)",
-      "documentation": "語根: infiltr\n入力: infiltr\n最終形: 浸ᴵ\n漢字: 浸\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3146",
+      "documentation": "語根: infiltr\n入力: infiltr\n最終形: 浸ᴵ\n漢字: 浸\n識別子: i\n型: piv\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:3147",
       "priority": 0,
       "sourceRoot": "infiltr",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 3146
+      "sourceLine": 3147
     },
     {
       "prefix": "infinit",
@@ -1189,109 +1189,109 @@
       "prefix": "infinitezim",
       "body": "微ᴵ",
       "detail": "infinitezim → 微ᴵ (pejvo, F=3)",
-      "documentation": "語根: infinitezim\n入力: infinitezim\n最終形: 微ᴵ\n漢字: 微\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3626",
+      "documentation": "語根: infinitezim\n入力: infinitezim\n最終形: 微ᴵ\n漢字: 微\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3627",
       "priority": 0,
       "sourceRoot": "infinitezim",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 3626
+      "sourceLine": 3627
     },
     {
       "prefix": "inflaci",
       "body": "胀ᴵ",
       "detail": "inflaci → 胀ᴵ (pejvo, F=3)",
-      "documentation": "語根: inflaci\n入力: inflaci\n最終形: 胀ᴵ\n漢字: 胀\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4320",
+      "documentation": "語根: inflaci\n入力: inflaci\n最終形: 胀ᴵ\n漢字: 胀\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4322",
       "priority": 0,
       "sourceRoot": "inflaci",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4320
+      "sourceLine": 4322
     },
     {
       "prefix": "inflam",
       "body": "炎ᴵ",
       "detail": "inflam → 炎ᴵ (sci, F=25)",
-      "documentation": "語根: inflam\n入力: inflam\n最終形: 炎ᴵ\n漢字: 炎\n識別子: i\n型: sci\nF(汎用性): 25\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2760",
+      "documentation": "語根: inflam\n入力: inflam\n最終形: 炎ᴵ\n漢字: 炎\n識別子: i\n型: sci\nF(汎用性): 25\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2761",
       "priority": 0,
       "sourceRoot": "inflam",
       "type": "sci",
       "frequency": 25,
       "base": false,
-      "sourceLine": 2760
+      "sourceLine": 2761
     },
     {
       "prefix": "infloresk",
       "body": "花序",
       "detail": "infloresk → 花序 (pejvo, F=5, 基本形)",
-      "documentation": "語根: infloresk\n入力: infloresk\n最終形: 花序\n漢字: 花序\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4858",
+      "documentation": "語根: infloresk\n入力: infloresk\n最終形: 花序\n漢字: 花序\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4860",
       "priority": 0,
       "sourceRoot": "infloresk",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4858
+      "sourceLine": 4860
     },
     {
       "prefix": "influ",
       "body": "影ᴵ",
       "detail": "influ → 影ᴵ (basic, F=7)",
-      "documentation": "語根: influ\n入力: influ\n最終形: 影ᴵ\n漢字: 影\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1659",
+      "documentation": "語根: influ\n入力: influ\n最終形: 影ᴵ\n漢字: 影\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1660",
       "priority": 0,
       "sourceRoot": "influ",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 1659
+      "sourceLine": 1660
     },
     {
       "prefix": "influenc",
       "body": "感ᴵᶠ",
       "detail": "influenc → 感ᴵᶠ (pejvo, F=2)",
-      "documentation": "語根: influenc\n入力: influenc\n最終形: 感ᴵᶠ\n漢字: 感\n識別子: if\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:914",
+      "documentation": "語根: influenc\n入力: influenc\n最終形: 感ᴵᶠ\n漢字: 感\n識別子: if\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:915",
       "priority": 0,
       "sourceRoot": "influenc",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 914
+      "sourceLine": 915
     },
     {
       "prefix": "inform",
       "body": "告",
       "detail": "inform → 告 (basic, F=33, 基本形)",
-      "documentation": "語根: inform\n入力: inform\n最終形: 告\n漢字: 告\n識別子: なし\n型: basic\nF(汎用性): 33\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1926",
+      "documentation": "語根: inform\n入力: inform\n最終形: 告\n漢字: 告\n識別子: なし\n型: basic\nF(汎用性): 33\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1927",
       "priority": 0,
       "sourceRoot": "inform",
       "type": "basic",
       "frequency": 33,
       "base": true,
-      "sourceLine": 1926
+      "sourceLine": 1927
     },
     {
       "prefix": "infrarugx",
       "body": "红外",
       "detail": "infrarug^ → 红外 (pejvo, F=2, 基本形)",
-      "documentation": "語根: infrarug^\n入力: infrarugx\n最終形: 红外\n漢字: 红外\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6469",
+      "documentation": "語根: infrarug^\n入力: infrarugx\n最終形: 红外\n漢字: 红外\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6472",
       "priority": 0,
       "sourceRoot": "infrarug^",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6469
+      "sourceLine": 6472
     },
     {
       "prefix": "infuz",
       "body": "泡ᴵ",
       "detail": "infuz → 泡ᴵ (pejvo, F=5)",
-      "documentation": "語根: infuz\n入力: infuz\n最終形: 泡ᴵ\n漢字: 泡\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3868",
+      "documentation": "語根: infuz\n入力: infuz\n最終形: 泡ᴵ\n漢字: 泡\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3869",
       "priority": 0,
       "sourceRoot": "infuz",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3868
+      "sourceLine": 3869
     },
     {
       "prefix": "ing",
@@ -1309,109 +1309,109 @@
       "prefix": "ingxenier",
       "body": "技ᴵ",
       "detail": "inĝenier → 技ᴵ (basic, F=12)",
-      "documentation": "語根: inĝenier\n入力: ingxenier\n最終形: 技ᴵ\n漢字: 技\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3061",
+      "documentation": "語根: inĝenier\n入力: ingxenier\n最終形: 技ᴵ\n漢字: 技\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3062",
       "priority": 0,
       "sourceRoot": "inĝenier",
       "type": "basic",
       "frequency": 12,
       "base": false,
-      "sourceLine": 3061
+      "sourceLine": 3062
     },
     {
       "prefix": "inhal",
       "body": "吸ᴵ",
       "detail": "inhal → 吸ᴵ (pejvo, F=5)",
-      "documentation": "語根: inhal\n入力: inhal\n最終形: 吸ᴵ\n漢字: 吸\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3793",
+      "documentation": "語根: inhal\n入力: inhal\n最終形: 吸ᴵ\n漢字: 吸\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:3794",
       "priority": 0,
       "sourceRoot": "inhal",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3793
+      "sourceLine": 3794
     },
     {
       "prefix": "inhib",
       "body": "抑ᴵᴺ",
       "detail": "inhib → 抑ᴵᴺ (piv, F=7)",
-      "documentation": "語根: inhib\n入力: inhib\n最終形: 抑ᴵᴺ\n漢字: 抑\n識別子: in\n型: piv\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4660",
+      "documentation": "語根: inhib\n入力: inhib\n最終形: 抑ᴵᴺ\n漢字: 抑\n識別子: in\n型: piv\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4662",
       "priority": 0,
       "sourceRoot": "inhib",
       "type": "piv",
       "frequency": 7,
       "base": false,
-      "sourceLine": 4660
+      "sourceLine": 4662
     },
     {
       "prefix": "inhibici",
       "body": "抑ᴵ",
       "detail": "inhibici → 抑ᴵ (pejvo, F=2)",
-      "documentation": "語根: inhibici\n入力: inhibici\n最終形: 抑ᴵ\n漢字: 抑\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4659",
+      "documentation": "語根: inhibici\n入力: inhibici\n最終形: 抑ᴵ\n漢字: 抑\n識別子: i\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4661",
       "priority": 0,
       "sourceRoot": "inhibici",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4659
+      "sourceLine": 4661
     },
     {
       "prefix": "inic",
       "body": "授ᴵ",
       "detail": "inic → 授ᴵ (pejvo, F=5)",
-      "documentation": "語根: inic\n入力: inic\n最終形: 授ᴵ\n漢字: 授\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3751",
+      "documentation": "語根: inic\n入力: inic\n最終形: 授ᴵ\n漢字: 授\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3752",
       "priority": 0,
       "sourceRoot": "inic",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3751
+      "sourceLine": 3752
     },
     {
       "prefix": "iniciat",
       "body": "创ᴵᶜ",
       "detail": "iniciat → 创ᴵᶜ (basic, F=9)",
-      "documentation": "語根: iniciat\n入力: iniciat\n最終形: 创ᴵᶜ\n漢字: 创\n識別子: ic\n型: basic\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1624",
+      "documentation": "語根: iniciat\n入力: iniciat\n最終形: 创ᴵᶜ\n漢字: 创\n識別子: ic\n型: basic\nF(汎用性): 9\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1625",
       "priority": 0,
       "sourceRoot": "iniciat",
       "type": "basic",
       "frequency": 9,
       "base": false,
-      "sourceLine": 1624
+      "sourceLine": 1625
     },
     {
       "prefix": "injekt",
       "body": "注ᴵ",
       "detail": "injekt → 注ᴵ (basic, F=7)",
-      "documentation": "語根: injekt\n入力: injekt\n最終形: 注ᴵ\n漢字: 注\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:993",
+      "documentation": "語根: injekt\n入力: injekt\n最終形: 注ᴵ\n漢字: 注\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:994",
       "priority": 0,
       "sourceRoot": "injekt",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 993
+      "sourceLine": 994
     },
     {
       "prefix": "ink",
       "body": "墨",
       "detail": "ink → 墨 (basic, F=16, 基本形)",
-      "documentation": "語根: ink\n入力: ink\n最終形: 墨\n漢字: 墨\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:1569",
+      "documentation": "語根: ink\n入力: ink\n最終形: 墨\n漢字: 墨\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:1570",
       "priority": 0,
       "sourceRoot": "ink",
       "type": "basic",
       "frequency": 16,
       "base": true,
-      "sourceLine": 1569
+      "sourceLine": 1570
     },
     {
       "prefix": "inkandesk",
       "body": "白热",
       "detail": "inkandesk → 白热 (pejvo, F=7, 基本形)",
-      "documentation": "語根: inkandesk\n入力: inkandesk\n最終形: 白热\n漢字: 白热\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4686",
+      "documentation": "語根: inkandesk\n入力: inkandesk\n最終形: 白热\n漢字: 白热\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4688",
       "priority": 0,
       "sourceRoot": "inkandesk",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 4686
+      "sourceLine": 4688
     },
     {
       "prefix": "inklin",
@@ -1429,313 +1429,313 @@
       "prefix": "inklud",
       "body": "含ᴵᴰ",
       "detail": "inklud → 含ᴵᴰ (pejvo, F=3)",
-      "documentation": "語根: inklud\n入力: inklud\n最終形: 含ᴵᴰ\n漢字: 含\n識別子: id\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1769",
+      "documentation": "語根: inklud\n入力: inklud\n最終形: 含ᴵᴰ\n漢字: 含\n識別子: id\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1770",
       "priority": 0,
       "sourceRoot": "inklud",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 1769
+      "sourceLine": 1770
     },
     {
       "prefix": "inkluziv",
       "body": "含",
       "detail": "inkluziv → 含 (basic, F=7, 基本形)",
-      "documentation": "語根: inkluziv\n入力: inkluziv\n最終形: 含\n漢字: 含\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1767",
+      "documentation": "語根: inkluziv\n入力: inkluziv\n最終形: 含\n漢字: 含\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:1768",
       "priority": 0,
       "sourceRoot": "inkluziv",
       "type": "basic",
       "frequency": 7,
       "base": true,
-      "sourceLine": 1767
+      "sourceLine": 1768
     },
     {
       "prefix": "inkognit",
       "body": "匿",
       "detail": "inkognit → 匿 (pejvo, F=4, 基本形)",
-      "documentation": "語根: inkognit\n入力: inkognit\n最終形: 匿\n漢字: 匿\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5110",
+      "documentation": "語根: inkognit\n入力: inkognit\n最終形: 匿\n漢字: 匿\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5112",
       "priority": 0,
       "sourceRoot": "inkognit",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5110
+      "sourceLine": 5112
     },
     {
       "prefix": "inkrust",
       "body": "嵌ᴵ",
       "detail": "inkrust → 嵌ᴵ (pejvo, F=3)",
-      "documentation": "語根: inkrust\n入力: inkrust\n最終形: 嵌ᴵ\n漢字: 嵌\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5299",
+      "documentation": "語根: inkrust\n入力: inkrust\n最終形: 嵌ᴵ\n漢字: 嵌\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5301",
       "priority": 0,
       "sourceRoot": "inkrust",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5299
+      "sourceLine": 5301
     },
     {
       "prefix": "inkub",
       "body": "梦魔",
       "detail": "inkub → 梦魔 (pejvo, F=2, 基本形)",
-      "documentation": "語根: inkub\n入力: inkub\n最終形: 梦魔\n漢字: 梦魔\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5781",
+      "documentation": "語根: inkub\n入力: inkub\n最終形: 梦魔\n漢字: 梦魔\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5783",
       "priority": 0,
       "sourceRoot": "inkub",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5781
+      "sourceLine": 5783
     },
     {
       "prefix": "inkvizici",
       "body": "审判",
       "detail": "inkvizici → 审判 (pejvo, F=3, 基本形)",
-      "documentation": "語根: inkvizici\n入力: inkvizici\n最終形: 审判\n漢字: 审判\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5311",
+      "documentation": "語根: inkvizici\n入力: inkvizici\n最終形: 审判\n漢字: 审判\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5313",
       "priority": 0,
       "sourceRoot": "inkvizici",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5311
+      "sourceLine": 5313
     },
     {
       "prefix": "inocent",
       "body": "无罪",
       "detail": "inocent → 无罪 (pejvo, F=2, 基本形)",
-      "documentation": "語根: inocent\n入力: inocent\n最終形: 无罪\n漢字: 无罪\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6290",
+      "documentation": "語根: inocent\n入力: inocent\n最終形: 无罪\n漢字: 无罪\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6292",
       "priority": 0,
       "sourceRoot": "inocent",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6290
+      "sourceLine": 6292
     },
     {
       "prefix": "inokul",
       "body": "种ᴵ",
       "detail": "inokul → 种ᴵ (pejvo, F=5)",
-      "documentation": "語根: inokul\n入力: inokul\n最終形: 种ᴵ\n漢字: 种\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1448",
+      "documentation": "語根: inokul\n入力: inokul\n最終形: 种ᴵ\n漢字: 种\n識別子: i\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:1449",
       "priority": 0,
       "sourceRoot": "inokul",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 1448
+      "sourceLine": 1449
     },
     {
       "prefix": "insekt",
       "body": "虫",
       "detail": "insekt → 虫 (basic, F=19, 基本形)",
-      "documentation": "語根: insekt\n入力: insekt\n最終形: 虫\n漢字: 虫\n識別子: なし\n型: basic\nF(汎用性): 19\nグループ数: 31\n基本形: yes\n出典: _identifier_sidecar.tsv:1571",
+      "documentation": "語根: insekt\n入力: insekt\n最終形: 虫\n漢字: 虫\n識別子: なし\n型: basic\nF(汎用性): 19\nグループ数: 31\n基本形: yes\n出典: _identifier_sidecar.tsv:1572",
       "priority": 0,
       "sourceRoot": "insekt",
       "type": "basic",
       "frequency": 19,
       "base": true,
-      "sourceLine": 1571
+      "sourceLine": 1572
     },
     {
       "prefix": "insert",
       "body": "插ᴵ",
       "detail": "insert → 插ᴵ (pejvo, F=4)",
-      "documentation": "語根: insert\n入力: insert\n最終形: 插ᴵ\n漢字: 插\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5157",
+      "documentation": "語根: insert\n入力: insert\n最終形: 插ᴵ\n漢字: 插\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5159",
       "priority": 0,
       "sourceRoot": "insert",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5157
+      "sourceLine": 5159
     },
     {
       "prefix": "insid",
       "body": "陷",
       "detail": "insid → 陷 (basic, F=10, 基本形)",
-      "documentation": "語根: insid\n入力: insid\n最終形: 陷\n漢字: 陷\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4085",
+      "documentation": "語根: insid\n入力: insid\n最終形: 陷\n漢字: 陷\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4087",
       "priority": 0,
       "sourceRoot": "insid",
       "type": "basic",
       "frequency": 10,
       "base": true,
-      "sourceLine": 4085
+      "sourceLine": 4087
     },
     {
       "prefix": "insign",
       "body": "徽",
       "detail": "insign → 徽 (basic, F=2, 基本形)",
-      "documentation": "語根: insign\n入力: insign\n最終形: 徽\n漢字: 徽\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3987",
+      "documentation": "語根: insign\n入力: insign\n最終形: 徽\n漢字: 徽\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3989",
       "priority": 0,
       "sourceRoot": "insign",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 3987
+      "sourceLine": 3989
     },
     {
       "prefix": "insil",
       "body": "窖藏",
       "detail": "insil → 窖藏 (piv, F=4, 基本形)",
-      "documentation": "語根: insil\n入力: insil\n最終形: 窖藏\n漢字: 窖藏\n識別子: なし\n型: piv\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5165",
+      "documentation": "語根: insil\n入力: insil\n最終形: 窖藏\n漢字: 窖藏\n識別子: なし\n型: piv\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5167",
       "priority": 0,
       "sourceRoot": "insil",
       "type": "piv",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5165
+      "sourceLine": 5167
     },
     {
       "prefix": "insinu",
       "body": "影射",
       "detail": "insinu → 影射 (piv, F=2, 基本形)",
-      "documentation": "語根: insinu\n入力: insinu\n最終形: 影射\n漢字: 影射\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5954",
+      "documentation": "語根: insinu\n入力: insinu\n最終形: 影射\n漢字: 影射\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5956",
       "priority": 0,
       "sourceRoot": "insinu",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5954
+      "sourceLine": 5956
     },
     {
       "prefix": "insist",
       "body": "坚ᴵ",
       "detail": "insist → 坚ᴵ (basic, F=7)",
-      "documentation": "語根: insist\n入力: insist\n最終形: 坚ᴵ\n漢字: 坚\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1877",
+      "documentation": "語根: insist\n入力: insist\n最終形: 坚ᴵ\n漢字: 坚\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1878",
       "priority": 0,
       "sourceRoot": "insist",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 1877
+      "sourceLine": 1878
     },
     {
       "prefix": "inspekt",
       "body": "检ᴵᴺ",
       "detail": "inspekt → 检ᴵᴺ (pejvo, F=7)",
-      "documentation": "語根: inspekt\n入力: inspekt\n最終形: 检ᴵᴺ\n漢字: 检\n識別子: in\n型: pejvo\nF(汎用性): 7\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:2197",
+      "documentation": "語根: inspekt\n入力: inspekt\n最終形: 检ᴵᴺ\n漢字: 检\n識別子: in\n型: pejvo\nF(汎用性): 7\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:2198",
       "priority": 0,
       "sourceRoot": "inspekt",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 2197
+      "sourceLine": 2198
     },
     {
       "prefix": "inspektor",
       "body": "检ᴵ",
       "detail": "inspektor → 检ᴵ (basic, F=1)",
-      "documentation": "語根: inspektor\n入力: inspektor\n最終形: 检ᴵ\n漢字: 检\n識別子: i\n型: basic\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:2195",
+      "documentation": "語根: inspektor\n入力: inspektor\n最終形: 检ᴵ\n漢字: 检\n識別子: i\n型: basic\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:2196",
       "priority": 0,
       "sourceRoot": "inspektor",
       "type": "basic",
       "frequency": 1,
       "base": false,
-      "sourceLine": 2195
+      "sourceLine": 2196
     },
     {
       "prefix": "inspir",
       "body": "启",
       "detail": "inspir → 启 (basic, F=6, 基本形)",
-      "documentation": "語根: inspir\n入力: inspir\n最終形: 启\n漢字: 启\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3990",
+      "documentation": "語根: inspir\n入力: inspir\n最終形: 启\n漢字: 启\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:3992",
       "priority": 0,
       "sourceRoot": "inspir",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 3990
+      "sourceLine": 3992
     },
     {
       "prefix": "instal",
       "body": "装ᴵ",
       "detail": "instal → 装ᴵ (basic, F=13)",
-      "documentation": "語根: instal\n入力: instal\n最終形: 装ᴵ\n漢字: 装\n識別子: i\n型: basic\nF(汎用性): 13\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:2886",
+      "documentation": "語根: instal\n入力: instal\n最終形: 装ᴵ\n漢字: 装\n識別子: i\n型: basic\nF(汎用性): 13\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:2887",
       "priority": 0,
       "sourceRoot": "instal",
       "type": "basic",
       "frequency": 13,
       "base": false,
-      "sourceLine": 2886
+      "sourceLine": 2887
     },
     {
       "prefix": "instanc",
       "body": "审级",
       "detail": "instanc → 审级 (basic, F=6, 基本形)",
-      "documentation": "語根: instanc\n入力: instanc\n最終形: 审级\n漢字: 审级\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4086",
+      "documentation": "語根: instanc\n入力: instanc\n最終形: 审级\n漢字: 审级\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4088",
       "priority": 0,
       "sourceRoot": "instanc",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 4086
+      "sourceLine": 4088
     },
     {
       "prefix": "instig",
       "body": "唆",
       "detail": "instig → 唆 (basic, F=8, 基本形)",
-      "documentation": "語根: instig\n入力: instig\n最終形: 唆\n漢字: 唆\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3064",
+      "documentation": "語根: instig\n入力: instig\n最終形: 唆\n漢字: 唆\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3065",
       "priority": 0,
       "sourceRoot": "instig",
       "type": "basic",
       "frequency": 8,
       "base": true,
-      "sourceLine": 3064
+      "sourceLine": 3065
     },
     {
       "prefix": "instinkt",
       "body": "本",
       "detail": "instinkt → 本 (basic, F=10, 基本形)",
-      "documentation": "語根: instinkt\n入力: instinkt\n最終形: 本\n漢字: 本\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:2750",
+      "documentation": "語根: instinkt\n入力: instinkt\n最終形: 本\n漢字: 本\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:2751",
       "priority": 0,
       "sourceRoot": "instinkt",
       "type": "basic",
       "frequency": 10,
       "base": true,
-      "sourceLine": 2750
+      "sourceLine": 2751
     },
     {
       "prefix": "instituci",
       "body": "构ᴵ",
       "detail": "instituci → 构ᴵ (pejvo, F=6)",
-      "documentation": "語根: instituci\n入力: instituci\n最終形: 构ᴵ\n漢字: 构\n識別子: i\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3119",
+      "documentation": "語根: instituci\n入力: instituci\n最終形: 构ᴵ\n漢字: 构\n識別子: i\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3120",
       "priority": 0,
       "sourceRoot": "instituci",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 3119
+      "sourceLine": 3120
     },
     {
       "prefix": "institut",
       "body": "院ᴵ",
       "detail": "institut → 院ᴵ (basic, F=4)",
-      "documentation": "語根: institut\n入力: institut\n最終形: 院ᴵ\n漢字: 院\n識別子: i\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1350",
+      "documentation": "語根: institut\n入力: institut\n最終形: 院ᴵ\n漢字: 院\n識別子: i\n型: basic\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1351",
       "priority": 0,
       "sourceRoot": "institut",
       "type": "basic",
       "frequency": 4,
       "base": false,
-      "sourceLine": 1350
+      "sourceLine": 1351
     },
     {
       "prefix": "instru",
       "body": "教",
       "detail": "instru → 教 (basic, F=40, 基本形)",
-      "documentation": "語根: instru\n入力: instru\n最終形: 教\n漢字: 教\n識別子: なし\n型: basic\nF(汎用性): 40\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:1261",
+      "documentation": "語根: instru\n入力: instru\n最終形: 教\n漢字: 教\n識別子: なし\n型: basic\nF(汎用性): 40\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:1262",
       "priority": 0,
       "sourceRoot": "instru",
       "type": "basic",
       "frequency": 40,
       "base": true,
-      "sourceLine": 1261
+      "sourceLine": 1262
     },
     {
       "prefix": "instrukci",
       "body": "训ᴵ",
       "detail": "instrukci → 训ᴵ (pejvo, F=6)",
-      "documentation": "語根: instrukci\n入力: instrukci\n最終形: 训ᴵ\n漢字: 训\n識別子: i\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3819",
+      "documentation": "語根: instrukci\n入力: instrukci\n最終形: 训ᴵ\n漢字: 训\n識別子: i\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3820",
       "priority": 0,
       "sourceRoot": "instrukci",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 3819
+      "sourceLine": 3820
     },
     {
       "prefix": "instrument",
@@ -1753,37 +1753,37 @@
       "prefix": "insul",
       "body": "岛",
       "detail": "insul → 岛 (basic, F=55, 基本形)",
-      "documentation": "語根: insul\n入力: insul\n最終形: 岛\n漢字: 岛\n識別子: なし\n型: basic\nF(汎用性): 55\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1929",
+      "documentation": "語根: insul\n入力: insul\n最終形: 岛\n漢字: 岛\n識別子: なし\n型: basic\nF(汎用性): 55\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1930",
       "priority": 0,
       "sourceRoot": "insul",
       "type": "basic",
       "frequency": 55,
       "base": true,
-      "sourceLine": 1929
+      "sourceLine": 1930
     },
     {
       "prefix": "insulin",
       "body": "胰岛素",
       "detail": "insulin → 胰岛素 (pejvo, F=4, 基本形)",
-      "documentation": "語根: insulin\n入力: insulin\n最終形: 胰岛素\n漢字: 胰岛素\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5059",
+      "documentation": "語根: insulin\n入力: insulin\n最終形: 胰岛素\n漢字: 胰岛素\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5061",
       "priority": 0,
       "sourceRoot": "insulin",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5059
+      "sourceLine": 5061
     },
     {
       "prefix": "insult",
       "body": "侮ᴵ",
       "detail": "insult → 侮ᴵ (basic, F=7)",
-      "documentation": "語根: insult\n入力: insult\n最終形: 侮ᴵ\n漢字: 侮\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3066",
+      "documentation": "語根: insult\n入力: insult\n最終形: 侮ᴵ\n漢字: 侮\n識別子: i\n型: basic\nF(汎用性): 7\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3067",
       "priority": 0,
       "sourceRoot": "insult",
       "type": "basic",
       "frequency": 7,
       "base": false,
-      "sourceLine": 3066
+      "sourceLine": 3067
     },
     {
       "prefix": "int",
@@ -1801,85 +1801,85 @@
       "prefix": "integr",
       "body": "全",
       "detail": "integr → 全 (basic, F=19, 基本形)",
-      "documentation": "語根: integr\n入力: integr\n最終形: 全\n漢字: 全\n識別子: なし\n型: basic\nF(汎用性): 19\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3237",
+      "documentation": "語根: integr\n入力: integr\n最終形: 全\n漢字: 全\n識別子: なし\n型: basic\nF(汎用性): 19\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:3238",
       "priority": 0,
       "sourceRoot": "integr",
       "type": "basic",
       "frequency": 19,
       "base": true,
-      "sourceLine": 3237
+      "sourceLine": 3238
     },
     {
       "prefix": "integral",
       "body": "积分",
       "detail": "integral → 积分 (pejvo, F=5, 基本形)",
-      "documentation": "語根: integral\n入力: integral\n最終形: 积分\n漢字: 积分\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4876",
+      "documentation": "語根: integral\n入力: integral\n最終形: 积分\n漢字: 积分\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4878",
       "priority": 0,
       "sourceRoot": "integral",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4876
+      "sourceLine": 4878
     },
     {
       "prefix": "intelekt",
       "body": "智ᴵ",
       "detail": "intelekt → 智ᴵ (basic, F=11)",
-      "documentation": "語根: intelekt\n入力: intelekt\n最終形: 智ᴵ\n漢字: 智\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1286",
+      "documentation": "語根: intelekt\n入力: intelekt\n最終形: 智ᴵ\n漢字: 智\n識別子: i\n型: basic\nF(汎用性): 11\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1287",
       "priority": 0,
       "sourceRoot": "intelekt",
       "type": "basic",
       "frequency": 11,
       "base": false,
-      "sourceLine": 1286
+      "sourceLine": 1287
     },
     {
       "prefix": "inteligent",
       "body": "聪",
       "detail": "inteligent → 聪 (basic, F=8, 基本形)",
-      "documentation": "語根: inteligent\n入力: inteligent\n最終形: 聪\n漢字: 聪\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3067",
+      "documentation": "語根: inteligent\n入力: inteligent\n最終形: 聪\n漢字: 聪\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3068",
       "priority": 0,
       "sourceRoot": "inteligent",
       "type": "basic",
       "frequency": 8,
       "base": true,
-      "sourceLine": 3067
+      "sourceLine": 3068
     },
     {
       "prefix": "intenc",
       "body": "意ᴵᴺ",
       "detail": "intenc → 意ᴵᴺ (basic, F=12)",
-      "documentation": "語根: intenc\n入力: intenc\n最終形: 意ᴵᴺ\n漢字: 意\n識別子: in\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1116",
+      "documentation": "語根: intenc\n入力: intenc\n最終形: 意ᴵᴺ\n漢字: 意\n識別子: in\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1117",
       "priority": 0,
       "sourceRoot": "intenc",
       "type": "basic",
       "frequency": 12,
       "base": false,
-      "sourceLine": 1116
+      "sourceLine": 1117
     },
     {
       "prefix": "intendant",
       "body": "管ᴵ",
       "detail": "intendant → 管ᴵ (pejvo, F=7)",
-      "documentation": "語根: intendant\n入力: intendant\n最終形: 管ᴵ\n漢字: 管\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2845",
+      "documentation": "語根: intendant\n入力: intendant\n最終形: 管ᴵ\n漢字: 管\n識別子: i\n型: pejvo\nF(汎用性): 7\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:2846",
       "priority": 0,
       "sourceRoot": "intendant",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 2845
+      "sourceLine": 2846
     },
     {
       "prefix": "intens",
       "body": "烈",
       "detail": "intens → 烈 (basic, F=28, 基本形)",
-      "documentation": "語根: intens\n入力: intens\n最終形: 烈\n漢字: 烈\n識別子: なし\n型: basic\nF(汎用性): 28\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3410",
+      "documentation": "語根: intens\n入力: intens\n最終形: 烈\n漢字: 烈\n識別子: なし\n型: basic\nF(汎用性): 28\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3411",
       "priority": 0,
       "sourceRoot": "intens",
       "type": "basic",
       "frequency": 28,
       "base": true,
-      "sourceLine": 3410
+      "sourceLine": 3411
     },
     {
       "prefix": "inter",
@@ -1897,49 +1897,49 @@
       "prefix": "interes",
       "body": "趣",
       "detail": "interes → 趣 (basic, F=22, 基本形)",
-      "documentation": "語根: interes\n入力: interes\n最終形: 趣\n漢字: 趣\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:795",
+      "documentation": "語根: interes\n入力: interes\n最終形: 趣\n漢字: 趣\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:796",
       "priority": 0,
       "sourceRoot": "interes",
       "type": "basic",
       "frequency": 22,
       "base": true,
-      "sourceLine": 795
+      "sourceLine": 796
     },
     {
       "prefix": "interez",
       "body": "利ᴵ",
       "detail": "interez → 利ᴵ (basic, F=4)",
-      "documentation": "語根: interez\n入力: interez\n最終形: 利ᴵ\n漢字: 利\n識別子: i\n型: basic\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2233",
+      "documentation": "語根: interez\n入力: interez\n最終形: 利ᴵ\n漢字: 利\n識別子: i\n型: basic\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:2234",
       "priority": 0,
       "sourceRoot": "interez",
       "type": "basic",
       "frequency": 4,
       "base": false,
-      "sourceLine": 2233
+      "sourceLine": 2234
     },
     {
       "prefix": "interfer",
       "body": "涉ᴵ",
       "detail": "interfer → 涉ᴵ (pejvo, F=8)",
-      "documentation": "語根: interfer\n入力: interfer\n最終形: 涉ᴵ\n漢字: 涉\n識別子: i\n型: pejvo\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2281",
+      "documentation": "語根: interfer\n入力: interfer\n最終形: 涉ᴵ\n漢字: 涉\n識別子: i\n型: pejvo\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:2282",
       "priority": 0,
       "sourceRoot": "interfer",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 2281
+      "sourceLine": 2282
     },
     {
       "prefix": "intermit",
       "body": "断ᴵ",
       "detail": "intermit → 断ᴵ (pejvo, F=9)",
-      "documentation": "語根: intermit\n入力: intermit\n最終形: 断ᴵ\n漢字: 断\n識別子: i\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3534",
+      "documentation": "語根: intermit\n入力: intermit\n最終形: 断ᴵ\n漢字: 断\n識別子: i\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:3535",
       "priority": 0,
       "sourceRoot": "intermit",
       "type": "pejvo",
       "frequency": 9,
       "base": false,
-      "sourceLine": 3534
+      "sourceLine": 3535
     },
     {
       "prefix": "intern",
@@ -1957,109 +1957,109 @@
       "prefix": "interpelaci",
       "body": "质询",
       "detail": "interpelaci → 质询 (basic, F=2, 基本形)",
-      "documentation": "語根: interpelaci\n入力: interpelaci\n最終形: 质询\n漢字: 质询\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4087",
+      "documentation": "語根: interpelaci\n入力: interpelaci\n最終形: 质询\n漢字: 质询\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4089",
       "priority": 0,
       "sourceRoot": "interpelaci",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 4087
+      "sourceLine": 4089
     },
     {
       "prefix": "interpol",
       "body": "插ᴵᵀ",
       "detail": "interpol → 插ᴵᵀ (pejvo, F=2)",
-      "documentation": "語根: interpol\n入力: interpol\n最終形: 插ᴵᵀ\n漢字: 插\n識別子: it\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5158",
+      "documentation": "語根: interpol\n入力: interpol\n最終形: 插ᴵᵀ\n漢字: 插\n識別子: it\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5160",
       "priority": 0,
       "sourceRoot": "interpol",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5158
+      "sourceLine": 5160
     },
     {
       "prefix": "interpret",
       "body": "译ᴵ",
       "detail": "interpret → 译ᴵ (basic, F=12)",
-      "documentation": "語根: interpret\n入力: interpret\n最終形: 译ᴵ\n漢字: 译\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2424",
+      "documentation": "語根: interpret\n入力: interpret\n最終形: 译ᴵ\n漢字: 译\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:2425",
       "priority": 0,
       "sourceRoot": "interpret",
       "type": "basic",
       "frequency": 12,
       "base": false,
-      "sourceLine": 2424
+      "sourceLine": 2425
     },
     {
       "prefix": "interpunkci",
       "body": "标点",
       "detail": "interpunkci → 标点 (pejvo, F=3, 基本形)",
-      "documentation": "語根: interpunkci\n入力: interpunkci\n最終形: 标点\n漢字: 标点\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5619",
+      "documentation": "語根: interpunkci\n入力: interpunkci\n最終形: 标点\n漢字: 标点\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5621",
       "priority": 0,
       "sourceRoot": "interpunkci",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5619
+      "sourceLine": 5621
     },
     {
       "prefix": "interstic",
       "body": "隙",
       "detail": "interstic → 隙 (piv, F=2, 基本形)",
-      "documentation": "語根: interstic\n入力: interstic\n最終形: 隙\n漢字: 隙\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6222",
+      "documentation": "語根: interstic\n入力: interstic\n最終形: 隙\n漢字: 隙\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6224",
       "priority": 0,
       "sourceRoot": "interstic",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6222
+      "sourceLine": 6224
     },
     {
       "prefix": "interval",
       "body": "间隔",
       "detail": "interval → 间隔 (pejvo, F=5, 基本形)",
-      "documentation": "語根: interval\n入力: interval\n最終形: 间隔\n漢字: 间隔\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4921",
+      "documentation": "語根: interval\n入力: interval\n最終形: 间隔\n漢字: 间隔\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4923",
       "priority": 0,
       "sourceRoot": "interval",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4921
+      "sourceLine": 4923
     },
     {
       "prefix": "intervju",
       "body": "访ᴵ",
       "detail": "intervju → 访ᴵ (basic, F=6)",
-      "documentation": "語根: intervju\n入力: intervju\n最終形: 访ᴵ\n漢字: 访\n識別子: i\n型: basic\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1294",
+      "documentation": "語根: intervju\n入力: intervju\n最終形: 访ᴵ\n漢字: 访\n識別子: i\n型: basic\nF(汎用性): 6\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1295",
       "priority": 0,
       "sourceRoot": "intervju",
       "type": "basic",
       "frequency": 6,
       "base": false,
-      "sourceLine": 1294
+      "sourceLine": 1295
     },
     {
       "prefix": "intest",
       "body": "肠ᴵ",
       "detail": "intest → 肠ᴵ (basic, F=10)",
-      "documentation": "語根: intest\n入力: intest\n最終形: 肠ᴵ\n漢字: 肠\n識別子: i\n型: basic\nF(汎用性): 10\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3449",
+      "documentation": "語根: intest\n入力: intest\n最終形: 肠ᴵ\n漢字: 肠\n識別子: i\n型: basic\nF(汎用性): 10\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:3450",
       "priority": 0,
       "sourceRoot": "intest",
       "type": "basic",
       "frequency": 10,
       "base": false,
-      "sourceLine": 3449
+      "sourceLine": 3450
     },
     {
       "prefix": "intim",
       "body": "亲ᴵ",
       "detail": "intim → 亲ᴵ (basic, F=12)",
-      "documentation": "語根: intim\n入力: intim\n最終形: 亲ᴵ\n漢字: 亲\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1123",
+      "documentation": "語根: intim\n入力: intim\n最終形: 亲ᴵ\n漢字: 亲\n識別子: i\n型: basic\nF(汎用性): 12\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1124",
       "priority": 0,
       "sourceRoot": "intim",
       "type": "basic",
       "frequency": 12,
       "base": false,
-      "sourceLine": 1123
+      "sourceLine": 1124
     },
     {
       "prefix": "intra",
@@ -2077,157 +2077,157 @@
       "prefix": "intrig",
       "body": "谋",
       "detail": "intrig → 谋 (pejvo, F=5, 基本形)",
-      "documentation": "語根: intrig\n入力: intrig\n最終形: 谋\n漢字: 谋\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:4601",
+      "documentation": "語根: intrig\n入力: intrig\n最終形: 谋\n漢字: 谋\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:4603",
       "priority": 0,
       "sourceRoot": "intrig",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4601
+      "sourceLine": 4603
     },
     {
       "prefix": "introspekt",
       "body": "内省",
       "detail": "introspekt → 内省 (pejvo, F=3, 基本形)",
-      "documentation": "語根: introspekt\n入力: introspekt\n最終形: 内省\n漢字: 内省\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5368",
+      "documentation": "語根: introspekt\n入力: introspekt\n最終形: 内省\n漢字: 内省\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5370",
       "priority": 0,
       "sourceRoot": "introspekt",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5368
+      "sourceLine": 5370
     },
     {
       "prefix": "introvertit",
       "body": "内向",
       "detail": "introvertit → 内向 (pejvo, F=2, 基本形)",
-      "documentation": "語根: introvertit\n入力: introvertit\n最終形: 内向\n漢字: 内向\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6094",
+      "documentation": "語根: introvertit\n入力: introvertit\n最終形: 内向\n漢字: 内向\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6096",
       "priority": 0,
       "sourceRoot": "introvertit",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6094
+      "sourceLine": 6096
     },
     {
       "prefix": "intuici",
       "body": "直觉",
       "detail": "intuici → 直觉 (pejvo, F=5, 基本形)",
-      "documentation": "語根: intuici\n入力: intuici\n最終形: 直觉\n漢字: 直觉\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4891",
+      "documentation": "語根: intuici\n入力: intuici\n最終形: 直觉\n漢字: 直觉\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4893",
       "priority": 0,
       "sourceRoot": "intuici",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4891
+      "sourceLine": 4893
     },
     {
       "prefix": "inund",
       "body": "淹",
       "detail": "inund → 淹 (basic, F=3, 基本形)",
-      "documentation": "語根: inund\n入力: inund\n最終形: 淹\n漢字: 淹\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3992",
+      "documentation": "語根: inund\n入力: inund\n最終形: 淹\n漢字: 淹\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:3994",
       "priority": 0,
       "sourceRoot": "inund",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 3992
+      "sourceLine": 3994
     },
     {
       "prefix": "invad",
       "body": "侵",
       "detail": "invad → 侵 (pejvo, F=4, 基本形)",
-      "documentation": "語根: invad\n入力: invad\n最終形: 侵\n漢字: 侵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4993",
+      "documentation": "語根: invad\n入力: invad\n最終形: 侵\n漢字: 侵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4995",
       "priority": 0,
       "sourceRoot": "invad",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 4993
+      "sourceLine": 4995
     },
     {
       "prefix": "invalid",
       "body": "残疾",
       "detail": "invalid → 残疾 (basic, F=4, 基本形)",
-      "documentation": "語根: invalid\n入力: invalid\n最終形: 残疾\n漢字: 残疾\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4088",
+      "documentation": "語根: invalid\n入力: invalid\n最終形: 残疾\n漢字: 残疾\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4090",
       "priority": 0,
       "sourceRoot": "invalid",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 4088
+      "sourceLine": 4090
     },
     {
       "prefix": "invent",
       "body": "创ᴵ",
       "detail": "invent → 创ᴵ (basic, F=8)",
-      "documentation": "語根: invent\n入力: invent\n最終形: 创ᴵ\n漢字: 创\n識別子: i\n型: basic\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1623",
+      "documentation": "語根: invent\n入力: invent\n最終形: 创ᴵ\n漢字: 创\n識別子: i\n型: basic\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1624",
       "priority": 0,
       "sourceRoot": "invent",
       "type": "basic",
       "frequency": 8,
       "base": false,
-      "sourceLine": 1623
+      "sourceLine": 1624
     },
     {
       "prefix": "inventar",
       "body": "盘ᴵ",
       "detail": "inventar → 盘ᴵ (pejvo, F=3)",
-      "documentation": "語根: inventar\n入力: inventar\n最終形: 盘ᴵ\n漢字: 盘\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1740",
+      "documentation": "語根: inventar\n入力: inventar\n最終形: 盘ᴵ\n漢字: 盘\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:1741",
       "priority": 0,
       "sourceRoot": "inventar",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 1740
+      "sourceLine": 1741
     },
     {
       "prefix": "invers",
       "body": "逆ᴵ",
       "detail": "invers → 逆ᴵ (basic, F=14)",
-      "documentation": "語根: invers\n入力: invers\n最終形: 逆ᴵ\n漢字: 逆\n識別子: i\n型: basic\nF(汎用性): 14\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3413",
+      "documentation": "語根: invers\n入力: invers\n最終形: 逆ᴵ\n漢字: 逆\n識別子: i\n型: basic\nF(汎用性): 14\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:3414",
       "priority": 0,
       "sourceRoot": "invers",
       "type": "basic",
       "frequency": 14,
       "base": false,
-      "sourceLine": 3413
+      "sourceLine": 3414
     },
     {
       "prefix": "inversi",
       "body": "倒ᴵ",
       "detail": "inversi → 倒ᴵ (pejvo, F=3)",
-      "documentation": "語根: inversi\n入力: inversi\n最終形: 倒ᴵ\n漢字: 倒\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4852",
+      "documentation": "語根: inversi\n入力: inversi\n最終形: 倒ᴵ\n漢字: 倒\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4854",
       "priority": 0,
       "sourceRoot": "inversi",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4852
+      "sourceLine": 4854
     },
     {
       "prefix": "invert",
       "body": "转ᴵ",
       "detail": "invert → 转ᴵ (pejvo, F=4)",
-      "documentation": "語根: invert\n入力: invert\n最終形: 转ᴵ\n漢字: 转\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:942",
+      "documentation": "語根: invert\n入力: invert\n最終形: 转ᴵ\n漢字: 转\n識別子: i\n型: pejvo\nF(汎用性): 4\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:943",
       "priority": 0,
       "sourceRoot": "invert",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 942
+      "sourceLine": 943
     },
     {
       "prefix": "invest",
       "body": "投资",
       "detail": "invest → 投资 (pejvo, F=10, 基本形)",
-      "documentation": "語根: invest\n入力: invest\n最終形: 投资\n漢字: 投资\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4429",
+      "documentation": "語根: invest\n入力: invest\n最終形: 投资\n漢字: 投资\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4431",
       "priority": 0,
       "sourceRoot": "invest",
       "type": "pejvo",
       "frequency": 10,
       "base": true,
-      "sourceLine": 4429
+      "sourceLine": 4431
     },
     {
       "prefix": "investitur",
@@ -2245,25 +2245,25 @@
       "prefix": "invit",
       "body": "邀",
       "detail": "invit → 邀 (basic, F=14, 基本形)",
-      "documentation": "語根: invit\n入力: invit\n最終形: 邀\n漢字: 邀\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1267",
+      "documentation": "語根: invit\n入力: invit\n最終形: 邀\n漢字: 邀\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:1268",
       "priority": 0,
       "sourceRoot": "invit",
       "type": "basic",
       "frequency": 14,
       "base": true,
-      "sourceLine": 1267
+      "sourceLine": 1268
     },
     {
       "prefix": "involukr",
       "body": "总苞",
       "detail": "involukr → 总苞 (pejvo, F=2, 基本形)",
-      "documentation": "語根: involukr\n入力: involukr\n最終形: 总苞\n漢字: 总苞\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6000",
+      "documentation": "語根: involukr\n入力: involukr\n最終形: 总苞\n漢字: 总苞\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6002",
       "priority": 0,
       "sourceRoot": "involukr",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6000
+      "sourceLine": 6002
     },
     {
       "prefix": "io",
@@ -2293,37 +2293,37 @@
       "prefix": "ion",
       "body": "离子ᴵ",
       "detail": "ion → 离子ᴵ (piv, F=3)",
-      "documentation": "語根: ion\n入力: ion\n最終形: 离子ᴵ\n漢字: 离子\n識別子: i\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4344",
+      "documentation": "語根: ion\n入力: ion\n最終形: 离子ᴵ\n漢字: 离子\n識別子: i\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4346",
       "priority": 0,
       "sourceRoot": "ion",
       "type": "piv",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4344
+      "sourceLine": 4346
     },
     {
       "prefix": "ipek",
       "body": "吐根",
       "detail": "ipek → 吐根 (piv, F=3, 基本形)",
-      "documentation": "語根: ipek\n入力: ipek\n最終形: 吐根\n漢字: 吐根\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5532",
+      "documentation": "語根: ipek\n入力: ipek\n最終形: 吐根\n漢字: 吐根\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5534",
       "priority": 0,
       "sourceRoot": "ipek",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5532
+      "sourceLine": 5534
     },
     {
       "prefix": "iperit",
       "body": "芥气",
       "detail": "iperit → 芥气 (pejvo, F=2, 基本形)",
-      "documentation": "語根: iperit\n入力: iperit\n最終形: 芥气\n漢字: 芥气\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6182",
+      "documentation": "語根: iperit\n入力: iperit\n最終形: 芥气\n漢字: 芥气\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6184",
       "priority": 0,
       "sourceRoot": "iperit",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6182
+      "sourceLine": 6184
     },
     {
       "prefix": "ir",
@@ -2341,25 +2341,25 @@
       "prefix": "iredent",
       "body": "待收",
       "detail": "iredent → 待收 (pejvo, F=3, 基本形)",
-      "documentation": "語根: iredent\n入力: iredent\n最終形: 待收\n漢字: 待收\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5404",
+      "documentation": "語根: iredent\n入力: iredent\n最終形: 待收\n漢字: 待收\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5406",
       "priority": 0,
       "sourceRoot": "iredent",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5404
+      "sourceLine": 5406
     },
     {
       "prefix": "irid",
       "body": "花ᴵ",
       "detail": "irid → 花ᴵ (pejvo, F=3)",
-      "documentation": "語根: irid\n入力: irid\n最終形: 花ᴵ\n漢字: 花\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1074",
+      "documentation": "語根: irid\n入力: irid\n最終形: 花ᴵ\n漢字: 花\n識別子: i\n型: pejvo\nF(汎用性): 3\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:1075",
       "priority": 0,
       "sourceRoot": "irid",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 1074
+      "sourceLine": 1075
     },
     {
       "prefix": "iridi",
@@ -2377,49 +2377,49 @@
       "prefix": "irigaci",
       "body": "水渠",
       "detail": "irigaci → 水渠 (pejvo, F=3, 基本形)",
-      "documentation": "語根: irigaci\n入力: irigaci\n最終形: 水渠\n漢字: 水渠\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5475",
+      "documentation": "語根: irigaci\n入力: irigaci\n最終形: 水渠\n漢字: 水渠\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5477",
       "priority": 0,
       "sourceRoot": "irigaci",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5475
+      "sourceLine": 5477
     },
     {
       "prefix": "iris",
       "body": "虹膜",
       "detail": "iris → 虹膜 (pejvo, F=7, 基本形)",
-      "documentation": "語根: iris\n入力: iris\n最終形: 虹膜\n漢字: 虹膜\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4631",
+      "documentation": "語根: iris\n入力: iris\n最終形: 虹膜\n漢字: 虹膜\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4633",
       "priority": 0,
       "sourceRoot": "iris",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 4631
+      "sourceLine": 4633
     },
     {
       "prefix": "irit",
       "body": "恼",
       "detail": "irit → 恼 (basic, F=3, 基本形)",
-      "documentation": "語根: irit\n入力: irit\n最終形: 恼\n漢字: 恼\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:2989",
+      "documentation": "語根: irit\n入力: irit\n最終形: 恼\n漢字: 恼\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:2990",
       "priority": 0,
       "sourceRoot": "irit",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 2989
+      "sourceLine": 2990
     },
     {
       "prefix": "iriz",
       "body": "虹",
       "detail": "iriz → 虹 (pejvo, F=3, 基本形)",
-      "documentation": "語根: iriz\n入力: iriz\n最終形: 虹\n漢字: 虹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5384",
+      "documentation": "語根: iriz\n入力: iriz\n最終形: 虹\n漢字: 虹\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5386",
       "priority": 0,
       "sourceRoot": "iriz",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5384
+      "sourceLine": 5386
     },
     {
       "prefix": "ironi",
@@ -2437,25 +2437,25 @@
       "prefix": "iski",
       "body": "坐骨",
       "detail": "iski → 坐骨 (pejvo, F=3, 基本形)",
-      "documentation": "語根: iski\n入力: iski\n最終形: 坐骨\n漢字: 坐骨\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5511",
+      "documentation": "語根: iski\n入力: iski\n最終形: 坐骨\n漢字: 坐骨\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5513",
       "priority": 0,
       "sourceRoot": "iski",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5511
+      "sourceLine": 5513
     },
     {
       "prefix": "iskiat",
       "body": "坐神",
       "detail": "iskiat → 坐神 (piv, F=2, 基本形)",
-      "documentation": "語根: iskiat\n入力: iskiat\n最終形: 坐神\n漢字: 坐神\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5850",
+      "documentation": "語根: iskiat\n入力: iskiat\n最終形: 坐神\n漢字: 坐神\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5852",
       "priority": 0,
       "sourceRoot": "iskiat",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5850
+      "sourceLine": 5852
     },
     {
       "prefix": "ism",
@@ -2485,37 +2485,37 @@
       "prefix": "istm",
       "body": "峡",
       "detail": "istm → 峡 (pejvo, F=3, 基本形)",
-      "documentation": "語根: istm\n入力: istm\n最終形: 峡\n漢字: 峡\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5707",
+      "documentation": "語根: istm\n入力: istm\n最終形: 峡\n漢字: 峡\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5709",
       "priority": 0,
       "sourceRoot": "istm",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5707
+      "sourceLine": 5709
     },
     {
       "prefix": "it",
       "body": "受",
       "detail": "it → 受 (suf, F=949, 基本形)",
-      "documentation": "語根: it\n入力: it\n最終形: 受\n漢字: 受\n識別子: なし\n型: suf\nF(汎用性): 949\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:989",
+      "documentation": "語根: it\n入力: it\n最終形: 受\n漢字: 受\n識別子: なし\n型: suf\nF(汎用性): 949\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:990",
       "priority": 0,
       "sourceRoot": "it",
       "type": "suf",
       "frequency": 949,
       "base": true,
-      "sourceLine": 989
+      "sourceLine": 990
     },
     {
       "prefix": "iteraci",
       "body": "迭",
       "detail": "iteraci → 迭 (pejvo, F=3, 基本形)",
-      "documentation": "語根: iteraci\n入力: iteraci\n最終形: 迭\n漢字: 迭\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5555",
+      "documentation": "語根: iteraci\n入力: iteraci\n最終形: 迭\n漢字: 迭\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5557",
       "priority": 0,
       "sourceRoot": "iteraci",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5555
+      "sourceLine": 5557
     },
     {
       "prefix": "iterbi",
@@ -2569,61 +2569,61 @@
       "prefix": "iz",
       "body": "化",
       "detail": "iz → 化 (suf, F=166, 基本形)",
-      "documentation": "語根: iz\n入力: iz\n最終形: 化\n漢字: 化\n識別子: なし\n型: suf\nF(汎用性): 166\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:2867",
+      "documentation": "語根: iz\n入力: iz\n最終形: 化\n漢字: 化\n識別子: なし\n型: suf\nF(汎用性): 166\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:2868",
       "priority": 0,
       "sourceRoot": "iz",
       "type": "suf",
       "frequency": 166,
       "base": true,
-      "sourceLine": 2867
+      "sourceLine": 2868
     },
     {
       "prefix": "izo",
       "body": "等ᴵ",
       "detail": "izo → 等ᴵ (pref, F=36)",
-      "documentation": "語根: izo\n入力: izo\n最終形: 等ᴵ\n漢字: 等\n識別子: i\n型: pref\nF(汎用性): 36\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1513",
+      "documentation": "語根: izo\n入力: izo\n最終形: 等ᴵ\n漢字: 等\n識別子: i\n型: pref\nF(汎用性): 36\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:1514",
       "priority": 0,
       "sourceRoot": "izo",
       "type": "pref",
       "frequency": 36,
       "base": false,
-      "sourceLine": 1513
+      "sourceLine": 1514
     },
     {
       "prefix": "izol",
       "body": "隔",
       "detail": "izol → 隔 (basic, F=38, 基本形)",
-      "documentation": "語根: izol\n入力: izol\n最終形: 隔\n漢字: 隔\n識別子: なし\n型: basic\nF(汎用性): 38\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:3993",
+      "documentation": "語根: izol\n入力: izol\n最終形: 隔\n漢字: 隔\n識別子: なし\n型: basic\nF(汎用性): 38\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:3995",
       "priority": 0,
       "sourceRoot": "izol",
       "type": "basic",
       "frequency": 38,
       "base": true,
-      "sourceLine": 3993
+      "sourceLine": 3995
     },
     {
       "prefix": "izomer",
       "body": "异构",
       "detail": "izomer → 异构 (pejvo, F=4, 基本形)",
-      "documentation": "語根: izomer\n入力: izomer\n最終形: 异构\n漢字: 异构\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5159",
+      "documentation": "語根: izomer\n入力: izomer\n最終形: 异构\n漢字: 异构\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5161",
       "priority": 0,
       "sourceRoot": "izomer",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5159
+      "sourceLine": 5161
     },
     {
       "prefix": "izotop",
       "body": "同位素",
       "detail": "izotop → 同位素 (pejvo, F=3, 基本形)",
-      "documentation": "語根: izotop\n入力: izotop\n最終形: 同位素\n漢字: 同位素\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5419",
+      "documentation": "語根: izotop\n入力: izotop\n最終形: 同位素\n漢字: 同位素\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5421",
       "priority": 0,
       "sourceRoot": "izotop",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5419
+      "sourceLine": 5421
     }
   ]
 }
