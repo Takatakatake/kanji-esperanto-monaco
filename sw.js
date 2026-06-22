@@ -1,6 +1,6 @@
-const CACHE = 'ke-site-v21';
-const APP_VERSION = '20260621-dictionary-refresh-6';
-const DICTIONARY_VERSION = 'pejvo-piv-20260620-r5';
+const CACHE = 'ke-site-v22';
+const APP_VERSION = '20260621-dictionary-refresh-7';
+const DICTIONARY_VERSION = 'pejvo-piv-20260620-r6';
 const DICTIONARY_BUCKETS = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','r','s','t','u','v','z'];
 const versioned = (url, version) => `${url}?v=${encodeURIComponent(version)}`;
 const ASSETS = [
