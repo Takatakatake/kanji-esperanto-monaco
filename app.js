@@ -29,7 +29,9 @@ try {
   monaco.languages.register({ id: 'kanji-esperanto' });
   monaco.languages.setLanguageConfiguration('kanji-esperanto', {
     // No global flag to avoid stateful RegExp interactions
-    wordPattern: /([a-zA-Z-]+)|([\u3400-\u9fff\uf900-\ufaff々〻\u02b0-\u02ff\u1d00-\u1d7f\u2070-\u209f\u2c60-\u2c7f\u0300-\u036f]+)/
+    // Modifier-letter range extends through U+1DBF so the superscript identifiers c/f/z
+    // stay part of a word (double-click / word navigation) instead of orphaning the trailing marker.
+    wordPattern: /([a-zA-Z-]+)|([\u3400-\u9fff\uf900-\ufaff々〻\u02b0-\u02ff\u1d00-\u1dbf\u2070-\u209f\u2c60-\u2c7f\u0300-\u036f]+)/
   });
 
   // 遅延読込用のシンプルキャッシュ（先頭文字 → アイテム配列）
@@ -298,6 +300,7 @@ try {
     fontSize: 16,
     minimap: { enabled: false },
     automaticLayout: true,
+    wordWrap: 'on',
     suggestOnTriggerCharacters: true,
     ariaLabel: '漢字化エスペラント エディタ'
   }, extraOpts));
@@ -553,16 +556,20 @@ try {
     }
 
     async function shareSelectionOrAll() {
-      try {
-        const model = editor.getModel();
-        const sel = editor.getSelection();
-        const text = (sel && !sel.isEmpty()) ? model.getValueInRange(sel) : model.getValue();
-        if (navigator.share && text) {
-          const snippet = text.length > 10000 ? text.slice(0, 10000) + '\n…' : text;
+      const model = editor.getModel();
+      const sel = model ? editor.getSelection() : null;
+      const text = (sel && !sel.isEmpty()) ? model.getValueInRange(sel) : (model ? model.getValue() : '');
+      if (navigator.share && text) {
+        const snippet = text.length > 10000 ? text.slice(0, 10000) + '\n…' : text;
+        try {
           await navigator.share({ text: snippet, title: 'Kanji Esperanto Text' });
           return;
+        } catch (err) {
+          // The user cancelled the share sheet (AbortError) — do NOT fall back to a clipboard copy.
+          if (err && err.name === 'AbortError') return;
+          // Any other share failure falls through to the clipboard copy below.
         }
-      } catch {}
+      }
       copySelectionOrAll();
     }
 
