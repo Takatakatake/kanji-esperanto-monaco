@@ -1,7 +1,30 @@
-// Monaco AMD loader path
-require.config({ paths: { 'vs': 'https://unpkg.com/monaco-editor@0.52.0/min/vs' } });
+// Show a visible failure message if Monaco never loads (CDN down / blocked by a proxy, an
+// offline first visit, or a flaky network). The in-app toast lives INSIDE the require callback
+// below, so this fallback must be self-contained and not depend on that callback ever running.
+function showEditorLoadError() {
+  const host = document.getElementById('editor');
+  if (!host || host.dataset.keLoadError) return;
+  host.dataset.keLoadError = '1';
+  host.textContent = 'エディタの読み込みに失敗しました。ネットワーク接続を確認して、ページを再読み込みしてください。';
+  host.style.cssText = 'padding:16px;color:#b00020;font-size:14px;line-height:1.6;white-space:pre-wrap;';
+}
+function clearEditorLoadError() {
+  const host = document.getElementById('editor');
+  if (host && host.dataset.keLoadError) { delete host.dataset.keLoadError; host.textContent = ''; host.removeAttribute('style'); }
+}
+let keEditorReady = false;
+// Watchdog: editor.main can fail to load while the AMD loader merely logs to console and never
+// calls back, leaving a silently blank editor. If it has not initialised in time, surface the error.
+const keLoadWatchdog = setTimeout(() => { if (!keEditorReady) showEditorLoadError(); }, 20000);
 
-require(['vs/editor/editor.main'], function () {
+try {
+  // Monaco AMD loader path
+  require.config({ paths: { 'vs': 'https://unpkg.com/monaco-editor@0.52.0/min/vs' } });
+
+  require(['vs/editor/editor.main'], function () {
+  keEditorReady = true;
+  clearTimeout(keLoadWatchdog);
+  clearEditorLoadError();
   // 言語登録と語境界
   monaco.languages.register({ id: 'kanji-esperanto' });
   monaco.languages.setLanguageConfiguration('kanji-esperanto', {
@@ -700,4 +723,15 @@ require(['vs/editor/editor.main'], function () {
     wire('btn-share', () => shareSelectionOrAll());
   })();
   // === End of Mobile-friendly Toolbar ===
-});
+  }, function (err) {
+    // AMD errback: editor.main failed to load (CDN unreachable/blocked, network failure).
+    clearTimeout(keLoadWatchdog);
+    console.error('Monaco failed to load', err);
+    showEditorLoadError();
+  });
+} catch (e) {
+  // require() itself is undefined — the loader.js <script> (also from the CDN) failed to load.
+  clearTimeout(keLoadWatchdog);
+  console.error('Monaco loader unavailable', e);
+  showEditorLoadError();
+}

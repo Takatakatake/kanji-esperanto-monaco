@@ -86,9 +86,11 @@ Actions による自動デプロイ（同梱）:
 
 ## PWA（オフライン対応）
 - ルートに `manifest.webmanifest` と `sw.js` を追加。`index.html` で登録しています。
-- 初回アクセス時に以下を事前キャッシュし、以後はオフラインでも動作します。
-  - ルート: `index.html`, `app.js`, `all.json`, `data/ke-*.json`, `data/reverse.json`
-  - Monaco 版の最小依存（loader/worker）
+- 初回アクセス時に以下を事前キャッシュします。
+  - ルート: `index.html`, `app.js`, `data/ke-*.json`, `data/reverse.json`, `manifest.webmanifest`
+  - Monaco の最小依存（CDN の `loader.js` / `workerMain.js`）
+  - 注意: Monaco エディタ本体（`editor.main.*`）は CDN から**実行時に**読み込み、初回のオンライン読込時にのみキャッシュされます。そのため**完全オフラインで動作するのは一度オンラインで開いた後**です。初回アクセスがオフライン、または CDN（unpkg）に到達できない場合は、エディタ領域に読み込み失敗メッセージを表示します。
+  - （`all.json` はビルド用成果物で実行時には読み込まないため、プリキャッシュ対象から除外しています。）
 - `app.js` と辞書データは別々のバージョンでキャッシュします。UIだけの修正と辞書更新を分けて扱うためです。
 - 注意: PWAのスコープは GitHub Pages の公開パス（例: `/kanji-esperanto-monaco/`）。`manifest.webmanifest` の `start_url`/`scope` はそれに合わせています。
 
