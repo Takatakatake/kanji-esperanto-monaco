@@ -619,7 +619,7 @@ try {
       while (node && node.firstChild) node.removeChild(node.firstChild);
     }
 
-    function renderLookupResults(results, query) {
+    function renderLookupResults(results, query, showAll) {
       const target = byId('lookup-results');
       if (!target) return;
       clearNode(target);
@@ -639,7 +639,8 @@ try {
         layoutEditorToViewport();
         return;
       }
-      for (const item of results.slice(0, LOOKUP_LIMIT)) {
+      const renderLimit = showAll ? results.length : LOOKUP_LIMIT;
+      for (const item of results.slice(0, renderLimit)) {
         const row = document.createElement('div');
         row.className = 'lookup-item';
 
@@ -665,11 +666,23 @@ try {
         row.appendChild(meta);
         target.appendChild(row);
       }
-      if (results.length > LOOKUP_LIMIT) {
-        const more = document.createElement('div');
-        more.className = 'lookup-empty';
-        more.textContent = `${results.length}件中${LOOKUP_LIMIT}件を表示`;
+      if (results.length > LOOKUP_LIMIT && !showAll) {
+        // The dense base-kanji families (草/木/鸟/虫/菌 — hundreds each after the taxonomy
+        // refresh) overflow LOOKUP_LIMIT, and the only way to narrow is to type superscript
+        // identifier codepoints that are not keyboard-typeable. reverse.json is already fully
+        // in memory, so offer a one-click expansion to render the whole match set instead of a
+        // dead-end count. The default cap stays as a performance guard for the common case.
+        const more = document.createElement('button');
+        more.type = 'button';
+        more.className = 'lookup-more';
+        more.textContent = `すべて表示（${results.length}件）`;
+        more.addEventListener('click', () => renderLookupResults(results, query, true));
         target.appendChild(more);
+      } else if (showAll && results.length > LOOKUP_LIMIT) {
+        const all = document.createElement('div');
+        all.className = 'lookup-empty';
+        all.textContent = `全${results.length}件を表示`;
+        target.appendChild(all);
       }
       layoutEditorToViewport();
     }

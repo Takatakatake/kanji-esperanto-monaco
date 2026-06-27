@@ -39,6 +39,7 @@
     .lookup-root { font-family:monospace; font-size:14px; }
     .lookup-meta { color:#666; font-size:12px; white-space:nowrap; }
     .lookup-empty { color:#666; font-size:13px; padding:4px 0; }
+    .lookup-more { width:100%; cursor:pointer; color:#005a9e; font-weight:600; }
     footer { font-size: 12px; color:#666; padding: 8px 16px; border-top: 1px solid #eee; }
   </style>
   <script>
@@ -82,9 +83,9 @@
   </div>
 
   <script>
-    window.KE_APP_VERSION = '20260621-dictionary-refresh-11';
+    window.KE_APP_VERSION = '20260621-dictionary-refresh-12';
   </script>
-  <script src="./app.js?v=20260621-dictionary-refresh-11"></script>
+  <script src="./app.js?v=20260621-dictionary-refresh-12"></script>
 
   <script>
     if ('serviceWorker' in navigator) {
@@ -96,7 +97,7 @@
       });
       window.addEventListener('load', async () => {
         try {
-          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-11');
+          const reg = await navigator.serviceWorker.register('./sw.js?v=20260621-dictionary-refresh-12');
           await reg.update();
         } catch {}
       });
@@ -104,7 +105,7 @@
   </script>
 
   <footer>
-    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-11
+    © 2025 — Monaco Editor (MIT). 辞書の出典/ライセンスは README を参照。 | v2026-06-21-dictionary-refresh-12
   </footer>
 </body>
 </html>
