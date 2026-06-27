@@ -692,6 +692,9 @@ try {
       const query = input ? input.value.trim() : '';
       if (!query) { renderLookupResults([], query); return; }
       const items = await loadReverseIndex();
+      // レース防止: 辞書のコールドロード待ちの間に入力が変わっていたら、古いクエリの結果を
+      // （空クリア後などに）描画してしまわないよう破棄する。補完プロバイダ(上記)と同じ鮮度ガード。
+      if (!input || input.value.trim() !== query) return;
       const results = items
         .map((item, index) => ({ item, index, rank: assignmentMatchRank(item, query) }))
         .filter(entry => entry.rank >= 0)
