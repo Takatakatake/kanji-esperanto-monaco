@@ -120,6 +120,26 @@ try {
   errors.push(`cannot read reverse index: ${error.message}`);
 }
 
+// Reverse-mapping uniqueness: the reverter keys its dictionary by the kanji body and keeps
+// only ONE root per body (first-wins), so if two DISTINCT source roots were assigned the same
+// body (kanji + superscript identifier) the reverse direction would silently become lossy —
+// one of the roots could never be recovered. The per-root identifier convention is meant to
+// make every final form unique; assert it here so a future TSV mistake (a duplicate or
+// forgotten identifier) is caught at build time instead of shipping a quietly lossy dictionary.
+const rootsByBody = new Map();
+for (const item of items) {
+  const body = String(item.body || '');
+  if (!body) continue;
+  const root = String(item.sourceRoot || item.prefix || '');
+  if (!rootsByBody.has(body)) rootsByBody.set(body, new Set());
+  rootsByBody.get(body).add(root);
+}
+for (const [body, roots] of rootsByBody) {
+  if (roots.size > 1) {
+    errors.push(`reverse-mapping collision: body "${body}" is assigned to ${roots.size} distinct roots {${Array.from(roots).join(', ')}} — the reverter can recover only one`);
+  }
+}
+
 if (errors.length) {
   for (const error of errors) console.error(`ERROR: ${error}`);
   process.exit(1);
