@@ -3,10 +3,10 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 748,
+    "itemCount": 749,
     "skippedCount": 0,
     "bucket": "p",
-    "dictionaryItemCount": 7652
+    "dictionaryItemCount": 7653
   },
   "items": [
     {
@@ -554,6 +554,19 @@
       "frequency": 1,
       "base": false,
       "sourceLine": 2074
+    },
+    {
+      "prefix": "pand",
+      "body": "熊猫",
+      "kanji": "熊猫",
+      "detail": "pand → 熊猫 (pejvo, F=1, 基本形)",
+      "documentation": "語根: pand\n入力: pand\n最終形: 熊猫\n漢字: 熊猫\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7641",
+      "priority": 0,
+      "sourceRoot": "pand",
+      "type": "pejvo",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 7641
     },
     {
       "prefix": "pandal",
@@ -2172,13 +2185,13 @@
       "body": "儿医",
       "kanji": "儿医",
       "detail": "pediatr → 儿医 (pejvo, F=1, 基本形)",
-      "documentation": "語根: pediatr\n入力: pediatr\n最終形: 儿医\n漢字: 儿医\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7650",
+      "documentation": "語根: pediatr\n入力: pediatr\n最終形: 儿医\n漢字: 儿医\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7651",
       "priority": 0,
       "sourceRoot": "pediatr",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 7650
+      "sourceLine": 7651
     },
     {
       "prefix": "pedik",
