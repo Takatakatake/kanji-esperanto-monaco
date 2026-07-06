@@ -46,6 +46,21 @@ const checks = {
 const appJsRefs = pickAll(html, 'app.js?v=', /app\.js\?v=([^"'\s>]+)/g);
 const swJsRefs = pickAll(html, 'sw.js?v=', /sw\.js\?v=([^"'\s>)]+)/g);
 
+// Monaco is loaded from a CDN at an exact pinned version hardcoded in several places across
+// all three files (AMD loader URL, worker URL, MonacoEnvironment baseUrl). They are NOT one of
+// the -rN tracks and are not otherwise checked, so a partial bump would make the page load one
+// Monaco build while the service worker precaches another. Collect every occurrence and assert
+// they all agree.
+const monacoVersions = {};
+for (const s of [sw, app, html]) {
+  [...s.text.matchAll(/monaco-editor@([^/'"\s)]+)/g)].forEach((m, i) => {
+    monacoVersions[`${s.name} monaco[${i}]`] = m[1];
+  });
+}
+if (!Object.keys(monacoVersions).length) {
+  errors.push('could not find any monaco-editor@<version> reference in sw.js / app.js / index.html');
+}
+
 for (const result of [...Object.values(checks), appJsRefs, swJsRefs]) {
   if (result.error) errors.push(result.error);
 }
@@ -71,6 +86,11 @@ if (!errors.length) {
     errors.push(`DICTIONARY_VERSION strings disagree: ${JSON.stringify(dictVersions)}`);
   }
 
+  // Monaco pinned version: every hardcoded reference across the three files must agree.
+  if (Object.keys(monacoVersions).length && new Set(Object.values(monacoVersions)).size !== 1) {
+    errors.push(`monaco-editor pinned version strings disagree: ${JSON.stringify(monacoVersions)}`);
+  }
+
   // Footer must carry the current dictionary-refresh-N suffix (date format differs by design).
   const refreshSuffix = (checks['sw.js APP_VERSION'].value.match(/(dictionary-refresh-\d+)/) || [])[1];
   const footer = html.text.match(/<footer>([\s\S]*?)<\/footer>/);
@@ -86,4 +106,5 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`OK: APP_VERSION='${checks['sw.js APP_VERSION'].value}', DICTIONARY_VERSION='${checks['sw.js DICTIONARY_VERSION'].value}' consistent across sw.js / app.js / index.html (incl. all ?v= refs + footer)`);
+const monacoVersion = Object.values(monacoVersions)[0];
+console.log(`OK: APP_VERSION='${checks['sw.js APP_VERSION'].value}', DICTIONARY_VERSION='${checks['sw.js DICTIONARY_VERSION'].value}' consistent across sw.js / app.js / index.html (incl. all ?v= refs + footer); monaco-editor@${monacoVersion} pinned consistently (${Object.keys(monacoVersions).length} refs)`);
