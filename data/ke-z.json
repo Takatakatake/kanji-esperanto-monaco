@@ -1,12 +1,12 @@
 {
   "meta": {
-    "sourceName": "sidecar_r20_HEAD.tsv",
+    "sourceName": "sidecar_r21_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
     "itemCount": 35,
     "skippedCount": 0,
     "bucket": "z",
-    "dictionaryItemCount": 10013
+    "dictionaryItemCount": 10024
   },
   "items": [
     {
@@ -14,46 +14,46 @@
       "body": "草ᶻ",
       "kanji": "草",
       "detail": "ze → 草ᶻ (piv, F=1)",
-      "documentation": "語根: ze\n入力: ze\n最終形: 草ᶻ\n漢字: 草\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 327\n基本形: no\n出典: sidecar_r20_HEAD.tsv:2114",
+      "documentation": "語根: ze\n入力: ze\n最終形: 草ᶻ\n漢字: 草\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 328\n基本形: no\n出典: sidecar_r21_HEAD.tsv:2119",
       "priority": 0,
       "sourceRoot": "ze",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 2114
+      "sourceLine": 2119
     },
     {
       "prefix": "zebr",
       "body": "斑马",
       "kanji": "斑马",
       "detail": "zebr → 斑马 (pejvo, F=3, 基本形)",
-      "documentation": "語根: zebr\n入力: zebr\n最終形: 斑马\n漢字: 斑马\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:6888",
+      "documentation": "語根: zebr\n入力: zebr\n最終形: 斑马\n漢字: 斑马\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:6899",
       "priority": 0,
       "sourceRoot": "zebr",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 6888
+      "sourceLine": 6899
     },
     {
       "prefix": "zefir",
       "body": "微风ᶻ",
       "kanji": "微风",
       "detail": "zefir → 微风ᶻ (pejvo, F=3)",
-      "documentation": "語根: zefir\n入力: zefir\n最終形: 微风ᶻ\n漢字: 微风\n識別子: z\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: sidecar_r20_HEAD.tsv:7037",
+      "documentation": "語根: zefir\n入力: zefir\n最終形: 微风ᶻ\n漢字: 微风\n識別子: z\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: sidecar_r21_HEAD.tsv:7048",
       "priority": 0,
       "sourceRoot": "zefir",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 7037
+      "sourceLine": 7048
     },
     {
       "prefix": "zelkov",
       "body": "木ᶻ",
       "kanji": "木",
       "detail": "zelkov → 木ᶻ (piv, F=1)",
-      "documentation": "語根: zelkov\n入力: zelkov\n最終形: 木ᶻ\n漢字: 木\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 247\n基本形: no\n出典: sidecar_r20_HEAD.tsv:515",
+      "documentation": "語根: zelkov\n入力: zelkov\n最終形: 木ᶻ\n漢字: 木\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 249\n基本形: no\n出典: sidecar_r21_HEAD.tsv:515",
       "priority": 0,
       "sourceRoot": "zelkov",
       "type": "piv",
@@ -66,202 +66,202 @@
       "body": "迷ᶻ",
       "kanji": "迷",
       "detail": "zelot → 迷ᶻ (pejvo, F=2)",
-      "documentation": "語根: zelot\n入力: zelot\n最終形: 迷ᶻ\n漢字: 迷\n識別子: z\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: sidecar_r20_HEAD.tsv:4957",
+      "documentation": "語根: zelot\n入力: zelot\n最終形: 迷ᶻ\n漢字: 迷\n識別子: z\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: sidecar_r21_HEAD.tsv:4965",
       "priority": 0,
       "sourceRoot": "zelot",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4957
+      "sourceLine": 4965
     },
     {
       "prefix": "zen",
       "body": "禅",
       "kanji": "禅",
       "detail": "zen → 禅 (pejvo, F=2, 基本形)",
-      "documentation": "語根: zen\n入力: zen\n最終形: 禅\n漢字: 禅\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:7481",
+      "documentation": "語根: zen\n入力: zen\n最終形: 禅\n漢字: 禅\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:7492",
       "priority": 0,
       "sourceRoot": "zen",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7481
+      "sourceLine": 7492
     },
     {
       "prefix": "zenit",
       "body": "天顶",
       "kanji": "天顶",
       "detail": "zenit → 天顶 (pejvo, F=2, 基本形)",
-      "documentation": "語根: zenit\n入力: zenit\n最終形: 天顶\n漢字: 天顶\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:7654",
+      "documentation": "語根: zenit\n入力: zenit\n最終形: 天顶\n漢字: 天顶\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:7665",
       "priority": 0,
       "sourceRoot": "zenit",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7654
+      "sourceLine": 7665
     },
     {
       "prefix": "zepelin",
       "body": "硬式飞艇",
       "kanji": "硬式飞艇",
       "detail": "zepelin → 硬式飞艇 (pejvo, F=2, 基本形)",
-      "documentation": "語根: zepelin\n入力: zepelin\n最終形: 硬式飞艇\n漢字: 硬式飞艇\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:7944",
+      "documentation": "語根: zepelin\n入力: zepelin\n最終形: 硬式飞艇\n漢字: 硬式飞艇\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:7955",
       "priority": 0,
       "sourceRoot": "zepelin",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7944
+      "sourceLine": 7955
     },
     {
       "prefix": "zeuxs",
       "body": "鱼ᶻ",
       "kanji": "鱼",
       "detail": "zeu^s → 鱼ᶻ (piv, F=1)",
-      "documentation": "語根: zeu^s\n入力: zeuxs\n最終形: 鱼ᶻ\n漢字: 鱼\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 93\n基本形: no\n出典: sidecar_r20_HEAD.tsv:1534",
+      "documentation": "語根: zeu^s\n入力: zeuxs\n最終形: 鱼ᶻ\n漢字: 鱼\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 93\n基本形: no\n出典: sidecar_r21_HEAD.tsv:1538",
       "priority": 0,
       "sourceRoot": "zeu^s",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 1534
+      "sourceLine": 1538
     },
     {
       "prefix": "zibel",
       "body": "鼠ᶻ",
       "kanji": "鼠",
       "detail": "zibel → 鼠ᶻ (pejvo, F=2)",
-      "documentation": "語根: zibel\n入力: zibel\n最終形: 鼠ᶻ\n漢字: 鼠\n識別子: z\n型: pejvo\nF(汎用性): 2\nグループ数: 29\n基本形: no\n出典: sidecar_r20_HEAD.tsv:4393",
+      "documentation": "語根: zibel\n入力: zibel\n最終形: 鼠ᶻ\n漢字: 鼠\n識別子: z\n型: pejvo\nF(汎用性): 2\nグループ数: 29\n基本形: no\n出典: sidecar_r21_HEAD.tsv:4401",
       "priority": 0,
       "sourceRoot": "zibel",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4393
+      "sourceLine": 4401
     },
     {
       "prefix": "zibet",
       "body": "兽ᶻᴮ",
       "kanji": "兽",
       "detail": "zibet → 兽ᶻᴮ (piv, F=1)",
-      "documentation": "語根: zibet\n入力: zibet\n最終形: 兽ᶻᴮ\n漢字: 兽\n識別子: zb\n型: piv\nF(汎用性): 1\nグループ数: 67\n基本形: no\n出典: sidecar_r20_HEAD.tsv:1425",
+      "documentation": "語根: zibet\n入力: zibet\n最終形: 兽ᶻᴮ\n漢字: 兽\n識別子: zb\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: sidecar_r21_HEAD.tsv:1427",
       "priority": 0,
       "sourceRoot": "zibet",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 1425
+      "sourceLine": 1427
     },
     {
       "prefix": "zigen",
       "body": "虫ᶻ",
       "kanji": "虫",
       "detail": "zigen → 虫ᶻ (piv, F=1)",
-      "documentation": "語根: zigen\n入力: zigen\n最終形: 虫ᶻ\n漢字: 虫\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 98\n基本形: no\n出典: sidecar_r20_HEAD.tsv:2461",
+      "documentation": "語根: zigen\n入力: zigen\n最終形: 虫ᶻ\n漢字: 虫\n識別子: z\n型: piv\nF(汎用性): 1\nグループ数: 99\n基本形: no\n出典: sidecar_r21_HEAD.tsv:2467",
       "priority": 0,
       "sourceRoot": "zigen",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 2461
+      "sourceLine": 2467
     },
     {
       "prefix": "zigofil",
       "body": "草ᶻᴳ",
       "kanji": "草",
       "detail": "zigofil → 草ᶻᴳ (piv, F=1)",
-      "documentation": "語根: zigofil\n入力: zigofil\n最終形: 草ᶻᴳ\n漢字: 草\n識別子: zg\n型: piv\nF(汎用性): 1\nグループ数: 327\n基本形: no\n出典: sidecar_r20_HEAD.tsv:2293",
+      "documentation": "語根: zigofil\n入力: zigofil\n最終形: 草ᶻᴳ\n漢字: 草\n識別子: zg\n型: piv\nF(汎用性): 1\nグループ数: 328\n基本形: no\n出典: sidecar_r21_HEAD.tsv:2298",
       "priority": 0,
       "sourceRoot": "zigofil",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 2293
+      "sourceLine": 2298
     },
     {
       "prefix": "zigot",
       "body": "合子",
       "kanji": "合子",
       "detail": "zigot → 合子 (piv, F=3, 基本形)",
-      "documentation": "語根: zigot\n入力: zigot\n最終形: 合子\n漢字: 合子\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:7237",
+      "documentation": "語根: zigot\n入力: zigot\n最終形: 合子\n漢字: 合子\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:7248",
       "priority": 0,
       "sourceRoot": "zigot",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7237
+      "sourceLine": 7248
     },
     {
       "prefix": "zigzag",
       "body": "折ᶻ",
       "kanji": "折",
       "detail": "zigzag → 折ᶻ (pejvo, F=5)",
-      "documentation": "語根: zigzag\n入力: zigzag\n最終形: 折ᶻ\n漢字: 折\n識別子: z\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: sidecar_r20_HEAD.tsv:3194",
+      "documentation": "語根: zigzag\n入力: zigzag\n最終形: 折ᶻ\n漢字: 折\n識別子: z\n型: pejvo\nF(汎用性): 5\nグループ数: 5\n基本形: no\n出典: sidecar_r21_HEAD.tsv:3202",
       "priority": 0,
       "sourceRoot": "zigzag",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 3194
+      "sourceLine": 3202
     },
     {
       "prefix": "zingibr",
       "body": "姜",
       "kanji": "姜",
       "detail": "zingibr → 姜 (pejvo, F=4, 基本形)",
-      "documentation": "語根: zingibr\n入力: zingibr\n最終形: 姜\n漢字: 姜\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 9\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:6744",
+      "documentation": "語根: zingibr\n入力: zingibr\n最終形: 姜\n漢字: 姜\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 9\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:6754",
       "priority": 0,
       "sourceRoot": "zingibr",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6744
+      "sourceLine": 6754
     },
     {
       "prefix": "zink",
       "body": "锌",
       "kanji": "锌",
       "detail": "zink → 锌 (basic, F=10, 基本形)",
-      "documentation": "語根: zink\n入力: zink\n最終形: 锌\n漢字: 锌\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:5144",
+      "documentation": "語根: zink\n入力: zink\n最終形: 锌\n漢字: 锌\n識別子: なし\n型: basic\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:5154",
       "priority": 0,
       "sourceRoot": "zink",
       "type": "basic",
       "frequency": 10,
       "base": true,
-      "sourceLine": 5144
+      "sourceLine": 5154
     },
     {
       "prefix": "zinkat",
       "body": "锌盐",
       "kanji": "锌盐",
       "detail": "zinkat → 锌盐 (piv, F=1, 基本形)",
-      "documentation": "語根: zinkat\n入力: zinkat\n最終形: 锌盐\n漢字: 锌盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:9815",
+      "documentation": "語根: zinkat\n入力: zinkat\n最終形: 锌盐\n漢字: 锌盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:9826",
       "priority": 0,
       "sourceRoot": "zinkat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9815
+      "sourceLine": 9826
     },
     {
       "prefix": "zip",
       "body": "拉链",
       "kanji": "拉链",
       "detail": "zip → 拉链 (pejvo, F=2, 基本形)",
-      "documentation": "語根: zip\n入力: zip\n最終形: 拉链\n漢字: 拉链\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:8180",
+      "documentation": "語根: zip\n入力: zip\n最終形: 拉链\n漢字: 拉链\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:8191",
       "priority": 0,
       "sourceRoot": "zip",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8180
+      "sourceLine": 8191
     },
     {
       "prefix": "zirkoni",
       "body": "金ᶻ",
       "kanji": "金",
       "detail": "zirkoni → 金ᶻ (pejvo, F=1)",
-      "documentation": "語根: zirkoni\n入力: zirkoni\n最終形: 金ᶻ\n漢字: 金\n識別子: z\n型: pejvo\nF(汎用性): 1\nグループ数: 67\n基本形: no\n出典: sidecar_r20_HEAD.tsv:321",
+      "documentation": "語根: zirkoni\n入力: zirkoni\n最終形: 金ᶻ\n漢字: 金\n識別子: z\n型: pejvo\nF(汎用性): 1\nグループ数: 67\n基本形: no\n出典: sidecar_r21_HEAD.tsv:321",
       "priority": 0,
       "sourceRoot": "zirkoni",
       "type": "pejvo",
@@ -274,195 +274,195 @@
       "body": "枣ᶻ",
       "kanji": "枣",
       "detail": "zizif → 枣ᶻ (pejvo, F=3)",
-      "documentation": "語根: zizif\n入力: zizif\n最終形: 枣ᶻ\n漢字: 枣\n識別子: z\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: sidecar_r20_HEAD.tsv:5326",
+      "documentation": "語根: zizif\n入力: zizif\n最終形: 枣ᶻ\n漢字: 枣\n識別子: z\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: sidecar_r21_HEAD.tsv:5336",
       "priority": 0,
       "sourceRoot": "zizif",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5326
+      "sourceLine": 5336
     },
     {
       "prefix": "zo",
       "body": "兽ᶻ",
       "kanji": "兽",
       "detail": "zo → 兽ᶻ (basic, F=16)",
-      "documentation": "語根: zo\n入力: zo\n最終形: 兽ᶻ\n漢字: 兽\n識別子: z\n型: basic\nF(汎用性): 16\nグループ数: 67\n基本形: no\n出典: sidecar_r20_HEAD.tsv:1400",
+      "documentation": "語根: zo\n入力: zo\n最終形: 兽ᶻ\n漢字: 兽\n識別子: z\n型: basic\nF(汎用性): 16\nグループ数: 69\n基本形: no\n出典: sidecar_r21_HEAD.tsv:1402",
       "priority": 0,
       "sourceRoot": "zo",
       "type": "basic",
       "frequency": 16,
       "base": false,
-      "sourceLine": 1400
+      "sourceLine": 1402
     },
     {
       "prefix": "zoarc",
       "body": "鱼ᶻᴿ",
       "kanji": "鱼",
       "detail": "zoarc → 鱼ᶻᴿ (piv, F=1)",
-      "documentation": "語根: zoarc\n入力: zoarc\n最終形: 鱼ᶻᴿ\n漢字: 鱼\n識別子: zr\n型: piv\nF(汎用性): 1\nグループ数: 93\n基本形: no\n出典: sidecar_r20_HEAD.tsv:1553",
+      "documentation": "語根: zoarc\n入力: zoarc\n最終形: 鱼ᶻᴿ\n漢字: 鱼\n識別子: zr\n型: piv\nF(汎用性): 1\nグループ数: 93\n基本形: no\n出典: sidecar_r21_HEAD.tsv:1557",
       "priority": 0,
       "sourceRoot": "zoarc",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 1553
+      "sourceLine": 1557
     },
     {
       "prefix": "zodiak",
       "body": "黄道",
       "kanji": "黄道",
       "detail": "zodiak → 黄道 (pejvo, F=5, 基本形)",
-      "documentation": "語根: zodiak\n入力: zodiak\n最終形: 黄道\n漢字: 黄道\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:6350",
+      "documentation": "語根: zodiak\n入力: zodiak\n最終形: 黄道\n漢字: 黄道\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:6360",
       "priority": 0,
       "sourceRoot": "zodiak",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6350
+      "sourceLine": 6360
     },
     {
       "prefix": "zom",
       "body": "变焦",
       "kanji": "变焦",
       "detail": "zom → 变焦 (pejvo, F=5, 基本形)",
-      "documentation": "語根: zom\n入力: zom\n最終形: 变焦\n漢字: 变焦\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:6424",
+      "documentation": "語根: zom\n入力: zom\n最終形: 变焦\n漢字: 变焦\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:6434",
       "priority": 0,
       "sourceRoot": "zom",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6424
+      "sourceLine": 6434
     },
     {
       "prefix": "zon",
       "body": "带",
       "kanji": "带",
       "detail": "zon → 带 (basic, F=43, 基本形)",
-      "documentation": "語根: zon\n入力: zon\n最終形: 带\n漢字: 带\n識別子: なし\n型: basic\nF(汎用性): 43\nグループ数: 12\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:3422",
+      "documentation": "語根: zon\n入力: zon\n最終形: 带\n漢字: 带\n識別子: なし\n型: basic\nF(汎用性): 43\nグループ数: 12\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:3430",
       "priority": 0,
       "sourceRoot": "zon",
       "type": "basic",
       "frequency": 43,
       "base": true,
-      "sourceLine": 3422
+      "sourceLine": 3430
     },
     {
       "prefix": "zonul",
       "body": "带ᶻᴸ",
       "kanji": "带",
       "detail": "zonul → 带ᶻᴸ (piv, F=1)",
-      "documentation": "語根: zonul\n入力: zonul\n最終形: 带ᶻᴸ\n漢字: 带\n識別子: zl\n型: piv\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: sidecar_r20_HEAD.tsv:3432",
+      "documentation": "語根: zonul\n入力: zonul\n最終形: 带ᶻᴸ\n漢字: 带\n識別子: zl\n型: piv\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: sidecar_r21_HEAD.tsv:3440",
       "priority": 0,
       "sourceRoot": "zonul",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 3432
+      "sourceLine": 3440
     },
     {
       "prefix": "zoofit",
       "body": "兽植",
       "kanji": "兽植",
       "detail": "zoofit → 兽植 (piv, F=1, 基本形)",
-      "documentation": "語根: zoofit\n入力: zoofit\n最終形: 兽植\n漢字: 兽植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:9816",
+      "documentation": "語根: zoofit\n入力: zoofit\n最終形: 兽植\n漢字: 兽植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:9827",
       "priority": 0,
       "sourceRoot": "zoofit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9816
+      "sourceLine": 9827
     },
     {
       "prefix": "zoogeografi",
       "body": "兽地志",
       "kanji": "兽地志",
       "detail": "zoogeografi → 兽地志 (piv, F=1, 基本形)",
-      "documentation": "語根: zoogeografi\n入力: zoogeografi\n最終形: 兽地志\n漢字: 兽地志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:9817",
+      "documentation": "語根: zoogeografi\n入力: zoogeografi\n最終形: 兽地志\n漢字: 兽地志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:9828",
       "priority": 0,
       "sourceRoot": "zoogeografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9817
+      "sourceLine": 9828
     },
     {
       "prefix": "zoolog",
       "body": "兽学家",
       "kanji": "兽学家",
       "detail": "zoolog → 兽学家 (piv, F=1, 基本形)",
-      "documentation": "語根: zoolog\n入力: zoolog\n最終形: 兽学家\n漢字: 兽学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:9818",
+      "documentation": "語根: zoolog\n入力: zoolog\n最終形: 兽学家\n漢字: 兽学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:9829",
       "priority": 0,
       "sourceRoot": "zoolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9818
+      "sourceLine": 9829
     },
     {
       "prefix": "zoologi",
       "body": "兽ᶻᴸ",
       "kanji": "兽",
       "detail": "zoologi → 兽ᶻᴸ (basic, F=0)",
-      "documentation": "語根: zoologi\n入力: zoologi\n最終形: 兽ᶻᴸ\n漢字: 兽\n識別子: zl\n型: basic\nF(汎用性): 0\nグループ数: 67\n基本形: no\n出典: sidecar_r20_HEAD.tsv:1402",
+      "documentation": "語根: zoologi\n入力: zoologi\n最終形: 兽ᶻᴸ\n漢字: 兽\n識別子: zl\n型: basic\nF(汎用性): 0\nグループ数: 69\n基本形: no\n出典: sidecar_r21_HEAD.tsv:1404",
       "priority": 0,
       "sourceRoot": "zoologi",
       "type": "basic",
       "frequency": 0,
       "base": false,
-      "sourceLine": 1402
+      "sourceLine": 1404
     },
     {
       "prefix": "zoomorf",
       "body": "兽形",
       "kanji": "兽形",
       "detail": "zoomorf → 兽形 (piv, F=1, 基本形)",
-      "documentation": "語根: zoomorf\n入力: zoomorf\n最終形: 兽形\n漢字: 兽形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:9819",
+      "documentation": "語根: zoomorf\n入力: zoomorf\n最終形: 兽形\n漢字: 兽形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:9830",
       "priority": 0,
       "sourceRoot": "zoomorf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9819
+      "sourceLine": 9830
     },
     {
       "prefix": "zorg",
       "body": "护",
       "kanji": "护",
       "detail": "zorg → 护 (basic, F=28, 基本形)",
-      "documentation": "語根: zorg\n入力: zorg\n最終形: 护\n漢字: 护\n識別子: なし\n型: basic\nF(汎用性): 28\nグループ数: 5\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:1762",
+      "documentation": "語根: zorg\n入力: zorg\n最終形: 护\n漢字: 护\n識別子: なし\n型: basic\nF(汎用性): 28\nグループ数: 5\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:1767",
       "priority": 0,
       "sourceRoot": "zorg",
       "type": "basic",
       "frequency": 28,
       "base": true,
-      "sourceLine": 1762
+      "sourceLine": 1767
     },
     {
       "prefix": "zoster",
       "body": "草ᶻˢ",
       "kanji": "草",
       "detail": "zoster → 草ᶻˢ (piv, F=1)",
-      "documentation": "語根: zoster\n入力: zoster\n最終形: 草ᶻˢ\n漢字: 草\n識別子: zs\n型: piv\nF(汎用性): 1\nグループ数: 327\n基本形: no\n出典: sidecar_r20_HEAD.tsv:2409",
+      "documentation": "語根: zoster\n入力: zoster\n最終形: 草ᶻˢ\n漢字: 草\n識別子: zs\n型: piv\nF(汎用性): 1\nグループ数: 328\n基本形: no\n出典: sidecar_r21_HEAD.tsv:2414",
       "priority": 0,
       "sourceRoot": "zoster",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 2409
+      "sourceLine": 2414
     },
     {
       "prefix": "zum",
       "body": "嗡",
       "kanji": "嗡",
       "detail": "zum → 嗡 (basic, F=9, 基本形)",
-      "documentation": "語根: zum\n入力: zum\n最終形: 嗡\n漢字: 嗡\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: sidecar_r20_HEAD.tsv:5145",
+      "documentation": "語根: zum\n入力: zum\n最終形: 嗡\n漢字: 嗡\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: sidecar_r21_HEAD.tsv:5155",
       "priority": 0,
       "sourceRoot": "zum",
       "type": "basic",
       "frequency": 9,
       "base": true,
-      "sourceLine": 5145
+      "sourceLine": 5155
     }
   ]
 }
