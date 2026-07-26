@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 998,
+    "itemCount": 1011,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "s",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -322,6 +322,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 7118
+    },
+    {
+      "prefix": "sakr",
+      "body": "荐ˢ",
+      "kanji": "荐",
+      "detail": "sakr → 荐ˢ (語限定 仙骨: sakr/o, sakr/a)",
+      "documentation": "語根: sakr\n入力: sakr\n最終形: 荐ˢ\n漢字: 荐\n識別子: ˢ\n型: sep(語限定)\n語義: 仙骨\n適用語: sakr/o, sakr/a\n注記: 仙骨。sakr=骂と別\n基本形: no\n出典: homonym-alt.tsv:128",
+      "priority": 1,
+      "sourceRoot": "sakr",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 128
     },
     {
       "prefix": "sakral",
@@ -649,6 +662,19 @@
       "sourceLine": 7119
     },
     {
+      "prefix": "salping",
+      "body": "管ˢ",
+      "kanji": "管",
+      "detail": "salping → 管ˢ (語限定 salpingo(希σάλπιγξ=筒·管): ot/o/salping/o, ot/o/salping/it/o)",
+      "documentation": "語根: salping\n入力: salping\n最終形: 管ˢ\n漢字: 管\n識別子: ˢ\n型: sep(語限定)\n語義: salpingo(希σάλπιγξ=筒·管)\n適用語: ot/o/salping/o, ot/o/salping/it/o\n注記: salpingo(希σάλπιγξ=筒·管)→管。耳管otosalpingo(耳/管=Au^da tubo=Eustachian tube)の文脈のみ。婦人科の卵管salping/o=卵管は基本形維持(word-scoped)。2026-07-15 監査是正: 耳管義と卵管義の真正な同綴異義を当該3見出しだけ分離。管はtub=管群の一員(自動でid付与)\n基本形: no\n出典: homonym-alt.tsv:70",
+      "priority": 1,
+      "sourceRoot": "salping",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 70
+    },
+    {
       "prefix": "salpingit",
       "body": "卵管炎",
       "kanji": "卵管炎",
@@ -660,6 +686,19 @@
       "frequency": 1,
       "base": true,
       "sourceLine": 10323
+    },
+    {
+      "prefix": "salpingit",
+      "body": "管炎",
+      "kanji": "管炎",
+      "detail": "salpingit → 管炎 (語限定 otosalpingito(耳管炎=耳/管炎)の学術版融合形: ot/o/salpingit/o)",
+      "documentation": "語根: salpingit\n入力: salpingit\n最終形: 管炎\n漢字: 管炎\n識別子: なし\n型: sep(語限定)\n語義: otosalpingito(耳管炎=耳/管炎)の学術版融合形\n適用語: ot/o/salpingit/o\n注記: otosalpingito(耳管炎=耳/管炎)の学術版融合形→管炎。一般salpingit/o=卵管炎(婦人科)は基本形維持(word-scoped)。2026-07-15 監査是正\n基本形: no\n出典: homonym-alt.tsv:71",
+      "priority": 1,
+      "sourceRoot": "salpingit",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 71
     },
     {
       "prefix": "salsol",
@@ -1687,6 +1726,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 723
+    },
+    {
+      "prefix": "sed",
+      "body": "草ˢᴱᴰ",
+      "kanji": "草",
+      "detail": "sed → 草ˢᴱᴰ (語限定 Sedum=ベンケイソウ科の観賞植物属: sed/o)",
+      "documentation": "語根: sed\n入力: sed\n最終形: 草ˢᴱᴰ\n漢字: 草\n識別子: ˢᴱᴰ\n型: sep(語限定)\n語義: Sedum=ベンケイソウ科の観賞植物属\n適用語: sed/o\n注記: Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行\n基本形: no\n出典: homonym-alt.tsv:172",
+      "priority": 1,
+      "sourceRoot": "sed",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 172
     },
     {
       "prefix": "sedativ",
@@ -4289,6 +4341,32 @@
       "sourceLine": 5931
     },
     {
+      "prefix": "sin",
+      "body": "共ˢ",
+      "kanji": "共",
+      "detail": "sin → 共ˢ (語限定 syn-(共·同together): sin/kron/a, sin/kron/ec/o 他12語)",
+      "documentation": "語根: sin\n入力: sin\n最終形: 共ˢ\n漢字: 共\n識別子: ˢ\n型: sep(語限定)\n語義: syn-(共·同together)\n適用語: sin/kron/a, sin/kron/ec/o, sin/kron/ig/i, sin/kron/ig/il/o, sin/kron/o/skop/o, post/sin/kron/ig/i, post/sin/kron/ig/o, mal/sin/kron/ig^/i, sin/onim/a, sin/onim/ec/o, sin/onim/o, sin/onim/ik/o, sin/artr/o, sin/ost/o\n注記: syn-(共·同together)→共。胸sin/o(怀)·再帰sin(自)は別エントリで維持。2026-07-18 正本過細分解で露出: sin/artr(synarthrosis癒合関節=共/节)·sin/ost(synostosis骨癒合=共/骨)追加(syn-の偽友sin=怀を是正)\n基本形: no\n出典: homonym-alt.tsv:62",
+      "priority": 1,
+      "sourceRoot": "sin",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 62
+    },
+    {
+      "prefix": "sin",
+      "body": "自ˢ",
+      "kanji": "自",
+      "detail": "sin → 自ˢ (語限定 再帰代名詞sin(si対格=自己oneself): sin/kon/o, sin/asekur/o 他9語)",
+      "documentation": "語根: sin\n入力: sin\n最終形: 自ˢ\n漢字: 自\n識別子: ˢ\n型: sep(語限定)\n語義: 再帰代名詞sin(si対格=自己oneself)\n適用語: sin/kon/o, sin/asekur/o, sin/dev/ig/ad/o, sin/g^en/o, sin/g^en/ad/o, sin/kapt/ad/o, sin/mem/kulp/ig/o, sin/masturb/o, sin/nutr/ad/o, sin/pel/ad/o, sin/venen/ad/o\n注記: 再帰代名詞sin(si対格=自己oneself)→自。syn-(共)·胸sin/o(怀)は別義で維持(disc別記)。sin/mem/kulp/ig=自/自(mem=自と重複もR1衝突歓迎)。両版同11見出し\n基本形: no\n出典: homonym-alt.tsv:63",
+      "priority": 2,
+      "sourceRoot": "sin",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 63
+    },
+    {
       "prefix": "sinap",
       "body": "芥ˢ",
       "kanji": "芥",
@@ -4644,13 +4722,13 @@
       "body": "弦ˢ",
       "kanji": "弦",
       "detail": "sinus → 弦ˢ (同綴異義: 正弦)",
-      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-amb.tsv:42",
+      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-alt.tsv:170",
       "priority": 1,
       "sourceRoot": "sinus",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 42
+      "sourceLine": 170
     },
     {
       "prefix": "sirapt",
@@ -4683,13 +4761,13 @@
       "body": "牛ˢ",
       "kanji": "牛",
       "detail": "siren → 牛ˢ (同綴異義: 海牛)",
-      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-amb.tsv:22",
+      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-alt.tsv:147",
       "priority": 1,
       "sourceRoot": "siren",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 22
+      "sourceLine": 147
     },
     {
       "prefix": "sirfed",
@@ -5483,6 +5561,19 @@
       "frequency": 6,
       "base": false,
       "sourceLine": 2190
+    },
+    {
+      "prefix": "skiz",
+      "body": "裂ˢᶻ",
+      "kanji": "裂",
+      "detail": "skiz → 裂ˢᶻ (語限定 Schizomycetes(裂菌)のskiz: skiz/o/micet/o, skiz/o/micet/oj)",
+      "documentation": "語根: skiz\n入力: skiz\n最終形: 裂ˢᶻ\n漢字: 裂\n識別子: ˢᶻ\n型: sep(語限定)\n語義: Schizomycetes(裂菌)のskiz\n適用語: skiz/o/micet/o, skiz/o/micet/oj\n注記: Schizomycetes(裂菌)のskiz→裂(schizo分裂)。sketch草稿skiz/o=草は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:85",
+      "priority": 1,
+      "sourceRoot": "skiz",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 85
     },
     {
       "prefix": "skizofit",
@@ -6490,13 +6581,39 @@
       "body": "溶",
       "kanji": "溶",
       "detail": "sol → 溶 (同綴異義: ゾル)",
-      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-amb.tsv:21",
+      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-alt.tsv:146",
       "priority": 1,
       "sourceRoot": "sol",
       "type": "amb",
       "frequency": 0,
       "base": false,
+      "sourceLine": 146
+    },
+    {
+      "prefix": "sol",
+      "body": "胶ˢ",
+      "kanji": "胶",
+      "detail": "sol → 胶ˢ (語限定 sol(【化】ゾル=コロイド): aer/o/sol/o)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 胶ˢ\n漢字: 胶\n識別子: ˢ\n型: sep(語限定)\n語義: sol(【化】ゾル=コロイド)\n適用語: aer/o/sol/o\n注記: sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載\n基本形: no\n出典: homonym-alt.tsv:21",
+      "priority": 2,
+      "sourceRoot": "sol",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
       "sourceLine": 21
+    },
+    {
+      "prefix": "sol",
+      "body": "液ˢ",
+      "kanji": "液",
+      "detail": "sol → 液ˢ (語限定 Latin solutio(溶液): cito/sol/o, c^el/sol/o)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 液ˢ\n漢字: 液\n識別子: ˢ\n型: sep(語限定)\n語義: Latin solutio(溶液)\n適用語: cito/sol/o, c^el/sol/o\n注記: Latin solutio(溶液)→液。細胞質液cytosol(cito/sol=胞/液)・ĉelsol。唯一sol/a・独唱sol/o等の sol=唯 は維持(word-scoped)。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:88",
+      "priority": 3,
+      "sourceRoot": "sol",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 88
     },
     {
       "prefix": "solan",
@@ -6902,6 +7019,19 @@
       "sourceLine": 7117
     },
     {
+      "prefix": "sor",
+      "body": "胞ˢ",
+      "kanji": "胞",
+      "detail": "sor → 胞ˢ (語限定 胞子嚢群: sor/o)",
+      "documentation": "語根: sor\n入力: sor\n最終形: 胞ˢ\n漢字: 胞\n識別子: ˢ\n型: sep(語限定)\n語義: 胞子嚢群\n適用語: sor/o\n注記: 胞子嚢群。sor=腾と別\n基本形: no\n出典: homonym-alt.tsv:149",
+      "priority": 1,
+      "sourceRoot": "sor",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 149
+    },
+    {
       "prefix": "sorb",
       "body": "吸ˢᴿ",
       "kanji": "吸",
@@ -7192,13 +7322,13 @@
       "body": "苞ˢ",
       "kanji": "苞",
       "detail": "spat → 苞ˢ (同綴異義: 仏炎)",
-      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-amb.tsv:20",
+      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-alt.tsv:145",
       "priority": 1,
       "sourceRoot": "spat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 20
+      "sourceLine": 145
     },
     {
       "prefix": "spatang",
@@ -7604,6 +7734,19 @@
       "sourceLine": 6169
     },
     {
+      "prefix": "sperm",
+      "body": "种ˢᴿ",
+      "kanji": "种",
+      "detail": "sperm → 种ˢᴿ (語限定 -sperma(種·胚乳): endo/sperm/o, peri/sperm/o 他1語)",
+      "documentation": "語根: sperm\n入力: sperm\n最終形: 种ˢᴿ\n漢字: 种\n識別子: ˢᴿ\n型: sep(語限定)\n語義: -sperma(種·胚乳)\n適用語: endo/sperm/o, peri/sperm/o, angi/o/sperm/oj\n注記: -sperma(種·胚乳)→种。angi/o/sperm/oj(被子植物=覆われた種)もgimnosperm裸子(whole-word)・endo/peri/spermと平行に种(2026-07-04 WSL再分解angiosperm→angi/o/sperm露出で精液=semen誤適用を是正)。精液sperm/o(精液)·sperm/o/dukt等は維持\n基本形: no\n出典: homonym-alt.tsv:102",
+      "priority": 1,
+      "sourceRoot": "sperm",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 102
+    },
+    {
       "prefix": "spermat",
       "body": "精ˢ",
       "kanji": "精",
@@ -7777,13 +7920,13 @@
       "body": "旋ˢᴺ",
       "kanji": "旋",
       "detail": "spin → 旋ˢᴺ (同綴異義: スピン)",
-      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-amb.tsv:18",
+      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-alt.tsv:142",
       "priority": 1,
       "sourceRoot": "spin",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 18
+      "sourceLine": 142
     },
     {
       "prefix": "spinac",
@@ -9597,13 +9740,13 @@
       "body": "粘ˢ",
       "kanji": "粘",
       "detail": "stok → 粘ˢ (同綴異義: ストークス)",
-      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-amb.tsv:15",
+      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-alt.tsv:138",
       "priority": 1,
       "sourceRoot": "stok",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 15
+      "sourceLine": 138
     },
     {
       "prefix": "stokast",
@@ -9890,6 +10033,19 @@
       "frequency": 29,
       "base": true,
       "sourceLine": 1836
+    },
+    {
+      "prefix": "strat",
+      "body": "层ˢᵀ",
+      "kanji": "层",
+      "detail": "strat → 层ˢᵀ (語限定 stratum(地層): kron/o/strat/i/grafi/o, strat/i/graf/o 他2語)",
+      "documentation": "語根: strat\n入力: strat\n最終形: 层ˢᵀ\n漢字: 层\n識別子: ˢᵀ\n型: sep(語限定)\n語義: stratum(地層)\n適用語: kron/o/strat/i/grafi/o, strat/i/graf/o, strat/i/grafi/o, stratum/o\n注記: stratum(地層)→层。街strat=街は別\n基本形: no\n出典: homonym-alt.tsv:44",
+      "priority": 1,
+      "sourceRoot": "strat",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 44
     },
     {
       "prefix": "strategi",
@@ -11424,6 +11580,19 @@
       "frequency": 129,
       "base": true,
       "sourceLine": 92
+    },
+    {
+      "prefix": "sur",
+      "body": "腿ˢ",
+      "kanji": "腿",
+      "detail": "sur → 腿ˢ (語限定 ふくらはぎ: sur/o)",
+      "documentation": "語根: sur\n入力: sur\n最終形: 腿ˢ\n漢字: 腿\n識別子: ˢ\n型: sep(語限定)\n語義: ふくらはぎ\n適用語: sur/o\n注記: ふくらはぎ。前置詞sur=上と別\n基本形: no\n出典: homonym-alt.tsv:120",
+      "priority": 1,
+      "sourceRoot": "sur",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 120
     },
     {
       "prefix": "surd",

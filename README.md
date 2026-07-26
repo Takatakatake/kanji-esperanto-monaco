@@ -25,7 +25,7 @@ kanji-esperanto-monaco/
 
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
-node tools/merge-homonym-amb.mjs ./all.json ./data/homonym-amb.tsv ./all.json
+node tools/merge-homonym-alt.mjs ./all.json ./data/homonym-alt.tsv ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 node tools/check-dictionary-assets.mjs ./all.json ./data
@@ -37,12 +37,16 @@ node tools/check-versions.mjs
 - これら2つのチェックは GitHub Actions（`.github/workflows/pages.yml` の `verify` ジョブ）で push / PR 時に自動実行され、不一致ならデプロイを止めます。
 - `ĉ`, `ĝ`, `ŝ`, `ŭ` と `c^`, `g^`, `s^`, `u^` などは、入力用に `cx`, `gx`, `sx`, `ux` へ正規化します。
 - 同一語根に複数候補がある場合は、`priority` の小さい順に候補表示します。
-- `data/homonym-amb.tsv` は、**同じ綴りで全く別の語**である語根を第2候補として登録する副資料です（`plum` = 羽「羽根」/ 笔ᴾᴸ「ペン」、`mat` = 席「マット」/ 将ᴹ「チェス詰み」など41件）。`_identifier_sidecar.tsv` は1語根1漢字しか持てないため、正典 `_homonym_disp.tsv` の `type=amb` 行だけを抜き出して補います。更新は正典から再抽出します:
+- `data/homonym-alt.tsv` は、**1つの綴りが複数の意味を持ち別々の漢字が当たっている**ケースを第2候補以降として登録する副資料です。`_identifier_sidecar.tsv` は1語根1漢字しか持てないため、正典 `_homonym_disp.tsv` をそのまま複製して補います（更新は正典から再取得するだけ）:
   ```
-  sed '1s/^\xEF\xBB\xBF//' _homonym_disp.tsv | awk -F'\t' 'NR==1 || $2=="amb"' > data/homonym-amb.tsv
+  sed '1s/^\xEF\xBB\xBF//' _homonym_disp.tsv > data/homonym-alt.tsv
   ```
-  `merge-homonym-amb.mjs` がこれを `priority` 1 以降（基本義の後ろ）として `all.json` に合流させ、`check-dictionary-assets.mjs` が全件の取り込みと逆写像の一意性を検証します。**マージ工程を飛ばして再生成すると CI が赤になります**（第2義が黙って消えるのを防ぐため）。
-- `_homonym_disp.tsv` の `sep` / `comb` 行は「特定の語の中でだけ第2義」という語スコープ付きの規則で、入力時点では語が確定しないエディタからは採用していません（語全体を見られる注釈アプリ側の担当）。
+  3種類の行があり、いずれも `merge-homonym-alt.mjs` が `priority` 1 以降（基本義の後ろ）として `all.json` に合流させます。
+  - `amb` — 綴りを共有する**全く別の語**。`plum` = 羽「羽根」/ 笔ᴾᴸ「ペン」、`mat` = 席「マット」/ 将ᴹ「チェス詰み」
+  - `sep` — **特定の語の中でだけ**成り立つ語義。`krom` = 外「〜のほかに」だが `krom/o` などでは 金ᴷᴹ「クロム」
+  - `comb` — 結合形。`-metr-` = 计ᴹ「計器」（`metr` 単独の 米 とは別）
+  `sep`/`comb` は語スコープ付きなので、適用語を `detail`（例: `krom → 金ᴷᴹ (語限定 クロム(金属元素): krom/o, krom/at/o 他1語)`）と `documentation` の `適用語:` 行に明記し、選択は人に委ねます。逆変換は表示形が一意なので常に無損失で、範囲外で選んでも語の選び間違いにしかなりません。
+- 取り込めない行はツールが理由付きで報告してスキップします（**語根が無い**=語中にしか現れない分節、**表示形の重複**=同じ形が複数行に載っている、**別語根の漢字と衝突**=採用すると逆変換が不可逆になる、**既に辞書にある**）。`check-dictionary-assets.mjs` は同じ分類器を読み込んで期待値を再計算し、`all.json` の中身と1件ずつ突き合わせます。**マージ工程を飛ばす・別義が欠ける・説明文や優先順位が食い違う、のいずれも CI が赤になります**。
 - `data/reverse.json` は、漢字ごとの割当語根検索に使う逆引きインデックスです。
 
 ## 大辞書（分割・遅延読込）

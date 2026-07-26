@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 1213,
+    "itemCount": 1225,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "k",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -311,6 +311,19 @@
       "sourceLine": 685
     },
     {
+      "prefix": "kaj",
+      "body": "码ᴷᴶ",
+      "kanji": "码",
+      "detail": "kaj → 码ᴷᴶ (語限定 埠頭: kaj/o, kaj/oj)",
+      "documentation": "語根: kaj\n入力: kaj\n最終形: 码ᴷᴶ\n漢字: 码\n識別子: ᴷᴶ\n型: sep(語限定)\n語義: 埠頭\n適用語: kaj/o, kaj/oj\n注記: 埠頭。接続詞kaj=和と別\n基本形: no\n出典: homonym-alt.tsv:12",
+      "priority": 1,
+      "sourceRoot": "kaj",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 12
+    },
+    {
       "prefix": "kajak",
       "body": "舟ᴷᴶ",
       "kanji": "舟",
@@ -413,6 +426,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 7372
+    },
+    {
+      "prefix": "kak",
+      "body": "劣ᴷ",
+      "kanji": "劣",
+      "detail": "kak → 劣ᴷ (語限定 caco-(κακός悪い): kak/o/grafi/o, kak/o/grafi/a)",
+      "documentation": "語根: kak\n入力: kak\n最終形: 劣ᴷ\n漢字: 劣\n識別子: ᴷ\n型: sep(語限定)\n語義: caco-(κακός悪い)\n適用語: kak/o/grafi/o, kak/o/grafi/a\n注記: caco-(κακός悪い)→劣。悪筆kakografi(劣志=劣った書き方)。屎(feces)はwrong-morpheme。騒音kakofoni=噪は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:83",
+      "priority": 1,
+      "sourceRoot": "kak",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 83
     },
     {
       "prefix": "kakatu",
@@ -1849,13 +1875,13 @@
       "body": "典ᴷᴺ",
       "kanji": "典",
       "detail": "kanon → 典ᴷᴺ (同綴異義: 典)",
-      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-amb.tsv:6",
+      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-alt.tsv:126",
       "priority": 1,
       "sourceRoot": "kanon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 6
+      "sourceLine": 126
     },
     {
       "prefix": "kanonik",
@@ -2898,6 +2924,19 @@
       "sourceLine": 6069
     },
     {
+      "prefix": "kard",
+      "body": "心ᴷᴬ",
+      "kanji": "心",
+      "detail": "kard → 心ᴷᴬ (語限定 cardio-(心): endo/kard/it/o, endo/kard/o 他1語)",
+      "documentation": "語根: kard\n入力: kard\n最終形: 心ᴷᴬ\n漢字: 心\n識別子: ᴷᴬ\n型: sep(語限定)\n語義: cardio-(心)\n適用語: endo/kard/it/o, endo/kard/o, peri/kard/o\n注記: cardio-(心)→心。アザミkard/o(刺草)·梳毛kard/adは維持。kardi/o(-i付)は既に心ᴷᴰ。endo/kard/o=心内膜・peri/kard/o=心膜(WSL同期2026-06-27)\n基本形: no\n出典: homonym-alt.tsv:65",
+      "priority": 1,
+      "sourceRoot": "kard",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 65
+    },
+    {
       "prefix": "kardamin",
       "body": "草ᴷᴬᴿ",
       "kanji": "草",
@@ -3539,13 +3578,13 @@
       "body": "腕ᴷ",
       "kanji": "腕",
       "detail": "karp → 腕ᴷ (同綴異義: 手首)",
-      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-amb.tsv:7",
+      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-alt.tsv:127",
       "priority": 1,
       "sourceRoot": "karp",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 7
+      "sourceLine": 127
     },
     {
       "prefix": "karpel",
@@ -4677,6 +4716,19 @@
       "frequency": 9,
       "base": true,
       "sourceLine": 688
+    },
+    {
+      "prefix": "ke",
+      "body": "鸟ᴷᴱ",
+      "kanji": "鸟",
+      "detail": "ke → 鸟ᴷᴱ (語限定 Nestor notabilis=ケア(NZのオウム,鳥): ke/o)",
+      "documentation": "語根: ke\n入力: ke\n最終形: 鸟ᴷᴱ\n漢字: 鸟\n識別子: ᴷᴱ\n型: sep(語限定)\n語義: Nestor notabilis=ケア(NZのオウム,鳥)\n適用語: ke/o\n注記: Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行\n基本形: no\n出典: homonym-alt.tsv:173",
+      "priority": 1,
+      "sourceRoot": "ke",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 173
     },
     {
       "prefix": "kebab",
@@ -6178,13 +6230,13 @@
       "body": "派ᴷᴸ",
       "kanji": "派",
       "detail": "klik → 派ᴷᴸ (同綴異義: 徒党)",
-      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-amb.tsv:35",
+      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-alt.tsv:163",
       "priority": 1,
       "sourceRoot": "klik",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 35
+      "sourceLine": 163
     },
     {
       "prefix": "klimaks",
@@ -6458,6 +6510,19 @@
       "frequency": 25,
       "base": true,
       "sourceLine": 5988
+    },
+    {
+      "prefix": "klor",
+      "body": "绿ᴷ",
+      "kanji": "绿",
+      "detail": "klor → 绿ᴷ (語限定 chloro-(χλωρός緑): klor/o/fic/o, klor/o/fic/oj 他2語)",
+      "documentation": "語根: klor\n入力: klor\n最終形: 绿ᴷ\n漢字: 绿\n識別子: ᴷ\n型: sep(語限定)\n語義: chloro-(χλωρός緑)\n適用語: klor/o/fic/o, klor/o/fic/oj, klor/o/fit/o, klor/o/fit/oj\n注記: chloro-(χλωρός緑)→绿。緑藻klorofic/klorofit(verdalgoj)。氯(塩素kloroform)はwrong-morpheme。klorofil叶绿と整合。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:82",
+      "priority": 1,
+      "sourceRoot": "klor",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 82
     },
     {
       "prefix": "klorat",
@@ -7303,6 +7368,19 @@
       "frequency": 28,
       "base": true,
       "sourceLine": 2693
+    },
+    {
+      "prefix": "kok",
+      "body": "菌ᴷᴷ",
+      "kanji": "菌",
+      "detail": "kok → 菌ᴷᴷ (語限定 -coccus(球菌): mikro/kok/o, diplo/kok/o 他2語)",
+      "documentation": "語根: kok\n入力: kok\n最終形: 菌ᴷᴷ\n漢字: 菌\n識別子: ᴷᴷ\n型: sep(語限定)\n語義: -coccus(球菌)\n適用語: mikro/kok/o, diplo/kok/o, enter/o/kok/o, mening/o/kok/o\n注記: -coccus(球菌)→菌。鶏kok=鸡は別\n基本形: no\n出典: homonym-alt.tsv:39",
+      "priority": 1,
+      "sourceRoot": "kok",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 39
     },
     {
       "prefix": "koka",
@@ -12661,6 +12739,19 @@
       "sourceLine": 1324
     },
     {
+      "prefix": "krat",
+      "body": "专ᴷ",
+      "kanji": "专",
+      "detail": "krat → 专ᴷ (語限定 autokrat(専制)の-krat-: au^t/o/krat/ism/o, au^t/o/krat/o 他2語)",
+      "documentation": "語根: krat\n入力: krat\n最終形: 专ᴷ\n漢字: 专\n識別子: ᴷ\n型: sep(語限定)\n語義: autokrat(専制)の-krat-\n適用語: au^t/o/krat/ism/o, au^t/o/krat/o, au^t/o/krat/a, au^t/o/krat/ec/o\n注記: autokrat(専制)の-krat-→专。auto=自(自专=自己専断支配)。自治au^tonom(autonomy)との同字別義衝突を是正。teokrat神治/demokrat等unsplit(民)は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:36",
+      "priority": 1,
+      "sourceRoot": "krat",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 36
+    },
+    {
       "prefix": "kratag",
       "body": "木ᴷᴿᴬ",
       "kanji": "木",
@@ -12711,6 +12802,19 @@
       "frequency": 3,
       "base": false,
       "sourceLine": 1327
+    },
+    {
+      "prefix": "krati",
+      "body": "专ᴷᴵ",
+      "kanji": "专",
+      "detail": "krati → 专ᴷᴵ (語限定 autokrati(専制政治)の krati分節: au^t/o/krati/o)",
+      "documentation": "語根: krati\n入力: krati\n最終形: 专ᴷᴵ\n漢字: 专\n識別子: ᴷᴵ\n型: sep(語限定)\n語義: autokrati(専制政治)の krati分節\n適用語: au^t/o/krati/o\n注記: autokrati(専制政治)の krati分節→专。自专治→自专。te/o/krati=神治は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:37",
+      "priority": 1,
+      "sourceRoot": "krati",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 37
     },
     {
       "prefix": "kravat",
@@ -13610,6 +13714,32 @@
       "sourceLine": 86
     },
     {
+      "prefix": "krom",
+      "body": "金ᴷᴹ",
+      "kanji": "金",
+      "detail": "krom → 金ᴷᴹ (語限定 クロム(金属元素): krom/o, krom/at/o 他1語)",
+      "documentation": "語根: krom\n入力: krom\n最終形: 金ᴷᴹ\n漢字: 金\n識別子: ᴷᴹ\n型: sep(語限定)\n語義: クロム(金属元素)\n適用語: krom/o, krom/at/o, krom/at/a\n注記: クロム(金属元素)→金。前置詞krom=外と別。krom/at=クロム酸塩→金/盐\n基本形: no\n出典: homonym-alt.tsv:5",
+      "priority": 1,
+      "sourceRoot": "krom",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 5
+    },
+    {
+      "prefix": "krom",
+      "body": "色ᴷᴹ",
+      "kanji": "色",
+      "detail": "krom → 色ᴷᴹ (語限定 chromo-(色=color): krom/o/fotografi/o, krom/o/litografi/o 他4語)",
+      "documentation": "語根: krom\n入力: krom\n最終形: 色ᴷᴹ\n漢字: 色\n識別子: ᴷᴹ\n型: sep(語限定)\n語義: chromo-(色=color)\n適用語: krom/o/fotografi/o, krom/o/litografi/o, krom/o/sfer/o, krom/o/fot/o/grafi/o, krom/o/lit/o/grafi/o, kvantum/krom/o/dinamik/o\n注記: chromo-(色=color)→色。量子色力学QCD kvantum/krom/o/dinamik(量子/色/o/力=color charge色荷)。chromosphere彩層(太陽)・chromolithography彩色石版・chromophotography彩色写真。金属クロムkrom/o=金・前置詞krom=外と別綴り同根。2026-07-18偽友スイープR2: 正本再分節(fotografi→fot/o/grafi・litografi→lit/o/grafi)で外に化けた天然色写真krom/o/fot/o/grafi・着色石版krom/o/lit/o/grafiを現行綴りで追加\n基本形: no\n出典: homonym-alt.tsv:6",
+      "priority": 2,
+      "sourceRoot": "krom",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 6
+    },
+    {
       "prefix": "kromat",
       "body": "色ᴷᴿ",
       "kanji": "色",
@@ -13660,6 +13790,19 @@
       "frequency": 1,
       "base": false,
       "sourceLine": 304
+    },
+    {
+      "prefix": "kromi",
+      "body": "色ᴷᴵ",
+      "kanji": "色",
+      "detail": "kromi → 色ᴷᴵ (語限定 chroma(希色): homo/kromi/o, fot/o/kromi/o 他3語)",
+      "documentation": "語根: kromi\n入力: kromi\n最終形: 色ᴷᴵ\n漢字: 色\n識別子: ᴷᴵ\n型: sep(語限定)\n語義: chroma(希色)\n適用語: homo/kromi/o, fot/o/kromi/o, poli/kromi/a, poli/kromi/o, tri/kromi/o\n注記: chroma(希色)→色。保護色homochromy(homo/kromi=同/色)・天然色写真術fotokromi(fot/o/kromi=拍/色)。多色polychromy(poli/kromi=多/色)・三色trichromy(tri/kromi=三/色)。金属クロムkromi/o=金・クロム酸塩kromiat等の化学は金維持(word-scoped)。krom→色と同源。2026-07-18 偽友スイープR3。2026-07-21 正本ドリフト polikromi→poli/kromi・trikromi→tri/kromi 露出で追加=多/金・三/金の誤描画を是正(第27回)\n基本形: no\n出典: homonym-alt.tsv:90",
+      "priority": 1,
+      "sourceRoot": "kromi",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 90
     },
     {
       "prefix": "kromiflav",
@@ -13770,13 +13913,26 @@
       "body": "币ᴷ",
       "kanji": "币",
       "detail": "kron → 币ᴷ (同綴異義: クローネ)",
-      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-amb.tsv:11",
+      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-alt.tsv:132",
       "priority": 1,
       "sourceRoot": "kron",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 11
+      "sourceLine": 132
+    },
+    {
+      "prefix": "kron",
+      "body": "时ᴷ",
+      "kanji": "时",
+      "detail": "kron → 时ᴷ (語限定 chrono-(時): izo/kron/a, izo/kron/ec/o 他22語)",
+      "documentation": "語根: kron\n入力: kron\n最終形: 时ᴷ\n漢字: 时\n識別子: ᴷ\n型: sep(語限定)\n語義: chrono-(時)\n適用語: izo/kron/a, izo/kron/ec/o, kron/o/graf/i, kron/o/graf/o, kron/o/logi/a, kron/o/logi/o, kron/o/metr/i, kron/o/metri/o, kron/o/metr/o, kron/o/metri/a, kron/o/metr/ist/o, kron/o/strat/i/grafi/o, sin/kron/a, sin/kron/ec/o, sin/kron/ig/i, sin/kron/ig/il/o, sin/kron/o/skop/o, post/sin/kron/ig/i, post/sin/kron/ig/o, mal/sin/kron/ig^/i, dia/kron/a, dendro/kron/o/log/o, dendro/kron/o/logi/o, geo/kron/o/logi/o\n注記: chrono-(時)→时。王冠kron/o(冠)·戴冠kron/ad·冠状ウイルス·皇太子·コロナ放電kron/efluv·dethrone sen/kron/igは冠維持·クローネ通貨は币\n基本形: no\n出典: homonym-alt.tsv:61",
+      "priority": 2,
+      "sourceRoot": "kron",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 61
     },
     {
       "prefix": "kronik",
@@ -15005,13 +15161,13 @@
       "body": "居ᴷ",
       "kanji": "居",
       "detail": "kuri → 居ᴷ (同綴異義: キュリー)",
-      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-amb.tsv:16",
+      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-alt.tsv:139",
       "priority": 1,
       "sourceRoot": "kuri",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 16
+      "sourceLine": 139
     },
     {
       "prefix": "kurier",

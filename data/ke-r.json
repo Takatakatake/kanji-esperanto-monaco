@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 387,
+    "itemCount": 390,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "r",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -2391,6 +2391,19 @@
       "sourceLine": 5326
     },
     {
+      "prefix": "ren",
+      "body": "再ᴿᴺ",
+      "kanji": "再",
+      "detail": "ren → 再ᴿᴺ (語限定 古語接頭ren(=re再び·reniri帰る): ren/ir/i)",
+      "documentation": "語根: ren\n入力: ren\n最終形: 再ᴿᴺ\n漢字: 再\n識別子: ᴿᴺ\n型: sep(語限定)\n語義: 古語接頭ren(=re再び·reniri帰る)\n適用語: ren/ir/i\n注記: 古語接頭ren(=re再び·reniri帰る)→再。腎臓ren/o(肾)は維持(disc不掲載)\n基本形: no\n出典: homonym-alt.tsv:51",
+      "priority": 1,
+      "sourceRoot": "ren",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 51
+    },
+    {
       "prefix": "rendevu",
       "body": "约ᴿ",
       "kanji": "约",
@@ -3392,6 +3405,19 @@
       "sourceLine": 5918
     },
     {
+      "prefix": "rib",
+      "body": "核ᴿ",
+      "kanji": "核",
+      "detail": "rib → 核ᴿ (語限定 rib(化学 ribo- = PIV の ribo II): rib/oz/o, de/oksi/rib/oz/o 他7語)",
+      "documentation": "語根: rib\n入力: rib\n最終形: 核ᴿ\n漢字: 核\n識別子: ᴿ\n型: sep(語限定)\n語義: rib(化学 ribo- = PIV の ribo II)\n適用語: rib/oz/o, de/oksi/rib/oz/o, rib/o/flav/in/o, rib/o/flavin/o, rib/o/enzim/o, rib/o/som/o, rib/o/som/a, plur/rib/o/som/o, poli/rib/o/som/o\n注記: rib(化学 ribo- = PIV の ribo II)→核: 核糖/脱氧核糖/核黄素/核酶 と中国語標準名に一致。果実 Ribes(醋栗)は同綴別語で disc外維持\n基本形: no\n出典: homonym-alt.tsv:78",
+      "priority": 1,
+      "sourceRoot": "rib",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 78
+    },
+    {
       "prefix": "ribel",
       "body": "叛",
       "kanji": "叛",
@@ -4042,6 +4068,19 @@
       "sourceLine": 3472
     },
     {
+      "prefix": "riz",
+      "body": "根ᴿᶻ",
+      "kanji": "根",
+      "detail": "riz → 根ᴿᶻ (語限定 rhizo-(根): riz/o/morf/o, riz/o/pod/oj)",
+      "documentation": "語根: riz\n入力: riz\n最終形: 根ᴿᶻ\n漢字: 根\n識別子: ᴿᶻ\n型: sep(語限定)\n語義: rhizo-(根)\n適用語: riz/o/morf/o, riz/o/pod/oj\n注記: rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎\n基本形: no\n出典: homonym-alt.tsv:74",
+      "priority": 1,
+      "sourceRoot": "riz",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 74
+    },
+    {
       "prefix": "rizofor",
       "body": "红树ᴿ",
       "kanji": "红树",
@@ -4202,13 +4241,13 @@
       "body": "泊",
       "kanji": "泊",
       "detail": "rod → 泊 (同綴異義: 停泊)",
-      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-amb.tsv:25",
+      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-alt.tsv:151",
       "priority": 1,
       "sourceRoot": "rod",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 25
+      "sourceLine": 151
     },
     {
       "prefix": "rodi",

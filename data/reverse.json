@@ -1,8 +1,8 @@
 {
   "meta": {
     "sourceName": "all.json",
-    "itemCount": 10436,
-    "dictionaryItemCount": 10436
+    "itemCount": 10561,
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -934,6 +934,38 @@
       "sourceLine": 2978
     },
     {
+      "body": "专ᴷ",
+      "kanji": "专",
+      "root": "krat",
+      "prefixes": [
+        "krat"
+      ],
+      "insertText": "krat",
+      "detail": "krat → 专ᴷ (語限定 autokrat(専制)の-krat-: au^t/o/krat/ism/o, au^t/o/krat/o 他2語)",
+      "documentation": "語根: krat\n入力: krat\n最終形: 专ᴷ\n漢字: 专\n識別子: ᴷ\n型: sep(語限定)\n語義: autokrat(専制)の-krat-\n適用語: au^t/o/krat/ism/o, au^t/o/krat/o, au^t/o/krat/a, au^t/o/krat/ec/o\n注記: autokrat(専制)の-krat-→专。auto=自(自专=自己専断支配)。自治au^tonom(autonomy)との同字別義衝突を是正。teokrat神治/demokrat等unsplit(民)は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:36",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 36
+    },
+    {
+      "body": "专ᴷᴵ",
+      "kanji": "专",
+      "root": "krati",
+      "prefixes": [
+        "krati"
+      ],
+      "insertText": "krati",
+      "detail": "krati → 专ᴷᴵ (語限定 autokrati(専制政治)の krati分節: au^t/o/krati/o)",
+      "documentation": "語根: krati\n入力: krati\n最終形: 专ᴷᴵ\n漢字: 专\n識別子: ᴷᴵ\n型: sep(語限定)\n語義: autokrati(専制政治)の krati分節\n適用語: au^t/o/krati/o\n注記: autokrati(専制政治)の krati分節→专。自专治→自专。te/o/krati=神治は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:37",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 37
+    },
+    {
       "body": "专制",
       "kanji": "专制",
       "root": "despot",
@@ -1822,12 +1854,12 @@
       ],
       "insertText": "orkid",
       "detail": "orkid → 丸ᴼ (同綴異義: 睾丸)",
-      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-amb.tsv:19",
+      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-alt.tsv:144",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 19
+      "sourceLine": 144
     },
     {
       "body": "丸ᵀ",
@@ -3062,6 +3094,38 @@
       "sourceLine": 148
     },
     {
+      "body": "二ᴮ",
+      "kanji": "二",
+      "root": "bi",
+      "prefixes": [
+        "bi"
+      ],
+      "insertText": "bi",
+      "detail": "bi → 二ᴮ (語限定 bi-(two=二): bi/, bi/dent/o 他33語)",
+      "documentation": "語根: bi\n入力: bi\n最終形: 二ᴮ\n漢字: 二\n識別子: ᴮ\n型: sep(語限定)\n語義: bi-(two=二)\n適用語: bi/, bi/dent/o, bi/labial/o, bi/dual/o, bi/gami/o, bi/gami/ul/o, bi/lion/o, bi/holo/morf/a, bi/holo/morfi/o, bi/jekci/a, bi/jekci/o, bi/karbon/at/o, bi/kromiat/o, bi/metal/a, bi/metal/ism/o, bi/sulf/at/o, bi/sulf/it/o, meta/bi/sulf/it/o, poli/klor/bi/fenil/o, bi/kromi/at/o, bi/holomorf/a, bi/holomorfi/o, bi/sulfat/o, bi/sulfit/o, meta/bi/sulfit/o, bi/konkav/a, bi/konveks/a, bi/plan/o, bi/fac/o, bi/faden/a, bi/fen/il/o, bi/fenil/o, poli/klor/bi/fen/il/o, bi/sak/o, bi/sekc/i\n注記: bi-(two=二)→二。学術版粗分解 bi/holomorf(双正則)・bi/sulfat(重硫酸塩)・bi/sulfit(重亜硫酸塩)・meta/bi/sulfit も二(2026-06-23 sep派生形網羅。bio生はdisc不掲載で維持)。biot生(bi/ont/o/logi=生物学)はdisc不掲載で生維持。重婚bi/gami・重曹bi/karbon/at・双射bi/jekci・双金属bi/metal・重铬酸bi/kromiat・メタ重亜硫酸meta/bi/sulf/it・PCB poli/klor/bi/fenil 等。di-(二)と平行。十億 bi/lion/o=二/lion(乗数bi-=2。tri/lion=三/lion と平行。bio bi/ont=生 とは別の数詞bi。2026-06-29 WSL bilion→bi/lion 露出で sep列挙に追加=生ᴮᴵ誤適用を是正。2026-07-04 bilabial→bi/labial露出で bi/labial/o(両唇音=two-lipped)追加=生ᴮᴵ誤適用是正。aer/o/bi(好気=bio)・bi/ont(biont生)等は生のまま維持。2026-07-18偽友スイープR2: 両凹bi/konkav・両凸bi/konveks・複葉機bi/plan・両面石器bi/fac・二本糸bi/faden・ビフェニルbi/fen/il・二嚢bi/sak・二等分bi/sekc(Latin bi-two=二。生ᴮᴵ=bioの誤友是正))\n基本形: no\n出典: homonym-alt.tsv:114",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 114
+    },
+    {
+      "body": "二ᴰᴵ",
+      "kanji": "二",
+      "root": "di",
+      "prefixes": [
+        "di"
+      ],
+      "insertText": "di",
+      "detail": "di → 二ᴰᴵ (語限定 数詞di-(2): di/, di/morf/a 他30語)",
+      "documentation": "語根: di\n入力: di\n最終形: 二ᴰᴵ\n漢字: 二\n識別子: ᴰᴵ\n型: sep(語限定)\n語義: 数詞di-(2)\n適用語: di/, di/morf/a, di/morf/ec/o, di/morf/ism/o, di/ploid/a, di/pod/o, di/pod/ed/oj, di/gram/o, di/kotiledon/oj, di/al/o, di/azot/o, di/azot/i, di/azot/at/o, di/metoksi/fenol/o, di/kromiat/o, di/mer/o, di/sakarid/o, di/tionat/o, di/sulf/id/o, di/oksid/o, di/klor/id/o, di/pter/oj, di/valent/a, karbon/di/oksid/o, sulfur/di/oksid/o, di/ol/o, di/ol/oj, di/kromi/at/o, di/sakar/id/o, di/som/a, di/met/oksi/fenol/o, di/odont/o\n注記: 数詞di-(2)→二。di/kromi/at重クロム酸塩・di/sakar/id二糖(WSL過細分解 Xat→X/at・Xid→X/id 同期)。di/odont(Diodon二歯魚=二/齿。2026-07-18 分類名分解パスで露出・di/pter双翅と同型)。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化。2026-07-03 WSL再分解でdisom→di/som(二体)・dimetoksi→di/met/oksi(二…)露出→di/som/a・di/met/oksi/fenol/o 追加\n基本形: no\n出典: homonym-alt.tsv:53",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 53
+    },
+    {
       "body": "二价",
       "kanji": "二价",
       "root": "divalent",
@@ -3718,6 +3782,22 @@
       "sourceLine": 154
     },
     {
+      "body": "五ᴾᴱ",
+      "kanji": "五",
+      "root": "pent",
+      "prefixes": [
+        "pent"
+      ],
+      "insertText": "pent",
+      "detail": "pent → 五ᴾᴱ (語限定 化学接頭pent-(5炭素鎖): pent/ozan/o)",
+      "documentation": "語根: pent\n入力: pent\n最終形: 五ᴾᴱ\n漢字: 五\n識別子: ᴾᴱ\n型: sep(語限定)\n語義: 化学接頭pent-(5炭素鎖)\n適用語: pent/ozan/o\n注記: 化学接頭pent-(5炭素鎖)→五。pent/ozan=ペントザン(ペントース多糖)。後悔penti=悔・縮小辞-et-とは別morpheme(disc不掲載で悔維持)。penta=五ᴾ/heks=六ᴴと平行。ozanは不透明でlatin維持\n基本形: no\n出典: homonym-alt.tsv:11",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 11
+    },
+    {
       "body": "五图",
       "kanji": "五图",
       "root": "pentagram",
@@ -4318,12 +4398,12 @@
       ],
       "insertText": "ar",
       "detail": "ar → 亩 (同綴異義: アール)",
-      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-amb.tsv:13",
+      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-alt.tsv:136",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 13
+      "sourceLine": 136
     },
     {
       "body": "享",
@@ -6790,6 +6870,22 @@
       "sourceLine": 9908
     },
     {
+      "body": "伯",
+      "kanji": "伯",
+      "root": "graf",
+      "prefixes": [
+        "graf"
+      ],
+      "insertText": "graf",
+      "detail": "graf → 伯 (語限定 伯爵(count/earl): graf/o, graf/in/o 他9語)",
+      "documentation": "語根: graf\n入力: graf\n最終形: 伯\n漢字: 伯\n識別子: なし\n型: sep(語限定)\n語義: 伯爵(count/earl)\n適用語: graf/o, graf/in/o, graf/land/o, graf/a, graf/ej/o, graf/ec/o, graf/uj/o, land/graf/o, vic/graf/o, burg/o/graf/o, kastel/graf/o\n注記: 伯爵(count/earl)→伯。-graf-(graphy記録)=记と別。爵位複合も伯: graf/ej/o領地・graf/ec/o伯爵位・graf/uj/o伯爵領・land/graf/o方伯(landgrave)・vic/graf/o子爵(viscount)・burg/o/graf/o,kastel/graf/o城伯(burgrave)(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:2",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 2
+    },
+    {
       "body": "估",
       "kanji": "估",
       "root": "stim",
@@ -6990,12 +7086,12 @@
       ],
       "insertText": "peon",
       "detail": "peon → 佃 (同綴異義: 隷農)",
-      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-amb.tsv:34",
+      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-alt.tsv:161",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 34
+      "sourceLine": 161
     },
     {
       "body": "但",
@@ -10294,6 +10390,22 @@
       "sourceLine": 1247
     },
     {
+      "body": "光ᶠ",
+      "kanji": "光",
+      "root": "fot",
+      "prefixes": [
+        "fot"
+      ],
+      "insertText": "fot",
+      "detail": "fot → 光ᶠ (語限定 photo-(光): fot/on/o, fot/o/sfer/o 他15語)",
+      "documentation": "語根: fot\n入力: fot\n最終形: 光ᶠ\n漢字: 光\n識別子: ᶠ\n型: sep(語限定)\n語義: photo-(光)\n適用語: fot/on/o, fot/o/sfer/o, fot/o/sintez/o, fot/o/c^el/o, fot/o/kemi/o, fot/o/kemi/a, fot/o/metri/o, fot/o/metr/o, flagr/o/fot/o/metr/o, fot/o/metri/i, fot/o/jon/ig/i, fot/o/kondukt/iv/a, fot/o/liz/i, fot/o/terapi/o, fot/o/volta/a, fot/on/mikro/skop/o, fot/o/trop/ism/o\n注記: photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持。2026-07-07 正本波でfoto/trop/ism→fot/o/trop/ism露出→fot/o/trop/ism/o追加(Lumtropismo=光屈性ゆえ光。拍=写真は誤友)。複合語内の光物理/光化学派生も光へ網羅(2026-06-25 接尾辞悉皆監査の派生メモから: fot/o/kemi/a光化学[スモッグ/酸化剤句もカバー]・fot/o/jon/ig光電離・fot/o/kondukt/iv光伝導・fot/o/liz光解・fot/o/terapi光線療法・fot/o/volta光起電・fot/on/mikro/skop光子顕微鏡。hsep whole-word盲点の補完=al/翼と同型)\n基本形: no\n出典: homonym-alt.tsv:68",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 68
+    },
+    {
       "body": "光化学",
       "kanji": "光化学",
       "root": "fotokemi",
@@ -10756,6 +10868,22 @@
       "base": true,
       "type": "correl",
       "sourceLine": 20
+    },
+    {
+      "body": "全ᴾ",
+      "kanji": "全",
+      "root": "pan",
+      "prefixes": [
+        "pan"
+      ],
+      "insertText": "pan",
+      "detail": "pan → 全ᴾ (語限定 pan-(汎·全all): pan/kromat/a, pan/te/ism/o 他3語)",
+      "documentation": "語根: pan\n入力: pan\n最終形: 全ᴾ\n漢字: 全\n識別子: ᴾ\n型: sep(語限定)\n語義: pan-(汎·全all)\n適用語: pan/kromat/a, pan/te/ism/o, pan/te/ist/o, pan/te/ism/a, pan/slav/ism/o\n注記: pan-(汎·全all)→全。パンpan/o(面包)·pan/ej/pan/um/pan/tranc^等は維持\n基本形: no\n出典: homonym-alt.tsv:60",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 60
     },
     {
       "body": "全u",
@@ -11718,6 +11846,22 @@
       "sourceLine": 100
     },
     {
+      "body": "共ˢ",
+      "kanji": "共",
+      "root": "sin",
+      "prefixes": [
+        "sin"
+      ],
+      "insertText": "sin",
+      "detail": "sin → 共ˢ (語限定 syn-(共·同together): sin/kron/a, sin/kron/ec/o 他12語)",
+      "documentation": "語根: sin\n入力: sin\n最終形: 共ˢ\n漢字: 共\n識別子: ˢ\n型: sep(語限定)\n語義: syn-(共·同together)\n適用語: sin/kron/a, sin/kron/ec/o, sin/kron/ig/i, sin/kron/ig/il/o, sin/kron/o/skop/o, post/sin/kron/ig/i, post/sin/kron/ig/o, mal/sin/kron/ig^/i, sin/onim/a, sin/onim/ec/o, sin/onim/o, sin/onim/ik/o, sin/artr/o, sin/ost/o\n注記: syn-(共·同together)→共。胸sin/o(怀)·再帰sin(自)は別エントリで維持。2026-07-18 正本過細分解で露出: sin/artr(synarthrosis癒合関節=共/节)·sin/ost(synostosis骨癒合=共/骨)追加(syn-の偽友sin=怀を是正)\n基本形: no\n出典: homonym-alt.tsv:62",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 62
+    },
+    {
       "body": "共名",
       "kanji": "共名",
       "root": "sinonim",
@@ -12046,12 +12190,12 @@
       ],
       "insertText": "kanon",
       "detail": "kanon → 典ᴷᴺ (同綴異義: 典)",
-      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-amb.tsv:6",
+      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-alt.tsv:126",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 6
+      "sourceLine": 126
     },
     {
       "body": "养",
@@ -13574,6 +13718,22 @@
       "sourceLine": 114
     },
     {
+      "body": "内ⱽ",
+      "kanji": "内",
+      "root": "var",
+      "prefixes": [
+        "var"
+      ],
+      "insertText": "var",
+      "detail": "var → 内ⱽ (語限定 内反varus: var/a)",
+      "documentation": "語根: var\n入力: var\n最終形: 内ⱽ\n漢字: 内\n識別子: ⱽ\n型: sep(語限定)\n語義: 内反varus\n適用語: var/a\n注記: 内反varus。var=货と別\n基本形: no\n出典: homonym-alt.tsv:143",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 143
+    },
+    {
       "body": "内分泌",
       "kanji": "内分泌",
       "root": "endokrin",
@@ -13988,6 +14148,22 @@
       "base": false,
       "type": "func",
       "sourceLine": 273
+    },
+    {
+      "body": "再ᴿᴺ",
+      "kanji": "再",
+      "root": "ren",
+      "prefixes": [
+        "ren"
+      ],
+      "insertText": "ren",
+      "detail": "ren → 再ᴿᴺ (語限定 古語接頭ren(=re再び·reniri帰る): ren/ir/i)",
+      "documentation": "語根: ren\n入力: ren\n最終形: 再ᴿᴺ\n漢字: 再\n識別子: ᴿᴺ\n型: sep(語限定)\n語義: 古語接頭ren(=re再び·reniri帰る)\n適用語: ren/ir/i\n注記: 古語接頭ren(=re再び·reniri帰る)→再。腎臓ren/o(肾)は維持(disc不掲載)\n基本形: no\n出典: homonym-alt.tsv:51",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 51
     },
     {
       "body": "再名",
@@ -16534,6 +16710,22 @@
       "sourceLine": 2898
     },
     {
+      "body": "划ᴶ",
+      "kanji": "划",
+      "root": "jul",
+      "prefixes": [
+        "jul"
+      ],
+      "insertText": "jul",
+      "detail": "jul → 划ᴶ (語限定 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ: jul/o, jul/ad/i)",
+      "documentation": "語根: jul\n入力: jul\n最終形: 划ᴶ\n漢字: 划\n識別子: ᴶ\n型: sep(語限定)\n語義: 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ\n適用語: jul/o, jul/ad/i\n注記: 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離\n基本形: no\n出典: homonym-alt.tsv:24",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 24
+    },
+    {
       "body": "划ᴾᴳ",
       "kanji": "划",
       "root": "pagaj",
@@ -17350,6 +17542,22 @@
       "sourceLine": 3145
     },
     {
+      "body": "刺ᴬ",
+      "kanji": "刺",
+      "root": "akant",
+      "prefixes": [
+        "akant"
+      ],
+      "insertText": "akant",
+      "detail": "akant → 刺ᴬ (語限定 akanto-(希ἄκανθα=棘·刺): akant/o/cefal/oj, akant/o/pterig/oj)",
+      "documentation": "語根: akant\n入力: akant\n最終形: 刺ᴬ\n漢字: 刺\n識別子: ᴬ\n型: sep(語限定)\n語義: akanto-(希ἄκανθα=棘·刺)\n適用語: akant/o/cefal/oj, akant/o/pterig/oj\n注記: akanto-(希ἄκανθα=棘·刺)→刺。棘頭虫Acanthocephala(akant/o/cefal=刺/头)・棘鰭類Acanthopterygii(akant/o/pterig=刺/翅)の thorn 義のみ。植物アカンサスakant/o(草=Acanthus属は棘葉だが植物として草維持)・トゲザメakantias(鱼)は不変。刺はdorn/pik/spron等と同じ棘グリフ(新字ゼロ)。2026-07-18 偽友スイープ\n基本形: no\n出典: homonym-alt.tsv:75",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 75
+    },
+    {
       "body": "刺ᴰ",
       "kanji": "刺",
       "root": "dorn",
@@ -17732,6 +17940,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 121
+    },
+    {
+      "body": "前ᴾᴼ",
+      "kanji": "前",
+      "root": "pro",
+      "prefixes": [
+        "pro"
+      ],
+      "insertText": "pro",
+      "detail": "pro → 前ᴾᴼ (語限定 ギリシャ接頭pro-(前·fore): pro/log/o, pro/faz/o 他3語)",
+      "documentation": "語根: pro\n入力: pro\n最終形: 前ᴾᴼ\n漢字: 前\n識別子: ᴾᴼ\n型: sep(語限定)\n語義: ギリシャ接頭pro-(前·fore)\n適用語: pro/log/o, pro/faz/o, pro/virus/o, pro/gnat/a, pro/gnat/ec/o\n注記: ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)·prognathous前突顎(pro/gnat⟦前/gnat⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)。2026-07-18 正本過細分解 prognat→pro/gnat 露出→追加(pro→因理由の偽友是正)\n基本形: no\n出典: homonym-alt.tsv:107",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 107
     },
     {
       "body": "前列腺",
@@ -18358,6 +18582,22 @@
       "sourceLine": 3515
     },
     {
+      "body": "力ᴰᴵ",
+      "kanji": "力",
+      "root": "dinam",
+      "prefixes": [
+        "dinam"
+      ],
+      "insertText": "dinam",
+      "detail": "dinam → 力ᴰᴵ (語限定 希dynamis(力·動力)の力義: dinam/ism/o, dinam/o/metr/o 他3語)",
+      "documentation": "語根: dinam\n入力: dinam\n最終形: 力ᴰᴵ\n漢字: 力\n識別子: ᴰᴵ\n型: sep(語限定)\n語義: 希dynamis(力·動力)の力義\n適用語: dinam/ism/o, dinam/o/metr/o, elektr/o/dinam/ism/o, elektr/o/dinam/o/metr/o, izo/dinam/o\n注記: 希dynamis(力·動力)の力義→力。dynamism力動説/dynamometer力計/electrodynamism電気力学/isodynamic等力線。発電機dinam/o(dynamo)=发电は基本形維持(word-scoped)。dinamik=力(別root力学)と整合。2026-07-15ユーザー裁定=发电の力義取りこぼしを是正\n基本形: no\n出典: homonym-alt.tsv:106",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 106
+    },
+    {
       "body": "力主义",
       "kanji": "力主义",
       "root": "dinamism",
@@ -18630,6 +18870,22 @@
       "sourceLine": 157
     },
     {
+      "body": "劣ᴷ",
+      "kanji": "劣",
+      "root": "kak",
+      "prefixes": [
+        "kak"
+      ],
+      "insertText": "kak",
+      "detail": "kak → 劣ᴷ (語限定 caco-(κακός悪い): kak/o/grafi/o, kak/o/grafi/a)",
+      "documentation": "語根: kak\n入力: kak\n最終形: 劣ᴷ\n漢字: 劣\n識別子: ᴷ\n型: sep(語限定)\n語義: caco-(κακός悪い)\n適用語: kak/o/grafi/o, kak/o/grafi/a\n注記: caco-(κακός悪い)→劣。悪筆kakografi(劣志=劣った書き方)。屎(feces)はwrong-morpheme。騒音kakofoni=噪は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:83",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 83
+    },
+    {
       "body": "劣志",
       "kanji": "劣志",
       "root": "kakografi",
@@ -18724,6 +18980,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 884
+    },
+    {
+      "body": "动ᴹᴮ",
+      "kanji": "动",
+      "root": "mobil",
+      "prefixes": [
+        "mobil"
+      ],
+      "insertText": "mobil",
+      "detail": "mobil → 动ᴹᴮ (語限定 mobil(-mobile=可動·自動·移動): au^t/o/mobil/o, au^t/o/mobil/a 他10語)",
+      "documentation": "語根: mobil\n入力: mobil\n最終形: 动ᴹᴮ\n漢字: 动\n識別子: ᴹᴮ\n型: sep(語限定)\n語義: mobil(-mobile=可動·自動·移動)\n適用語: au^t/o/mobil/o, au^t/o/mobil/a, au^t/o/mobil/ism/o, au^t/o/mobil/ist/o, au^t/o/mobil/kompani/o, mobil/iz/i, mobil/iz/ad/o, mobil/iz/o, mal/mobil/iz/i, mal/mobil/iz/ig^/i, mal/mobil/iz/o, lok/o/mobil/o\n注記: mobil(-mobile=可動·自動·移動)→动。aŭtomobil車+動員mobil/iz(復員mal/mobil/iz)+移動式蒸気機関lok/o/mobil。モビール装飾mobil/o(挂饰)はdisc不掲載で挂饰維持。aŭtomat=动と同群\n基本形: no\n出典: homonym-alt.tsv:112",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 112
     },
     {
       "body": "动ᴹᵀ",
@@ -19318,6 +19590,22 @@
       "sourceLine": 5983
     },
     {
+      "body": "化ᴵᴰ",
+      "kanji": "化",
+      "root": "id",
+      "prefixes": [
+        "id"
+      ],
+      "insertText": "id",
+      "detail": "id → 化ᴵᴰ (語限定 化学-id(-ide=二元化合物X化物): brom/id/o, brom/id/paper/o 他27語)",
+      "documentation": "語根: id\n入力: id\n最終形: 化ᴵᴰ\n漢字: 化\n識別子: ᴵᴰ\n型: sep(語限定)\n語義: 化学-id(-ide=二元化合物X化物)\n適用語: brom/id/o, brom/id/paper/o, cian/id/o, klor/id/o, klor/id/a, di/klor/id/o, tri/klor/id/o, metil/klor/id/o, met/il/klor/id/o, vinil/klor/id/o, klor/id/emi/o, hipo/klor/id/emi/o, sen/klor/id/ig^/o, sulf/id/o, di/sulf/id/o, fluor/id/o, fosf/id/o, halogen/id/o, hidr/id/o, hidr/id/i, jod/id/o, karb/id/o, karbon/id/o, karbon/hidr/id/o, nitr/id/o, selen/id/o, silici/id/o, arsen/id/o, ure/id/o\n注記: 化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外。2026-07-18 化物残件を追加: silici/id硅化物·arsen/id砷化物·met/il/klor/id塩化メチル(過細分解 metil→met/il でmetil/klor/idと不一致だった)。2026-07-24 別AI round8: karbon/hidr/id/o(炭化水素hidrokarbono=学習者版過細分解 karbon/h/i/d/r/id/o)追加=学術版karbon/hidrid/o(碳/氢化)と粒度整合・学習者版hidr/id/o(水ᴴ/化ᴵᴰ)と一致(碳/水ᴴ/子→碳/水ᴴ/化ᴵᴰ)\n基本形: no\n出典: homonym-alt.tsv:117",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 117
+    },
+    {
       "body": "化学",
       "kanji": "化学",
       "root": "kemi",
@@ -19428,6 +19716,22 @@
       "base": true,
       "type": "pejvo",
       "sourceLine": 7712
+    },
+    {
+      "body": "匠ᴾ",
+      "kanji": "匠",
+      "root": "prot",
+      "prefixes": [
+        "prot"
+      ],
+      "insertText": "prot",
+      "detail": "prot → 匠ᴾ (語限定 組版長: prot/o)",
+      "documentation": "語根: prot\n入力: prot\n最終形: 匠ᴾ\n漢字: 匠\n識別子: ᴾ\n型: sep(語限定)\n語義: 組版長\n適用語: prot/o\n注記: 組版長。prot=质子と別\n基本形: no\n出典: homonym-alt.tsv:154",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 154
     },
     {
       "body": "区",
@@ -20502,6 +20806,22 @@
       "sourceLine": 1187
     },
     {
+      "body": "单ᴹᴼ",
+      "kanji": "单",
+      "root": "mon",
+      "prefixes": [
+        "mon"
+      ],
+      "insertText": "mon",
+      "detail": "mon → 单ᴹᴼ (語限定 monos(単一): mon/ism/o, mon/ist/o)",
+      "documentation": "語根: mon\n入力: mon\n最終形: 单ᴹᴼ\n漢字: 单\n識別子: ᴹᴼ\n型: sep(語限定)\n語義: monos(単一)\n適用語: mon/ism/o, mon/ist/o\n注記: monos(単一)→单。金銭mon=钱は別\n基本形: no\n出典: homonym-alt.tsv:34",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 34
+    },
+    {
       "body": "单ˢ",
       "kanji": "单",
       "root": "singular",
@@ -21252,6 +21572,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 6842
+    },
+    {
+      "body": "卤ᴬˢ",
+      "kanji": "卤",
+      "root": "astat",
+      "prefixes": [
+        "astat"
+      ],
+      "insertText": "astat",
+      "detail": "astat → 卤ᴬˢ (語限定 -astat-(元素アスタチンAt=halogeno): astat/o)",
+      "documentation": "語根: astat\n入力: astat\n最終形: 卤ᴬˢ\n漢字: 卤\n識別子: ᴬˢ\n型: sep(語限定)\n語義: -astat-(元素アスタチンAt=halogeno)\n適用語: astat/o\n注記: -astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤\n基本形: no\n出典: homonym-alt.tsv:26",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 26
     },
     {
       "body": "卤ᴮ",
@@ -22086,6 +22422,22 @@
       "sourceLine": 1305
     },
     {
+      "body": "压ᴮ",
+      "kanji": "压",
+      "root": "bar",
+      "prefixes": [
+        "bar"
+      ],
+      "insertText": "bar",
+      "detail": "bar → 压ᴮ (語限定 baro-(気圧): izo/bar/o, mili/bar/o 他3語)",
+      "documentation": "語根: bar\n入力: bar\n最終形: 压ᴮ\n漢字: 压\n識別子: ᴮ\n型: sep(語限定)\n語義: baro-(気圧)\n適用語: izo/bar/o, mili/bar/o, bar/o/graf/o, bar/o/metr/o, bar/o/skop/o\n注記: baro-(気圧)→压。障害bar/i/bar/il/o(障)は維持。bar/o単独=障/圧二義はamb的に障維持\n基本形: no\n出典: homonym-alt.tsv:67",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 67
+    },
+    {
       "body": "压ᴷ",
       "kanji": "压",
       "root": "katiz",
@@ -22598,6 +22950,38 @@
       "sourceLine": 264
     },
     {
+      "body": "原ᴬ",
+      "kanji": "原",
+      "root": "arke",
+      "prefixes": [
+        "arke"
+      ],
+      "insertText": "arke",
+      "detail": "arke → 原ᴬ (語限定 archē(希始まり·原型): arke/tip/o)",
+      "documentation": "語根: arke\n入力: arke\n最終形: 原ᴬ\n漢字: 原\n識別子: ᴬ\n型: sep(語限定)\n語義: archē(希始まり·原型)\n適用語: arke/tip/o\n注記: archē(希始まり·原型)→原。原型archetype(arke/tip=原/型)。ノアの箱船arke/o=方舟・考古arkeo/logi=古は別。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:80",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 80
+    },
+    {
+      "body": "原ᴳ",
+      "kanji": "原",
+      "root": "gen",
+      "prefixes": [
+        "gen"
+      ],
+      "insertText": "gen",
+      "detail": "gen → 原ᴳ (語限定 antigen(抗原)の-gen: anti/gen/o)",
+      "documentation": "語根: gen\n入力: gen\n最終形: 原ᴳ\n漢字: 原\n識別子: ᴳ\n型: sep(語限定)\n語義: antigen(抗原)の-gen\n適用語: anti/gen/o\n注記: antigen(抗原)の-gen→原。抗/原=抗原。抗生(=antibiotiko想起)との誤読を是正。‑gen生/genez生成は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:43",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 43
+    },
+    {
       "body": "原ᴼ",
       "kanji": "原",
       "root": "original",
@@ -23062,6 +23446,22 @@
       "sourceLine": 281
     },
     {
+      "body": "双ᴰᴾ",
+      "kanji": "双",
+      "root": "diplo",
+      "prefixes": [
+        "diplo"
+      ],
+      "insertText": "diplo",
+      "detail": "diplo → 双ᴰᴾ (語限定 diplo-(希διπλόος=二重/double): diplo/kok/o, diplo/pod/oj)",
+      "documentation": "語根: diplo\n入力: diplo\n最終形: 双ᴰᴾ\n漢字: 双\n識別子: ᴰᴾ\n型: sep(語限定)\n語義: diplo-(希διπλόος=二重/double)\n適用語: diplo/kok/o, diplo/pod/oj\n注記: diplo-(希διπλόος=二重/double)→双。双球菌diplococcus(diplo/kok=双/菌)・倍足綱Diplopoda(diplo/pod=双/足)。頭蓋の板障diplo/o(diploe=海綿骨層)=板障は単独で維持・diploid二倍/diplomat外交/diplom証書は別語で不干渉。2026-07-19 偽友是正: diplo=double を diploe板障の同綴誤友から是正(polio灰型)\n基本形: no\n出典: homonym-alt.tsv:41",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 41
+    },
+    {
       "body": "双ᴳ̂",
       "kanji": "双",
       "root": "g^emin",
@@ -23172,6 +23572,22 @@
       "base": true,
       "type": "pref",
       "sourceLine": 274
+    },
+    {
+      "body": "反ᴬ",
+      "kanji": "反",
+      "root": "ant",
+      "prefixes": [
+        "ant"
+      ],
+      "insertText": "ant",
+      "detail": "ant → 反ᴬ (語限定 anti-(反対against): ant/onim/o)",
+      "documentation": "語根: ant\n入力: ant\n最終形: 反ᴬ\n漢字: 反\n識別子: ᴬ\n型: sep(語限定)\n語義: anti-(反対against)\n適用語: ant/onim/o\n注記: anti-(反対against)→反。反意語antonym(ant/onim=反/名)の anti のみ。現在分詞-ant-(在。abon/ant等30語以上)は在維持(word-scoped)。反はmal/opon/kontra等と同グリフ(新字ゼロ)。2026-07-18 偽友スイープR2\n基本形: no\n出典: homonym-alt.tsv:4",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 4
     },
     {
       "body": "反ᴵ",
@@ -24228,6 +24644,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 4469
+    },
+    {
+      "body": "古ᴾᴬ",
+      "kanji": "古",
+      "root": "pale",
+      "prefixes": [
+        "pale"
+      ],
+      "insertText": "pale",
+      "detail": "pale → 古ᴾᴬ (語限定 palaios(希古い): pale/o/grafi/o, pale/o/graf/o 他9語)",
+      "documentation": "語根: pale\n入力: pale\n最終形: 古ᴾᴬ\n漢字: 古\n識別子: ᴾᴬ\n型: sep(語限定)\n語義: palaios(希古い)\n適用語: pale/o/grafi/o, pale/o/graf/o, pale/o/botanik/o, pale/o/eko/log/o, pale/o/eko/logi/o, pale/o/grund/o, pale/o/hist/o/logi/o, pale/o/magnet/ism/o, pale/o/ekolog/o, pale/o/ekologi/o, pale/o/histologi/o\n注記: palaios(希古い)→古。古文書paleografi・古生態paleoekologi・古土壌paleogrund・古組織paleohistologi・古地磁気paleomagnetism等のpaleo-接頭辞。イネ科の内頴pale/o=内壳(palea)は維持(word-scoped)。paleo/lit旧石器=古ᴾと整合。2026-07-18 偽友スイープR3/2026-07-19 学術版粗分節pale/o/ekolog·ekologi·histologi追加(学習者版はeko/log等細分節でR3既発火・学術版は粗分節で未発火だった)\n基本形: no\n出典: homonym-alt.tsv:92",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 92
     },
     {
       "body": "古ᴾᴺ",
@@ -25734,6 +26166,38 @@
       "sourceLine": 69
     },
     {
+      "body": "后ᴱ",
+      "kanji": "后",
+      "root": "epi",
+      "prefixes": [
+        "epi"
+      ],
+      "insertText": "epi",
+      "detail": "epi → 后ᴱ (語限定 epi-=後(after): epi/log/o, epi/taf/o 他2語)",
+      "documentation": "語根: epi\n入力: epi\n最終形: 后ᴱ\n漢字: 后\n識別子: ᴱ\n型: sep(語限定)\n語義: epi-=後(after)\n適用語: epi/log/o, epi/taf/o, epi/gon/o, epi/paleo/lit/ik/o\n注記: epi-=後(after)。epi=表(upon上)と別。epi/paleo/lit/ik/o=epipaleolithic(旧石器の後・中石器の前の文化)もepi=后(2026-06-23ユーザー裁定。lit=石は維持)\n基本形: no\n出典: homonym-alt.tsv:3",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 3
+    },
+    {
+      "body": "后ᴹ",
+      "kanji": "后",
+      "root": "met",
+      "prefixes": [
+        "met"
+      ],
+      "insertText": "met",
+      "detail": "met → 后ᴹ (語限定 met-(希 meta-=後方): met/encefal/o)",
+      "documentation": "語根: met\n入力: met\n最終形: 后ᴹ\n漢字: 后\n識別子: ᴹ\n型: sep(語限定)\n語義: met-(希 meta-=後方)\n適用語: met/encefal/o\n注記: met-(希 meta-=後方)→后: metencefal/o 後脳。動詞 meti=置・系統化学 met=甲 は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:79",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 79
+    },
+    {
       "body": "后勤",
       "kanji": "后勤",
       "root": "log^istik",
@@ -25940,6 +26404,22 @@
       "base": true,
       "type": "prep",
       "sourceLine": 63
+    },
+    {
+      "body": "向ᵀ",
+      "kanji": "向",
+      "root": "trop",
+      "prefixes": [
+        "trop"
+      ],
+      "insertText": "trop",
+      "detail": "trop → 向ᵀ (語限定 -tropos(向·屈性): helio/trop/o, helio/trop/kolor/a 他19語)",
+      "documentation": "語根: trop\n入力: trop\n最終形: 向ᵀ\n漢字: 向\n識別子: ᵀ\n型: sep(語限定)\n語義: -tropos(向·屈性)\n適用語: helio/trop/o, helio/trop/kolor/a, helio/trop/ism/o, izo/trop/a, izo/trop/ec/o, ne/izo/trop/a, ne/izo/trop/ec/o, an/izo/trop/a, trop/ism/o, cito/trop/a, enantio/trop/a, enantio/trop/ec/o, enantio/trop/ism/o, fot/o/trop/ism/o, geo/trop/ism/o, kortik/o/trop/a, neu^r/o/trop/a, tikso/trop/a, tikso/trop/ec/o, tiro/trop/a, -trop/\n注記: -tropos(向·屈性)→向。修辞trop/o(喻)は維持。tropik热带/antrop人は別セグメント。2026-07-07 正本波で foto/trop/ism→fot/o/trop/ism・kortiko/trop→kortik/o/trop に-o境界正規化されたため語形更新(被覆漏れ是正=喻に化けるのを防ぐ)。2026-07-24 別AI round6被覆漏れ是正: tiro/trop/a(甲状腺刺激thyrotropic=甲状腺への向性)+接尾定義見出し -trop/(=havanta afinecon「向性」・-gram/と同型のハイフン分岐hsep適用)を追加=喻(修辞)に化けるのを防ぐ。既存向ᵀ使用で字種増やさず\n基本形: no\n出典: homonym-alt.tsv:64",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 64
     },
     {
       "body": "向主义",
@@ -26164,6 +26644,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 4319
+    },
+    {
+      "body": "吞ᶠᴳ",
+      "kanji": "吞",
+      "root": "fag",
+      "prefixes": [
+        "fag"
+      ],
+      "insertText": "fag",
+      "detail": "fag → 吞ᶠᴳ (語限定 -phago-/-phage(貪食): bakteri/o/fag/o, fag/o/cit/ad/o 他6語)",
+      "documentation": "語根: fag\n入力: fag\n最終形: 吞ᶠᴳ\n漢字: 吞\n識別子: ᶠᴳ\n型: sep(語限定)\n語義: -phago-/-phage(貪食)\n適用語: bakteri/o/fag/o, fag/o/cit/ad/o, fag/o/cit/i, fag/o/cit/o, fag/o/cit/oz/o, antrop/o/fag/o, antrop/o/fag/ism/o, makr/o/fag/o\n注記: -phago-/-phage(貪食)→吞。ブナfag/o(树)はfag/o,fag/ar/o,fag/ej/o,fag/o/frukt/o,fag/o/nuks/o,fag/ac/oj,sang/o/fag/o(赤葉ブナ),s^ajn/fag/o(ナンキョクブナ)で維持。ezofag(食道)/fagopir(蕎麦)/fagot(ファゴット)は別セグメントで無影響\n基本形: no\n出典: homonym-alt.tsv:46",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 46
     },
     {
       "body": "吞ᴵ",
@@ -26852,6 +27348,22 @@
       "base": true,
       "type": "suf",
       "sourceLine": 158
+    },
+    {
+      "body": "员ᴬᵀ",
+      "kanji": "员",
+      "root": "ator",
+      "prefixes": [
+        "ator"
+      ],
+      "insertText": "ator",
+      "detail": "ator → 员ᴬᵀ (語限定 -ator人物義: administr/ator/o, spekt/ator/o 他2語)",
+      "documentation": "語根: ator\n入力: ator\n最終形: 员ᴬᵀ\n漢字: 员\n識別子: ᴬᵀ\n型: sep(語限定)\n語義: -ator人物義\n適用語: administr/ator/o, spekt/ator/o, uzurp/ator/o, prestidigit/ator/o\n注記: -ator人物義→员。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)\n基本形: no\n出典: homonym-alt.tsv:25",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 25
     },
     {
       "body": "员ᴷ",
@@ -27694,12 +28206,12 @@
       ],
       "insertText": "fon",
       "detail": "fon → 响ᶠ (同綴異義: ホン)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-amb.tsv:17",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:140",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 17
+      "sourceLine": 140
     },
     {
       "body": "响ᴷ",
@@ -29174,6 +29686,22 @@
       "sourceLine": 5977
     },
     {
+      "body": "囊ᶜ",
+      "kanji": "囊",
+      "root": "cist",
+      "prefixes": [
+        "cist"
+      ],
+      "insertText": "cist",
+      "detail": "cist → 囊ᶜ (語限定 kystis(希嚢·袋): kole/cist/o, kole/cist/a 他1語)",
+      "documentation": "語根: cist\n入力: cist\n最終形: 囊ᶜ\n漢字: 囊\n識別子: ᶜ\n型: sep(語限定)\n語義: kystis(希嚢·袋)\n適用語: kole/cist/o, kole/cist/a, kole/cist/it/o\n注記: kystis(希嚢·袋)→囊。胆嚢cholecyst(kole/cist=胆/囊)・胆嚢炎kolecistit。ハンニチバナ属Cistus cist/o=草は維持(word-scoped)。膀胱kist/o=囊肿と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:91",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 91
+    },
+    {
       "body": "囊ᶠ",
       "kanji": "囊",
       "root": "folikl",
@@ -29380,6 +29908,38 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 134
+    },
+    {
+      "body": "四ᵀ",
+      "kanji": "四",
+      "root": "tetr",
+      "prefixes": [
+        "tetr"
+      ],
+      "insertText": "tetr",
+      "detail": "tetr → 四ᵀ (語限定 tetra-接頭辞: tetr/)",
+      "documentation": "語根: tetr\n入力: tetr\n最終形: 四ᵀ\n漢字: 四\n識別子: ᵀ\n型: sep(語限定)\n語義: tetra-接頭辞\n適用語: tetr/\n注記: tetra-接頭辞。鳥tetr/o=琴鸡が既定\n基本形: no\n出典: homonym-alt.tsv:9",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 9
+    },
+    {
+      "body": "四ᵀᴬ",
+      "kanji": "四",
+      "root": "tetra",
+      "prefixes": [
+        "tetra"
+      ],
+      "insertText": "tetra",
+      "detail": "tetra → 四ᵀᴬ (語限定 tetra-数詞接頭辞(4): tetra/, tetra/gram/o 他5語)",
+      "documentation": "語根: tetra\n入力: tetra\n最終形: 四ᵀᴬ\n漢字: 四\n識別子: ᵀᴬ\n型: sep(語限定)\n語義: tetra-数詞接頭辞(4)\n適用語: tetra/, tetra/gram/o, tetra/borat/o, tetra/mer/o, tetra/tionat/o, tetra/ol/o, tetra/bor/at/o\n注記: tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)。tetra/bor/at(WSL過細分解同期)\n基本形: no\n出典: homonym-alt.tsv:10",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 10
     },
     {
       "body": "四字",
@@ -29886,12 +30446,12 @@
       ],
       "insertText": "pat",
       "detail": "pat → 困 (同綴異義: 手詰)",
-      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-amb.tsv:4",
+      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-alt.tsv:124",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 4
+      "sourceLine": 124
     },
     {
       "body": "围",
@@ -30278,6 +30838,22 @@
       "sourceLine": 3669
     },
     {
+      "body": "图ᴳᴹ",
+      "kanji": "图",
+      "root": "gram",
+      "prefixes": [
+        "gram"
+      ],
+      "insertText": "gram",
+      "detail": "gram → 图ᴳᴹ (語限定 -gram(記録·図像γράμμα): aer/o/gram/o, anem/o/gram/o 他26語)",
+      "documentation": "語根: gram\n入力: gram\n最終形: 图ᴳᴹ\n漢字: 图\n識別子: ᴳᴹ\n型: sep(語限定)\n語義: -gram(記録·図像γράμμα)\n適用語: aer/o/gram/o, anem/o/gram/o, dia/gram/o, elektr/o/kardi/o/gram/o, encefal/o/gram/o, faz/dia/gram/o, faz/o/dia/gram/o, hips/o/gram/o, holo/gram/o, kabl/o/gram/o, kardi/o/gram/o, nivel/dia/gram/o, organi/gram/o, orto/gram/o, paralel/o/gram/o, radi/o/gram/o, radi/o/tele/gram/o, scintil/o/gram/o, seism/o/gram/o, spektr/o/gram/o, tefi/gram/o, tele/gram/o, tele/gram/kod/o, tele/gram/port/ist/o, penta/gram/o, gram/o/fon/o, gram/o/fon/disk/o, -gram/\n注記: -gram(記録·図像γράμμα)→图。重量gram(克):kilo/centi/mili/deka/hekto-gram·gram/atom·gram/molekul·gram/pez は克維持。文字義は字(別エントリ。表音文字fon/o/gram=声/字も字へ移管)。蓄音機gram/o/fon(記録音→图/声)も捕捉。接尾辞定義entry -gram/(=記録·図像の意)→图(ハイフン分岐のhsep下位分節適用)。dia/gram/oはflor/a等多語も捕捉\n基本形: no\n出典: homonym-alt.tsv:58",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 58
+    },
+    {
       "body": "图ᴵ",
       "kanji": "图",
       "root": "ilustr",
@@ -30564,6 +31140,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 634
+    },
+    {
+      "body": "土ᴾ",
+      "kanji": "土",
+      "root": "pedo",
+      "prefixes": [
+        "pedo"
+      ],
+      "insertText": "pedo",
+      "detail": "pedo → 土ᴾ (語限定 希pedon(土壌soil): pedo/log/o)",
+      "documentation": "語根: pedo\n入力: pedo\n最終形: 土ᴾ\n漢字: 土\n識別子: ᴾ\n型: sep(語限定)\n語義: 希pedon(土壌soil)\n適用語: pedo/log/o\n注記: 希pedon(土壌soil)→土。土壌学者pedolog(pedo/log=土/学家)=grundolog(土/o/学家)の同義語。児童学pedo/logi/o=童(希pais子供)は同綴別語源で維持(word-scoped)。PIV定義「Specialisto pri pedologio. Sin. grundologo」=土壌学者ゆえ童は誤友。2026-07-19 偽友監査\n基本形: no\n出典: homonym-alt.tsv:94",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 94
     },
     {
       "body": "土ˢ",
@@ -31044,6 +31636,22 @@
       "base": false,
       "type": "prep",
       "sourceLine": 97
+    },
+    {
+      "body": "在ᴼ",
+      "kanji": "在",
+      "root": "ont",
+      "prefixes": [
+        "ont"
+      ],
+      "insertText": "ont",
+      "detail": "ont → 在ᴼ (語限定 ギリシャont-(ōn/ontos=存在するもの·being): ont/o/genez/o, ont/o/logi/o 他1語)",
+      "documentation": "語根: ont\n入力: ont\n最終形: 在ᴼ\n漢字: 在\n識別子: ᴼ\n型: sep(語限定)\n語義: ギリシャont-(ōn/ontos=存在するもの·being)\n適用語: ont/o/genez/o, ont/o/logi/o, bi/ont/o/logi/o\n注記: ギリシャont-(ōn/ontos=存在するもの·being)→在(存在)。存在論ontologi(ont/o/logi=在/学)·個体発生ontogenez(在/源)·生物学biontologi(生/在/学)。将然分詞-ont-(faront将来〜する者=将)は将のまま維持(word-scoped)。paleont=古(古生物)は別morpheme。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:98",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 98
     },
     {
       "body": "在源",
@@ -32694,6 +33302,22 @@
       "sourceLine": 3623
     },
     {
+      "body": "基ᴵ",
+      "kanji": "基",
+      "root": "il",
+      "prefixes": [
+        "il"
+      ],
+      "insertText": "il",
+      "detail": "il → 基ᴵ (語限定 化学ラジカル-il(-yl原子団): aceton/il/o, benzo/il/o 他9語)",
+      "documentation": "語根: il\n入力: il\n最終形: 基ᴵ\n漢字: 基\n識別子: ᴵ\n型: sep(語限定)\n語義: 化学ラジカル-il(-yl原子団)\n適用語: aceton/il/o, benzo/il/o, form/i/il/o, fosfor/il/o, jod/il/o, karbon/il/o, kromi/il/o, benzo/il/i, fosfor/il/i, fosfor/il/ad/o, benzo/il-glicin/o\n注記: 化学ラジカル-il(-yl原子団)→基。器具-il=具は別。動詞/派生 benzo/il/i,fosfor/il/i,fosfor/il/ad/o,benzo/il-glicin/o(馬尿酸)も基(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:33",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 33
+    },
+    {
       "body": "基金",
       "kanji": "基金",
       "root": "fondus",
@@ -33206,6 +33830,22 @@
       "sourceLine": 5122
     },
     {
+      "body": "境ᵀ",
+      "kanji": "境",
+      "root": "top",
+      "prefixes": [
+        "top"
+      ],
+      "insertText": "top",
+      "detail": "top → 境ᵀ (語限定 -top-(topos=場所/-tope): bio/top/o)",
+      "documentation": "語根: top\n入力: top\n最終形: 境ᵀ\n漢字: 境\n識別子: ᵀ\n型: sep(語限定)\n語義: -top-(topos=場所/-tope)\n適用語: bio/top/o\n注記: -top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持\n基本形: no\n出典: homonym-alt.tsv:30",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 30
+    },
+    {
       "body": "境学",
       "kanji": "境学",
       "root": "mediologi",
@@ -33540,6 +34180,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 1355
+    },
+    {
+      "body": "声ᶠᴼ",
+      "kanji": "声",
+      "root": "fon",
+      "prefixes": [
+        "fon"
+      ],
+      "insertText": "fon",
+      "detail": "fon → 声ᶠᴼ (語限定 phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等: fon/o/graf/o, fon/o/gram/o 他5語)",
+      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:113",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 113
     },
     {
       "body": "声ⱽ",
@@ -35252,6 +35908,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 4479
+    },
+    {
+      "body": "天ᶜ̂",
+      "kanji": "天",
+      "root": "ĉiel",
+      "prefixes": [
+        "cxiel"
+      ],
+      "insertText": "cxiel",
+      "detail": "ĉiel → 天ᶜ̂ (語限定 空: c^iel/o, c^iel/a 他16語)",
+      "documentation": "語根: ĉiel\n入力: cxiel\n最終形: 天ᶜ̂\n漢字: 天\n識別子: ᶜ̂\n型: sep(語限定)\n語義: 空\n適用語: c^iel/o, c^iel/a, c^iel/ark/o, c^iel/ark/a, c^iel/blu/a, c^iel/ir/o, c^iel/e/n/ir/o, c^iel/mekanik/o, c^iel/o/sfer/o, c^iel/rug^/o, c^iel/skrap/ant/o, c^iel/skrap/ul/o, c^iel/tus^/a, c^iel/ul/o, c^iel/an/o, c^iel/fajr/o, sub/c^iel/a, sub/c^iel/e\n注記: 空。相関詞c^iel=全样と別。2026-07-07 正本波で c^ielen/ir→c^iel/e/n/ir に-e/n境界正規化されたため c^iel/e/n/ir/o(昇天=c^ieliro)追加(被覆漏れ是正=全样に化けるのを防ぐ)\n基本形: no\n出典: homonym-alt.tsv:14",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 14
     },
     {
       "body": "天使",
@@ -37398,6 +38070,22 @@
       "sourceLine": 200
     },
     {
+      "body": "子ᴼ",
+      "kanji": "子",
+      "root": "on",
+      "prefixes": [
+        "on"
+      ],
+      "insertText": "on",
+      "detail": "on → 子ᴼ (語限定 物理粒子-on: anti/prot/on/o, elektr/on/a 他20語)",
+      "documentation": "語根: on\n入力: on\n最終形: 子ᴼ\n漢字: 子\n識別子: ᴼ\n型: sep(語限定)\n語義: 物理粒子-on\n適用語: anti/prot/on/o, elektr/on/a, elektr/on/kanon/o, elektr/on/o, elektr/on/tub/o, elektr/on/volt/o, fon/on/o, fot/on/o, giga/elektr/on/volt/o, magnet/on/o, mega/elektr/on/volt/o, mez/on/o, mez/on/teori/o, neu^tr/on/a, neu^tr/on/o, nukle/on/o, prot/on/o, term/o/elektr/on/o, valent/elektr/on/o, elektr/on/mikro/skop/o, fot/on/mikro/skop/o, anti/neu^tr/on/o\n注記: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)\n基本形: no\n出典: homonym-alt.tsv:179",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 179
+    },
+    {
       "body": "子午",
       "kanji": "子午",
       "root": "meridian",
@@ -37460,6 +38148,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 5469
+    },
+    {
+      "body": "孔ᴾ",
+      "kanji": "孔",
+      "root": "por",
+      "prefixes": [
+        "por"
+      ],
+      "insertText": "por",
+      "detail": "por → 孔ᴾ (語限定 気孔: por/o, por/a)",
+      "documentation": "語根: por\n入力: por\n最終形: 孔ᴾ\n漢字: 孔\n識別子: ᴾ\n型: sep(語限定)\n語義: 気孔\n適用語: por/o, por/a\n注記: 気孔。前置詞por=为と別\n基本形: no\n出典: homonym-alt.tsv:119",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 119
     },
     {
       "body": "孔雀",
@@ -37572,6 +38276,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 3103
+    },
+    {
+      "body": "字ᴳᴹ",
+      "kanji": "字",
+      "root": "gram",
+      "prefixes": [
+        "gram"
+      ],
+      "insertText": "gram",
+      "detail": "gram → 字ᴳᴹ (語限定 -gram(文字·書記素): di/gram/o, ide/o/gram/o 他5語)",
+      "documentation": "語根: gram\n入力: gram\n最終形: 字ᴳᴹ\n漢字: 字\n識別子: ᴳᴹ\n型: sep(語限定)\n語義: -gram(文字·書記素)\n適用語: di/gram/o, ide/o/gram/o, mono/gram/o, tetra/gram/o, epi/gram/o, epi/gram/ist/o, fon/o/gram/o\n注記: -gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字·警句epigram(epi/gram=表ᴱ/字ᴳ)·表音文字phonogram(fon/o/gram=声ᶠᴼ/字ᴳ=音を表す文字。fon→声はfon sep)。記録図像は图·重量は克。2026-06-21 epigram/phonogram追加\n基本形: no\n出典: homonym-alt.tsv:59",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 59
     },
     {
       "body": "字ᴷ",
@@ -37892,6 +38612,22 @@
       "base": false,
       "type": "suf",
       "sourceLine": 851
+    },
+    {
+      "body": "学ᴺᴼ",
+      "kanji": "学",
+      "root": "nom",
+      "prefixes": [
+        "nom"
+      ],
+      "insertText": "nom",
+      "detail": "nom → 学ᴺᴼ (語限定 科学-nom-(agronom/astronom/gastronom/ergonom): agr/o/nom/o, agr/o/nom/a 他10語)",
+      "documentation": "語根: nom\n入力: nom\n最終形: 学ᴺᴼ\n漢字: 学\n識別子: ᴺᴼ\n型: sep(語限定)\n語義: 科学-nom-(agronom/astronom/gastronom/ergonom)\n適用語: agr/o/nom/o, agr/o/nom/a, agr/o/nom, astr/o/nom/o, astr/o/nom/a, astr/o/nom, gastr/o/nom/o, gastr/o/nom/a, gastr/o/nom, erg/o/nom/o, erg/o/nom/a, erg/o/nom\n注記: 科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま\n基本形: no\n出典: homonym-alt.tsv:16",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 16
     },
     {
       "body": "学ˢ",
@@ -40382,12 +41118,12 @@
       ],
       "insertText": "mat",
       "detail": "mat → 将ᴹ (同綴異義: 詰)",
-      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-amb.tsv:3",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:123",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 3
+      "sourceLine": 123
     },
     {
       "body": "射",
@@ -41302,6 +42038,22 @@
       "sourceLine": 4906
     },
     {
+      "body": "尿ᵁᴿ",
+      "kanji": "尿",
+      "root": "ur",
+      "prefixes": [
+        "ur"
+      ],
+      "insertText": "ur",
+      "detail": "ur → 尿ᵁᴿ (語限定 uro-(尿): ur/gener/a, ur/o/gener/a)",
+      "documentation": "語根: ur\n入力: ur\n最終形: 尿ᵁᴿ\n漢字: 尿\n識別子: ᵁᴿ\n型: sep(語限定)\n語義: uro-(尿)\n適用語: ur/gener/a, ur/o/gener/a\n注記: uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ\n基本形: no\n出典: homonym-alt.tsv:72",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 72
+    },
+    {
       "body": "尿学",
       "kanji": "尿学",
       "root": "urologi",
@@ -41590,6 +42342,22 @@
       "sourceLine": 3365
     },
     {
+      "body": "层ˢᵀ",
+      "kanji": "层",
+      "root": "strat",
+      "prefixes": [
+        "strat"
+      ],
+      "insertText": "strat",
+      "detail": "strat → 层ˢᵀ (語限定 stratum(地層): kron/o/strat/i/grafi/o, strat/i/graf/o 他2語)",
+      "documentation": "語根: strat\n入力: strat\n最終形: 层ˢᵀ\n漢字: 层\n識別子: ˢᵀ\n型: sep(語限定)\n語義: stratum(地層)\n適用語: kron/o/strat/i/grafi/o, strat/i/graf/o, strat/i/grafi/o, stratum/o\n注記: stratum(地層)→层。街strat=街は別\n基本形: no\n出典: homonym-alt.tsv:44",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 44
+    },
+    {
       "body": "层ᵀ",
       "kanji": "层",
       "root": "tavol",
@@ -41662,12 +42430,12 @@
       ],
       "insertText": "kuri",
       "detail": "kuri → 居ᴷ (同綴異義: キュリー)",
-      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-amb.tsv:16",
+      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-alt.tsv:139",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 16
+      "sourceLine": 139
     },
     {
       "body": "屈",
@@ -42646,6 +43414,22 @@
       "sourceLine": 165
     },
     {
+      "body": "巨ᴹᴱ",
+      "kanji": "巨",
+      "root": "mega",
+      "prefixes": [
+        "mega"
+      ],
+      "insertText": "mega",
+      "detail": "mega → 巨ᴹᴱ (語限定 ギリシャ接頭mega-(大·巨 mégas): mega/fon/o, mega/teri/o 他2語)",
+      "documentation": "語根: mega\n入力: mega\n最終形: 巨ᴹᴱ\n漢字: 巨\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: ギリシャ接頭mega-(大·巨 mégas)\n適用語: mega/fon/o, mega/teri/o, mega/lit/a, mega/lit/o\n注記: ギリシャ接頭mega-(大·巨 mégas)→巨(megalo=巨ᴹと同源)。megaphone拡声器(mega/fon=巨/声)·Megatherium大ナマケモノ(mega/teri=巨/兽)·megalith巨石(mega/lit=巨/石)。SI接頭mega-(10^6=百万)=mega/bajt百万/字节·mega/herc·mega/om·mega/tun·mega/elektr/on/volt は百万維持(disc不掲載)。2026-07-18 分類名分解パスで露出/2026-07-19 megalith追加\n基本形: no\n出典: homonym-alt.tsv:54",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 54
+    },
+    {
       "body": "巨ᵀ",
       "kanji": "巨",
       "root": "titan",
@@ -42966,6 +43750,22 @@
       "sourceLine": 4907
     },
     {
+      "body": "币ᴮ",
+      "kanji": "币",
+      "root": "bac",
+      "prefixes": [
+        "bac"
+      ],
+      "insertText": "bac",
+      "detail": "bac → 币ᴮ (語限定 古独貨: bac/o)",
+      "documentation": "語根: bac\n入力: bac\n最終形: 币ᴮ\n漢字: 币\n識別子: ᴮ\n型: sep(語限定)\n語義: 古独貨\n適用語: bac/o\n注記: 古独貨。bac=响と別\n基本形: no\n出典: homonym-alt.tsv:135",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 135
+    },
+    {
       "body": "币ᴰ",
       "kanji": "币",
       "root": "dur",
@@ -42974,12 +43774,12 @@
       ],
       "insertText": "dur",
       "detail": "dur → 币ᴰ (同綴異義: ドゥーロ)",
-      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-amb.tsv:12",
+      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-alt.tsv:133",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 12
+      "sourceLine": 133
     },
     {
       "body": "币ᴷ",
@@ -42990,12 +43790,12 @@
       ],
       "insertText": "kron",
       "detail": "kron → 币ᴷ (同綴異義: クローネ)",
-      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-amb.tsv:11",
+      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-alt.tsv:132",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 11
+      "sourceLine": 132
     },
     {
       "body": "币ᴸ",
@@ -43006,12 +43806,12 @@
       ],
       "insertText": "lir",
       "detail": "lir → 币ᴸ (同綴異義: リラ)",
-      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-amb.tsv:10",
+      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-alt.tsv:131",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 10
+      "sourceLine": 131
     },
     {
       "body": "币ᴹ",
@@ -43022,12 +43822,28 @@
       ],
       "insertText": "mark",
       "detail": "mark → 币ᴹ (同綴異義: マルク)",
-      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-amb.tsv:9",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:130",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 9
+      "sourceLine": 130
+    },
+    {
+      "body": "币ᵀ",
+      "kanji": "币",
+      "root": "tak",
+      "prefixes": [
+        "tak"
+      ],
+      "insertText": "tak",
+      "detail": "tak → 币ᵀ (語限定 タカ通貨: tak/o)",
+      "documentation": "語根: tak\n入力: tak\n最終形: 币ᵀ\n漢字: 币\n識別子: ᵀ\n型: sep(語限定)\n語義: タカ通貨\n適用語: tak/o\n注記: タカ通貨。tak=倾と別\n基本形: no\n出典: homonym-alt.tsv:134",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 134
     },
     {
       "body": "市",
@@ -44116,6 +44932,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 2970
+    },
+    {
+      "body": "平ᴾ",
+      "kanji": "平",
+      "root": "plan",
+      "prefixes": [
+        "plan"
+      ],
+      "insertText": "plan",
+      "detail": "plan → 平ᴾ (語限定 plano(平面plane=平): plan/i/metri/o, plan/i/metr/o)",
+      "documentation": "語根: plan\n入力: plan\n最終形: 平ᴾ\n漢字: 平\n識別子: ᴾ\n型: sep(語限定)\n語義: plano(平面plane=平)\n適用語: plan/i/metri/o, plan/i/metr/o\n注記: plano(平面plane=平)→平。面積測定法planimetri(plan/i/metri=平/i/测)・プラニメータplanimetr(平/计)のplano-plane幾何。計画/図面plan/o=划(base)は維持(word-scoped)。平面eben=平と同字(識別子で弁別)。2026-07-19 偽友監査(planimetria=面積測定でplan=划は誤友)\n基本形: no\n出典: homonym-alt.tsv:93",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 93
     },
     {
       "body": "平局",
@@ -45654,6 +46486,22 @@
       "sourceLine": 1683
     },
     {
+      "body": "异ᴬᴸ",
+      "kanji": "异",
+      "root": "alo",
+      "prefixes": [
+        "alo"
+      ],
+      "insertText": "alo",
+      "detail": "alo → 异ᴬᴸ (語限定 ギリシャ接頭allo-(他·異different): alo/fon/o, alo/fon/a 他3語)",
+      "documentation": "語根: alo\n入力: alo\n最終形: 异ᴬᴸ\n漢字: 异\n識別子: ᴬᴸ\n型: sep(語限定)\n語義: ギリシャ接頭allo-(他·異different)\n適用語: alo/fon/o, alo/fon/a, alo/morf/o, alo/trofi/o, alo/pati/o\n注記: ギリシャ接頭allo-(他·異different)→异。allophone异音(alo/fon)·allomorph异形态(alo/morf)·allotrophy异养(alo/trofi)·allopathy异/情(alo/pati=逆症療法。アロエでない)。アロエ alo/o(草)·alo/aj^/o(草)はdisc不掲載で草維持。合金aloj/oは別根(合金)\n基本形: no\n出典: homonym-alt.tsv:116",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 116
+    },
+    {
       "body": "异ᴰ",
       "kanji": "异",
       "root": "diferenc",
@@ -46350,12 +47198,12 @@
       ],
       "insertText": "sinus",
       "detail": "sinus → 弦ˢ (同綴異義: 正弦)",
-      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-amb.tsv:42",
+      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-alt.tsv:170",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 42
+      "sourceLine": 170
     },
     {
       "body": "弦炎",
@@ -47414,6 +48262,38 @@
       "sourceLine": 2727
     },
     {
+      "body": "律ᴺ",
+      "kanji": "律",
+      "root": "nomi",
+      "prefixes": [
+        "nomi"
+      ],
+      "insertText": "nomi",
+      "detail": "nomi → 律ᴺ (語限定 heteronomy(他律)のnomi: hetero/nomi/o)",
+      "documentation": "語根: nomi\n入力: nomi\n最終形: 律ᴺ\n漢字: 律\n識別子: ᴺ\n型: sep(語限定)\n語義: heteronomy(他律)のnomi\n適用語: hetero/nomi/o\n注記: heteronomy(他律)のnomi→律(νόμος法)。-nomy科学=学/autonomi自治は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:87",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 87
+    },
+    {
+      "body": "律ᴺᴼ",
+      "kanji": "律",
+      "root": "nom",
+      "prefixes": [
+        "nom"
+      ],
+      "insertText": "nom",
+      "detail": "nom → 律ᴺᴼ (語限定 メトロノームnom(ギリシャnomos=法/掟): metr/o/nom/o)",
+      "documentation": "語根: nom\n入力: nom\n最終形: 律ᴺᴼ\n漢字: 律\n識別子: ᴺᴼ\n型: sep(語限定)\n語義: メトロノームnom(ギリシャnomos=法/掟)\n適用語: metr/o/nom/o\n注記: メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器\n基本形: no\n出典: homonym-alt.tsv:111",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 111
+    },
+    {
       "body": "律ᴿ",
       "kanji": "律",
       "root": "ritm",
@@ -48086,6 +48966,22 @@
       "sourceLine": 831
     },
     {
+      "body": "心ᴷᴬ",
+      "kanji": "心",
+      "root": "kard",
+      "prefixes": [
+        "kard"
+      ],
+      "insertText": "kard",
+      "detail": "kard → 心ᴷᴬ (語限定 cardio-(心): endo/kard/it/o, endo/kard/o 他1語)",
+      "documentation": "語根: kard\n入力: kard\n最終形: 心ᴷᴬ\n漢字: 心\n識別子: ᴷᴬ\n型: sep(語限定)\n語義: cardio-(心)\n適用語: endo/kard/it/o, endo/kard/o, peri/kard/o\n注記: cardio-(心)→心。アザミkard/o(刺草)·梳毛kard/adは維持。kardi/o(-i付)は既に心ᴷᴰ。endo/kard/o=心内膜・peri/kard/o=心膜(WSL同期2026-06-27)\n基本形: no\n出典: homonym-alt.tsv:65",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 65
+    },
+    {
       "body": "心ᴷᴰ",
       "kanji": "心",
       "root": "kardi",
@@ -48548,6 +49444,22 @@
       "base": false,
       "type": "sci",
       "sourceLine": 4461
+    },
+    {
+      "body": "志ᴸ",
+      "kanji": "志",
+      "root": "log",
+      "prefixes": [
+        "log"
+      ],
+      "insertText": "log",
+      "detail": "log → 志ᴸ (語限定 ギリシャlogos(記録·名簿): nekr/o/log/o, nekr/o/log/ar/o)",
+      "documentation": "語根: log\n入力: log\n最終形: 志ᴸ\n漢字: 志\n識別子: ᴸ\n型: sep(語限定)\n語義: ギリシャlogos(記録·名簿)\n適用語: nekr/o/log/o, nekr/o/log/ar/o\n注記: ギリシャlogos(記録·名簿)→志。死亡記事·死亡者名簿necrolog(nekr/o/log=死/志)。学者-logist=学家·话·诱·戒 とは別の第5義。志=地方志/杂志の記録義。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:97",
+      "priority": 3,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 97
     },
     {
       "body": "忘",
@@ -49028,6 +49940,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 227
+    },
+    {
+      "body": "性ᴬᶠ",
+      "kanji": "性",
+      "root": "afrodit",
+      "prefixes": [
+        "afrodit"
+      ],
+      "insertText": "afrodit",
+      "detail": "afrodit → 性ᴬᶠ (語限定 afrodit-(Aphrodite): herm/afrodit/a, herm/afrodit/ec/o 他3語)",
+      "documentation": "語根: afrodit\n入力: afrodit\n最終形: 性ᴬᶠ\n漢字: 性\n識別子: ᴬᶠ\n型: sep(語限定)\n語義: afrodit-(Aphrodite)\n適用語: herm/afrodit/a, herm/afrodit/ec/o, herm/afrodit/o, herm/afrodit/flor/a, pseu^do/herm/afrodit/ec/o\n注記: afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:22",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 22
     },
     {
       "body": "性ˢ",
@@ -51062,6 +51990,22 @@
       "sourceLine": 5425
     },
     {
+      "body": "戒ᴸ",
+      "kanji": "戒",
+      "root": "log",
+      "prefixes": [
+        "log"
+      ],
+      "insertText": "log",
+      "detail": "log → 戒ᴸ (語限定 ギリシャlogos(言葉: deka/log/o)",
+      "documentation": "語根: log\n入力: log\n最終形: 戒ᴸ\n漢字: 戒\n識別子: ᴸ\n型: sep(語限定)\n語義: ギリシャlogos(言葉\n適用語: deka/log/o\n注記: ギリシャlogos(言葉→戒め)→戒。モーセの十戒Dekalogo(deka/log=十/戒)。学問-logy/学者-logist=学家(biolog等)·対話dia/log=话·誘惑al/log=诱 とは別の第4義。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:96",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 96
+    },
+    {
       "body": "或",
       "kanji": "或",
       "root": "aŭ",
@@ -52276,6 +53220,22 @@
       "base": false,
       "type": "pref",
       "sourceLine": 3519
+    },
+    {
+      "body": "抗ᴬᴺ",
+      "kanji": "抗",
+      "root": "ant",
+      "prefixes": [
+        "ant"
+      ],
+      "insertText": "ant",
+      "detail": "ant → 抗ᴬᴺ (語限定 ant-(希 anti-=反対): ant/heli/o)",
+      "documentation": "語根: ant\n入力: ant\n最終形: 抗ᴬᴺ\n漢字: 抗\n識別子: ᴬᴺ\n型: sep(語限定)\n語義: ant-(希 anti-=反対)\n適用語: ant/heli/o\n注記: ant-(希 anti-=反対)→抗: antheli/o 対日像。分詞接尾 -ant-=在 は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:77",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 77
     },
     {
       "body": "抗ᴾᴺ",
@@ -54244,6 +55204,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 1180
+    },
+    {
+      "body": "指ᴰ",
+      "kanji": "指",
+      "root": "daktil",
+      "prefixes": [
+        "daktil"
+      ],
+      "insertText": "daktil",
+      "detail": "daktil → 指ᴰ (語限定 dactylo-(指): daktil/o/graf/i, daktil/o/skop/i/o 他1語)",
+      "documentation": "語根: daktil\n入力: daktil\n最終形: 指ᴰ\n漢字: 指\n識別子: ᴰ\n型: sep(語限定)\n語義: dactylo-(指)\n適用語: daktil/o/graf/i, daktil/o/skop/i/o, pter/o/daktil/o\n注記: dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持。2026-07-18 正本過細分解 pterodaktil→pter/o/daktil 露出→追加(pterodactyl翼指=翅/指。daktil→枣ナツメヤシの偽友是正)\n基本形: no\n出典: homonym-alt.tsv:101",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 101
     },
     {
       "body": "指ᴵ",
@@ -57790,12 +58766,12 @@
       ],
       "insertText": "topik",
       "detail": "topik → 敷ᵀ (同綴異義: 外用)",
-      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-amb.tsv:36",
+      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-alt.tsv:164",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 36
+      "sourceLine": 164
     },
     {
       "body": "文",
@@ -58718,12 +59694,12 @@
       ],
       "insertText": "spin",
       "detail": "spin → 旋ˢᴺ (同綴異義: スピン)",
-      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-amb.tsv:18",
+      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-alt.tsv:142",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 18
+      "sourceLine": 142
     },
     {
       "body": "旋ᵀ",
@@ -59076,6 +60052,22 @@
       "base": true,
       "type": "correl",
       "sourceLine": 4
+    },
+    {
+      "body": "无ᴬ",
+      "kanji": "无",
+      "root": "an",
+      "prefixes": [
+        "an"
+      ],
+      "insertText": "an",
+      "detail": "an → 无ᴬ (語限定 否定接頭an-(=a-,無-): frid/an/estez/o)",
+      "documentation": "語根: an\n入力: an\n最終形: 无ᴬ\n漢字: 无\n識別子: ᴬ\n型: sep(語限定)\n語義: 否定接頭an-(=a-,無-)\n適用語: frid/an/estez/o\n注記: 否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正\n基本形: no\n出典: homonym-alt.tsv:73",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 73
     },
     {
       "body": "无e",
@@ -59958,6 +60950,22 @@
       "sourceLine": 358
     },
     {
+      "body": "日ᴴᴱ",
+      "kanji": "日",
+      "root": "heli",
+      "prefixes": [
+        "heli"
+      ],
+      "insertText": "heli",
+      "detail": "heli → 日ᴴᴱ (語限定 helios(希ἥλιος=太陽): peri/heli/o, pir/heli/o/metr/o 他1語)",
+      "documentation": "語根: heli\n入力: heli\n最終形: 日ᴴᴱ\n漢字: 日\n識別子: ᴴᴱ\n型: sep(語限定)\n語義: helios(希ἥλιος=太陽)\n適用語: peri/heli/o, pir/heli/o/metr/o, ant/heli/o\n注記: helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3。2026-07-26 正本ドリフトで antheli/o→ant/heli/o が露出し heli が气ᴴ(ヘリウム)で描画→disc追加\n基本形: no\n出典: homonym-alt.tsv:76",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 76
+    },
+    {
       "body": "日光信",
       "kanji": "日光信",
       "root": "heliografi",
@@ -60196,6 +61204,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 962
+    },
+    {
+      "body": "时ᴷ",
+      "kanji": "时",
+      "root": "kron",
+      "prefixes": [
+        "kron"
+      ],
+      "insertText": "kron",
+      "detail": "kron → 时ᴷ (語限定 chrono-(時): izo/kron/a, izo/kron/ec/o 他22語)",
+      "documentation": "語根: kron\n入力: kron\n最終形: 时ᴷ\n漢字: 时\n識別子: ᴷ\n型: sep(語限定)\n語義: chrono-(時)\n適用語: izo/kron/a, izo/kron/ec/o, kron/o/graf/i, kron/o/graf/o, kron/o/logi/a, kron/o/logi/o, kron/o/metr/i, kron/o/metri/o, kron/o/metr/o, kron/o/metri/a, kron/o/metr/ist/o, kron/o/strat/i/grafi/o, sin/kron/a, sin/kron/ec/o, sin/kron/ig/i, sin/kron/ig/il/o, sin/kron/o/skop/o, post/sin/kron/ig/i, post/sin/kron/ig/o, mal/sin/kron/ig^/i, dia/kron/a, dendro/kron/o/log/o, dendro/kron/o/logi/o, geo/kron/o/logi/o\n注記: chrono-(時)→时。王冠kron/o(冠)·戴冠kron/ad·冠状ウイルス·皇太子·コロナ放電kron/efluv·dethrone sen/kron/igは冠維持·クローネ通貨は币\n基本形: no\n出典: homonym-alt.tsv:61",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 61
     },
     {
       "body": "时学",
@@ -67086,12 +68110,12 @@
       ],
       "insertText": "jard",
       "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
-      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-amb.tsv:27",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:153",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 27
+      "sourceLine": 153
     },
     {
       "body": "杉",
@@ -70502,6 +71526,22 @@
       "sourceLine": 4547
     },
     {
+      "body": "栓ᵀ",
+      "kanji": "栓",
+      "root": "tromb",
+      "prefixes": [
+        "tromb"
+      ],
+      "insertText": "tromb",
+      "detail": "tromb → 栓ᵀ (語限定 -thrombo-(血栓): tromb/oz/o, tromb/ektomi/o 他1語)",
+      "documentation": "語根: tromb\n入力: tromb\n最終形: 栓ᵀ\n漢字: 栓\n識別子: ᵀ\n型: sep(語限定)\n語義: -thrombo-(血栓)\n適用語: tromb/oz/o, tromb/ektomi/o, tromb/o/cit/o\n注記: -thrombo-(血栓)→栓。tromb/oz/o は cerb/a tromb/oz/o(脳血栓)内の同語も捕捉。竜巻tromb/o(気·第1義)とsabl/a tromb/o(陸竜巻)は龙卷を維持。trombon(トロンボーン)/trombin(トロンビン)/trombidi(ツツガムシ)は別セグメントで無影響\n基本形: no\n出典: homonym-alt.tsv:47",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 47
+    },
+    {
       "body": "栓症",
       "kanji": "栓症",
       "root": "emboloz",
@@ -70710,6 +71750,22 @@
       "sourceLine": 5142
     },
     {
+      "body": "核ᴿ",
+      "kanji": "核",
+      "root": "rib",
+      "prefixes": [
+        "rib"
+      ],
+      "insertText": "rib",
+      "detail": "rib → 核ᴿ (語限定 rib(化学 ribo- = PIV の ribo II): rib/oz/o, de/oksi/rib/oz/o 他7語)",
+      "documentation": "語根: rib\n入力: rib\n最終形: 核ᴿ\n漢字: 核\n識別子: ᴿ\n型: sep(語限定)\n語義: rib(化学 ribo- = PIV の ribo II)\n適用語: rib/oz/o, de/oksi/rib/oz/o, rib/o/flav/in/o, rib/o/flavin/o, rib/o/enzim/o, rib/o/som/o, rib/o/som/a, plur/rib/o/som/o, poli/rib/o/som/o\n注記: rib(化学 ribo- = PIV の ribo II)→核: 核糖/脱氧核糖/核黄素/核酶 と中国語標準名に一致。果実 Ribes(醋栗)は同綴別語で disc外維持\n基本形: no\n出典: homonym-alt.tsv:78",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 78
+    },
+    {
       "body": "核子",
       "kanji": "核子",
       "root": "nukleon",
@@ -70836,6 +71892,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 3525
+    },
+    {
+      "body": "根ᴿᶻ",
+      "kanji": "根",
+      "root": "riz",
+      "prefixes": [
+        "riz"
+      ],
+      "insertText": "riz",
+      "detail": "riz → 根ᴿᶻ (語限定 rhizo-(根): riz/o/morf/o, riz/o/pod/oj)",
+      "documentation": "語根: riz\n入力: riz\n最終形: 根ᴿᶻ\n漢字: 根\n識別子: ᴿᶻ\n型: sep(語限定)\n語義: rhizo-(根)\n適用語: riz/o/morf/o, riz/o/pod/oj\n注記: rhizo-(根)→根。米riz/o(米)·稲riz/kamp/riz/o/spik等は維持。rizom=根茎\n基本形: no\n出典: homonym-alt.tsv:74",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 74
     },
     {
       "body": "根形",
@@ -71342,12 +72414,12 @@
       ],
       "insertText": "bit",
       "detail": "bit → 桩ᴮ (同綴異義: 繋柱)",
-      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-amb.tsv:26",
+      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-alt.tsv:152",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 26
+      "sourceLine": 152
     },
     {
       "body": "桩ᴾ",
@@ -74886,6 +75958,22 @@
       "sourceLine": 1215
     },
     {
+      "body": "毛ᵀ",
+      "kanji": "毛",
+      "root": "trik",
+      "prefixes": [
+        "trik"
+      ],
+      "insertText": "trik",
+      "detail": "trik → 毛ᵀ (語限定 毛(tricho-): trik/o, trik/oz/o 他5語)",
+      "documentation": "語根: trik\n入力: trik\n最終形: 毛ᵀ\n漢字: 毛\n識別子: ᵀ\n型: sep(語限定)\n語義: 毛(tricho-)\n適用語: trik/o, trik/oz/o, poli/trik/o, trik/o/pati/o, trik/o/plazi/o, trik/o/pter/oj, trik/o/micet/oz/o\n注記: 毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:141",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 141
+    },
+    {
       "body": "毛生",
       "kanji": "毛生",
       "root": "trikoplazi",
@@ -75270,6 +76358,22 @@
       "sourceLine": 1419
     },
     {
+      "body": "气ᴬᴹ",
+      "kanji": "气",
+      "root": "atm",
+      "prefixes": [
+        "atm"
+      ],
+      "insertText": "atm",
+      "detail": "atm → 气ᴬᴹ (語限定 atmo-(大気·蒸気=希atmos): atm/o/metr/o)",
+      "documentation": "語根: atm\n入力: atm\n最終形: 气ᴬᴹ\n漢字: 气\n識別子: ᴬᴹ\n型: sep(語限定)\n語義: atmo-(大気·蒸気=希atmos)\n適用語: atm/o/metr/o\n注記: atmo-(大気·蒸気=希atmos)→气。蒸発計atmometr(atm/o/metr=气/计)。真我atm/o=我(atman=ヒンドゥー哲学の個我)はbase維持。大気atmosfer=气と同義だが別root(2026-07-15 誤友是正: 我=atmanの取りこぼしをword-scopedで是正)\n基本形: no\n出典: homonym-alt.tsv:38",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 38
+    },
+    {
       "body": "气ᴬᵀ",
       "kanji": "气",
       "root": "atmosfer",
@@ -75396,6 +76500,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 1414
+    },
+    {
+      "body": "气ᴹᴿ",
+      "kanji": "气",
+      "root": "meteor",
+      "prefixes": [
+        "meteor"
+      ],
+      "insertText": "meteor",
+      "detail": "meteor → 气ᴹᴿ (語限定 ギリシャmeteoron(大気現象): meteor/o/logi/o, meteor/o/log/o 他1語)",
+      "documentation": "語根: meteor\n入力: meteor\n最終形: 气ᴹᴿ\n漢字: 气\n識別子: ᴹᴿ\n型: sep(語限定)\n語義: ギリシャmeteoron(大気現象)\n適用語: meteor/o/logi/o, meteor/o/log/o, meteor/o/logi/a\n注記: ギリシャmeteoron(大気現象)→气(気象)。気象学meteorologi(meteor/o/logi=气/学)は隕石meteor/o=陨·流星体meteor/oid=陨/似 とは別(word-scoped)。既存meteo/logi=气ᴹと整合。隕石学(陨学)との誤読を是正。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:99",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 99
     },
     {
       "body": "气ᴺ",
@@ -76148,6 +77268,22 @@
       "base": true,
       "type": "sci",
       "sourceLine": 5986
+    },
+    {
+      "body": "氧ᴼᴷ",
+      "kanji": "氧",
+      "root": "oks",
+      "prefixes": [
+        "oks"
+      ],
+      "insertText": "oks",
+      "detail": "oks → 氧ᴼᴷ (語限定 oxy-(酸素): an/oks/emi/o, hipoks/emi/o 他1語)",
+      "documentation": "語根: oks\n入力: oks\n最終形: 氧ᴼᴷ\n漢字: 氧\n識別子: ᴼᴷ\n型: sep(語限定)\n語義: oxy-(酸素)\n適用語: an/oks/emi/o, hipoks/emi/o, oks/oni/o\n注記: oxy-(酸素)→氧。牛oks/o=牛 は別。2026-07-26 正本ドリフトで oksoni/o→oks/oni/o に分解され oks が牛ᴼ(雄牛)で描画される誤友が露出→disc追加で氧に是正(oni=オニウムイオンはL148の化学ルールでlatin保持)\n基本形: no\n出典: homonym-alt.tsv:19",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 19
     },
     {
       "body": "氧减",
@@ -77342,12 +78478,12 @@
       ],
       "insertText": "deviz",
       "detail": "deviz → 汇ᴰ (同綴異義: 外貨)",
-      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-amb.tsv:8",
+      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-alt.tsv:129",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 8
+      "sourceLine": 129
     },
     {
       "body": "汇ᴷ",
@@ -78254,12 +79390,12 @@
       ],
       "insertText": "rod",
       "detail": "rod → 泊 (同綴異義: 停泊)",
-      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-amb.tsv:25",
+      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-alt.tsv:151",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 25
+      "sourceLine": 151
     },
     {
       "body": "泌",
@@ -79310,12 +80446,12 @@
       ],
       "insertText": "klik",
       "detail": "klik → 派ᴷᴸ (同綴異義: 徒党)",
-      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-amb.tsv:35",
+      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-alt.tsv:163",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 35
+      "sourceLine": 163
     },
     {
       "body": "派ˢ",
@@ -79636,6 +80772,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 2032
+    },
+    {
+      "body": "测ᴹᴱ",
+      "kanji": "测",
+      "root": "metr",
+      "prefixes": [
+        "metr"
+      ],
+      "insertText": "metr",
+      "detail": "metr → 测ᴹᴱ (語限定 -metr-(抽象measure=直径/半径/周径/幾何): dia/metr/o, dia/metr/a 他4語)",
+      "documentation": "語根: metr\n入力: metr\n最終形: 测ᴹᴱ\n漢字: 测\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: -metr-(抽象measure=直径/半径/周径/幾何)\n適用語: dia/metr/o, dia/metr/a, du/on/dia/metr/o, peri/metr/o, geo/metr/o, geo/metr/ed/oj\n注記: -metr-(抽象measure=直径/半径/周径/幾何)→测。测の基底mezur(測る)・metri(测ᴹᵀ)と同family。dia/metr=通ᴰ/测「横切って測る」=diameter語源。2026-07-15ユーザー裁定: 幾何geo/metr(=土地を測る)を米→测に移管(地测。シャクガ科geo/metr/edも土地を測る虫で整合)。※pir/geo/metr(pyrgeometer=地表放射を測る計器)は計器ゆえ comb metr→计(火/地/计)に戻す(2026-07-15 監査是正)。長さ単位centi/kilo·詩脚heks/pentaは米sep維持\n基本形: no\n出典: homonym-alt.tsv:105",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 105
     },
     {
       "body": "测ᴹᵀ",
@@ -80470,6 +81622,22 @@
       "sourceLine": 5866
     },
     {
+      "body": "液ˢ",
+      "kanji": "液",
+      "root": "sol",
+      "prefixes": [
+        "sol"
+      ],
+      "insertText": "sol",
+      "detail": "sol → 液ˢ (語限定 Latin solutio(溶液): cito/sol/o, c^el/sol/o)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 液ˢ\n漢字: 液\n識別子: ˢ\n型: sep(語限定)\n語義: Latin solutio(溶液)\n適用語: cito/sol/o, c^el/sol/o\n注記: Latin solutio(溶液)→液。細胞質液cytosol(cito/sol=胞/液)・ĉelsol。唯一sol/a・独唱sol/o等の sol=唯 は維持(word-scoped)。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:88",
+      "priority": 3,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 88
+    },
+    {
       "body": "液压",
       "kanji": "液压",
       "root": "hidrau^lik",
@@ -80820,6 +81988,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 2077
+    },
+    {
+      "body": "深ᴮ",
+      "kanji": "深",
+      "root": "bat",
+      "prefixes": [
+        "bat"
+      ],
+      "insertText": "bat",
+      "detail": "bat → 深ᴮ (語限定 bathy-(希βαθύς=深): bat/o/metr/o, bat/o/metri/o)",
+      "documentation": "語根: bat\n入力: bat\n最終形: 深ᴮ\n漢字: 深\n識別子: ᴮ\n型: sep(語限定)\n語義: bathy-(希βαθύς=深)\n適用語: bat/o/metr/o, bat/o/metri/o\n注記: bathy-(希βαθύς=深)→深。深度計bathometer(bat/o/metr=深/计)・測深学bathymetria(bat/o/metri=深/测)の bat のみ。打撃bat/i・bat/o(打)・心拍kor/bat は打維持(word-scoped)。2026-07-18 偽友スイープ是正\n基本形: no\n出典: homonym-alt.tsv:55",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 55
     },
     {
       "body": "深测",
@@ -81830,6 +83014,22 @@
       "sourceLine": 3500
     },
     {
+      "body": "源ᴳᴼ",
+      "kanji": "源",
+      "root": "goni",
+      "prefixes": [
+        "goni"
+      ],
+      "insertText": "goni",
+      "detail": "goni → 源ᴳᴼ (語限定 -goni-(生成·発生·原細胞gonḗ): kosm/o/goni/o, ov/o/goni/o 他3語)",
+      "documentation": "語根: goni\n入力: goni\n最終形: 源ᴳᴼ\n漢字: 源\n識別子: ᴳᴼ\n型: sep(語限定)\n語義: -goni-(生成·発生·原細胞gonḗ)\n適用語: kosm/o/goni/o, ov/o/goni/o, sperm/o/goni/o, spor/o/goni/o, te/o/goni/o\n注記: -goni-(生成·発生·原細胞gonḗ)→源。宇宙起源kosmogoni=宇/源·神々の起源teogoni=神ᵀ/源·卵原ov/精原sperm/胞原spor/o/goni=卵·精液·胞子+源。角度goni=角ᴳ(gōnía別語源)は正本が X/o/goni へ分割した際に生成義へ化ける誤友ゆえ語スコープで是正。arkegoni=颈卵器(whole-root)·agoni=垂死·tetragoni=草ᵀᴱᵀ(植物属)·begoni/pelargoni/geraniは別語で不干渉\n基本形: no\n出典: homonym-alt.tsv:32",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 32
+    },
+    {
       "body": "源学",
       "kanji": "源学",
       "root": "etimologi",
@@ -81886,12 +83086,12 @@
       ],
       "insertText": "sol",
       "detail": "sol → 溶 (同綴異義: ゾル)",
-      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-amb.tsv:21",
+      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-alt.tsv:146",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 21
+      "sourceLine": 146
     },
     {
       "body": "溺",
@@ -82774,6 +83974,22 @@
       "sourceLine": 356
     },
     {
+      "body": "火ᴾ",
+      "kanji": "火",
+      "root": "pir",
+      "prefixes": [
+        "pir"
+      ],
+      "insertText": "pir",
+      "detail": "pir → 火ᴾ (語限定 pyro-(火·熱): pir/heli/o/metr/o, pir/geo/metr/o 他15語)",
+      "documentation": "語根: pir\n入力: pir\n最終形: 火ᴾ\n漢字: 火\n識別子: ᴾ\n型: sep(語限定)\n語義: pyro-(火·熱)\n適用語: pir/heli/o/metr/o, pir/geo/metr/o, pir/o/elektr/a, pir/o/magnet/a, pir/o/teknik/aj^/o, pir/o/teknik/ist/o, pir/o/teknik/o, pir/o/liz/i, pir/o/liz/o, pir/o/metr/o, pir/o/fosf/at/o, pir/o/gajl/o, pir/o/gajlol/o, pir/o/sulf/at/o, pir/o/sulf/it/o, pir/o/fosfat/o, pir/oz/o\n注記: pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。胸やけpirozo=火/症(pyrosis灼熱感。2026-07-19正本ドリフト piroz→pir/oz 露出)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持\n基本形: no\n出典: homonym-alt.tsv:66",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 66
+    },
+    {
       "body": "火地计",
       "kanji": "火地计",
       "root": "pirgeometr",
@@ -83284,6 +84500,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 2186
+    },
+    {
+      "body": "灰ᴾ",
+      "kanji": "灰",
+      "root": "poli",
+      "prefixes": [
+        "poli"
+      ],
+      "insertText": "poli",
+      "detail": "poli → 灰ᴾ (語限定 polio-(灰白質=griza substanco mjela/cerba: poli/o/mjel/it/o, poli/o/bulb/it/o 他3語)",
+      "documentation": "語根: poli\n入力: poli\n最終形: 灰ᴾ\n漢字: 灰\n識別子: ᴾ\n型: sep(語限定)\n語義: polio-(灰白質=griza substanco mjela/cerba\n適用語: poli/o/mjel/it/o, poli/o/bulb/it/o, poli/o/encefal/it/o, poli/o/bulbit/o, poli/o/encefalit/o\n注記: polio-(灰白質=griza substanco mjela/cerba。PIV原本polio/定義)→灰。学術版は粗分節(poli/o/bulbit・poli/o/encefalit)ゆえ両granularityを列挙。急性灰白髓炎poliomjelit(灰/髓/炎)・灰白延髄炎poliobulbit(bulb延髓=球・灰/球/炎)・灰白脳炎polioencefalit(灰/脑/炎)。多義poly-(多:poligami多婚/poliglot多言語/polimer重合体/politeism多神)は多維持=word-scoped。2026-07-19 別AI監査是正: 学習者版poli=多ᴾ誤友(polio灰白質≠poly多)を是正。学術版poliomjelit=灰髓炎は既に正\n基本形: no\n出典: homonym-alt.tsv:40",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 40
     },
     {
       "body": "灰髓炎",
@@ -85294,12 +86526,12 @@
       ],
       "insertText": "luks",
       "detail": "luks → 照ᴸ (同綴異義: ルクス)",
-      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-amb.tsv:14",
+      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-alt.tsv:137",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 14
+      "sourceLine": 137
     },
     {
       "body": "煽动",
@@ -85718,6 +86950,22 @@
       "sourceLine": 755
     },
     {
+      "body": "爱ᶠ",
+      "kanji": "爱",
+      "root": "fil",
+      "prefixes": [
+        "fil"
+      ],
+      "insertText": "fil",
+      "detail": "fil → 爱ᶠ (語限定 -fil-(philos=愛/-phile): bibli/o/fil/o, bibli/o/fil/i/o 他12語)",
+      "documentation": "語根: fil\n入力: fil\n最終形: 爱ᶠ\n漢字: 爱\n識別子: ᶠ\n型: sep(語限定)\n語義: -fil-(philos=愛/-phile)\n適用語: bibli/o/fil/o, bibli/o/fil/i/o, pedo/fil/i/o, gastr/o/fil/o, gips/o/fil/o, hidr/o/fil/a, nekr/o/fil/i/o, skop/o/fil/i/o, fil/antrop/o, fil/antrop/i/o, fil/o/logi/o, fil/o/logi/a, fil/o/logi/ist/o, fil/o/log/o\n注記: -fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外\n基本形: no\n出典: homonym-alt.tsv:17",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 17
+    },
+    {
       "body": "爱国",
       "kanji": "爱国",
       "root": "patriot",
@@ -86094,12 +87342,12 @@
       ],
       "insertText": "siren",
       "detail": "siren → 牛ˢ (同綴異義: 海牛)",
-      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-amb.tsv:22",
+      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-alt.tsv:147",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 22
+      "sourceLine": 147
     },
     {
       "body": "牛ᶻ",
@@ -88758,6 +90006,22 @@
       "sourceLine": 709
     },
     {
+      "body": "现ᶠᴱ",
+      "kanji": "现",
+      "root": "fen",
+      "prefixes": [
+        "fen"
+      ],
+      "insertText": "fen",
+      "detail": "fen → 现ᶠᴱ (語限定 phainein(希現れる·示す): fen/o/tip/o)",
+      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:89",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 89
+    },
+    {
       "body": "现ᴷ",
       "kanji": "现",
       "root": "kontant",
@@ -89790,12 +91054,12 @@
       ],
       "insertText": "vat",
       "detail": "vat → 瓦ⱽ (同綴異義: ワット)",
-      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-amb.tsv:5",
+      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-alt.tsv:125",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 5
+      "sourceLine": 125
     },
     {
       "body": "瓦计",
@@ -90502,6 +91766,22 @@
       "sourceLine": 8896
     },
     {
+      "body": "生理",
+      "kanji": "生理",
+      "root": "fizi",
+      "prefixes": [
+        "fizi"
+      ],
+      "insertText": "fizi",
+      "detail": "fizi → 生理 (語限定 fiziologi(physis=生命): fizi/o/logi/o, fizi/o/log/o 他3語)",
+      "documentation": "語根: fizi\n入力: fizi\n最終形: 生理\n漢字: 生理\n識別子: なし\n型: sep(語限定)\n語義: fiziologi(physis=生命)\n適用語: fizi/o/logi/o, fizi/o/log/o, fizi/o/logi/a, plant/fizi/o/logi/o, psik/o/fizi/o/logi/o\n注記: fiziologi(physis=生命)→生理。生理学(生理/学)。物理physics(fizik=物理)は同綴別義で不干渉。2026-07-19ユーザー裁定: {Ｏ}生理学との矛盾是正\n基本形: no\n出典: homonym-alt.tsv:42",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 42
+    },
+    {
       "body": "生理学",
       "kanji": "生理学",
       "root": "fiziologi",
@@ -90772,6 +92052,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 6076
+    },
+    {
+      "body": "甲ᴹᴱ",
+      "kanji": "甲",
+      "root": "met",
+      "prefixes": [
+        "met"
+      ],
+      "insertText": "met",
+      "detail": "met → 甲ᴹᴱ (語限定 methoxy中の-met-(甲基methyl): di/met/oksi/fenol/o)",
+      "documentation": "語根: met\n入力: met\n最終形: 甲ᴹᴱ\n漢字: 甲\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: methoxy中の-met-(甲基methyl)\n適用語: di/met/oksi/fenol/o\n注記: methoxy中の-met-(甲基methyl)→甲。旧whole-word metoksi=甲氧を過細分解で露出(di/met/oksi/fenol)。動詞met/i=置(置く)は列挙語のみ上書きのword-scopedゆえ78語すべて保持\n基本形: no\n出典: homonym-alt.tsv:57",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 57
     },
     {
       "body": "甲ᴹᴸ",
@@ -91854,12 +93150,12 @@
       ],
       "insertText": "male",
       "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
-      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-amb.tsv:41",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:169",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 41
+      "sourceLine": 169
     },
     {
       "body": "疫ᴾ",
@@ -92054,6 +93350,38 @@
       "sourceLine": 7014
     },
     {
+      "body": "病ᴾ",
+      "kanji": "病",
+      "root": "pati",
+      "prefixes": [
+        "pati"
+      ],
+      "insertText": "pati",
+      "detail": "pati → 病ᴾ (語限定 -pathy(臓器疾患·療法): aden/o/pati/o, aden/pati/o 他23語)",
+      "documentation": "語根: pati\n入力: pati\n最終形: 病ᴾ\n漢字: 病\n識別子: ᴾ\n型: sep(語限定)\n語義: -pathy(臓器疾患·療法)\n適用語: aden/o/pati/o, aden/pati/o, encefal/o/pati/o, kardi/o/pati/o, kardi/mi/o/pati/o, kinez/o/pati/o, koks/o/pati/o, limf/aden/o/pati/o, medol/o/pati/o, medol/pati/o, mi/o/pati/o, mjel/o/pati/o, nefr/o/pati/o, neu^r/o/pati/o, ost/o/pati/o, pati/o, pneu^mon/o/pati/o, psik/o/pati/o, psik/o/pati/ul/o, retin/o/pati/o, trik/o/pati/o, ost/e/o/pati/o, alo/pati/o, homeo/pati/o, homeo/pati/a\n注記: -pathy(臓器疾患·療法)→病。逆症療法alo/pati(异/病)·同種療法homeo/pati(homeo/病)も医療体系ゆえ病。感情系 a/pati(無感動)·anti/pati(反感)·tele/pati(テレパシー) と simpati(亲) は情/亲のまま維持(disc不掲載)。2026-07-19 監査: alo/homeo/pati追加\n基本形: no\n出典: homonym-alt.tsv:49",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 49
+    },
+    {
+      "body": "病ᴾᴬ",
+      "kanji": "病",
+      "root": "pat",
+      "prefixes": [
+        "pat"
+      ],
+      "insertText": "pat",
+      "detail": "pat → 病ᴾᴬ (語限定 patho-(病理·病原): pat/o/gen/a, pat/o/logi/a 他8語)",
+      "documentation": "語根: pat\n入力: pat\n最終形: 病ᴾᴬ\n漢字: 病\n識別子: ᴾᴬ\n型: sep(語限定)\n語義: patho-(病理·病原)\n適用語: pat/o/gen/a, pat/o/logi/a, pat/o/logi/o, pat/o/log/o, pat/o/genez/o, fit/o/pat/o/logi/o, plant/pat/o/logi/o, psik/o/pat/o/logi/o, sem/pat/o/logi/o, psik/o/pat/o\n注記: patho-(病理·病原)→病。フライパンpat/o(锅)·チェスstalemate pat(困amb)は锅のまま維持(disc不掲載)。psik/o/pat/o=精神病質者も病\n基本形: no\n出典: homonym-alt.tsv:50",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 50
+    },
+    {
       "body": "病学",
       "kanji": "病学",
       "root": "patologi",
@@ -92132,6 +93460,22 @@
       "base": true,
       "type": "pejvo",
       "sourceLine": 6382
+    },
+    {
+      "body": "症ᴼ",
+      "kanji": "症",
+      "root": "oz",
+      "prefixes": [
+        "oz"
+      ],
+      "insertText": "oz",
+      "detail": "oz → 症ᴼ (語限定 -ozo名詞: arteri/o/skler/oz/o, tromb/oz/o 他133語)",
+      "documentation": "語根: oz\n入力: oz\n最終形: 症ᴼ\n漢字: 症\n識別子: ᴼ\n型: sep(語限定)\n語義: -ozo名詞\n適用語: arteri/o/skler/oz/o, tromb/oz/o, dermat/oz/o, du/on/meta/morf/oz/a, embol/oz/o, fag/o/cit/oz/o, hor/zon/oz/o, tuberkul/oz/ul/on, meta/morf/oz/i, meta/morf/oz/o, muk/oz/o, neu^r/oz/a, neu^r/oz/o, neu^r/oz/ul/o, pir/oz/o, plen/meta/morf/oz/a, polen/oz/o, polip/oz/o, psik/o/neu^r/oz/o, psik/oz/o, sen/meta/morf/oz/a, silik/oz/o, skler/oz/o, tuberkul/oz/o, tuberkul/oz/ul/o, acid/oz/o, adip/oz/o, akar/oz/o, akr/o/cian/oz/o, aktin/o/micet/oz/o, alkal/oz/o, ameb/oz/o, ancilostom/oz/o, artr/oz/o, asbest/oz/o, askarid/oz/o, aspergil/oz/o, atero/skler/oz/o, a/vitamin/oz/o, bilharzi/oz/o, blast/o/micet/oz/o, brucel/oz/oj, cian/oz/o, cisticerk/oz/o, cit/oz/o, demodeks/oz/o, embol/oz/ig/o, ergot/oz/o, filari/oz/o, fung/oz/o, furunk/oz/o, giardi/oz/o, gonokok/oz/o, granul/om/oz/o, gum/oz/o, halucin/oz/o, helmint/oz/o, hemat/oz/o, hidatid/oz/o, kandid/oz/o, karcinom/oz/o, kerat/oz/o, keton/oz/o, kokcidi/oz/o, ksantom/oz/o, legionel/oz/o, leptospir/oz/o, leu^ko/cit/oz/o, leu^k/oz/o, listeri/oz/o, micet/oz/o, mikro/spor/oz/o, muk/oz/aj^/o, muskol/oz/o, nefr/oz/o, nekr/oz/o, nekr/oz/i, oksiur/oz/o, onkocerk/oz/o, papil/om/oz/o, parazit/oz/o, psitak/oz/o, pustul/oz/o, retikul/oz/o, rikeci/oz/oj, salmonel/oz/o, sarkom/oz/o, ser/oz/o, ser/oz/aj^/o, silic/oz/o, sinistr/oz/o, skistosom/oz/o, spiril/oz/o, spiroket/oz/o, spor/o/trik/oz/o, stafilokok/oz/o, steat/oz/o, streptokok/oz/o, suber/oz/o, tabak/oz/o, teni/oz/o, treponem/oz/o, trik/oz/o, trik/o/micet/oz/o, trikofit/oz/o, trofo/neu^r/oz/o, trombidi/oz/o, tuberkul/oz/a, velk/oz/o, veruk/oz/o, virus/oz/o, kojl/o/bacil/oz/o, el/cit/oz/o, ekzo/cit/oz/o, en/cit/oz/o, endo/cit/oz/o, tuberkul/granul/oz/o, foli/makul/oz/o, pio/nefr/oz/o, trofi/neu^r/oz/o, klab/radik/oz/o, foli/rul/oz/o, plat/skler/oz/o, sen/vitamin/oz/o, proto/zo/oz/o, fagocit/oz/o, aktinomicet/oz/o, blastomicet/oz/o, granulom/oz/o, leu^kocit/oz/o, mikrospor/oz/o, papilom/oz/o, sporotrik/oz/o, trikomicet/oz/o, protozo/oz/o\n注記: -ozo名詞→症(状態/症状全般に集約。病/変態/食作用/膜/iodoso/jetlag。糖類のみ糖・genuine形容詞-oza富。2026-06-21ユーザー裁定で症+糖の2字に集約)\n基本形: no\n出典: homonym-alt.tsv:177",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 177
     },
     {
       "body": "症ˢ",
@@ -92494,12 +93838,12 @@
       ],
       "insertText": "tof",
       "detail": "tof → 瘤ᵀᶠ (同綴異義: 痛風)",
-      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-amb.tsv:40",
+      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-alt.tsv:168",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 40
+      "sourceLine": 168
     },
     {
       "body": "瘤ⱽᴬ",
@@ -93892,6 +95236,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 3216
+    },
+    {
+      "body": "盐ᴴ",
+      "kanji": "盐",
+      "root": "halo",
+      "prefixes": [
+        "halo"
+      ],
+      "insertText": "halo",
+      "detail": "halo → 盐ᴴ (語限定 halo-(希ἅλς hals=塩): halo/fit/o)",
+      "documentation": "語根: halo\n入力: halo\n最終形: 盐ᴴ\n漢字: 盐\n識別子: ᴴ\n型: sep(語限定)\n語義: halo-(希ἅλς hals=塩)\n適用語: halo/fit/o\n注記: halo-(希ἅλς hals=塩)→盐。塩生植物halophyte(halo/fit=盐/植)の halo のみ。かさ・ハレーションhalo/o(晕)・電話「もしもし」halo は晕維持(word-scoped)。2026-07-18 偽友スイープ是正\n基本形: no\n出典: homonym-alt.tsv:56",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 56
     },
     {
       "body": "盐浸",
@@ -95702,6 +97062,22 @@
       "sourceLine": 1834
     },
     {
+      "body": "石ᴸᵀ",
+      "kanji": "石",
+      "root": "lit",
+      "prefixes": [
+        "lit"
+      ],
+      "insertText": "lit",
+      "detail": "lit → 石ᴸᵀ (語限定 -lit-(lithos=石/-lith): aer/o/lit/o, mega/lit/a 他21語)",
+      "documentation": "語根: lit\n入力: lit\n最終形: 石ᴸᵀ\n漢字: 石\n識別子: ᴸᵀ\n型: sep(語限定)\n語義: -lit-(lithos=石/-lith)\n適用語: aer/o/lit/o, mega/lit/a, mega/lit/o, mono/lit/a, mono/lit/o, neo/lit/ik/o, paleo/lit/ik/o, epi/paleo/lit/ik/o, mez/o/lit/ik/o, mikro/lit/a, mikro/lit/o, piz/o/lit/o, fot/o/lit/o/grafi/o, krom/o/lit/o/grafi/o, lit/o/graf/o, lit/o/graf/i, lit/o/grafi/o, lit/o/graf/aj^/o, lit/o/graf/ist/o, lit/o/logi/o, lit/o/sfer/o, lit/o/skop/o, lit/o/tomi/o\n注記: -lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は別sep lit→解(2026-06-23ユーザー裁定)。2026-07-18偽友スイープ: 石版印刷litograf系5形・岩石学litologi・岩石圏litosfer・膀胱結石litoskop/litotomi(医)を追加(床=寝台の誤友是正)\n基本形: no\n出典: homonym-alt.tsv:27",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 27
+    },
+    {
       "body": "石ˢ",
       "kanji": "石",
       "root": "spat",
@@ -96086,6 +97462,22 @@
       "sourceLine": 4581
     },
     {
+      "body": "矿ᴮ",
+      "kanji": "矿",
+      "root": "bor",
+      "prefixes": [
+        "bor"
+      ],
+      "insertText": "bor",
+      "detail": "bor → 矿ᴮ (語限定 ホウ素(半金属元素): bor/o, bor/at/o 他5語)",
+      "documentation": "語根: bor\n入力: bor\n最終形: 矿ᴮ\n漢字: 矿\n識別子: ᴮ\n型: sep(語限定)\n語義: ホウ素(半金属元素)\n適用語: bor/o, bor/at/o, bor/at/a, bor/o/tartr/at/o, tetra/bor/at/o, fluor/bor/at/o, bor/o/tartrat/o\n注記: ホウ素(半金属元素)→矿。bor/o/tartrat=学術版粗分解(2026-06-23)。掘削bor/i=钻と別。bor/at=ホウ酸塩→矿/盐。bor/o/tartr/at=ホウ酒石酸塩(連結o複合)も矿。tetra/bor/at=四ホウ酸塩・fluor/bor/at=フルオロホウ酸塩(WSL過細分解 Xat→X/at 同期)\n基本形: no\n出典: homonym-alt.tsv:8",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 8
+    },
+    {
       "body": "矿ᴱ",
       "kanji": "矿",
       "root": "erc",
@@ -96340,6 +97732,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 4821
+    },
+    {
+      "body": "码ᴷᴶ",
+      "kanji": "码",
+      "root": "kaj",
+      "prefixes": [
+        "kaj"
+      ],
+      "insertText": "kaj",
+      "detail": "kaj → 码ᴷᴶ (語限定 埠頭: kaj/o, kaj/oj)",
+      "documentation": "語根: kaj\n入力: kaj\n最終形: 码ᴷᴶ\n漢字: 码\n識別子: ᴷᴶ\n型: sep(語限定)\n語義: 埠頭\n適用語: kaj/o, kaj/oj\n注記: 埠頭。接続詞kaj=和と別\n基本形: no\n出典: homonym-alt.tsv:12",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 12
     },
     {
       "body": "码元",
@@ -98582,6 +99990,22 @@
       "sourceLine": 2855
     },
     {
+      "body": "神ᵀ",
+      "kanji": "神",
+      "root": "te",
+      "prefixes": [
+        "te"
+      ],
+      "insertText": "te",
+      "detail": "te → 神ᵀ (語限定 -te-(theo=神): a/te/ism/o, a/te/ist/a 他18語)",
+      "documentation": "語根: te\n入力: te\n最終形: 神ᵀ\n漢字: 神\n識別子: ᵀ\n型: sep(語限定)\n語義: -te-(theo=神)\n適用語: a/te/ism/o, a/te/ist/a, a/te/ist/o, mono/te/ism/o, mono/te/ist/o, pan/te/ism/a, pan/te/ism/o, pan/te/ist/o, poli/te/ism/o, poli/te/ist/o, te/o/krati/a, te/o/krati/o, te/o/krat/o, te/o/logi/a, te/o/logi/ist/o, te/o/logi/o, te/o/log/o, te/o/goni/o, te/ism/o, te/ist/o\n注記: -te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)。te/ism/o=有神論・te/ist/o=有神論者(theism/theist)も神(2026-06-23 sep派生形網羅)。2026-07-06 正本波でte/o/goni/o(神統記theogonia)露出→被覆漏れ是正で追加(teokrati/teologiと同神)\n基本形: no\n出典: homonym-alt.tsv:29",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 29
+    },
+    {
       "body": "神主义",
       "kanji": "神主义",
       "root": "teism",
@@ -99198,12 +100622,12 @@
       ],
       "insertText": "prim",
       "detail": "prim → 祷 (同綴異義: 一時課)",
-      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-amb.tsv:28",
+      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-alt.tsv:155",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 28
+      "sourceLine": 155
     },
     {
       "body": "祸",
@@ -99748,6 +101172,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 2089
+    },
+    {
+      "body": "种ˢᴿ",
+      "kanji": "种",
+      "root": "sperm",
+      "prefixes": [
+        "sperm"
+      ],
+      "insertText": "sperm",
+      "detail": "sperm → 种ˢᴿ (語限定 -sperma(種·胚乳): endo/sperm/o, peri/sperm/o 他1語)",
+      "documentation": "語根: sperm\n入力: sperm\n最終形: 种ˢᴿ\n漢字: 种\n識別子: ˢᴿ\n型: sep(語限定)\n語義: -sperma(種·胚乳)\n適用語: endo/sperm/o, peri/sperm/o, angi/o/sperm/oj\n注記: -sperma(種·胚乳)→种。angi/o/sperm/oj(被子植物=覆われた種)もgimnosperm裸子(whole-word)・endo/peri/spermと平行に种(2026-07-04 WSL再分解angiosperm→angi/o/sperm露出で精液=semen誤適用を是正)。精液sperm/o(精液)·sperm/o/dukt等は維持\n基本形: no\n出典: homonym-alt.tsv:102",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 102
     },
     {
       "body": "种姓",
@@ -101486,12 +102926,12 @@
       ],
       "insertText": "plum",
       "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
-      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-amb.tsv:2",
+      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:122",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 2
+      "sourceLine": 122
     },
     {
       "body": "笛",
@@ -102502,6 +103942,22 @@
       "sourceLine": 4089
     },
     {
+      "body": "管ˢ",
+      "kanji": "管",
+      "root": "salping",
+      "prefixes": [
+        "salping"
+      ],
+      "insertText": "salping",
+      "detail": "salping → 管ˢ (語限定 salpingo(希σάλπιγξ=筒·管): ot/o/salping/o, ot/o/salping/it/o)",
+      "documentation": "語根: salping\n入力: salping\n最終形: 管ˢ\n漢字: 管\n識別子: ˢ\n型: sep(語限定)\n語義: salpingo(希σάλπιγξ=筒·管)\n適用語: ot/o/salping/o, ot/o/salping/it/o\n注記: salpingo(希σάλπιγξ=筒·管)→管。耳管otosalpingo(耳/管=Au^da tubo=Eustachian tube)の文脈のみ。婦人科の卵管salping/o=卵管は基本形維持(word-scoped)。2026-07-15 監査是正: 耳管義と卵管義の真正な同綴異義を当該3見出しだけ分離。管はtub=管群の一員(自動でid付与)\n基本形: no\n出典: homonym-alt.tsv:70",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 70
+    },
+    {
       "body": "管ˢ̂",
       "kanji": "管",
       "root": "s^alm",
@@ -102532,6 +103988,22 @@
       "base": true,
       "type": "piv",
       "sourceLine": 8697
+    },
+    {
+      "body": "管炎",
+      "kanji": "管炎",
+      "root": "salpingit",
+      "prefixes": [
+        "salpingit"
+      ],
+      "insertText": "salpingit",
+      "detail": "salpingit → 管炎 (語限定 otosalpingito(耳管炎=耳/管炎)の学術版融合形: ot/o/salpingit/o)",
+      "documentation": "語根: salpingit\n入力: salpingit\n最終形: 管炎\n漢字: 管炎\n識別子: なし\n型: sep(語限定)\n語義: otosalpingito(耳管炎=耳/管炎)の学術版融合形\n適用語: ot/o/salpingit/o\n注記: otosalpingito(耳管炎=耳/管炎)の学術版融合形→管炎。一般salpingit/o=卵管炎(婦人科)は基本形維持(word-scoped)。2026-07-15 監査是正\n基本形: no\n出典: homonym-alt.tsv:71",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 71
     },
     {
       "body": "管面",
@@ -103214,12 +104686,12 @@
       ],
       "insertText": "stok",
       "detail": "stok → 粘ˢ (同綴異義: ストークス)",
-      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-amb.tsv:15",
+      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-alt.tsv:138",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 15
+      "sourceLine": 138
     },
     {
       "body": "粘ⱽ",
@@ -103990,6 +105462,22 @@
       "sourceLine": 2102
     },
     {
+      "body": "糖ᴼ",
+      "kanji": "糖",
+      "root": "oz",
+      "prefixes": [
+        "oz"
+      ],
+      "insertText": "oz",
+      "detail": "oz → 糖ᴼ (語限定 -ose糖: celul/oz/a, celul/oz/o 他28語)",
+      "documentation": "語根: oz\n入力: oz\n最終形: 糖ᴼ\n漢字: 糖\n識別子: ᴼ\n型: sep(語限定)\n語義: -ose糖\n適用語: celul/oz/a, celul/oz/o, lakt/oz/a, lakt/oz/o, malt/oz/o, sakar/oz/o, amel/oz/o, arab/in/oz/o, frukt/oz/o, hemi/celul/oz/o, indig/oz/id/o, indig/oz/id/az/o, kal/oz/o, ksil/oz/o, nukle/oz/id/o, rafin/oz/o, rib/oz/o, rut/oz/id/o, salik/oz/id/o, staki/oz/o, gren/malt/oz/aj^/o, ald/oz/o, de/oksi/oz/o, furan/oz/o, ket/oz/o, piran/oz/o, sap/oz/id/o, de/oksi/rib/oz/o, oz/o, oz/id/o\n注記: -ose糖→糖(標準語oz/o単糖含む)\n基本形: no\n出典: homonym-alt.tsv:178",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 178
+    },
+    {
       "body": "糖ˢᴰ",
       "kanji": "糖",
       "root": "sakarid",
@@ -104276,6 +105764,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 3706
+    },
+    {
+      "body": "系ᶠᴸ",
+      "kanji": "系",
+      "root": "fil",
+      "prefixes": [
+        "fil"
+      ],
+      "insertText": "fil",
+      "detail": "fil → 系ᶠᴸ (語限定 phylogenesis(系統発生)のfil: fil/o/genez/o)",
+      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:86",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 86
     },
     {
       "body": "系ᴳ",
@@ -104990,12 +106494,12 @@
       ],
       "insertText": "er",
       "detail": "er → 纪ᴱᴿ (同綴異義: 紀元)",
-      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-amb.tsv:37",
+      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-alt.tsv:165",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 37
+      "sourceLine": 165
     },
     {
       "body": "素",
@@ -105598,12 +107102,12 @@
       ],
       "insertText": "file",
       "detail": "file → 线ᶠ (同綴異義: 罫線)",
-      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-amb.tsv:33",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:160",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 33
+      "sourceLine": 160
     },
     {
       "body": "线ᴸᴱ",
@@ -106948,6 +108452,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 1849
+    },
+    {
+      "body": "绿ᴷ",
+      "kanji": "绿",
+      "root": "klor",
+      "prefixes": [
+        "klor"
+      ],
+      "insertText": "klor",
+      "detail": "klor → 绿ᴷ (語限定 chloro-(χλωρός緑): klor/o/fic/o, klor/o/fic/oj 他2語)",
+      "documentation": "語根: klor\n入力: klor\n最終形: 绿ᴷ\n漢字: 绿\n識別子: ᴷ\n型: sep(語限定)\n語義: chloro-(χλωρός緑)\n適用語: klor/o/fic/o, klor/o/fic/oj, klor/o/fit/o, klor/o/fit/oj\n注記: chloro-(χλωρός緑)→绿。緑藻klorofic/klorofit(verdalgoj)。氯(塩素kloroform)はwrong-morpheme。klorofil叶绿と整合。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:82",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 82
     },
     {
       "body": "绿植",
@@ -108950,6 +110470,22 @@
       "sourceLine": 7540
     },
     {
+      "body": "翼ᴬ",
+      "kanji": "翼",
+      "root": "al",
+      "prefixes": [
+        "al"
+      ],
+      "insertText": "al",
+      "detail": "al → 翼ᴬ (語限定 翼(alo=翼/羽根): al/o, helic/al/o 他4語)",
+      "documentation": "語根: al\n入力: al\n最終形: 翼ᴬ\n漢字: 翼\n識別子: ᴬ\n型: sep(語限定)\n語義: 翼(alo=翼/羽根)\n適用語: al/o, helic/al/o, c^irkau^/al/a, frog/al/o, al/et/o, al/et/s^rau^b/ing/o\n注記: 翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:118",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 118
+    },
+    {
       "body": "翼展",
       "kanji": "翼展",
       "root": "envergur",
@@ -109284,6 +110820,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 1805
+    },
+    {
+      "body": "耳ᴼᵀ",
+      "kanji": "耳",
+      "root": "ot",
+      "prefixes": [
+        "ot"
+      ],
+      "insertText": "ot",
+      "detail": "ot → 耳ᴼᵀ (語限定 oto-(耳): ot/o, ot/it/o 他11語)",
+      "documentation": "語根: ot\n入力: ot\n最終形: 耳ᴼᵀ\n漢字: 耳\n識別子: ᴼᵀ\n型: sep(語限定)\n語義: oto-(耳)\n適用語: ot/o, ot/it/o, ot/algi/o, ot/o/logi/o, ot/o/skop/o, ot/o/skop/i/o, ot/o-rin/o-laring/o/log/o, ot/o/rin/o/laring/o/logi/o, ot/o/salping/o, ot/o/salping/it/o, ot/o-rin/o-laringolog/o, ot/o/salpingit/o, ot/a\n注記: oto-(耳)→耳。未来受動分詞-ot-(待。nask/ot/vend/ot/a等)は維持。2026-07-15 監査是正: 学術版の融合語形 ot/o-rin/o-laringolog/o(耳鼻喉科医)・ot/o/salpingit/o(耳管炎)を追加(待の取りこぼし是正)。ot/a(耳の)は旧$new重複を統合\n基本形: no\n出典: homonym-alt.tsv:69",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 69
     },
     {
       "body": "耳学",
@@ -109812,6 +111364,22 @@
       "base": true,
       "type": "pejvo",
       "sourceLine": 8674
+    },
+    {
+      "body": "肌",
+      "kanji": "肌",
+      "root": "mi",
+      "prefixes": [
+        "mi"
+      ],
+      "insertText": "mi",
+      "detail": "mi → 肌 (語限定 myo-(筋肉): mi/o, mi/it/o 他10語)",
+      "documentation": "語根: mi\n入力: mi\n最終形: 肌\n漢字: 肌\n識別子: なし\n型: sep(語限定)\n語義: myo-(筋肉)\n適用語: mi/o, mi/it/o, mi/o/pati/o, mi/o/kardi/o, mi/o/fibr/it/o, mi/o/fibrit/o, mi/o/globin/o, mi/o/glob/in/o, mi/o/sarkom/o, kardi/mi/o/pati/o, mi/om/o, mi/on/o\n注記: myo-(筋肉)→肌。代名詞mi(我)·所有mi/aj^/o(私の物=我)は維持(disc不掲載)。2026-07-18偽友スイープ: 筋腫mi/om・筋節mi/on・筋グロビンmi/o/glob/in(正本再分節globin→glob/in)追加(我=代名詞の誤友是正)。2026-07-20 学術版粗分節mi/o/fibrit/o追加(学習者mi/o/fibr/it/oと粒度差=学術のみmi=我偽友残存→肌。fibrit→纤炎はp_work併用で肌纤炎に)\n基本形: no\n出典: homonym-alt.tsv:52",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 52
     },
     {
       "body": "肌炎",
@@ -111686,6 +113254,22 @@
       "sourceLine": 4963
     },
     {
+      "body": "胞ᶜᴵ",
+      "kanji": "胞",
+      "root": "cit",
+      "prefixes": [
+        "cit"
+      ],
+      "insertText": "cit",
+      "detail": "cit → 胞ᶜᴵ (語限定 -cyt-(細胞·-cyte): fag/o/cit/ad/o, fag/o/cit/i 他20語)",
+      "documentation": "語根: cit\n入力: cit\n最終形: 胞ᶜᴵ\n漢字: 胞\n識別子: ᶜᴵ\n型: sep(語限定)\n語義: -cyt-(細胞·-cyte)\n適用語: fag/o/cit/ad/o, fag/o/cit/i, fag/o/cit/o, fag/o/cit/oz/o, granul/o/cit/o, hiper/granul/o/cit/emi/o, hipo/granul/o/cit/emi/o, leu^ko/cit/o, leu^ko/cit/o/poez/o, leu^ko/cit/oz/o, limf/o/cit/o, ov/o/cit/o, spermat/o/cit/o, tromb/o/cit/o, eritr/o/cit/o, eritr/o/cit/o/poez/o, hiper/eritr/o/cit/emi/o, cit/oz/o, el/cit/oz/o, ekzo/cit/oz/o, en/cit/oz/o, endo/cit/oz/o\n注記: -cyt-(細胞·-cyte)→胞。citi=引(re/cit・mis/cit・supr/e/cit)は保持。cit/oz(エキソ/エンドサイトーシス等)の接頭辞派生も胞(2026-06-23 sep派生形網羅。2026-07-03 WSL再分解 eritrocit→eritr/o/cit 露出で赤血球系eritr/o/cit/o・eritr/o/cit/o/poez/o 追加。2026-07-04 hiper/eritr/o/cit/emi/o(赤血球増加血症)追加=引=cite誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:45",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 45
+    },
+    {
       "body": "胞ᶜᵀ",
       "kanji": "胞",
       "root": "cito",
@@ -111716,6 +113300,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 4965
+    },
+    {
+      "body": "胞ˢ",
+      "kanji": "胞",
+      "root": "sor",
+      "prefixes": [
+        "sor"
+      ],
+      "insertText": "sor",
+      "detail": "sor → 胞ˢ (語限定 胞子嚢群: sor/o)",
+      "documentation": "語根: sor\n入力: sor\n最終形: 胞ˢ\n漢字: 胞\n識別子: ˢ\n型: sep(語限定)\n語義: 胞子嚢群\n適用語: sor/o\n注記: 胞子嚢群。sor=腾と別\n基本形: no\n出典: homonym-alt.tsv:149",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 149
     },
     {
       "body": "胞向",
@@ -112486,6 +114086,22 @@
       "sourceLine": 3760
     },
     {
+      "body": "胶ˢ",
+      "kanji": "胶",
+      "root": "sol",
+      "prefixes": [
+        "sol"
+      ],
+      "insertText": "sol",
+      "detail": "sol → 胶ˢ (語限定 sol(【化】ゾル=コロイド): aer/o/sol/o)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 胶ˢ\n漢字: 胶\n識別子: ˢ\n型: sep(語限定)\n語義: sol(【化】ゾル=コロイド)\n適用語: aer/o/sol/o\n注記: sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載\n基本形: no\n出典: homonym-alt.tsv:21",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 21
+    },
+    {
       "body": "胸",
       "kanji": "胸",
       "root": "brust",
@@ -112814,12 +114430,12 @@
       ],
       "insertText": "panikl",
       "detail": "panikl → 脂ᴾ (同綴異義: 皮下)",
-      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-amb.tsv:24",
+      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-alt.tsv:150",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 24
+      "sourceLine": 150
     },
     {
       "body": "脂ᴿ",
@@ -113742,12 +115358,12 @@
       ],
       "insertText": "karp",
       "detail": "karp → 腕ᴷ (同綴異義: 手首)",
-      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-amb.tsv:7",
+      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-alt.tsv:127",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 7
+      "sourceLine": 127
     },
     {
       "body": "腮",
@@ -114150,6 +115766,22 @@
       "sourceLine": 2712
     },
     {
+      "body": "腿ˢ",
+      "kanji": "腿",
+      "root": "sur",
+      "prefixes": [
+        "sur"
+      ],
+      "insertText": "sur",
+      "detail": "sur → 腿ˢ (語限定 ふくらはぎ: sur/o)",
+      "documentation": "語根: sur\n入力: sur\n最終形: 腿ˢ\n漢字: 腿\n識別子: ˢ\n型: sep(語限定)\n語義: ふくらはぎ\n適用語: sur/o\n注記: ふくらはぎ。前置詞sur=上と別\n基本形: no\n出典: homonym-alt.tsv:120",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 120
+    },
+    {
       "body": "膏",
       "kanji": "膏",
       "root": "cir",
@@ -114516,6 +116148,38 @@
       "base": true,
       "type": "func",
       "sourceLine": 696
+    },
+    {
+      "body": "自ᴬ",
+      "kanji": "自",
+      "root": "aŭt",
+      "prefixes": [
+        "auxt"
+      ],
+      "insertText": "auxt",
+      "detail": "aŭt → 自ᴬ (語限定 auto-(自己): au^t/ism/o, au^t/ism/ul/o 他18語)",
+      "documentation": "語根: aŭt\n入力: auxt\n最終形: 自ᴬ\n漢字: 自\n識別子: ᴬ\n型: sep(語限定)\n語義: auto-(自己)\n適用語: au^t/ism/o, au^t/ism/ul/o, au^t/ism/a, au^t/o/bio/grafi/o, au^t/o/grafi/o, au^t/o/graf/o, au^t/o/krati/o, au^t/o/krat/ism/o, au^t/o/krat/o, au^t/o/krat/a, au^t/o/krat/ec/o, au^t/o/liz/o, au^t/o/gen/a, au^t/o/gen/o, au^t/o/gami/o, au^t/o/gir/o, au^t/o/kataliz/o, au^t/o/morfi/o, tele/au^t/o/graf/i, tele/au^t/o/graf/o\n注記: auto-(自己)→自。自動車au^t/o/mobil=车は除外。au^t/o/gen=自家生成(WSL同期)。2026-07-15 自己義の取りこぼし追加(ユーザー裁定): au^t/o/gami=自家受精(memfekundig^o)・au^t/o/gir=オートジャイロ(自転翼)・au^t/o/kataliz=自己触媒(memkatalizo)・au^t/o/morfi=自己同型(sur g^in mem)・tele/au^t/o/graf=書画電送(自筆遠隔)。基本形車 au^t/o/mobil等は据置\n基本形: no\n出典: homonym-alt.tsv:35",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 35
+    },
+    {
+      "body": "自ˢ",
+      "kanji": "自",
+      "root": "sin",
+      "prefixes": [
+        "sin"
+      ],
+      "insertText": "sin",
+      "detail": "sin → 自ˢ (語限定 再帰代名詞sin(si対格=自己oneself): sin/kon/o, sin/asekur/o 他9語)",
+      "documentation": "語根: sin\n入力: sin\n最終形: 自ˢ\n漢字: 自\n識別子: ˢ\n型: sep(語限定)\n語義: 再帰代名詞sin(si対格=自己oneself)\n適用語: sin/kon/o, sin/asekur/o, sin/dev/ig/ad/o, sin/g^en/o, sin/g^en/ad/o, sin/kapt/ad/o, sin/mem/kulp/ig/o, sin/masturb/o, sin/nutr/ad/o, sin/pel/ad/o, sin/venen/ad/o\n注記: 再帰代名詞sin(si対格=自己oneself)→自。syn-(共)·胸sin/o(怀)は別義で維持(disc別記)。sin/mem/kulp/ig=自/自(mem=自と重複もR1衝突歓迎)。両版同11見出し\n基本形: no\n出典: homonym-alt.tsv:63",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 63
     },
     {
       "body": "自主义",
@@ -115110,6 +116774,22 @@
       "sourceLine": 2724
     },
     {
+      "body": "舌ᴳ",
+      "kanji": "舌",
+      "root": "glos",
+      "prefixes": [
+        "glos"
+      ],
+      "insertText": "glos",
+      "detail": "glos → 舌ᴳ (語限定 ギリシャglōssa(舌tongue)の解剖義: glos/ektomi/o, glos/it/o 他1語)",
+      "documentation": "語根: glos\n入力: glos\n最終形: 舌ᴳ\n漢字: 舌\n識別子: ᴳ\n型: sep(語限定)\n語義: ギリシャglōssa(舌tongue)の解剖義\n適用語: glos/ektomi/o, glos/it/o, hipo/glos/o\n注記: ギリシャglōssa(舌tongue)の解剖義→舌。舌切除glosektomi(glos/除)·舌炎glosit(glos/炎)·舌下神経hipogloso(亚/舌)。注釈gloss(用語集glos/ar/o·gloso)のglos=注は維持(word-scoped 同綴別義)。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:100",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 100
+    },
+    {
       "body": "舌炎",
       "kanji": "舌炎",
       "root": "glosit",
@@ -115252,6 +116932,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 2953
+    },
+    {
+      "body": "舞ᵀ",
+      "kanji": "舞",
+      "root": "tang",
+      "prefixes": [
+        "tang"
+      ],
+      "insertText": "tang",
+      "detail": "tang → 舞ᵀ (語限定 タンゴ: tang/o)",
+      "documentation": "語根: tang\n入力: tang\n最終形: 舞ᵀ\n漢字: 舞\n識別子: ᵀ\n型: sep(語限定)\n語義: タンゴ\n適用語: tang/o\n注記: タンゴ。tang=颠と別行\n基本形: no\n出典: homonym-alt.tsv:162",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 162
     },
     {
       "body": "舟",
@@ -115796,6 +117492,38 @@
       "base": false,
       "type": "piv",
       "sourceLine": 1227
+    },
+    {
+      "body": "色ᴷᴵ",
+      "kanji": "色",
+      "root": "kromi",
+      "prefixes": [
+        "kromi"
+      ],
+      "insertText": "kromi",
+      "detail": "kromi → 色ᴷᴵ (語限定 chroma(希色): homo/kromi/o, fot/o/kromi/o 他3語)",
+      "documentation": "語根: kromi\n入力: kromi\n最終形: 色ᴷᴵ\n漢字: 色\n識別子: ᴷᴵ\n型: sep(語限定)\n語義: chroma(希色)\n適用語: homo/kromi/o, fot/o/kromi/o, poli/kromi/a, poli/kromi/o, tri/kromi/o\n注記: chroma(希色)→色。保護色homochromy(homo/kromi=同/色)・天然色写真術fotokromi(fot/o/kromi=拍/色)。多色polychromy(poli/kromi=多/色)・三色trichromy(tri/kromi=三/色)。金属クロムkromi/o=金・クロム酸塩kromiat等の化学は金維持(word-scoped)。krom→色と同源。2026-07-18 偽友スイープR3。2026-07-21 正本ドリフト polikromi→poli/kromi・trikromi→tri/kromi 露出で追加=多/金・三/金の誤描画を是正(第27回)\n基本形: no\n出典: homonym-alt.tsv:90",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 90
+    },
+    {
+      "body": "色ᴷᴹ",
+      "kanji": "色",
+      "root": "krom",
+      "prefixes": [
+        "krom"
+      ],
+      "insertText": "krom",
+      "detail": "krom → 色ᴷᴹ (語限定 chromo-(色=color): krom/o/fotografi/o, krom/o/litografi/o 他4語)",
+      "documentation": "語根: krom\n入力: krom\n最終形: 色ᴷᴹ\n漢字: 色\n識別子: ᴷᴹ\n型: sep(語限定)\n語義: chromo-(色=color)\n適用語: krom/o/fotografi/o, krom/o/litografi/o, krom/o/sfer/o, krom/o/fot/o/grafi/o, krom/o/lit/o/grafi/o, kvantum/krom/o/dinamik/o\n注記: chromo-(色=color)→色。量子色力学QCD kvantum/krom/o/dinamik(量子/色/o/力=color charge色荷)。chromosphere彩層(太陽)・chromolithography彩色石版・chromophotography彩色写真。金属クロムkrom/o=金・前置詞krom=外と別綴り同根。2026-07-18偽友スイープR2: 正本再分節(fotografi→fot/o/grafi・litografi→lit/o/grafi)で外に化けた天然色写真krom/o/fot/o/grafi・着色石版krom/o/lit/o/grafiを現行綴りで追加\n基本形: no\n出典: homonym-alt.tsv:6",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 6
     },
     {
       "body": "色ᴷᴿ",
@@ -117294,12 +119022,12 @@
       ],
       "insertText": "spat",
       "detail": "spat → 苞ˢ (同綴異義: 仏炎)",
-      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-amb.tsv:20",
+      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-alt.tsv:145",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 20
+      "sourceLine": 145
     },
     {
       "body": "若",
@@ -121486,12 +123214,12 @@
       ],
       "insertText": "line",
       "detail": "line → 草ᴸᴵᴺ (同綴異義: リンネ)",
-      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-amb.tsv:39",
+      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-alt.tsv:167",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 39
+      "sourceLine": 167
     },
     {
       "body": "草ᴸᴷ",
@@ -121988,6 +123716,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 2263
+    },
+    {
+      "body": "草ᴹᵁᴺ",
+      "kanji": "草",
+      "root": "mung",
+      "prefixes": [
+        "mung"
+      ],
+      "insertText": "mung",
+      "detail": "mung → 草ᴹᵁᴺ (語限定 緑豆(Vigna radiata=マメ科)+豆もやし: mung/o, mung/id/oj)",
+      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:171",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 171
     },
     {
       "body": "草ᴹᶻ",
@@ -122654,12 +124398,12 @@
       ],
       "insertText": "po",
       "detail": "po → 草ᴾᴼ2 (同綴異義: Poa)",
-      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-amb.tsv:38",
+      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-alt.tsv:166",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 38
+      "sourceLine": 166
     },
     {
       "body": "草ᴾᴼᴳ",
@@ -123220,6 +124964,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 2444
+    },
+    {
+      "body": "草ˢᴱᴰ",
+      "kanji": "草",
+      "root": "sed",
+      "prefixes": [
+        "sed"
+      ],
+      "insertText": "sed",
+      "detail": "sed → 草ˢᴱᴰ (語限定 Sedum=ベンケイソウ科の観賞植物属: sed/o)",
+      "documentation": "語根: sed\n入力: sed\n最終形: 草ˢᴱᴰ\n漢字: 草\n識別子: ˢᴱᴰ\n型: sep(語限定)\n語義: Sedum=ベンケイソウ科の観賞植物属\n適用語: sed/o\n注記: Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行\n基本形: no\n出典: homonym-alt.tsv:172",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 172
     },
     {
       "body": "草ˢᶠ",
@@ -124228,6 +125988,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 3199
+    },
+    {
+      "body": "荐ˢ",
+      "kanji": "荐",
+      "root": "sakr",
+      "prefixes": [
+        "sakr"
+      ],
+      "insertText": "sakr",
+      "detail": "sakr → 荐ˢ (語限定 仙骨: sakr/o, sakr/a)",
+      "documentation": "語根: sakr\n入力: sakr\n最終形: 荐ˢ\n漢字: 荐\n識別子: ˢ\n型: sep(語限定)\n語義: 仙骨\n適用語: sakr/o, sakr/a\n注記: 仙骨。sakr=骂と別\n基本形: no\n出典: homonym-alt.tsv:128",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 128
     },
     {
       "body": "荒",
@@ -125950,12 +127726,12 @@
       ],
       "insertText": "arke",
       "detail": "arke → 菌ᴬᴷ (同綴異義: 古細菌)",
-      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-amb.tsv:31",
+      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-alt.tsv:158",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 31
+      "sourceLine": 158
     },
     {
       "body": "菌ᴬᴿ",
@@ -126420,6 +128196,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 5490
+    },
+    {
+      "body": "菌ᴷᴷ",
+      "kanji": "菌",
+      "root": "kok",
+      "prefixes": [
+        "kok"
+      ],
+      "insertText": "kok",
+      "detail": "kok → 菌ᴷᴷ (語限定 -coccus(球菌): mikro/kok/o, diplo/kok/o 他2語)",
+      "documentation": "語根: kok\n入力: kok\n最終形: 菌ᴷᴷ\n漢字: 菌\n識別子: ᴷᴷ\n型: sep(語限定)\n語義: -coccus(球菌)\n適用語: mikro/kok/o, diplo/kok/o, enter/o/kok/o, mening/o/kok/o\n注記: -coccus(球菌)→菌。鶏kok=鸡は別\n基本形: no\n出典: homonym-alt.tsv:39",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 39
     },
     {
       "body": "菌ᴷᴸ",
@@ -135254,6 +137046,22 @@
       "sourceLine": 2862
     },
     {
+      "body": "裂ˢᶻ",
+      "kanji": "裂",
+      "root": "skiz",
+      "prefixes": [
+        "skiz"
+      ],
+      "insertText": "skiz",
+      "detail": "skiz → 裂ˢᶻ (語限定 Schizomycetes(裂菌)のskiz: skiz/o/micet/o, skiz/o/micet/oj)",
+      "documentation": "語根: skiz\n入力: skiz\n最終形: 裂ˢᶻ\n漢字: 裂\n識別子: ˢᶻ\n型: sep(語限定)\n語義: Schizomycetes(裂菌)のskiz\n適用語: skiz/o/micet/o, skiz/o/micet/oj\n注記: Schizomycetes(裂菌)のskiz→裂(schizo分裂)。sketch草稿skiz/o=草は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:85",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 85
+    },
+    {
       "body": "裂菌",
       "kanji": "裂菌",
       "root": "skizomicet",
@@ -136070,6 +137878,22 @@
       "sourceLine": 824
     },
     {
+      "body": "解ᴸᵀ",
+      "kanji": "解",
+      "root": "lit",
+      "prefixes": [
+        "lit"
+      ],
+      "insertText": "lit",
+      "detail": "lit → 解ᴸᵀ (語限定 -lyte(電解質electrolyte=溶解/分解する物): elektr/o/lit/o, elektr/o/lit/a)",
+      "documentation": "語根: lit\n入力: lit\n最終形: 解ᴸᵀ\n漢字: 解\n識別子: ᴸᵀ\n型: sep(語限定)\n語義: -lyte(電解質electrolyte=溶解/分解する物)\n適用語: elektr/o/lit/o, elektr/o/lit/a\n注記: -lyte(電解質electrolyte=溶解/分解する物)→解。中国語 电解质 と一致。lithos=石(-lith)とは別形態素・寝台lit/o=床とも別\n基本形: no\n出典: homonym-alt.tsv:28",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 28
+    },
+    {
       "body": "解ˢ",
       "kanji": "解",
       "root": "solv",
@@ -136260,6 +138084,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 5216
+    },
+    {
+      "body": "计ᴹ",
+      "kanji": "计",
+      "root": "metr",
+      "prefixes": [
+        "metr"
+      ],
+      "insertText": "metr",
+      "detail": "metr → 计ᴹ (語限定 メトロノームmetr(計器·measure): metr/o/nom/o)",
+      "documentation": "語根: metr\n入力: metr\n最終形: 计ᴹ\n漢字: 计\n識別子: ᴹ\n型: sep(語限定)\n語義: メトロノームmetr(計器·measure)\n適用語: metr/o/nom/o\n注記: メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理\n基本形: no\n出典: homonym-alt.tsv:110",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 110
     },
     {
       "body": "计ᵀ",
@@ -137910,6 +139750,22 @@
       "sourceLine": 912
     },
     {
+      "body": "话ᴸ",
+      "kanji": "话",
+      "root": "log",
+      "prefixes": [
+        "log"
+      ],
+      "insertText": "log",
+      "detail": "log → 话ᴸ (語限定 -log-(logos=言葉·談話/-logue): dia/log/a, dia/log/i 他12語)",
+      "documentation": "語根: log\n入力: log\n最終形: 话ᴸ\n漢字: 话\n識別子: ᴸ\n型: sep(語限定)\n語義: -log-(logos=言葉·談話/-logue)\n適用語: dia/log/a, dia/log/i, dia/log/o, dia/log/oj, dia/log/uj/o, dia/log/ist/o, mono/log/i, mono/log/o, pro/log/o, epi/log/o, neo/log/o, neo/log/ism/o, neo/log/ism/em/o, neo/log/ism/em/ul/o\n注記: -log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変\n基本形: no\n出典: homonym-alt.tsv:103",
+      "priority": 4,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 103
+    },
+    {
       "body": "诡辩",
       "kanji": "诡辩",
       "root": "sofism",
@@ -137988,6 +139844,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 1244
+    },
+    {
+      "body": "语ᴳ",
+      "kanji": "语",
+      "root": "glos",
+      "prefixes": [
+        "glos"
+      ],
+      "insertText": "glos",
+      "detail": "glos → 语ᴳ (語限定 isogloss(等語線)のglos: izo/glos/o)",
+      "documentation": "語根: glos\n入力: glos\n最終形: 语ᴳ\n漢字: 语\n識別子: ᴳ\n型: sep(語限定)\n語義: isogloss(等語線)のglos\n適用語: izo/glos/o\n注記: isogloss(等語線)のglos→语(希γλῶσσα言語)。注(glosaro注)/舌(glosit舌炎)は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:84",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 84
     },
     {
       "body": "语ᴵ",
@@ -138100,6 +139972,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 4075
+    },
+    {
+      "body": "诱ᴸ",
+      "kanji": "诱",
+      "root": "log",
+      "prefixes": [
+        "log"
+      ],
+      "insertText": "log",
+      "detail": "log → 诱ᴸ (語限定 誘惑(allure/lure): log/i, log/aj^/o 他17語)",
+      "documentation": "語根: log\n入力: log\n最終形: 诱ᴸ\n漢字: 诱\n識別子: ᴸ\n型: sep(語限定)\n語義: 誘惑(allure/lure)\n適用語: log/i, log/aj^/o, al/log/i, al/log/o, al/log/a, al/log/aj^/o, de/log/i, de/log/o, el/log/i, for/log/i, mal/log/i, log/il/o, log/bird/o, log/fajf/il/o, log/ig^/i, seks/al/log/o, sens/al/log/a, tromp/log/i, seks/log/o\n注記: 誘惑(allure/lure)。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)。seks/al/log・sens/al/log・tromp/log・seks/log(allogo=性的魅力/誘惑)も诱。※連結o付 seks/o/log/o=性科学者は学家(別語)(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:13",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 13
     },
     {
       "body": "诲",
@@ -138318,12 +140206,12 @@
       ],
       "insertText": "picx",
       "detail": "pic^ → 调ᴾ (同綴異義: 音高)",
-      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-amb.tsv:29",
+      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-alt.tsv:156",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 29
+      "sourceLine": 156
     },
     {
       "body": "调ᵀᴸ",
@@ -142078,12 +143966,12 @@
       ],
       "insertText": "ergot",
       "detail": "ergot → 距ᴱ (同綴異義: 蹴爪)",
-      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-amb.tsv:23",
+      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-alt.tsv:148",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 23
+      "sourceLine": 148
     },
     {
       "body": "距ˢ̂",
@@ -142532,6 +144420,22 @@
       "base": false,
       "type": "basic",
       "sourceLine": 2122
+    },
+    {
+      "body": "车ᶜ̂",
+      "kanji": "车",
+      "root": "ĉar",
+      "prefixes": [
+        "cxar"
+      ],
+      "insertText": "cxar",
+      "detail": "ĉar → 车ᶜ̂ (語限定 荷車/車両(ĉaro=cart): c^ar/o, c^ar/ist/o 他30語)",
+      "documentation": "語根: ĉar\n入力: cxar\n最終形: 车ᶜ̂\n漢字: 车\n識別子: ᶜ̂\n型: sep(語限定)\n語義: 荷車/車両(ĉaro=cart)\n適用語: c^ar/o, c^ar/ist/o, c^ar/eg/o, c^ar/et/o, c^ar/um/o, c^ar/on, c^ar/far/ist/o, c^ar/lev/il/o, au^t/o/c^ar/o, antau^/c^ar/o, post/c^ar/o, bov/o/c^ar/o, c^eval/c^ar/o, bagag^/o/c^ar/o, beb/o/c^ar/et/o, infan/c^ar/et/o, ac^et/c^ar/et/o, pus^/c^ar/et/o, pus^/c^ar/o, fald/c^ar/o, fald/c^ar/et/o, fest/o/c^ar/o, furag^/o/c^ar/o, elektr/o/c^ar/o, krom/c^ar/o, lev/c^ar/o, plen/c^ar/o, s^arg^/o/c^ar/o, serv/o/c^ar/et/o, sid/c^ar/et/o, tir/c^ar/o, trole/c^ar/o\n注記: 荷車/車両(ĉaro=cart)→车。接続詞ĉar(因)はdisc不掲載で維持。荷車ĉar系32見出しを網羅(2026-06-21): aŭt/o/ĉar=バス・bov/o/ĉar=牛車・ĉeval/ĉar=馬車・krom/ĉar=側車(外/车)・各乳母車(beb/o/infan/fald)・手押車(puŝ/ĉar/um)・ショッピングカート(aĉet/puŝ)・フォークリフトlev/ĉar・山車fest/o/ĉar・リヤカーtir/ĉar 等\n基本形: no\n出典: homonym-alt.tsv:15",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 15
     },
     {
       "body": "车ᴷ",
@@ -144052,6 +145956,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 130
+    },
+    {
+      "body": "过ᴾᴱᴿ",
+      "kanji": "过",
+      "root": "per",
+      "prefixes": [
+        "per"
+      ],
+      "insertText": "per",
+      "detail": "per → 过ᴾᴱᴿ (語限定 per-(化学:過酸化/過…): per/oksid/o, per/oksid/i 他9語)",
+      "documentation": "語根: per\n入力: per\n最終形: 过ᴾᴱᴿ\n漢字: 过\n識別子: ᴾᴱᴿ\n型: sep(語限定)\n語義: per-(化学:過酸化/過…)\n適用語: per/oksid/o, per/oksid/i, per/oksid/a, per/oksid/az/o, per/klor/at/o, per/sulf/at/o, per/sulf/at/oj, per/klorat/o, per/oksidaz/o, per/sulfat/oj, per/mangan/at/o\n注記: per-(化学:過酸化/過…)→过。前置詞per=以 は別。学術版粗分解 per/klorat/per/oksidaz/per/sulfat も过・per/mangan/at=過マンガン酸塩(両版)も过(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:18",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 18
     },
     {
       "body": "过ᴾᴿ",
@@ -146726,6 +148646,22 @@
       "sourceLine": 2852
     },
     {
+      "body": "酒ᴱ",
+      "kanji": "酒",
+      "root": "el",
+      "prefixes": [
+        "el"
+      ],
+      "insertText": "el",
+      "detail": "el → 酒ᴱ (語限定 エール: el/o)",
+      "documentation": "語根: el\n入力: el\n最終形: 酒ᴱ\n漢字: 酒\n識別子: ᴱ\n型: sep(語限定)\n語義: エール\n適用語: el/o\n注記: エール。前置詞el=出と別\n基本形: no\n出典: homonym-alt.tsv:121",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 121
+    },
+    {
       "body": "酒ᴳ̂",
       "kanji": "酒",
       "root": "g^in",
@@ -148278,6 +150214,22 @@
       "sourceLine": 325
     },
     {
+      "body": "金ᴷᴹ",
+      "kanji": "金",
+      "root": "krom",
+      "prefixes": [
+        "krom"
+      ],
+      "insertText": "krom",
+      "detail": "krom → 金ᴷᴹ (語限定 クロム(金属元素): krom/o, krom/at/o 他1語)",
+      "documentation": "語根: krom\n入力: krom\n最終形: 金ᴷᴹ\n漢字: 金\n識別子: ᴷᴹ\n型: sep(語限定)\n語義: クロム(金属元素)\n適用語: krom/o, krom/at/o, krom/at/a\n注記: クロム(金属元素)→金。前置詞krom=外と別。krom/at=クロム酸塩→金/盐\n基本形: no\n出典: homonym-alt.tsv:5",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 5
+    },
+    {
       "body": "金ᴷᴿ",
       "kanji": "金",
       "root": "kromi",
@@ -148804,6 +150756,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 316
+    },
+    {
+      "body": "金ᵀᵀ",
+      "kanji": "金",
+      "root": "titan",
+      "prefixes": [
+        "titan"
+      ],
+      "insertText": "titan",
+      "detail": "titan → 金ᵀᵀ (語限定 チタン(金属元素): titan/o, titan/at/o 他1語)",
+      "documentation": "語根: titan\n入力: titan\n最終形: 金ᵀᵀ\n漢字: 金\n識別子: ᵀᵀ\n型: sep(語限定)\n語義: チタン(金属元素)\n適用語: titan/o, titan/at/o, titan/at/a\n注記: チタン(金属元素)→金。巨人titan/a=巨と別。titan/at=チタン酸塩→金/盐(krom/borと平行)\n基本形: no\n出典: homonym-alt.tsv:7",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 7
     },
     {
       "body": "金ᵁ",
@@ -155230,12 +157198,12 @@
       ],
       "insertText": "abak",
       "detail": "abak → 顶ᴬᴮ (同綴異義: 柱頭)",
-      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-amb.tsv:32",
+      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-alt.tsv:159",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 32
+      "sourceLine": 159
     },
     {
       "body": "顶ᴵ",
@@ -155380,6 +157348,22 @@
       "base": true,
       "type": "basic",
       "sourceLine": 5884
+    },
+    {
+      "body": "项ᵀ",
+      "kanji": "项",
+      "root": "term",
+      "prefixes": [
+        "term"
+      ],
+      "insertText": "term",
+      "detail": "term → 项ᵀ (語限定 terminus(数項·論名辞): term/o, du/term/o 他1語)",
+      "documentation": "語根: term\n入力: term\n最終形: 项ᵀ\n漢字: 项\n識別子: ᵀ\n型: sep(語限定)\n語義: terminus(数項·論名辞)\n適用語: term/o, du/term/o, tri/term/o\n注記: terminus(数項·論名辞)→项。thermo(termometr/izoterm/termodinamik等は別語文字列)は热維持。bare term/o=【数】項;【論】名辞なので项\n基本形: no\n出典: homonym-alt.tsv:48",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 48
     },
     {
       "body": "项链",
@@ -158190,12 +160174,12 @@
       ],
       "insertText": "lab",
       "detail": "lab → 验ᴸ (同綴異義: 実験室)",
-      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-amb.tsv:30",
+      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-alt.tsv:157",
       "priority": 1,
       "frequency": 0,
       "base": false,
       "type": "amb",
-      "sourceLine": 30
+      "sourceLine": 157
     },
     {
       "body": "验主义",
@@ -162324,6 +164308,22 @@
       "base": false,
       "type": "piv",
       "sourceLine": 1114
+    },
+    {
+      "body": "鸟ᴷᴱ",
+      "kanji": "鸟",
+      "root": "ke",
+      "prefixes": [
+        "ke"
+      ],
+      "insertText": "ke",
+      "detail": "ke → 鸟ᴷᴱ (語限定 Nestor notabilis=ケア(NZのオウム,鳥): ke/o)",
+      "documentation": "語根: ke\n入力: ke\n最終形: 鸟ᴷᴱ\n漢字: 鸟\n識別子: ᴷᴱ\n型: sep(語限定)\n語義: Nestor notabilis=ケア(NZのオウム,鳥)\n適用語: ke/o\n注記: Nestor notabilis=ケア(NZのオウム,鳥)→鸟。接続詞ke=事と別行\n基本形: no\n出典: homonym-alt.tsv:173",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "sep",
+      "sourceLine": 173
     },
     {
       "body": "鸟ᴷᴵ",

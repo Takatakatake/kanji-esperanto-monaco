@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 578,
+    "itemCount": 589,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "t",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -270,6 +270,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 188
+    },
+    {
+      "prefix": "tak",
+      "body": "币ᵀ",
+      "kanji": "币",
+      "detail": "tak → 币ᵀ (語限定 タカ通貨: tak/o)",
+      "documentation": "語根: tak\n入力: tak\n最終形: 币ᵀ\n漢字: 币\n識別子: ᵀ\n型: sep(語限定)\n語義: タカ通貨\n適用語: tak/o\n注記: タカ通貨。tak=倾と別\n基本形: no\n出典: homonym-alt.tsv:134",
+      "priority": 1,
+      "sourceRoot": "tak",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 134
     },
     {
       "prefix": "taki",
@@ -766,6 +779,19 @@
       "sourceLine": 7418
     },
     {
+      "prefix": "tang",
+      "body": "舞ᵀ",
+      "kanji": "舞",
+      "detail": "tang → 舞ᵀ (語限定 タンゴ: tang/o)",
+      "documentation": "語根: tang\n入力: tang\n最終形: 舞ᵀ\n漢字: 舞\n識別子: ᵀ\n型: sep(語限定)\n語義: タンゴ\n適用語: tang/o\n注記: タンゴ。tang=颠と別行\n基本形: no\n出典: homonym-alt.tsv:162",
+      "priority": 1,
+      "sourceRoot": "tang",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 162
+    },
+    {
       "prefix": "tangar",
       "body": "鸟ᵀᴳ",
       "kanji": "鸟",
@@ -1258,6 +1284,19 @@
       "frequency": 41,
       "base": true,
       "sourceLine": 1962
+    },
+    {
+      "prefix": "te",
+      "body": "神ᵀ",
+      "kanji": "神",
+      "detail": "te → 神ᵀ (語限定 -te-(theo=神): a/te/ism/o, a/te/ist/a 他18語)",
+      "documentation": "語根: te\n入力: te\n最終形: 神ᵀ\n漢字: 神\n識別子: ᵀ\n型: sep(語限定)\n語義: -te-(theo=神)\n適用語: a/te/ism/o, a/te/ist/a, a/te/ist/o, mono/te/ism/o, mono/te/ist/o, pan/te/ism/a, pan/te/ism/o, pan/te/ist/o, poli/te/ism/o, poli/te/ist/o, te/o/krati/a, te/o/krati/o, te/o/krat/o, te/o/logi/a, te/o/logi/ist/o, te/o/logi/o, te/o/log/o, te/o/goni/o, te/ism/o, te/ist/o\n注記: -te-(theo=神)→神。teo=茶(茶)はbuter/te で維持(disc不掲載)。te/ism/o=有神論・te/ist/o=有神論者(theism/theist)も神(2026-06-23 sep派生形網羅)。2026-07-06 正本波でte/o/goni/o(神統記theogonia)露出→被覆漏れ是正で追加(teokrati/teologiと同神)\n基本形: no\n出典: homonym-alt.tsv:29",
+      "priority": 1,
+      "sourceRoot": "te",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 29
     },
     {
       "prefix": "team",
@@ -2599,6 +2638,19 @@
       "sourceLine": 3031
     },
     {
+      "prefix": "term",
+      "body": "项ᵀ",
+      "kanji": "项",
+      "detail": "term → 项ᵀ (語限定 terminus(数項·論名辞): term/o, du/term/o 他1語)",
+      "documentation": "語根: term\n入力: term\n最終形: 项ᵀ\n漢字: 项\n識別子: ᵀ\n型: sep(語限定)\n語義: terminus(数項·論名辞)\n適用語: term/o, du/term/o, tri/term/o\n注記: terminus(数項·論名辞)→项。thermo(termometr/izoterm/termodinamik等は別語文字列)は热維持。bare term/o=【数】項;【論】名辞なので项\n基本形: no\n出典: homonym-alt.tsv:48",
+      "priority": 1,
+      "sourceRoot": "term",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 48
+    },
+    {
       "prefix": "termi",
       "body": "温ᵀᴿ",
       "kanji": "温",
@@ -3184,6 +3236,19 @@
       "sourceLine": 7956
     },
     {
+      "prefix": "tetr",
+      "body": "四ᵀ",
+      "kanji": "四",
+      "detail": "tetr → 四ᵀ (語限定 tetra-接頭辞: tetr/)",
+      "documentation": "語根: tetr\n入力: tetr\n最終形: 四ᵀ\n漢字: 四\n識別子: ᵀ\n型: sep(語限定)\n語義: tetra-接頭辞\n適用語: tetr/\n注記: tetra-接頭辞。鳥tetr/o=琴鸡が既定\n基本形: no\n出典: homonym-alt.tsv:9",
+      "priority": 1,
+      "sourceRoot": "tetr",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 9
+    },
+    {
       "prefix": "tetra",
       "body": "野鸡",
       "kanji": "野鸡",
@@ -3195,6 +3260,19 @@
       "frequency": 7,
       "base": true,
       "sourceLine": 6418
+    },
+    {
+      "prefix": "tetra",
+      "body": "四ᵀᴬ",
+      "kanji": "四",
+      "detail": "tetra → 四ᵀᴬ (語限定 tetra-数詞接頭辞(4): tetra/, tetra/gram/o 他5語)",
+      "documentation": "語根: tetra\n入力: tetra\n最終形: 四ᵀᴬ\n漢字: 四\n識別子: ᵀᴬ\n型: sep(語限定)\n語義: tetra-数詞接頭辞(4)\n適用語: tetra/, tetra/gram/o, tetra/borat/o, tetra/mer/o, tetra/tionat/o, tetra/ol/o, tetra/bor/at/o\n注記: tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)。tetra/bor/at(WSL過細分解同期)\n基本形: no\n出典: homonym-alt.tsv:10",
+      "priority": 1,
+      "sourceRoot": "tetra",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 10
     },
     {
       "prefix": "tetragon",
@@ -4146,6 +4224,19 @@
       "sourceLine": 164
     },
     {
+      "prefix": "titan",
+      "body": "金ᵀᵀ",
+      "kanji": "金",
+      "detail": "titan → 金ᵀᵀ (語限定 チタン(金属元素): titan/o, titan/at/o 他1語)",
+      "documentation": "語根: titan\n入力: titan\n最終形: 金ᵀᵀ\n漢字: 金\n識別子: ᵀᵀ\n型: sep(語限定)\n語義: チタン(金属元素)\n適用語: titan/o, titan/at/o, titan/at/a\n注記: チタン(金属元素)→金。巨人titan/a=巨と別。titan/at=チタン酸塩→金/盐(krom/borと平行)\n基本形: no\n出典: homonym-alt.tsv:7",
+      "priority": 1,
+      "sourceRoot": "titan",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 7
+    },
+    {
       "prefix": "titanat",
       "body": "金盐ᵀ",
       "kanji": "金盐",
@@ -4254,13 +4345,13 @@
       "body": "瘤ᵀᶠ",
       "kanji": "瘤",
       "detail": "tof → 瘤ᵀᶠ (同綴異義: 痛風)",
-      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-amb.tsv:40",
+      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-alt.tsv:168",
       "priority": 1,
       "sourceRoot": "tof",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 40
+      "sourceLine": 168
     },
     {
       "prefix": "toks",
@@ -4601,6 +4692,19 @@
       "sourceLine": 6863
     },
     {
+      "prefix": "top",
+      "body": "境ᵀ",
+      "kanji": "境",
+      "detail": "top → 境ᵀ (語限定 -top-(topos=場所/-tope): bio/top/o)",
+      "documentation": "語根: top\n入力: top\n最終形: 境ᵀ\n漢字: 境\n識別子: ᵀ\n型: sep(語限定)\n語義: -top-(topos=場所/-tope)\n適用語: bio/top/o\n注記: -top-(topos=場所/-tope)→境(生境=habitat)。topo=檣楼(帆楼)はtop/o単独で維持\n基本形: no\n出典: homonym-alt.tsv:30",
+      "priority": 1,
+      "sourceRoot": "top",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 30
+    },
+    {
       "prefix": "topik",
       "body": "题ᵀᴾ",
       "kanji": "题",
@@ -4618,13 +4722,13 @@
       "body": "敷ᵀ",
       "kanji": "敷",
       "detail": "topik → 敷ᵀ (同綴異義: 外用)",
-      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-amb.tsv:36",
+      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-alt.tsv:164",
       "priority": 1,
       "sourceRoot": "topik",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 36
+      "sourceLine": 164
     },
     {
       "prefix": "topinambur",
@@ -6070,6 +6174,19 @@
       "sourceLine": 4070
     },
     {
+      "prefix": "trik",
+      "body": "毛ᵀ",
+      "kanji": "毛",
+      "detail": "trik → 毛ᵀ (語限定 毛(tricho-): trik/o, trik/oz/o 他5語)",
+      "documentation": "語根: trik\n入力: trik\n最終形: 毛ᵀ\n漢字: 毛\n識別子: ᵀ\n型: sep(語限定)\n語義: 毛(tricho-)\n適用語: trik/o, trik/oz/o, poli/trik/o, trik/o/pati/o, trik/o/plazi/o, trik/o/pter/oj, trik/o/micet/oz/o\n注記: 毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:141",
+      "priority": 1,
+      "sourceRoot": "trik",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 141
+    },
+    {
       "prefix": "trikin",
       "body": "蠕ᵀ",
       "kanji": "蠕",
@@ -6564,6 +6681,19 @@
       "sourceLine": 6543
     },
     {
+      "prefix": "tromb",
+      "body": "栓ᵀ",
+      "kanji": "栓",
+      "detail": "tromb → 栓ᵀ (語限定 -thrombo-(血栓): tromb/oz/o, tromb/ektomi/o 他1語)",
+      "documentation": "語根: tromb\n入力: tromb\n最終形: 栓ᵀ\n漢字: 栓\n識別子: ᵀ\n型: sep(語限定)\n語義: -thrombo-(血栓)\n適用語: tromb/oz/o, tromb/ektomi/o, tromb/o/cit/o\n注記: -thrombo-(血栓)→栓。tromb/oz/o は cerb/a tromb/oz/o(脳血栓)内の同語も捕捉。竜巻tromb/o(気·第1義)とsabl/a tromb/o(陸竜巻)は龙卷を維持。trombon(トロンボーン)/trombin(トロンビン)/trombidi(ツツガムシ)は別セグメントで無影響\n基本形: no\n出典: homonym-alt.tsv:47",
+      "priority": 1,
+      "sourceRoot": "tromb",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 47
+    },
+    {
       "prefix": "trombektomi",
       "body": "栓除",
       "kanji": "栓除",
@@ -6666,6 +6796,19 @@
       "frequency": 20,
       "base": true,
       "sourceLine": 6034
+    },
+    {
+      "prefix": "trop",
+      "body": "向ᵀ",
+      "kanji": "向",
+      "detail": "trop → 向ᵀ (語限定 -tropos(向·屈性): helio/trop/o, helio/trop/kolor/a 他19語)",
+      "documentation": "語根: trop\n入力: trop\n最終形: 向ᵀ\n漢字: 向\n識別子: ᵀ\n型: sep(語限定)\n語義: -tropos(向·屈性)\n適用語: helio/trop/o, helio/trop/kolor/a, helio/trop/ism/o, izo/trop/a, izo/trop/ec/o, ne/izo/trop/a, ne/izo/trop/ec/o, an/izo/trop/a, trop/ism/o, cito/trop/a, enantio/trop/a, enantio/trop/ec/o, enantio/trop/ism/o, fot/o/trop/ism/o, geo/trop/ism/o, kortik/o/trop/a, neu^r/o/trop/a, tikso/trop/a, tikso/trop/ec/o, tiro/trop/a, -trop/\n注記: -tropos(向·屈性)→向。修辞trop/o(喻)は維持。tropik热带/antrop人は別セグメント。2026-07-07 正本波で foto/trop/ism→fot/o/trop/ism・kortiko/trop→kortik/o/trop に-o境界正規化されたため語形更新(被覆漏れ是正=喻に化けるのを防ぐ)。2026-07-24 別AI round6被覆漏れ是正: tiro/trop/a(甲状腺刺激thyrotropic=甲状腺への向性)+接尾定義見出し -trop/(=havanta afinecon「向性」・-gram/と同型のハイフン分岐hsep適用)を追加=喻(修辞)に化けるのを防ぐ。既存向ᵀ使用で字種増やさず\n基本形: no\n出典: homonym-alt.tsv:64",
+      "priority": 1,
+      "sourceRoot": "trop",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 64
     },
     {
       "prefix": "tropeol",

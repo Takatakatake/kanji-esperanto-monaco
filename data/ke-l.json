@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 384,
+    "itemCount": 390,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "l",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -29,13 +29,13 @@
       "body": "验ᴸ",
       "kanji": "验",
       "detail": "lab → 验ᴸ (同綴異義: 実験室)",
-      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-amb.tsv:30",
+      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-alt.tsv:157",
       "priority": 1,
       "sourceRoot": "lab",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 30
+      "sourceLine": 157
     },
     {
       "prefix": "labi",
@@ -3318,13 +3318,13 @@
       "body": "草ᴸᴵᴺ",
       "kanji": "草",
       "detail": "line → 草ᴸᴵᴺ (同綴異義: リンネ)",
-      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-amb.tsv:39",
+      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-alt.tsv:167",
       "priority": 1,
       "sourceRoot": "line",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 39
+      "sourceLine": 167
     },
     {
       "prefix": "linear",
@@ -3513,13 +3513,13 @@
       "body": "币ᴸ",
       "kanji": "币",
       "detail": "lir → 币ᴸ (同綴異義: リラ)",
-      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-amb.tsv:10",
+      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-alt.tsv:131",
       "priority": 1,
       "sourceRoot": "lir",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 10
+      "sourceLine": 131
     },
     {
       "prefix": "lirik",
@@ -3598,6 +3598,32 @@
       "frequency": 68,
       "base": true,
       "sourceLine": 1246
+    },
+    {
+      "prefix": "lit",
+      "body": "石ᴸᵀ",
+      "kanji": "石",
+      "detail": "lit → 石ᴸᵀ (語限定 -lit-(lithos=石/-lith): aer/o/lit/o, mega/lit/a 他21語)",
+      "documentation": "語根: lit\n入力: lit\n最終形: 石ᴸᵀ\n漢字: 石\n識別子: ᴸᵀ\n型: sep(語限定)\n語義: -lit-(lithos=石/-lith)\n適用語: aer/o/lit/o, mega/lit/a, mega/lit/o, mono/lit/a, mono/lit/o, neo/lit/ik/o, paleo/lit/ik/o, epi/paleo/lit/ik/o, mez/o/lit/ik/o, mikro/lit/a, mikro/lit/o, piz/o/lit/o, fot/o/lit/o/grafi/o, krom/o/lit/o/grafi/o, lit/o/graf/o, lit/o/graf/i, lit/o/grafi/o, lit/o/graf/aj^/o, lit/o/graf/ist/o, lit/o/logi/o, lit/o/sfer/o, lit/o/skop/o, lit/o/tomi/o\n注記: -lit-(lithos=石/-lith)→石。lito=寝台(床)はdu/kvar/tri/unu-lit/a・klap/krad/pend/port/ter/sof-o/pajl-o-lit で維持。elektrolit=-lyte(別形態素)は別sep lit→解(2026-06-23ユーザー裁定)。2026-07-18偽友スイープ: 石版印刷litograf系5形・岩石学litologi・岩石圏litosfer・膀胱結石litoskop/litotomi(医)を追加(床=寝台の誤友是正)\n基本形: no\n出典: homonym-alt.tsv:27",
+      "priority": 1,
+      "sourceRoot": "lit",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 27
+    },
+    {
+      "prefix": "lit",
+      "body": "解ᴸᵀ",
+      "kanji": "解",
+      "detail": "lit → 解ᴸᵀ (語限定 -lyte(電解質electrolyte=溶解/分解する物): elektr/o/lit/o, elektr/o/lit/a)",
+      "documentation": "語根: lit\n入力: lit\n最終形: 解ᴸᵀ\n漢字: 解\n識別子: ᴸᵀ\n型: sep(語限定)\n語義: -lyte(電解質electrolyte=溶解/分解する物)\n適用語: elektr/o/lit/o, elektr/o/lit/a\n注記: -lyte(電解質electrolyte=溶解/分解する物)→解。中国語 电解质 と一致。lithos=石(-lith)とは別形態素・寝台lit/o=床とも別\n基本形: no\n出典: homonym-alt.tsv:28",
+      "priority": 2,
+      "sourceRoot": "lit",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 28
     },
     {
       "prefix": "litani",
@@ -4040,6 +4066,58 @@
       "frequency": 144,
       "base": true,
       "sourceLine": 181
+    },
+    {
+      "prefix": "log",
+      "body": "诱ᴸ",
+      "kanji": "诱",
+      "detail": "log → 诱ᴸ (語限定 誘惑(allure/lure): log/i, log/aj^/o 他17語)",
+      "documentation": "語根: log\n入力: log\n最終形: 诱ᴸ\n漢字: 诱\n識別子: ᴸ\n型: sep(語限定)\n語義: 誘惑(allure/lure)\n適用語: log/i, log/aj^/o, al/log/i, al/log/o, al/log/a, al/log/aj^/o, de/log/i, de/log/o, el/log/i, for/log/i, mal/log/i, log/il/o, log/bird/o, log/fajf/il/o, log/ig^/i, seks/al/log/o, sens/al/log/a, tromp/log/i, seks/log/o\n注記: 誘惑(allure/lure)。-log-=学家と別。接頭al/de+log=動詞诱(allogi魅了/delogi誘惑)。seks/al/log・sens/al/log・tromp/log・seks/log(allogo=性的魅力/誘惑)も诱。※連結o付 seks/o/log/o=性科学者は学家(別語)(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:13",
+      "priority": 1,
+      "sourceRoot": "log",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 13
+    },
+    {
+      "prefix": "log",
+      "body": "戒ᴸ",
+      "kanji": "戒",
+      "detail": "log → 戒ᴸ (語限定 ギリシャlogos(言葉: deka/log/o)",
+      "documentation": "語根: log\n入力: log\n最終形: 戒ᴸ\n漢字: 戒\n識別子: ᴸ\n型: sep(語限定)\n語義: ギリシャlogos(言葉\n適用語: deka/log/o\n注記: ギリシャlogos(言葉→戒め)→戒。モーセの十戒Dekalogo(deka/log=十/戒)。学問-logy/学者-logist=学家(biolog等)·対話dia/log=话·誘惑al/log=诱 とは別の第4義。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:96",
+      "priority": 2,
+      "sourceRoot": "log",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 96
+    },
+    {
+      "prefix": "log",
+      "body": "志ᴸ",
+      "kanji": "志",
+      "detail": "log → 志ᴸ (語限定 ギリシャlogos(記録·名簿): nekr/o/log/o, nekr/o/log/ar/o)",
+      "documentation": "語根: log\n入力: log\n最終形: 志ᴸ\n漢字: 志\n識別子: ᴸ\n型: sep(語限定)\n語義: ギリシャlogos(記録·名簿)\n適用語: nekr/o/log/o, nekr/o/log/ar/o\n注記: ギリシャlogos(記録·名簿)→志。死亡記事·死亡者名簿necrolog(nekr/o/log=死/志)。学者-logist=学家·话·诱·戒 とは別の第5義。志=地方志/杂志の記録義。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:97",
+      "priority": 3,
+      "sourceRoot": "log",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 97
+    },
+    {
+      "prefix": "log",
+      "body": "话ᴸ",
+      "kanji": "话",
+      "detail": "log → 话ᴸ (語限定 -log-(logos=言葉·談話/-logue): dia/log/a, dia/log/i 他12語)",
+      "documentation": "語根: log\n入力: log\n最終形: 话ᴸ\n漢字: 话\n識別子: ᴸ\n型: sep(語限定)\n語義: -log-(logos=言葉·談話/-logue)\n適用語: dia/log/a, dia/log/i, dia/log/o, dia/log/oj, dia/log/uj/o, dia/log/ist/o, mono/log/i, mono/log/o, pro/log/o, epi/log/o, neo/log/o, neo/log/ism/o, neo/log/ism/em/o, neo/log/ism/em/ul/o\n注記: -log-(logos=言葉·談話/-logue)→话(parol=话と同字共有)。対話dia/独白mono/序言pro/跋epi/新語neo(neologism=新话)。-logist/-ology=学家(biolog等)·al-de+log=诱は別。katalog=录·analog=似(whole-root)は不変\n基本形: no\n出典: homonym-alt.tsv:103",
+      "priority": 4,
+      "sourceRoot": "log",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 103
     },
     {
       "prefix": "loganber",
@@ -4696,13 +4774,13 @@
       "body": "照ᴸ",
       "kanji": "照",
       "detail": "luks → 照ᴸ (同綴異義: ルクス)",
-      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-amb.tsv:14",
+      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-alt.tsv:137",
       "priority": 1,
       "sourceRoot": "luks",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 14
+      "sourceLine": 137
     },
     {
       "prefix": "luksaci",

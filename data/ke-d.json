@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 452,
+    "itemCount": 456,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "d",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -114,6 +114,19 @@
       "frequency": 8,
       "base": true,
       "sourceLine": 5608
+    },
+    {
+      "prefix": "daktil",
+      "body": "指ᴰ",
+      "kanji": "指",
+      "detail": "daktil → 指ᴰ (語限定 dactylo-(指): daktil/o/graf/i, daktil/o/skop/i/o 他1語)",
+      "documentation": "語根: daktil\n入力: daktil\n最終形: 指ᴰ\n漢字: 指\n識別子: ᴰ\n型: sep(語限定)\n語義: dactylo-(指)\n適用語: daktil/o/graf/i, daktil/o/skop/i/o, pter/o/daktil/o\n注記: dactylo-(指)→指。ナツメヤシdaktil/o(枣)·daktil/o/palm等は維持。2026-07-18 正本過細分解 pterodaktil→pter/o/daktil 露出→追加(pterodactyl翼指=翅/指。daktil→枣ナツメヤシの偽友是正)\n基本形: no\n出典: homonym-alt.tsv:101",
+      "priority": 1,
+      "sourceRoot": "daktil",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 101
     },
     {
       "prefix": "daktilis",
@@ -2356,13 +2369,13 @@
       "body": "汇ᴰ",
       "kanji": "汇",
       "detail": "deviz → 汇ᴰ (同綴異義: 外貨)",
-      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-amb.tsv:8",
+      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-alt.tsv:129",
       "priority": 1,
       "sourceRoot": "deviz",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 8
+      "sourceLine": 129
     },
     {
       "prefix": "devot",
@@ -2428,6 +2441,19 @@
       "frequency": 63,
       "base": true,
       "sourceLine": 2854
+    },
+    {
+      "prefix": "di",
+      "body": "二ᴰᴵ",
+      "kanji": "二",
+      "detail": "di → 二ᴰᴵ (語限定 数詞di-(2): di/, di/morf/a 他30語)",
+      "documentation": "語根: di\n入力: di\n最終形: 二ᴰᴵ\n漢字: 二\n識別子: ᴰᴵ\n型: sep(語限定)\n語義: 数詞di-(2)\n適用語: di/, di/morf/a, di/morf/ec/o, di/morf/ism/o, di/ploid/a, di/pod/o, di/pod/ed/oj, di/gram/o, di/kotiledon/oj, di/al/o, di/azot/o, di/azot/i, di/azot/at/o, di/metoksi/fenol/o, di/kromiat/o, di/mer/o, di/sakarid/o, di/tionat/o, di/sulf/id/o, di/oksid/o, di/klor/id/o, di/pter/oj, di/valent/a, karbon/di/oksid/o, sulfur/di/oksid/o, di/ol/o, di/ol/oj, di/kromi/at/o, di/sakar/id/o, di/som/a, di/met/oksi/fenol/o, di/odont/o\n注記: 数詞di-(2)→二。di/kromi/at重クロム酸塩・di/sakar/id二糖(WSL過細分解 Xat→X/at・Xid→X/id 同期)。di/odont(Diodon二歯魚=二/齿。2026-07-18 分類名分解パスで露出・di/pter双翅と同型)。神di/o系(di/o/tim神畏敬·di/skarab神甲=テントウムシ)は神維持(disc不掲載)。di/pter双翅·di/klor/id二塩化等のエス的分解##偽分解(PIV正式)を尊重し透明化。2026-07-03 WSL再分解でdisom→di/som(二体)・dimetoksi→di/met/oksi(二…)露出→di/som/a・di/met/oksi/fenol/o 追加\n基本形: no\n出典: homonym-alt.tsv:53",
+      "priority": 1,
+      "sourceRoot": "di",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 53
     },
     {
       "prefix": "dia",
@@ -3509,6 +3535,19 @@
       "sourceLine": 6177
     },
     {
+      "prefix": "dinam",
+      "body": "力ᴰᴵ",
+      "kanji": "力",
+      "detail": "dinam → 力ᴰᴵ (語限定 希dynamis(力·動力)の力義: dinam/ism/o, dinam/o/metr/o 他3語)",
+      "documentation": "語根: dinam\n入力: dinam\n最終形: 力ᴰᴵ\n漢字: 力\n識別子: ᴰᴵ\n型: sep(語限定)\n語義: 希dynamis(力·動力)の力義\n適用語: dinam/ism/o, dinam/o/metr/o, elektr/o/dinam/ism/o, elektr/o/dinam/o/metr/o, izo/dinam/o\n注記: 希dynamis(力·動力)の力義→力。dynamism力動説/dynamometer力計/electrodynamism電気力学/isodynamic等力線。発電機dinam/o(dynamo)=发电は基本形維持(word-scoped)。dinamik=力(別root力学)と整合。2026-07-15ユーザー裁定=发电の力義取りこぼしを是正\n基本形: no\n出典: homonym-alt.tsv:106",
+      "priority": 1,
+      "sourceRoot": "dinam",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 106
+    },
+    {
       "prefix": "dinamik",
       "body": "力ᴰ",
       "kanji": "力",
@@ -3715,6 +3754,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7459
+    },
+    {
+      "prefix": "diplo",
+      "body": "双ᴰᴾ",
+      "kanji": "双",
+      "detail": "diplo → 双ᴰᴾ (語限定 diplo-(希διπλόος=二重/double): diplo/kok/o, diplo/pod/oj)",
+      "documentation": "語根: diplo\n入力: diplo\n最終形: 双ᴰᴾ\n漢字: 双\n識別子: ᴰᴾ\n型: sep(語限定)\n語義: diplo-(希διπλόος=二重/double)\n適用語: diplo/kok/o, diplo/pod/oj\n注記: diplo-(希διπλόος=二重/double)→双。双球菌diplococcus(diplo/kok=双/菌)・倍足綱Diplopoda(diplo/pod=双/足)。頭蓋の板障diplo/o(diploe=海綿骨層)=板障は単独で維持・diploid二倍/diplomat外交/diplom証書は別語で不干渉。2026-07-19 偽友是正: diplo=double を diploe板障の同綴誤友から是正(polio灰型)\n基本形: no\n出典: homonym-alt.tsv:41",
+      "priority": 1,
+      "sourceRoot": "diplo",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 41
     },
     {
       "prefix": "diploid",
@@ -5827,13 +5879,13 @@
       "body": "币ᴰ",
       "kanji": "币",
       "detail": "dur → 币ᴰ (同綴異義: ドゥーロ)",
-      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-amb.tsv:12",
+      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-alt.tsv:133",
       "priority": 1,
       "sourceRoot": "dur",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 12
+      "sourceLine": 133
     },
     {
       "prefix": "duramatr",

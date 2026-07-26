@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 482,
+    "itemCount": 484,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "e",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -2066,6 +2066,19 @@
       "sourceLine": 48
     },
     {
+      "prefix": "el",
+      "body": "酒ᴱ",
+      "kanji": "酒",
+      "detail": "el → 酒ᴱ (語限定 エール: el/o)",
+      "documentation": "語根: el\n入力: el\n最終形: 酒ᴱ\n漢字: 酒\n識別子: ᴱ\n型: sep(語限定)\n語義: エール\n適用語: el/o\n注記: エール。前置詞el=出と別\n基本形: no\n出典: homonym-alt.tsv:121",
+      "priority": 1,
+      "sourceRoot": "el",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 121
+    },
+    {
       "prefix": "elafr",
       "body": "虫ᴱᶠ",
       "kanji": "虫",
@@ -4029,6 +4042,19 @@
       "sourceLine": 3356
     },
     {
+      "prefix": "epi",
+      "body": "后ᴱ",
+      "kanji": "后",
+      "detail": "epi → 后ᴱ (語限定 epi-=後(after): epi/log/o, epi/taf/o 他2語)",
+      "documentation": "語根: epi\n入力: epi\n最終形: 后ᴱ\n漢字: 后\n識別子: ᴱ\n型: sep(語限定)\n語義: epi-=後(after)\n適用語: epi/log/o, epi/taf/o, epi/gon/o, epi/paleo/lit/ik/o\n注記: epi-=後(after)。epi=表(upon上)と別。epi/paleo/lit/ik/o=epipaleolithic(旧石器の後・中石器の前の文化)もepi=后(2026-06-23ユーザー裁定。lit=石は維持)\n基本形: no\n出典: homonym-alt.tsv:3",
+      "priority": 1,
+      "sourceRoot": "epi",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 3
+    },
+    {
       "prefix": "epicentr",
       "body": "表央",
       "kanji": "表央",
@@ -4514,13 +4540,13 @@
       "body": "纪ᴱᴿ",
       "kanji": "纪",
       "detail": "er → 纪ᴱᴿ (同綴異義: 紀元)",
-      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-amb.tsv:37",
+      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-alt.tsv:165",
       "priority": 1,
       "sourceRoot": "er",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 37
+      "sourceLine": 165
     },
     {
       "prefix": "era",
@@ -4631,13 +4657,13 @@
       "body": "距ᴱ",
       "kanji": "距",
       "detail": "ergot → 距ᴱ (同綴異義: 蹴爪)",
-      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-amb.tsv:23",
+      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-alt.tsv:148",
       "priority": 1,
       "sourceRoot": "ergot",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 23
+      "sourceLine": 148
     },
     {
       "prefix": "erigeron",

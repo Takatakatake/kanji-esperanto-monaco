@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 280,
+    "itemCount": 281,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "v",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -649,6 +649,19 @@
       "sourceLine": 3733
     },
     {
+      "prefix": "var",
+      "body": "内ⱽ",
+      "kanji": "内",
+      "detail": "var → 内ⱽ (語限定 内反varus: var/a)",
+      "documentation": "語根: var\n入力: var\n最終形: 内ⱽ\n漢字: 内\n識別子: ⱽ\n型: sep(語限定)\n語義: 内反varus\n適用語: var/a\n注記: 内反varus。var=货と別\n基本形: no\n出典: homonym-alt.tsv:143",
+      "priority": 1,
+      "sourceRoot": "var",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 143
+    },
+    {
       "prefix": "varan",
       "body": "龙ⱽ",
       "kanji": "龙",
@@ -913,13 +926,13 @@
       "body": "瓦ⱽ",
       "kanji": "瓦",
       "detail": "vat → 瓦ⱽ (同綴異義: ワット)",
-      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-amb.tsv:5",
+      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-alt.tsv:125",
       "priority": 1,
       "sourceRoot": "vat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 5
+      "sourceLine": 125
     },
     {
       "prefix": "vathorometr",

@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 399,
+    "itemCount": 401,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "h",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -231,6 +231,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6943
+    },
+    {
+      "prefix": "halo",
+      "body": "盐ᴴ",
+      "kanji": "盐",
+      "detail": "halo → 盐ᴴ (語限定 halo-(希ἅλς hals=塩): halo/fit/o)",
+      "documentation": "語根: halo\n入力: halo\n最終形: 盐ᴴ\n漢字: 盐\n識別子: ᴴ\n型: sep(語限定)\n語義: halo-(希ἅλς hals=塩)\n適用語: halo/fit/o\n注記: halo-(希ἅλς hals=塩)→盐。塩生植物halophyte(halo/fit=盐/植)の halo のみ。かさ・ハレーションhalo/o(晕)・電話「もしもし」halo は晕維持(word-scoped)。2026-07-18 偽友スイープ是正\n基本形: no\n出典: homonym-alt.tsv:56",
+      "priority": 1,
+      "sourceRoot": "halo",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 56
     },
     {
       "prefix": "halofit",
@@ -1037,6 +1050,19 @@
       "frequency": 1,
       "base": false,
       "sourceLine": 1417
+    },
+    {
+      "prefix": "heli",
+      "body": "日ᴴᴱ",
+      "kanji": "日",
+      "detail": "heli → 日ᴴᴱ (語限定 helios(希ἥλιος=太陽): peri/heli/o, pir/heli/o/metr/o 他1語)",
+      "documentation": "語根: heli\n入力: heli\n最終形: 日ᴴᴱ\n漢字: 日\n識別子: ᴴᴱ\n型: sep(語限定)\n語義: helios(希ἥλιος=太陽)\n適用語: peri/heli/o, pir/heli/o/metr/o, ant/heli/o\n注記: helios(希ἥλιος=太陽)→日。近日点perihelio(peri/heli=围/日)・日射計pirheliometr。ヘリウム気体heli/o=气ᴴᴹは別。標準helio=日ᴴと整合。2026-07-18 偽友スイープR3。2026-07-26 正本ドリフトで antheli/o→ant/heli/o が露出し heli が气ᴴ(ヘリウム)で描画→disc追加\n基本形: no\n出典: homonym-alt.tsv:76",
+      "priority": 1,
+      "sourceRoot": "heli",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 76
     },
     {
       "prefix": "heliant",

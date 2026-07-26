@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 417,
+    "itemCount": 424,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "g",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -1375,6 +1375,19 @@
       "frequency": 65,
       "base": false,
       "sourceLine": 905
+    },
+    {
+      "prefix": "gen",
+      "body": "原ᴳ",
+      "kanji": "原",
+      "detail": "gen → 原ᴳ (語限定 antigen(抗原)の-gen: anti/gen/o)",
+      "documentation": "語根: gen\n入力: gen\n最終形: 原ᴳ\n漢字: 原\n識別子: ᴳ\n型: sep(語限定)\n語義: antigen(抗原)の-gen\n適用語: anti/gen/o\n注記: antigen(抗原)の-gen→原。抗/原=抗原。抗生(=antibiotiko想起)との誤読を是正。‑gen生/genez生成は不干渉。2026-07-19ユーザー裁定\n基本形: no\n出典: homonym-alt.tsv:43",
+      "priority": 1,
+      "sourceRoot": "gen",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 43
     },
     {
       "prefix": "gencian",
@@ -3041,6 +3054,32 @@
       "sourceLine": 1435
     },
     {
+      "prefix": "glos",
+      "body": "语ᴳ",
+      "kanji": "语",
+      "detail": "glos → 语ᴳ (語限定 isogloss(等語線)のglos: izo/glos/o)",
+      "documentation": "語根: glos\n入力: glos\n最終形: 语ᴳ\n漢字: 语\n識別子: ᴳ\n型: sep(語限定)\n語義: isogloss(等語線)のglos\n適用語: izo/glos/o\n注記: isogloss(等語線)のglos→语(希γλῶσσα言語)。注(glosaro注)/舌(glosit舌炎)は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:84",
+      "priority": 1,
+      "sourceRoot": "glos",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 84
+    },
+    {
+      "prefix": "glos",
+      "body": "舌ᴳ",
+      "kanji": "舌",
+      "detail": "glos → 舌ᴳ (語限定 ギリシャglōssa(舌tongue)の解剖義: glos/ektomi/o, glos/it/o 他1語)",
+      "documentation": "語根: glos\n入力: glos\n最終形: 舌ᴳ\n漢字: 舌\n識別子: ᴳ\n型: sep(語限定)\n語義: ギリシャglōssa(舌tongue)の解剖義\n適用語: glos/ektomi/o, glos/it/o, hipo/glos/o\n注記: ギリシャglōssa(舌tongue)の解剖義→舌。舌切除glosektomi(glos/除)·舌炎glosit(glos/炎)·舌下神経hipogloso(亚/舌)。注釈gloss(用語集glos/ar/o·gloso)のglos=注は維持(word-scoped 同綴別義)。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:100",
+      "priority": 2,
+      "sourceRoot": "glos",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 100
+    },
+    {
       "prefix": "glosektomi",
       "body": "舌除",
       "kanji": "舌除",
@@ -3561,6 +3600,19 @@
       "sourceLine": 1994
     },
     {
+      "prefix": "goni",
+      "body": "源ᴳᴼ",
+      "kanji": "源",
+      "detail": "goni → 源ᴳᴼ (語限定 -goni-(生成·発生·原細胞gonḗ): kosm/o/goni/o, ov/o/goni/o 他3語)",
+      "documentation": "語根: goni\n入力: goni\n最終形: 源ᴳᴼ\n漢字: 源\n識別子: ᴳᴼ\n型: sep(語限定)\n語義: -goni-(生成·発生·原細胞gonḗ)\n適用語: kosm/o/goni/o, ov/o/goni/o, sperm/o/goni/o, spor/o/goni/o, te/o/goni/o\n注記: -goni-(生成·発生·原細胞gonḗ)→源。宇宙起源kosmogoni=宇/源·神々の起源teogoni=神ᵀ/源·卵原ov/精原sperm/胞原spor/o/goni=卵·精液·胞子+源。角度goni=角ᴳ(gōnía別語源)は正本が X/o/goni へ分割した際に生成義へ化ける誤友ゆえ語スコープで是正。arkegoni=颈卵器(whole-root)·agoni=垂死·tetragoni=草ᵀᴱᵀ(植物属)·begoni/pelargoni/geraniは別語で不干渉\n基本形: no\n出典: homonym-alt.tsv:32",
+      "priority": 1,
+      "sourceRoot": "goni",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 32
+    },
+    {
       "prefix": "gonidi",
       "body": "藻ᴳ",
       "kanji": "藻",
@@ -3756,6 +3808,19 @@
       "sourceLine": 1259
     },
     {
+      "prefix": "graf",
+      "body": "伯",
+      "kanji": "伯",
+      "detail": "graf → 伯 (語限定 伯爵(count/earl): graf/o, graf/in/o 他9語)",
+      "documentation": "語根: graf\n入力: graf\n最終形: 伯\n漢字: 伯\n識別子: なし\n型: sep(語限定)\n語義: 伯爵(count/earl)\n適用語: graf/o, graf/in/o, graf/land/o, graf/a, graf/ej/o, graf/ec/o, graf/uj/o, land/graf/o, vic/graf/o, burg/o/graf/o, kastel/graf/o\n注記: 伯爵(count/earl)→伯。-graf-(graphy記録)=记と別。爵位複合も伯: graf/ej/o領地・graf/ec/o伯爵位・graf/uj/o伯爵領・land/graf/o方伯(landgrave)・vic/graf/o子爵(viscount)・burg/o/graf/o,kastel/graf/o城伯(burgrave)(2026-06-23 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:2",
+      "priority": 1,
+      "sourceRoot": "graf",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 2
+    },
+    {
       "prefix": "grafem",
       "body": "字ᴳ",
       "kanji": "字",
@@ -3910,6 +3975,32 @@
       "frequency": 54,
       "base": true,
       "sourceLine": 5642
+    },
+    {
+      "prefix": "gram",
+      "body": "图ᴳᴹ",
+      "kanji": "图",
+      "detail": "gram → 图ᴳᴹ (語限定 -gram(記録·図像γράμμα): aer/o/gram/o, anem/o/gram/o 他26語)",
+      "documentation": "語根: gram\n入力: gram\n最終形: 图ᴳᴹ\n漢字: 图\n識別子: ᴳᴹ\n型: sep(語限定)\n語義: -gram(記録·図像γράμμα)\n適用語: aer/o/gram/o, anem/o/gram/o, dia/gram/o, elektr/o/kardi/o/gram/o, encefal/o/gram/o, faz/dia/gram/o, faz/o/dia/gram/o, hips/o/gram/o, holo/gram/o, kabl/o/gram/o, kardi/o/gram/o, nivel/dia/gram/o, organi/gram/o, orto/gram/o, paralel/o/gram/o, radi/o/gram/o, radi/o/tele/gram/o, scintil/o/gram/o, seism/o/gram/o, spektr/o/gram/o, tefi/gram/o, tele/gram/o, tele/gram/kod/o, tele/gram/port/ist/o, penta/gram/o, gram/o/fon/o, gram/o/fon/disk/o, -gram/\n注記: -gram(記録·図像γράμμα)→图。重量gram(克):kilo/centi/mili/deka/hekto-gram·gram/atom·gram/molekul·gram/pez は克維持。文字義は字(別エントリ。表音文字fon/o/gram=声/字も字へ移管)。蓄音機gram/o/fon(記録音→图/声)も捕捉。接尾辞定義entry -gram/(=記録·図像の意)→图(ハイフン分岐のhsep下位分節適用)。dia/gram/oはflor/a等多語も捕捉\n基本形: no\n出典: homonym-alt.tsv:58",
+      "priority": 1,
+      "sourceRoot": "gram",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 58
+    },
+    {
+      "prefix": "gram",
+      "body": "字ᴳᴹ",
+      "kanji": "字",
+      "detail": "gram → 字ᴳᴹ (語限定 -gram(文字·書記素): di/gram/o, ide/o/gram/o 他5語)",
+      "documentation": "語根: gram\n入力: gram\n最終形: 字ᴳᴹ\n漢字: 字\n識別子: ᴳᴹ\n型: sep(語限定)\n語義: -gram(文字·書記素)\n適用語: di/gram/o, ide/o/gram/o, mono/gram/o, tetra/gram/o, epi/gram/o, epi/gram/ist/o, fon/o/gram/o\n注記: -gram(文字·書記素)→字。digraph二字·表意文字·組合せ文字·聖四文字·警句epigram(epi/gram=表ᴱ/字ᴳ)·表音文字phonogram(fon/o/gram=声ᶠᴼ/字ᴳ=音を表す文字。fon→声はfon sep)。記録図像は图·重量は克。2026-06-21 epigram/phonogram追加\n基本形: no\n出典: homonym-alt.tsv:59",
+      "priority": 2,
+      "sourceRoot": "gram",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 59
     },
     {
       "prefix": "gramatik",

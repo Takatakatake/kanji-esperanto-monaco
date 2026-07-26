@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 234,
+    "itemCount": 237,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "n",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -2443,6 +2443,32 @@
       "sourceLine": 893
     },
     {
+      "prefix": "nom",
+      "body": "学ᴺᴼ",
+      "kanji": "学",
+      "detail": "nom → 学ᴺᴼ (語限定 科学-nom-(agronom/astronom/gastronom/ergonom): agr/o/nom/o, agr/o/nom/a 他10語)",
+      "documentation": "語根: nom\n入力: nom\n最終形: 学ᴺᴼ\n漢字: 学\n識別子: ᴺᴼ\n型: sep(語限定)\n語義: 科学-nom-(agronom/astronom/gastronom/ergonom)\n適用語: agr/o/nom/o, agr/o/nom/a, agr/o/nom, astr/o/nom/o, astr/o/nom/a, astr/o/nom, gastr/o/nom/o, gastr/o/nom/a, gastr/o/nom, erg/o/nom/o, erg/o/nom/a, erg/o/nom\n注記: 科学-nom-(agronom/astronom/gastronom/ergonom)→学。名前複合(famili/nom/dosier/nom等)は名のまま\n基本形: no\n出典: homonym-alt.tsv:16",
+      "priority": 1,
+      "sourceRoot": "nom",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 16
+    },
+    {
+      "prefix": "nom",
+      "body": "律ᴺᴼ",
+      "kanji": "律",
+      "detail": "nom → 律ᴺᴼ (語限定 メトロノームnom(ギリシャnomos=法/掟): metr/o/nom/o)",
+      "documentation": "語根: nom\n入力: nom\n最終形: 律ᴺᴼ\n漢字: 律\n識別子: ᴺᴼ\n型: sep(語限定)\n語義: メトロノームnom(ギリシャnomos=法/掟)\n適用語: metr/o/nom/o\n注記: メトロノームnom(ギリシャnomos=法/掟)→律。leĝ法律=律と整合し律=音律/拍節も兼ね楽器に二重適切。科学-nomy=学(agronom)·名前複合=名 とは別の第3義。计律=計測+音律=節拍器\n基本形: no\n出典: homonym-alt.tsv:111",
+      "priority": 2,
+      "sourceRoot": "nom",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 111
+    },
+    {
       "prefix": "nomad",
       "body": "牧ᴺ",
       "kanji": "牧",
@@ -2493,6 +2519,19 @@
       "frequency": 19,
       "base": false,
       "sourceLine": 851
+    },
+    {
+      "prefix": "nomi",
+      "body": "律ᴺ",
+      "kanji": "律",
+      "detail": "nomi → 律ᴺ (語限定 heteronomy(他律)のnomi: hetero/nomi/o)",
+      "documentation": "語根: nomi\n入力: nomi\n最終形: 律ᴺ\n漢字: 律\n識別子: ᴺ\n型: sep(語限定)\n語義: heteronomy(他律)のnomi\n適用語: hetero/nomi/o\n注記: heteronomy(他律)のnomi→律(νόμος法)。-nomy科学=学/autonomi自治は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:87",
+      "priority": 1,
+      "sourceRoot": "nomi",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 87
     },
     {
       "prefix": "nominal",

@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 933,
+    "itemCount": 945,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "a",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -29,13 +29,13 @@
       "body": "顶ᴬᴮ",
       "kanji": "顶",
       "detail": "abak → 顶ᴬᴮ (同綴異義: 柱頭)",
-      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-amb.tsv:32",
+      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-alt.tsv:159",
       "priority": 1,
       "sourceRoot": "abak",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 32
+      "sourceLine": 159
     },
     {
       "prefix": "abandon",
@@ -1533,6 +1533,19 @@
       "sourceLine": 2641
     },
     {
+      "prefix": "afrodit",
+      "body": "性ᴬᶠ",
+      "kanji": "性",
+      "detail": "afrodit → 性ᴬᶠ (語限定 afrodit-(Aphrodite): herm/afrodit/a, herm/afrodit/ec/o 他3語)",
+      "documentation": "語根: afrodit\n入力: afrodit\n最終形: 性ᴬᶠ\n漢字: 性\n識別子: ᴬᶠ\n型: sep(語限定)\n語義: afrodit-(Aphrodite)\n適用語: herm/afrodit/a, herm/afrodit/ec/o, herm/afrodit/o, herm/afrodit/flor/a, pseu^do/herm/afrodit/ec/o\n注記: afrodit-(Aphrodite)→性: 上記 herm=两 と対で 两性。同綴の【動】Aphrodita(ウロコムシ属)=虫ᴬᴰ は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:22",
+      "priority": 1,
+      "sourceRoot": "afrodit",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 22
+    },
+    {
       "prefix": "afrodizi",
       "body": "催情",
       "kanji": "催情",
@@ -2285,6 +2298,19 @@
       "frequency": 3,
       "base": false,
       "sourceLine": 2198
+    },
+    {
+      "prefix": "akant",
+      "body": "刺ᴬ",
+      "kanji": "刺",
+      "detail": "akant → 刺ᴬ (語限定 akanto-(希ἄκανθα=棘·刺): akant/o/cefal/oj, akant/o/pterig/oj)",
+      "documentation": "語根: akant\n入力: akant\n最終形: 刺ᴬ\n漢字: 刺\n識別子: ᴬ\n型: sep(語限定)\n語義: akanto-(希ἄκανθα=棘·刺)\n適用語: akant/o/cefal/oj, akant/o/pterig/oj\n注記: akanto-(希ἄκανθα=棘·刺)→刺。棘頭虫Acanthocephala(akant/o/cefal=刺/头)・棘鰭類Acanthopterygii(akant/o/pterig=刺/翅)の thorn 義のみ。植物アカンサスakant/o(草=Acanthus属は棘葉だが植物として草維持)・トゲザメakantias(鱼)は不変。刺はdorn/pik/spron等と同じ棘グリフ(新字ゼロ)。2026-07-18 偽友スイープ\n基本形: no\n出典: homonym-alt.tsv:75",
+      "priority": 1,
+      "sourceRoot": "akant",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 75
     },
     {
       "prefix": "akantias",
@@ -3208,6 +3234,19 @@
       "frequency": 269,
       "base": true,
       "sourceLine": 63
+    },
+    {
+      "prefix": "al",
+      "body": "翼ᴬ",
+      "kanji": "翼",
+      "detail": "al → 翼ᴬ (語限定 翼(alo=翼/羽根): al/o, helic/al/o 他4語)",
+      "documentation": "語根: al\n入力: al\n最終形: 翼ᴬ\n漢字: 翼\n識別子: ᴬ\n型: sep(語限定)\n語義: 翼(alo=翼/羽根)\n適用語: al/o, helic/al/o, c^irkau^/al/a, frog/al/o, al/et/o, al/et/s^rau^b/ing/o\n注記: 翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:118",
+      "priority": 1,
+      "sourceRoot": "al",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 118
     },
     {
       "prefix": "alabastr",
@@ -4196,6 +4235,19 @@
       "frequency": 7,
       "base": false,
       "sourceLine": 2192
+    },
+    {
+      "prefix": "alo",
+      "body": "异ᴬᴸ",
+      "kanji": "异",
+      "detail": "alo → 异ᴬᴸ (語限定 ギリシャ接頭allo-(他·異different): alo/fon/o, alo/fon/a 他3語)",
+      "documentation": "語根: alo\n入力: alo\n最終形: 异ᴬᴸ\n漢字: 异\n識別子: ᴬᴸ\n型: sep(語限定)\n語義: ギリシャ接頭allo-(他·異different)\n適用語: alo/fon/o, alo/fon/a, alo/morf/o, alo/trofi/o, alo/pati/o\n注記: ギリシャ接頭allo-(他·異different)→异。allophone异音(alo/fon)·allomorph异形态(alo/morf)·allotrophy异养(alo/trofi)·allopathy异/情(alo/pati=逆症療法。アロエでない)。アロエ alo/o(草)·alo/aj^/o(草)はdisc不掲載で草維持。合金aloj/oは別根(合金)\n基本形: no\n出典: homonym-alt.tsv:116",
+      "priority": 1,
+      "sourceRoot": "alo",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 116
     },
     {
       "prefix": "alofon",
@@ -5485,6 +5537,19 @@
       "sourceLine": 158
     },
     {
+      "prefix": "an",
+      "body": "无ᴬ",
+      "kanji": "无",
+      "detail": "an → 无ᴬ (語限定 否定接頭an-(=a-,無-): frid/an/estez/o)",
+      "documentation": "語根: an\n入力: an\n最終形: 无ᴬ\n漢字: 无\n識別子: ᴬ\n型: sep(語限定)\n語義: 否定接頭an-(=a-,無-)\n適用語: frid/an/estez/o\n注記: 否定接頭an-(=a-,無-)→无。frid/an/estez(冷却麻酔=冷/无/感。anesthesia=無感覚)のanのみ。接尾辞-an-(員=member)は基本形员を維持(word-scoped限定)。2026-07-15 監査是正\n基本形: no\n出典: homonym-alt.tsv:73",
+      "priority": 1,
+      "sourceRoot": "an",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 73
+    },
+    {
       "prefix": "anabol",
       "body": "合成",
       "kanji": "合成",
@@ -6757,6 +6822,32 @@
       "frequency": 664,
       "base": true,
       "sourceLine": 96
+    },
+    {
+      "prefix": "ant",
+      "body": "反ᴬ",
+      "kanji": "反",
+      "detail": "ant → 反ᴬ (語限定 anti-(反対against): ant/onim/o)",
+      "documentation": "語根: ant\n入力: ant\n最終形: 反ᴬ\n漢字: 反\n識別子: ᴬ\n型: sep(語限定)\n語義: anti-(反対against)\n適用語: ant/onim/o\n注記: anti-(反対against)→反。反意語antonym(ant/onim=反/名)の anti のみ。現在分詞-ant-(在。abon/ant等30語以上)は在維持(word-scoped)。反はmal/opon/kontra等と同グリフ(新字ゼロ)。2026-07-18 偽友スイープR2\n基本形: no\n出典: homonym-alt.tsv:4",
+      "priority": 1,
+      "sourceRoot": "ant",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 4
+    },
+    {
+      "prefix": "ant",
+      "body": "抗ᴬᴺ",
+      "kanji": "抗",
+      "detail": "ant → 抗ᴬᴺ (語限定 ant-(希 anti-=反対): ant/heli/o)",
+      "documentation": "語根: ant\n入力: ant\n最終形: 抗ᴬᴺ\n漢字: 抗\n識別子: ᴬᴺ\n型: sep(語限定)\n語義: ant-(希 anti-=反対)\n適用語: ant/heli/o\n注記: ant-(希 anti-=反対)→抗: antheli/o 対日像。分詞接尾 -ant-=在 は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:77",
+      "priority": 2,
+      "sourceRoot": "ant",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 77
     },
     {
       "prefix": "antagon",
@@ -8271,13 +8362,13 @@
       "body": "亩",
       "kanji": "亩",
       "detail": "ar → 亩 (同綴異義: アール)",
-      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-amb.tsv:13",
+      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-alt.tsv:136",
       "priority": 1,
       "sourceRoot": "ar",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 13
+      "sourceLine": 136
     },
     {
       "prefix": "ara",
@@ -9064,13 +9155,26 @@
       "body": "菌ᴬᴷ",
       "kanji": "菌",
       "detail": "arke → 菌ᴬᴷ (同綴異義: 古細菌)",
-      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-amb.tsv:31",
+      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-alt.tsv:158",
       "priority": 1,
       "sourceRoot": "arke",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 31
+      "sourceLine": 158
+    },
+    {
+      "prefix": "arke",
+      "body": "原ᴬ",
+      "kanji": "原",
+      "detail": "arke → 原ᴬ (語限定 archē(希始まり·原型): arke/tip/o)",
+      "documentation": "語根: arke\n入力: arke\n最終形: 原ᴬ\n漢字: 原\n識別子: ᴬ\n型: sep(語限定)\n語義: archē(希始まり·原型)\n適用語: arke/tip/o\n注記: archē(希始まり·原型)→原。原型archetype(arke/tip=原/型)。ノアの箱船arke/o=方舟・考古arkeo/logi=古は別。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:80",
+      "priority": 2,
+      "sourceRoot": "arke",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 80
     },
     {
       "prefix": "arkegoni",
@@ -10347,6 +10451,19 @@
       "sourceLine": 7652
     },
     {
+      "prefix": "astat",
+      "body": "卤ᴬˢ",
+      "kanji": "卤",
+      "detail": "astat → 卤ᴬˢ (語限定 -astat-(元素アスタチンAt=halogeno): astat/o)",
+      "documentation": "語根: astat\n入力: astat\n最終形: 卤ᴬˢ\n漢字: 卤\n識別子: ᴬˢ\n型: sep(語限定)\n語義: -astat-(元素アスタチンAt=halogeno)\n適用語: astat/o\n注記: -astat-(元素アスタチンAt=halogeno)→卤(液体ハロゲンbrom=卤と同カテゴリ§4.6)。astat/a=astatic(無定位)=无定 はmaster維持(disc不掲載)。astaten(=astato)はmaster卤\n基本形: no\n出典: homonym-alt.tsv:26",
+      "priority": 1,
+      "sourceRoot": "astat",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 26
+    },
+    {
       "prefix": "astaten",
       "body": "卤ᴬ",
       "kanji": "卤",
@@ -10828,6 +10945,19 @@
       "sourceLine": 698
     },
     {
+      "prefix": "atm",
+      "body": "气ᴬᴹ",
+      "kanji": "气",
+      "detail": "atm → 气ᴬᴹ (語限定 atmo-(大気·蒸気=希atmos): atm/o/metr/o)",
+      "documentation": "語根: atm\n入力: atm\n最終形: 气ᴬᴹ\n漢字: 气\n識別子: ᴬᴹ\n型: sep(語限定)\n語義: atmo-(大気·蒸気=希atmos)\n適用語: atm/o/metr/o\n注記: atmo-(大気·蒸気=希atmos)→气。蒸発計atmometr(atm/o/metr=气/计)。真我atm/o=我(atman=ヒンドゥー哲学の個我)はbase維持。大気atmosfer=气と同義だが別root(2026-07-15 誤友是正: 我=atmanの取りこぼしをword-scopedで是正)\n基本形: no\n出典: homonym-alt.tsv:38",
+      "priority": 1,
+      "sourceRoot": "atm",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 38
+    },
+    {
       "prefix": "atmometr",
       "body": "气计ᴬᵀ",
       "kanji": "气计",
@@ -10930,6 +11060,19 @@
       "frequency": 6,
       "base": false,
       "sourceLine": 192
+    },
+    {
+      "prefix": "ator",
+      "body": "员ᴬᵀ",
+      "kanji": "员",
+      "detail": "ator → 员ᴬᵀ (語限定 -ator人物義: administr/ator/o, spekt/ator/o 他2語)",
+      "documentation": "語根: ator\n入力: ator\n最終形: 员ᴬᵀ\n漢字: 员\n識別子: ᴬᵀ\n型: sep(語限定)\n語義: -ator人物義\n適用語: administr/ator/o, spekt/ator/o, uzurp/ator/o, prestidigit/ator/o\n注記: -ator人物義→员。administranto管理者/spektanto観客/uzurpulo簒奪者/prestidigitisto手品師。装置義ator=具ᴬは既定のまま(altern/gener/kondens等)。numer/ator(数学分子)は号具のまま=PIV語源合成(要裁定なら変更)\n基本形: no\n出典: homonym-alt.tsv:25",
+      "priority": 1,
+      "sourceRoot": "ator",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 25
     },
     {
       "prefix": "atri",
@@ -11333,6 +11476,19 @@
       "frequency": 61,
       "base": true,
       "sourceLine": 2119
+    },
+    {
+      "prefix": "auxt",
+      "body": "自ᴬ",
+      "kanji": "自",
+      "detail": "aŭt → 自ᴬ (語限定 auto-(自己): au^t/ism/o, au^t/ism/ul/o 他18語)",
+      "documentation": "語根: aŭt\n入力: auxt\n最終形: 自ᴬ\n漢字: 自\n識別子: ᴬ\n型: sep(語限定)\n語義: auto-(自己)\n適用語: au^t/ism/o, au^t/ism/ul/o, au^t/ism/a, au^t/o/bio/grafi/o, au^t/o/grafi/o, au^t/o/graf/o, au^t/o/krati/o, au^t/o/krat/ism/o, au^t/o/krat/o, au^t/o/krat/a, au^t/o/krat/ec/o, au^t/o/liz/o, au^t/o/gen/a, au^t/o/gen/o, au^t/o/gami/o, au^t/o/gir/o, au^t/o/kataliz/o, au^t/o/morfi/o, tele/au^t/o/graf/i, tele/au^t/o/graf/o\n注記: auto-(自己)→自。自動車au^t/o/mobil=车は除外。au^t/o/gen=自家生成(WSL同期)。2026-07-15 自己義の取りこぼし追加(ユーザー裁定): au^t/o/gami=自家受精(memfekundig^o)・au^t/o/gir=オートジャイロ(自転翼)・au^t/o/kataliz=自己触媒(memkatalizo)・au^t/o/morfi=自己同型(sur g^in mem)・tele/au^t/o/graf=書画電送(自筆遠隔)。基本形車 au^t/o/mobil等は据置\n基本形: no\n出典: homonym-alt.tsv:35",
+      "priority": 1,
+      "sourceRoot": "aŭt",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 35
     },
     {
       "prefix": "auxtent",

@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 670,
+    "itemCount": 680,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "m",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -809,13 +809,13 @@
       "body": "疫ᴹ",
       "kanji": "疫",
       "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
-      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-amb.tsv:41",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:169",
       "priority": 1,
       "sourceRoot": "male",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 41
+      "sourceLine": 169
     },
     {
       "prefix": "maleol",
@@ -1654,13 +1654,13 @@
       "body": "币ᴹ",
       "kanji": "币",
       "detail": "mark → 币ᴹ (同綴異義: マルク)",
-      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-amb.tsv:9",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:130",
       "priority": 1,
       "sourceRoot": "mark",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 9
+      "sourceLine": 130
     },
     {
       "prefix": "marketr",
@@ -2161,13 +2161,13 @@
       "body": "将ᴹ",
       "kanji": "将",
       "detail": "mat → 将ᴹ (同綴異義: 詰)",
-      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-amb.tsv:3",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:123",
       "priority": 1,
       "sourceRoot": "mat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 3
+      "sourceLine": 123
     },
     {
       "prefix": "matcx",
@@ -2701,6 +2701,19 @@
       "frequency": 9,
       "base": false,
       "sourceLine": 3115
+    },
+    {
+      "prefix": "mega",
+      "body": "巨ᴹᴱ",
+      "kanji": "巨",
+      "detail": "mega → 巨ᴹᴱ (語限定 ギリシャ接頭mega-(大·巨 mégas): mega/fon/o, mega/teri/o 他2語)",
+      "documentation": "語根: mega\n入力: mega\n最終形: 巨ᴹᴱ\n漢字: 巨\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: ギリシャ接頭mega-(大·巨 mégas)\n適用語: mega/fon/o, mega/teri/o, mega/lit/a, mega/lit/o\n注記: ギリシャ接頭mega-(大·巨 mégas)→巨(megalo=巨ᴹと同源)。megaphone拡声器(mega/fon=巨/声)·Megatherium大ナマケモノ(mega/teri=巨/兽)·megalith巨石(mega/lit=巨/石)。SI接頭mega-(10^6=百万)=mega/bajt百万/字节·mega/herc·mega/om·mega/tun·mega/elektr/on/volt は百万維持(disc不掲載)。2026-07-18 分類名分解パスで露出/2026-07-19 megalith追加\n基本形: no\n出典: homonym-alt.tsv:54",
+      "priority": 1,
+      "sourceRoot": "mega",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 54
     },
     {
       "prefix": "megafon",
@@ -3964,6 +3977,32 @@
       "sourceLine": 865
     },
     {
+      "prefix": "met",
+      "body": "甲ᴹᴱ",
+      "kanji": "甲",
+      "detail": "met → 甲ᴹᴱ (語限定 methoxy中の-met-(甲基methyl): di/met/oksi/fenol/o)",
+      "documentation": "語根: met\n入力: met\n最終形: 甲ᴹᴱ\n漢字: 甲\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: methoxy中の-met-(甲基methyl)\n適用語: di/met/oksi/fenol/o\n注記: methoxy中の-met-(甲基methyl)→甲。旧whole-word metoksi=甲氧を過細分解で露出(di/met/oksi/fenol)。動詞met/i=置(置く)は列挙語のみ上書きのword-scopedゆえ78語すべて保持\n基本形: no\n出典: homonym-alt.tsv:57",
+      "priority": 1,
+      "sourceRoot": "met",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 57
+    },
+    {
+      "prefix": "met",
+      "body": "后ᴹ",
+      "kanji": "后",
+      "detail": "met → 后ᴹ (語限定 met-(希 meta-=後方): met/encefal/o)",
+      "documentation": "語根: met\n入力: met\n最終形: 后ᴹ\n漢字: 后\n識別子: ᴹ\n型: sep(語限定)\n語義: met-(希 meta-=後方)\n適用語: met/encefal/o\n注記: met-(希 meta-=後方)→后: metencefal/o 後脳。動詞 meti=置・系統化学 met=甲 は disc外で維持\n基本形: no\n出典: homonym-alt.tsv:79",
+      "priority": 2,
+      "sourceRoot": "met",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 79
+    },
+    {
       "prefix": "meta",
       "body": "超ᴹ",
       "kanji": "超",
@@ -4302,6 +4341,19 @@
       "sourceLine": 6223
     },
     {
+      "prefix": "meteor",
+      "body": "气ᴹᴿ",
+      "kanji": "气",
+      "detail": "meteor → 气ᴹᴿ (語限定 ギリシャmeteoron(大気現象): meteor/o/logi/o, meteor/o/log/o 他1語)",
+      "documentation": "語根: meteor\n入力: meteor\n最終形: 气ᴹᴿ\n漢字: 气\n識別子: ᴹᴿ\n型: sep(語限定)\n語義: ギリシャmeteoron(大気現象)\n適用語: meteor/o/logi/o, meteor/o/log/o, meteor/o/logi/a\n注記: ギリシャmeteoron(大気現象)→气(気象)。気象学meteorologi(meteor/o/logi=气/学)は隕石meteor/o=陨·流星体meteor/oid=陨/似 とは別(word-scoped)。既存meteo/logi=气ᴹと整合。隕石学(陨学)との誤読を是正。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:99",
+      "priority": 1,
+      "sourceRoot": "meteor",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 99
+    },
+    {
       "prefix": "meteorism",
       "body": "陨主义",
       "kanji": "陨主义",
@@ -4456,6 +4508,32 @@
       "frequency": 166,
       "base": true,
       "sourceLine": 3471
+    },
+    {
+      "prefix": "metr",
+      "body": "测ᴹᴱ",
+      "kanji": "测",
+      "detail": "metr → 测ᴹᴱ (語限定 -metr-(抽象measure=直径/半径/周径/幾何): dia/metr/o, dia/metr/a 他4語)",
+      "documentation": "語根: metr\n入力: metr\n最終形: 测ᴹᴱ\n漢字: 测\n識別子: ᴹᴱ\n型: sep(語限定)\n語義: -metr-(抽象measure=直径/半径/周径/幾何)\n適用語: dia/metr/o, dia/metr/a, du/on/dia/metr/o, peri/metr/o, geo/metr/o, geo/metr/ed/oj\n注記: -metr-(抽象measure=直径/半径/周径/幾何)→测。测の基底mezur(測る)・metri(测ᴹᵀ)と同family。dia/metr=通ᴰ/测「横切って測る」=diameter語源。2026-07-15ユーザー裁定: 幾何geo/metr(=土地を測る)を米→测に移管(地测。シャクガ科geo/metr/edも土地を測る虫で整合)。※pir/geo/metr(pyrgeometer=地表放射を測る計器)は計器ゆえ comb metr→计(火/地/计)に戻す(2026-07-15 監査是正)。長さ単位centi/kilo·詩脚heks/pentaは米sep維持\n基本形: no\n出典: homonym-alt.tsv:105",
+      "priority": 1,
+      "sourceRoot": "metr",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 105
+    },
+    {
+      "prefix": "metr",
+      "body": "计ᴹ",
+      "kanji": "计",
+      "detail": "metr → 计ᴹ (語限定 メトロノームmetr(計器·measure): metr/o/nom/o)",
+      "documentation": "語根: metr\n入力: metr\n最終形: 计ᴹ\n漢字: 计\n識別子: ᴹ\n型: sep(語限定)\n語義: メトロノームmetr(計器·measure)\n適用語: metr/o/nom/o\n注記: メトロノームmetr(計器·measure)→计。idx0でcomb metr→计 非適用のためsep明示。長さ単位等の非計器metrは上の米sepで処理\n基本形: no\n出典: homonym-alt.tsv:110",
+      "priority": 2,
+      "sourceRoot": "metr",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 110
     },
     {
       "prefix": "metri",
@@ -4729,6 +4807,19 @@
       "frequency": 20,
       "base": true,
       "sourceLine": 697
+    },
+    {
+      "prefix": "mi",
+      "body": "肌",
+      "kanji": "肌",
+      "detail": "mi → 肌 (語限定 myo-(筋肉): mi/o, mi/it/o 他10語)",
+      "documentation": "語根: mi\n入力: mi\n最終形: 肌\n漢字: 肌\n識別子: なし\n型: sep(語限定)\n語義: myo-(筋肉)\n適用語: mi/o, mi/it/o, mi/o/pati/o, mi/o/kardi/o, mi/o/fibr/it/o, mi/o/fibrit/o, mi/o/globin/o, mi/o/glob/in/o, mi/o/sarkom/o, kardi/mi/o/pati/o, mi/om/o, mi/on/o\n注記: myo-(筋肉)→肌。代名詞mi(我)·所有mi/aj^/o(私の物=我)は維持(disc不掲載)。2026-07-18偽友スイープ: 筋腫mi/om・筋節mi/on・筋グロビンmi/o/glob/in(正本再分節globin→glob/in)追加(我=代名詞の誤友是正)。2026-07-20 学術版粗分節mi/o/fibrit/o追加(学習者mi/o/fibr/it/oと粒度差=学術のみmi=我偽友残存→肌。fibrit→纤炎はp_work併用で肌纤炎に)\n基本形: no\n出典: homonym-alt.tsv:52",
+      "priority": 1,
+      "sourceRoot": "mi",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 52
     },
     {
       "prefix": "miasm",
@@ -6603,6 +6694,19 @@
       "sourceLine": 6108
     },
     {
+      "prefix": "mobil",
+      "body": "动ᴹᴮ",
+      "kanji": "动",
+      "detail": "mobil → 动ᴹᴮ (語限定 mobil(-mobile=可動·自動·移動): au^t/o/mobil/o, au^t/o/mobil/a 他10語)",
+      "documentation": "語根: mobil\n入力: mobil\n最終形: 动ᴹᴮ\n漢字: 动\n識別子: ᴹᴮ\n型: sep(語限定)\n語義: mobil(-mobile=可動·自動·移動)\n適用語: au^t/o/mobil/o, au^t/o/mobil/a, au^t/o/mobil/ism/o, au^t/o/mobil/ist/o, au^t/o/mobil/kompani/o, mobil/iz/i, mobil/iz/ad/o, mobil/iz/o, mal/mobil/iz/i, mal/mobil/iz/ig^/i, mal/mobil/iz/o, lok/o/mobil/o\n注記: mobil(-mobile=可動·自動·移動)→动。aŭtomobil車+動員mobil/iz(復員mal/mobil/iz)+移動式蒸気機関lok/o/mobil。モビール装飾mobil/o(挂饰)はdisc不掲載で挂饰維持。aŭtomat=动と同群\n基本形: no\n出典: homonym-alt.tsv:112",
+      "priority": 1,
+      "sourceRoot": "mobil",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 112
+    },
+    {
       "prefix": "mobiliz",
       "body": "动化",
       "kanji": "动化",
@@ -7017,6 +7121,19 @@
       "frequency": 78,
       "base": true,
       "sourceLine": 1263
+    },
+    {
+      "prefix": "mon",
+      "body": "单ᴹᴼ",
+      "kanji": "单",
+      "detail": "mon → 单ᴹᴼ (語限定 monos(単一): mon/ism/o, mon/ist/o)",
+      "documentation": "語根: mon\n入力: mon\n最終形: 单ᴹᴼ\n漢字: 单\n識別子: ᴹᴼ\n型: sep(語限定)\n語義: monos(単一)\n適用語: mon/ism/o, mon/ist/o\n注記: monos(単一)→单。金銭mon=钱は別\n基本形: no\n出典: homonym-alt.tsv:34",
+      "priority": 1,
+      "sourceRoot": "mon",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 34
     },
     {
       "prefix": "monahx",
@@ -8330,6 +8447,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7564
+    },
+    {
+      "prefix": "mung",
+      "body": "草ᴹᵁᴺ",
+      "kanji": "草",
+      "detail": "mung → 草ᴹᵁᴺ (語限定 緑豆(Vigna radiata=マメ科)+豆もやし: mung/o, mung/id/oj)",
+      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:171",
+      "priority": 1,
+      "sourceRoot": "mung",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 171
     },
     {
       "prefix": "mungot",

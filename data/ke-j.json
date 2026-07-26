@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 87,
+    "itemCount": 88,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "j",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -250,13 +250,13 @@
       "body": "杆ᴶ",
       "kanji": "杆",
       "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
-      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-amb.tsv:27",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:153",
       "priority": 1,
       "sourceRoot": "jard",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 27
+      "sourceLine": 153
     },
     {
       "prefix": "jaroviz",
@@ -725,6 +725,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6957
+    },
+    {
+      "prefix": "jul",
+      "body": "划ᴶ",
+      "kanji": "划",
+      "detail": "jul → 划ᴶ (語限定 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ: jul/o, jul/ad/i)",
+      "documentation": "語根: jul\n入力: jul\n最終形: 划ᴶ\n漢字: 划\n識別子: ᴶ\n型: sep(語限定)\n語義: 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ\n適用語: jul/o, jul/ad/i\n注記: 【PIV】航海 jul/o=艫でひねる櫓(yuloh)・jul/ad/i=櫓で漕ぐ→漕ぐhub划。クリスマス系(jul/arb/o=圣诞/树・Jul/o=圣诞ユール祭)は別見出しで維持。2026-07-04ユーザー裁定sep分離\n基本形: no\n出典: homonym-alt.tsv:24",
+      "priority": 1,
+      "sourceRoot": "jul",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 24
     },
     {
       "prefix": "juli",

@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 90,
+    "itemCount": 91,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "u",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -543,6 +543,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7371
+    },
+    {
+      "prefix": "ur",
+      "body": "尿ᵁᴿ",
+      "kanji": "尿",
+      "detail": "ur → 尿ᵁᴿ (語限定 uro-(尿): ur/gener/a, ur/o/gener/a)",
+      "documentation": "語根: ur\n入力: ur\n最終形: 尿ᵁᴿ\n漢字: 尿\n識別子: ᵁᴿ\n型: sep(語限定)\n語義: uro-(尿)\n適用語: ur/gener/a, ur/o/gener/a\n注記: uro-(尿)→尿。オーロックスur/o(原牛)は維持。uro/log/uro/grafiは既に尿ᵁᴼ\n基本形: no\n出典: homonym-alt.tsv:72",
+      "priority": 1,
+      "sourceRoot": "ur",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 72
     },
     {
       "prefix": "uragan",

@@ -3,6 +3,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { buildReverseItems } from './generate-reverse-index.mjs';
+import { ALT_TYPES, classifyAlternates, parseAlternateTsv } from './merge-homonym-alt.mjs';
 
 const [,, allPath = './all.json', dataDir = './data'] = process.argv;
 
@@ -140,38 +141,33 @@ for (const [body, roots] of rootsByBody) {
   }
 }
 
-// Same-spelling/different-meaning alternates (data/homonym-amb.tsv, merged by
-// merge-homonym-amb.mjs) live OUTSIDE the sidecar the primary dictionary is built from, so a
-// rebuild that runs only the sidecar → split → reverse steps would drop all of them and still
-// look perfectly self-consistent to every check above. Assert here that each curated alternate
-// actually reached all.json, so a forgotten merge step fails the build instead of silently
-// shipping a dictionary that lost its second senses.
-const ambSourcePath = path.join(dataDir, 'homonym-amb.tsv');
+// Curated homonym alternates (data/homonym-alt.tsv, merged by merge-homonym-alt.mjs) live
+// OUTSIDE the sidecar the primary dictionary is built from, so a rebuild that runs only the
+// sidecar → split → reverse steps would drop all of them and still look perfectly
+// self-consistent to every check above. Re-derive the expected set with the merge tool's own
+// classifier — never a second copy of the rules — and compare it against what all.json
+// actually carries, so a forgotten merge step (or a drifted alternate) fails the build instead
+// of silently shipping a dictionary that lost its second senses.
+const altSourcePath = path.join(dataDir, 'homonym-alt.tsv');
 try {
-  const ambRaw = await fs.readFile(ambSourcePath, 'utf8');
-  const ambLines = ambRaw.replace(/^﻿/, '').split(/\r?\n/).filter(line => line.trim());
-  const ambHeader = ambLines.shift().split('\t');
-  const col = (cols, name) => (cols[ambHeader.indexOf(name)] ?? '').trim();
-  const ambRows = ambLines.map(line => line.split('\t')).filter(cols => col(cols, 'type') === 'amb');
-  const ambItems = items.filter(item => item.type === 'amb');
-  const ambItemsByBody = new Map(ambItems.map(item => [String(item.body || ''), item]));
+  const altRaw = await fs.readFile(altSourcePath, 'utf8');
+  const altRows = parseAlternateTsv(altRaw);
+  const baseItems = items.filter(item => !ALT_TYPES.has(item.type));
+  const { adopted } = classifyAlternates(baseItems, altRows, path.basename(altSourcePath));
+  const actual = items.filter(item => ALT_TYPES.has(item.type));
+  const actualByBody = new Map(actual.map(item => [String(item.body || ''), item]));
 
-  if (ambItems.length !== ambRows.length) {
-    errors.push(`homonym alternates: all.json has ${ambItems.length} amb item(s) but ${path.basename(ambSourcePath)} defines ${ambRows.length} — run: node tools/merge-homonym-amb.mjs ./all.json ${ambSourcePath} ./all.json`);
+  if (actual.length !== adopted.length) {
+    errors.push(`homonym alternates: all.json carries ${actual.length} but ${path.basename(altSourcePath)} yields ${adopted.length} — run: node tools/merge-homonym-alt.mjs ./all.json ${altSourcePath} ./all.json`);
   }
-  for (const cols of ambRows) {
-    const body = col(cols, 'overrideDisp');
-    const item = ambItemsByBody.get(body);
+  for (const entry of adopted) {
+    const item = actualByBody.get(entry.item.body);
     if (!item) {
-      errors.push(`homonym alternate missing from all.json: ${col(cols, 'segment')} → ${body}`);
+      errors.push(`homonym alternate missing from all.json: ${entry.row.segment} → ${entry.item.body}`);
       continue;
     }
-    if (String(item.kanji || '') !== col(cols, 'overrideKanji')) {
-      errors.push(`homonym alternate kanji differs for ${body}: all.json "${item.kanji}" vs source "${col(cols, 'overrideKanji')}"`);
-    }
-    // priority 0 is the base sense's rank; an alternate must never outrank it.
-    if (!(Number(item.priority) > 0)) {
-      errors.push(`homonym alternate ${body} has priority ${item.priority} — alternates must rank after the base sense`);
+    if (JSON.stringify(item) !== JSON.stringify(entry.item)) {
+      errors.push(`homonym alternate differs from its source row: ${entry.item.body} (${entry.row.segment}, line ${entry.row.line})`);
     }
   }
 } catch (error) {

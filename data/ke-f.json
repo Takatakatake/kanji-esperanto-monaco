@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 501,
+    "itemCount": 508,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "f",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -166,6 +166,19 @@
       "frequency": 18,
       "base": false,
       "sourceLine": 1001
+    },
+    {
+      "prefix": "fag",
+      "body": "吞ᶠᴳ",
+      "kanji": "吞",
+      "detail": "fag → 吞ᶠᴳ (語限定 -phago-/-phage(貪食): bakteri/o/fag/o, fag/o/cit/ad/o 他6語)",
+      "documentation": "語根: fag\n入力: fag\n最終形: 吞ᶠᴳ\n漢字: 吞\n識別子: ᶠᴳ\n型: sep(語限定)\n語義: -phago-/-phage(貪食)\n適用語: bakteri/o/fag/o, fag/o/cit/ad/o, fag/o/cit/i, fag/o/cit/o, fag/o/cit/oz/o, antrop/o/fag/o, antrop/o/fag/ism/o, makr/o/fag/o\n注記: -phago-/-phage(貪食)→吞。ブナfag/o(树)はfag/o,fag/ar/o,fag/ej/o,fag/o/frukt/o,fag/o/nuks/o,fag/ac/oj,sang/o/fag/o(赤葉ブナ),s^ajn/fag/o(ナンキョクブナ)で維持。ezofag(食道)/fagopir(蕎麦)/fagot(ファゴット)は別セグメントで無影響\n基本形: no\n出典: homonym-alt.tsv:46",
+      "priority": 1,
+      "sourceRoot": "fag",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 46
     },
     {
       "prefix": "fagocit",
@@ -1572,6 +1585,19 @@
       "sourceLine": 7880
     },
     {
+      "prefix": "fen",
+      "body": "现ᶠᴱ",
+      "kanji": "现",
+      "detail": "fen → 现ᶠᴱ (語限定 phainein(希現れる·示す): fen/o/tip/o)",
+      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:89",
+      "priority": 1,
+      "sourceRoot": "fen",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 89
+    },
+    {
       "prefix": "fend",
       "body": "裂ᶠ",
       "kanji": "裂",
@@ -2378,6 +2404,32 @@
       "sourceLine": 1179
     },
     {
+      "prefix": "fil",
+      "body": "爱ᶠ",
+      "kanji": "爱",
+      "detail": "fil → 爱ᶠ (語限定 -fil-(philos=愛/-phile): bibli/o/fil/o, bibli/o/fil/i/o 他12語)",
+      "documentation": "語根: fil\n入力: fil\n最終形: 爱ᶠ\n漢字: 爱\n識別子: ᶠ\n型: sep(語限定)\n語義: -fil-(philos=愛/-phile)\n適用語: bibli/o/fil/o, bibli/o/fil/i/o, pedo/fil/i/o, gastr/o/fil/o, gips/o/fil/o, hidr/o/fil/a, nekr/o/fil/i/o, skop/o/fil/i/o, fil/antrop/o, fil/antrop/i/o, fil/o/logi/o, fil/o/logi/a, fil/o/logi/ist/o, fil/o/log/o\n注記: -fil-(philos=愛/-phile)→爱。語頭philo-(filantrop博愛/filolog文献学=言葉への愛)も含む(2026-06-22)。filo=息子(儿)はbo/du-on/adopt-o/bapt-o/pra/sol/ge/sen-fil で維持(disc不掲載)。filogenez=phylon系統は別語源で対象外\n基本形: no\n出典: homonym-alt.tsv:17",
+      "priority": 1,
+      "sourceRoot": "fil",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 17
+    },
+    {
+      "prefix": "fil",
+      "body": "系ᶠᴸ",
+      "kanji": "系",
+      "detail": "fil → 系ᶠᴸ (語限定 phylogenesis(系統発生)のfil: fil/o/genez/o)",
+      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:86",
+      "priority": 2,
+      "sourceRoot": "fil",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 86
+    },
+    {
       "prefix": "filadelf",
       "body": "山梅花",
       "kanji": "山梅花",
@@ -2499,13 +2551,13 @@
       "body": "线ᶠ",
       "kanji": "线",
       "detail": "file → 线ᶠ (同綴異義: 罫線)",
-      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-amb.tsv:33",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:160",
       "priority": 1,
       "sourceRoot": "file",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 33
+      "sourceLine": 160
     },
     {
       "prefix": "fili",
@@ -3026,6 +3078,19 @@
       "frequency": 8,
       "base": false,
       "sourceLine": 4300
+    },
+    {
+      "prefix": "fizi",
+      "body": "生理",
+      "kanji": "生理",
+      "detail": "fizi → 生理 (語限定 fiziologi(physis=生命): fizi/o/logi/o, fizi/o/log/o 他3語)",
+      "documentation": "語根: fizi\n入力: fizi\n最終形: 生理\n漢字: 生理\n識別子: なし\n型: sep(語限定)\n語義: fiziologi(physis=生命)\n適用語: fizi/o/logi/o, fizi/o/log/o, fizi/o/logi/a, plant/fizi/o/logi/o, psik/o/fizi/o/logi/o\n注記: fiziologi(physis=生命)→生理。生理学(生理/学)。物理physics(fizik=物理)は同綴別義で不干渉。2026-07-19ユーザー裁定: {Ｏ}生理学との矛盾是正\n基本形: no\n出典: homonym-alt.tsv:42",
+      "priority": 1,
+      "sourceRoot": "fizi",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 42
     },
     {
       "prefix": "fizik",
@@ -3994,13 +4059,26 @@
       "body": "响ᶠ",
       "kanji": "响",
       "detail": "fon → 响ᶠ (同綴異義: ホン)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-amb.tsv:17",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:140",
       "priority": 1,
       "sourceRoot": "fon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 17
+      "sourceLine": 140
+    },
+    {
+      "prefix": "fon",
+      "body": "声ᶠᴼ",
+      "kanji": "声",
+      "detail": "fon → 声ᶠᴼ (語限定 phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等: fon/o/graf/o, fon/o/gram/o 他5語)",
+      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:113",
+      "priority": 2,
+      "sourceRoot": "fon",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 113
     },
     {
       "prefix": "fond",
@@ -4755,6 +4833,19 @@
       "frequency": 87,
       "base": true,
       "sourceLine": 2864
+    },
+    {
+      "prefix": "fot",
+      "body": "光ᶠ",
+      "kanji": "光",
+      "detail": "fot → 光ᶠ (語限定 photo-(光): fot/on/o, fot/o/sfer/o 他15語)",
+      "documentation": "語根: fot\n入力: fot\n最終形: 光ᶠ\n漢字: 光\n識別子: ᶠ\n型: sep(語限定)\n語義: photo-(光)\n適用語: fot/on/o, fot/o/sfer/o, fot/o/sintez/o, fot/o/c^el/o, fot/o/kemi/o, fot/o/kemi/a, fot/o/metri/o, fot/o/metr/o, flagr/o/fot/o/metr/o, fot/o/metri/i, fot/o/jon/ig/i, fot/o/kondukt/iv/a, fot/o/liz/i, fot/o/terapi/o, fot/o/volta/a, fot/on/mikro/skop/o, fot/o/trop/ism/o\n注記: photo-(光)→光(物理·化学·生物)。写真fot/o/fot/i/fot/o/graf等は拍維持。2026-07-07 正本波でfoto/trop/ism→fot/o/trop/ism露出→fot/o/trop/ism/o追加(Lumtropismo=光屈性ゆえ光。拍=写真は誤友)。複合語内の光物理/光化学派生も光へ網羅(2026-06-25 接尾辞悉皆監査の派生メモから: fot/o/kemi/a光化学[スモッグ/酸化剤句もカバー]・fot/o/jon/ig光電離・fot/o/kondukt/iv光伝導・fot/o/liz光解・fot/o/terapi光線療法・fot/o/volta光起電・fot/on/mikro/skop光子顕微鏡。hsep whole-word盲点の補完=al/翼と同型)\n基本形: no\n出典: homonym-alt.tsv:68",
+      "priority": 1,
+      "sourceRoot": "fot",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 68
     },
     {
       "prefix": "fotel",

@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 258,
+    "itemCount": 262,
     "skippedCount": 0,
-    "homonymSourceName": "homonym-amb.tsv",
-    "homonymAmbCount": 41,
+    "homonymSourceName": "homonym-alt.tsv",
+    "homonymAltCount": 166,
     "bucket": "c",
-    "dictionaryItemCount": 10436
+    "dictionaryItemCount": 10561
   },
   "items": [
     {
@@ -2118,6 +2118,19 @@
       "sourceLine": 2194
     },
     {
+      "prefix": "cist",
+      "body": "囊ᶜ",
+      "kanji": "囊",
+      "detail": "cist → 囊ᶜ (語限定 kystis(希嚢·袋): kole/cist/o, kole/cist/a 他1語)",
+      "documentation": "語根: cist\n入力: cist\n最終形: 囊ᶜ\n漢字: 囊\n識別子: ᶜ\n型: sep(語限定)\n語義: kystis(希嚢·袋)\n適用語: kole/cist/o, kole/cist/a, kole/cist/it/o\n注記: kystis(希嚢·袋)→囊。胆嚢cholecyst(kole/cist=胆/囊)・胆嚢炎kolecistit。ハンニチバナ属Cistus cist/o=草は維持(word-scoped)。膀胱kist/o=囊肿と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:91",
+      "priority": 1,
+      "sourceRoot": "cist",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 91
+    },
+    {
       "prefix": "cistern",
       "body": "池",
       "kanji": "池",
@@ -2168,6 +2181,19 @@
       "frequency": 23,
       "base": true,
       "sourceLine": 4266
+    },
+    {
+      "prefix": "cit",
+      "body": "胞ᶜᴵ",
+      "kanji": "胞",
+      "detail": "cit → 胞ᶜᴵ (語限定 -cyt-(細胞·-cyte): fag/o/cit/ad/o, fag/o/cit/i 他20語)",
+      "documentation": "語根: cit\n入力: cit\n最終形: 胞ᶜᴵ\n漢字: 胞\n識別子: ᶜᴵ\n型: sep(語限定)\n語義: -cyt-(細胞·-cyte)\n適用語: fag/o/cit/ad/o, fag/o/cit/i, fag/o/cit/o, fag/o/cit/oz/o, granul/o/cit/o, hiper/granul/o/cit/emi/o, hipo/granul/o/cit/emi/o, leu^ko/cit/o, leu^ko/cit/o/poez/o, leu^ko/cit/oz/o, limf/o/cit/o, ov/o/cit/o, spermat/o/cit/o, tromb/o/cit/o, eritr/o/cit/o, eritr/o/cit/o/poez/o, hiper/eritr/o/cit/emi/o, cit/oz/o, el/cit/oz/o, ekzo/cit/oz/o, en/cit/oz/o, endo/cit/oz/o\n注記: -cyt-(細胞·-cyte)→胞。citi=引(re/cit・mis/cit・supr/e/cit)は保持。cit/oz(エキソ/エンドサイトーシス等)の接頭辞派生も胞(2026-06-23 sep派生形網羅。2026-07-03 WSL再分解 eritrocit→eritr/o/cit 露出で赤血球系eritr/o/cit/o・eritr/o/cit/o/poez/o 追加。2026-07-04 hiper/eritr/o/cit/emi/o(赤血球増加血症)追加=引=cite誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:45",
+      "priority": 1,
+      "sourceRoot": "cit",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 45
     },
     {
       "prefix": "citin",
@@ -2690,6 +2716,19 @@
       "sourceLine": 70
     },
     {
+      "prefix": "cxar",
+      "body": "车ᶜ̂",
+      "kanji": "车",
+      "detail": "ĉar → 车ᶜ̂ (語限定 荷車/車両(ĉaro=cart): c^ar/o, c^ar/ist/o 他30語)",
+      "documentation": "語根: ĉar\n入力: cxar\n最終形: 车ᶜ̂\n漢字: 车\n識別子: ᶜ̂\n型: sep(語限定)\n語義: 荷車/車両(ĉaro=cart)\n適用語: c^ar/o, c^ar/ist/o, c^ar/eg/o, c^ar/et/o, c^ar/um/o, c^ar/on, c^ar/far/ist/o, c^ar/lev/il/o, au^t/o/c^ar/o, antau^/c^ar/o, post/c^ar/o, bov/o/c^ar/o, c^eval/c^ar/o, bagag^/o/c^ar/o, beb/o/c^ar/et/o, infan/c^ar/et/o, ac^et/c^ar/et/o, pus^/c^ar/et/o, pus^/c^ar/o, fald/c^ar/o, fald/c^ar/et/o, fest/o/c^ar/o, furag^/o/c^ar/o, elektr/o/c^ar/o, krom/c^ar/o, lev/c^ar/o, plen/c^ar/o, s^arg^/o/c^ar/o, serv/o/c^ar/et/o, sid/c^ar/et/o, tir/c^ar/o, trole/c^ar/o\n注記: 荷車/車両(ĉaro=cart)→车。接続詞ĉar(因)はdisc不掲載で維持。荷車ĉar系32見出しを網羅(2026-06-21): aŭt/o/ĉar=バス・bov/o/ĉar=牛車・ĉeval/ĉar=馬車・krom/ĉar=側車(外/车)・各乳母車(beb/o/infan/fald)・手押車(puŝ/ĉar/um)・ショッピングカート(aĉet/puŝ)・フォークリフトlev/ĉar・山車fest/o/ĉar・リヤカーtir/ĉar 等\n基本形: no\n出典: homonym-alt.tsv:15",
+      "priority": 1,
+      "sourceRoot": "ĉar",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 15
+    },
+    {
       "prefix": "cxarlatan",
       "body": "骗ᶜ̂",
       "kanji": "骗",
@@ -3091,6 +3130,19 @@
       "frequency": 26,
       "base": true,
       "sourceLine": 28
+    },
+    {
+      "prefix": "cxiel",
+      "body": "天ᶜ̂",
+      "kanji": "天",
+      "detail": "ĉiel → 天ᶜ̂ (語限定 空: c^iel/o, c^iel/a 他16語)",
+      "documentation": "語根: ĉiel\n入力: cxiel\n最終形: 天ᶜ̂\n漢字: 天\n識別子: ᶜ̂\n型: sep(語限定)\n語義: 空\n適用語: c^iel/o, c^iel/a, c^iel/ark/o, c^iel/ark/a, c^iel/blu/a, c^iel/ir/o, c^iel/e/n/ir/o, c^iel/mekanik/o, c^iel/o/sfer/o, c^iel/rug^/o, c^iel/skrap/ant/o, c^iel/skrap/ul/o, c^iel/tus^/a, c^iel/ul/o, c^iel/an/o, c^iel/fajr/o, sub/c^iel/a, sub/c^iel/e\n注記: 空。相関詞c^iel=全样と別。2026-07-07 正本波で c^ielen/ir→c^iel/e/n/ir に-e/n境界正規化されたため c^iel/e/n/ir/o(昇天=c^ieliro)追加(被覆漏れ是正=全样に化けるのを防ぐ)\n基本形: no\n出典: homonym-alt.tsv:14",
+      "priority": 1,
+      "sourceRoot": "ĉiel",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 14
     },
     {
       "prefix": "cxies",
