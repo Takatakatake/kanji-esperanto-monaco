@@ -61,10 +61,26 @@ export function parseAlternateTsv(raw) {
 // the master happened to use for that row.
 const prefixOf = (segment) => toXSystem(segment);
 
+// A note reads "クロム(金属元素)→金。前置詞krom=外と別。…": the sense is what precedes the
+// arrow (or the first sentence when there is none). Both delimiters also occur INSIDE the
+// parenthetical glosses the master writes — "ギリシャlogos(言葉→戒め)→戒", "polio-(…cerba。
+// PIV原本polio/定義)→灰" — so track bracket depth and only break at a top-level delimiter;
+// splitting naively leaves a dangling bracket in the candidate list.
 function senseOf(row) {
-  const head = String(row.note || '').split('。')[0] || '';
-  const arrow = head.indexOf('→');
-  return (arrow >= 0 ? head.slice(0, arrow) : head).trim();
+  const note = String(row.note || '');
+  let depth = 0;
+  let arrow = -1;
+  let end = note.length;
+  for (let i = 0; i < note.length; i += 1) {
+    const ch = note[i];
+    if (ch === '(' || ch === '（') depth += 1;
+    else if (ch === ')' || ch === '）') depth = Math.max(0, depth - 1);
+    else if (depth === 0) {
+      if (ch === '。') { end = i; break; }
+      if (ch === '→' && arrow < 0) arrow = i;
+    }
+  }
+  return note.slice(0, arrow >= 0 ? arrow : end).trim();
 }
 
 function scopeWords(row) {
