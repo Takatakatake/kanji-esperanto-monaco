@@ -25,6 +25,7 @@ kanji-esperanto-monaco/
 
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
+node tools/merge-homonym-amb.mjs ./all.json ./data/homonym-amb.tsv ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 node tools/check-dictionary-assets.mjs ./all.json ./data
@@ -36,6 +37,12 @@ node tools/check-versions.mjs
 - これら2つのチェックは GitHub Actions（`.github/workflows/pages.yml` の `verify` ジョブ）で push / PR 時に自動実行され、不一致ならデプロイを止めます。
 - `ĉ`, `ĝ`, `ŝ`, `ŭ` と `c^`, `g^`, `s^`, `u^` などは、入力用に `cx`, `gx`, `sx`, `ux` へ正規化します。
 - 同一語根に複数候補がある場合は、`priority` の小さい順に候補表示します。
+- `data/homonym-amb.tsv` は、**同じ綴りで全く別の語**である語根を第2候補として登録する副資料です（`plum` = 羽「羽根」/ 笔ᴾᴸ「ペン」、`mat` = 席「マット」/ 将ᴹ「チェス詰み」など41件）。`_identifier_sidecar.tsv` は1語根1漢字しか持てないため、正典 `_homonym_disp.tsv` の `type=amb` 行だけを抜き出して補います。更新は正典から再抽出します:
+  ```
+  sed '1s/^\xEF\xBB\xBF//' _homonym_disp.tsv | awk -F'\t' 'NR==1 || $2=="amb"' > data/homonym-amb.tsv
+  ```
+  `merge-homonym-amb.mjs` がこれを `priority` 1 以降（基本義の後ろ）として `all.json` に合流させ、`check-dictionary-assets.mjs` が全件の取り込みと逆写像の一意性を検証します。**マージ工程を飛ばして再生成すると CI が赤になります**（第2義が黙って消えるのを防ぐため）。
+- `_homonym_disp.tsv` の `sep` / `comb` 行は「特定の語の中でだけ第2義」という語スコープ付きの規則で、入力時点では語が確定しないエディタからは採用していません（語全体を見られる注釈アプリ側の担当）。
 - `data/reverse.json` は、漢字ごとの割当語根検索に使う逆引きインデックスです。
 
 ## 大辞書（分割・遅延読込）

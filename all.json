@@ -3,8 +3,10 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 10395,
-    "skippedCount": 0
+    "itemCount": 10436,
+    "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41
   },
   "items": [
     {
@@ -19,6 +21,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 8350
+    },
+    {
+      "prefix": "abak",
+      "body": "顶ᴬᴮ",
+      "kanji": "顶",
+      "detail": "abak → 顶ᴬᴮ (同綴異義: 柱頭)",
+      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-amb.tsv:32",
+      "priority": 1,
+      "sourceRoot": "abak",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 32
     },
     {
       "prefix": "abandon",
@@ -8250,6 +8265,19 @@
       "sourceLine": 222
     },
     {
+      "prefix": "ar",
+      "body": "亩",
+      "kanji": "亩",
+      "detail": "ar → 亩 (同綴異義: アール)",
+      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-amb.tsv:13",
+      "priority": 1,
+      "sourceRoot": "ar",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 13
+    },
+    {
       "prefix": "ara",
       "body": "鹦ᴬ",
       "kanji": "鹦",
@@ -9028,6 +9056,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6914
+    },
+    {
+      "prefix": "arke",
+      "body": "菌ᴬᴷ",
+      "kanji": "菌",
+      "detail": "arke → 菌ᴬᴷ (同綴異義: 古細菌)",
+      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-amb.tsv:31",
+      "priority": 1,
+      "sourceRoot": "arke",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 31
     },
     {
       "prefix": "arkegoni",
@@ -15073,6 +15114,19 @@
       "frequency": 12,
       "base": false,
       "sourceLine": 4686
+    },
+    {
+      "prefix": "bit",
+      "body": "桩ᴮ",
+      "kanji": "桩",
+      "detail": "bit → 桩ᴮ (同綴異義: 繋柱)",
+      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-amb.tsv:26",
+      "priority": 1,
+      "sourceRoot": "bit",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 26
     },
     {
       "prefix": "bitum",
@@ -23538,6 +23592,19 @@
       "sourceLine": 8501
     },
     {
+      "prefix": "deviz",
+      "body": "汇ᴰ",
+      "kanji": "汇",
+      "detail": "deviz → 汇ᴰ (同綴異義: 外貨)",
+      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-amb.tsv:8",
+      "priority": 1,
+      "sourceRoot": "deviz",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 8
+    },
+    {
       "prefix": "devot",
       "body": "敬ᴰ",
       "kanji": "敬",
@@ -26994,6 +27061,19 @@
       "frequency": 3,
       "base": false,
       "sourceLine": 5335
+    },
+    {
+      "prefix": "dur",
+      "body": "币ᴰ",
+      "kanji": "币",
+      "detail": "dur → 币ᴰ (同綴異義: ドゥーロ)",
+      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-amb.tsv:12",
+      "priority": 1,
+      "sourceRoot": "dur",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 12
     },
     {
       "prefix": "duramatr",
@@ -31546,6 +31626,19 @@
       "sourceLine": 209
     },
     {
+      "prefix": "er",
+      "body": "纪ᴱᴿ",
+      "kanji": "纪",
+      "detail": "er → 纪ᴱᴿ (同綴異義: 紀元)",
+      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-amb.tsv:37",
+      "priority": 1,
+      "sourceRoot": "er",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 37
+    },
+    {
       "prefix": "era",
       "body": "代ᴱ",
       "kanji": "代",
@@ -31648,6 +31741,19 @@
       "frequency": 7,
       "base": true,
       "sourceLine": 6440
+    },
+    {
+      "prefix": "ergot",
+      "body": "距ᴱ",
+      "kanji": "距",
+      "detail": "ergot → 距ᴱ (同綴異義: 蹴爪)",
+      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-amb.tsv:23",
+      "priority": 1,
+      "sourceRoot": "ergot",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 23
     },
     {
       "prefix": "erigeron",
@@ -35771,6 +35877,19 @@
       "sourceLine": 7901
     },
     {
+      "prefix": "file",
+      "body": "线ᶠ",
+      "kanji": "线",
+      "detail": "file → 线ᶠ (同綴異義: 罫線)",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-amb.tsv:33",
+      "priority": 1,
+      "sourceRoot": "file",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 33
+    },
+    {
       "prefix": "fili",
       "body": "支ᶠ",
       "kanji": "支",
@@ -37251,6 +37370,19 @@
       "frequency": 79,
       "base": false,
       "sourceLine": 2179
+    },
+    {
+      "prefix": "fon",
+      "body": "响ᶠ",
+      "kanji": "响",
+      "detail": "fon → 响ᶠ (同綴異義: ホン)",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-amb.tsv:17",
+      "priority": 1,
+      "sourceRoot": "fon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 17
     },
     {
       "prefix": "fond",
@@ -54660,6 +54792,19 @@
       "sourceLine": 4821
     },
     {
+      "prefix": "jard",
+      "body": "杆ᴶ",
+      "kanji": "杆",
+      "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-amb.tsv:27",
+      "priority": 1,
+      "sourceRoot": "jard",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 27
+    },
+    {
       "prefix": "jaroviz",
       "body": "春化ᴶ",
       "kanji": "春化",
@@ -57377,6 +57522,19 @@
       "sourceLine": 6011
     },
     {
+      "prefix": "kanon",
+      "body": "典ᴷᴺ",
+      "kanji": "典",
+      "detail": "kanon → 典ᴷᴺ (同綴異義: 典)",
+      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-amb.tsv:6",
+      "priority": 1,
+      "sourceRoot": "kanon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 6
+    },
+    {
       "prefix": "kanonik",
       "body": "会士",
       "kanji": "会士",
@@ -59052,6 +59210,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 5839
+    },
+    {
+      "prefix": "karp",
+      "body": "腕ᴷ",
+      "kanji": "腕",
+      "detail": "karp → 腕ᴷ (同綴異義: 手首)",
+      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-amb.tsv:7",
+      "priority": 1,
+      "sourceRoot": "karp",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 7
     },
     {
       "prefix": "karpel",
@@ -61678,6 +61849,19 @@
       "frequency": 11,
       "base": false,
       "sourceLine": 3909
+    },
+    {
+      "prefix": "klik",
+      "body": "派ᴷᴸ",
+      "kanji": "派",
+      "detail": "klik → 派ᴷᴸ (同綴異義: 徒党)",
+      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-amb.tsv:35",
+      "priority": 1,
+      "sourceRoot": "klik",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 35
     },
     {
       "prefix": "klimaks",
@@ -69259,6 +69443,19 @@
       "sourceLine": 4505
     },
     {
+      "prefix": "kron",
+      "body": "币ᴷ",
+      "kanji": "币",
+      "detail": "kron → 币ᴷ (同綴異義: クローネ)",
+      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-amb.tsv:11",
+      "priority": 1,
+      "sourceRoot": "kron",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 11
+    },
+    {
       "prefix": "kronik",
       "body": "慢",
       "kanji": "慢",
@@ -70481,6 +70678,19 @@
       "sourceLine": 6817
     },
     {
+      "prefix": "kuri",
+      "body": "居ᴷ",
+      "kanji": "居",
+      "detail": "kuri → 居ᴷ (同綴異義: キュリー)",
+      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-amb.tsv:16",
+      "priority": 1,
+      "sourceRoot": "kuri",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 16
+    },
+    {
       "prefix": "kurier",
       "body": "信使",
       "kanji": "信使",
@@ -71259,6 +71469,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 7131
+    },
+    {
+      "prefix": "lab",
+      "body": "验ᴸ",
+      "kanji": "验",
+      "detail": "lab → 验ᴸ (同綴異義: 実験室)",
+      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-amb.tsv:30",
+      "priority": 1,
+      "sourceRoot": "lab",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 30
     },
     {
       "prefix": "labi",
@@ -74537,6 +74760,19 @@
       "sourceLine": 2027
     },
     {
+      "prefix": "line",
+      "body": "草ᴸᴵᴺ",
+      "kanji": "草",
+      "detail": "line → 草ᴸᴵᴺ (同綴異義: リンネ)",
+      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-amb.tsv:39",
+      "priority": 1,
+      "sourceRoot": "line",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 39
+    },
+    {
       "prefix": "linear",
       "body": "线ᴸᴿ",
       "kanji": "线",
@@ -74717,6 +74953,19 @@
       "frequency": 5,
       "base": false,
       "sourceLine": 5282
+    },
+    {
+      "prefix": "lir",
+      "body": "币ᴸ",
+      "kanji": "币",
+      "detail": "lir → 币ᴸ (同綴異義: リラ)",
+      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-amb.tsv:10",
+      "priority": 1,
+      "sourceRoot": "lir",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 10
     },
     {
       "prefix": "lirik",
@@ -75889,6 +76138,19 @@
       "sourceLine": 3466
     },
     {
+      "prefix": "luks",
+      "body": "照ᴸ",
+      "kanji": "照",
+      "detail": "luks → 照ᴸ (同綴異義: ルクス)",
+      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-amb.tsv:14",
+      "priority": 1,
+      "sourceRoot": "luks",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 14
+    },
+    {
       "prefix": "luksaci",
       "body": "脱臼",
       "kanji": "脱臼",
@@ -76981,6 +77243,19 @@
       "sourceLine": 4023
     },
     {
+      "prefix": "male",
+      "body": "疫ᴹ",
+      "kanji": "疫",
+      "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-amb.tsv:41",
+      "priority": 1,
+      "sourceRoot": "male",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 41
+    },
+    {
       "prefix": "maleol",
       "body": "脚腕",
       "kanji": "脚腕",
@@ -77813,6 +78088,19 @@
       "sourceLine": 1524
     },
     {
+      "prefix": "mark",
+      "body": "币ᴹ",
+      "kanji": "币",
+      "detail": "mark → 币ᴹ (同綴異義: マルク)",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-amb.tsv:9",
+      "priority": 1,
+      "sourceRoot": "mark",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 9
+    },
+    {
       "prefix": "marketr",
       "body": "嵌",
       "kanji": "嵌",
@@ -78305,6 +78593,19 @@
       "frequency": 11,
       "base": true,
       "sourceLine": 5225
+    },
+    {
+      "prefix": "mat",
+      "body": "将ᴹ",
+      "kanji": "将",
+      "detail": "mat → 将ᴹ (同綴異義: 詰)",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-amb.tsv:3",
+      "priority": 1,
+      "sourceRoot": "mat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 3
     },
     {
       "prefix": "matcx",
@@ -90423,6 +90724,19 @@
       "sourceLine": 6977
     },
     {
+      "prefix": "orkid",
+      "body": "丸ᴼ",
+      "kanji": "丸",
+      "detail": "orkid → 丸ᴼ (同綴異義: 睾丸)",
+      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-amb.tsv:19",
+      "priority": 1,
+      "sourceRoot": "orkid",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 19
+    },
+    {
       "prefix": "orkide",
       "body": "兰ᴼᴱ",
       "kanji": "兰",
@@ -92399,6 +92713,19 @@
       "sourceLine": 8470
     },
     {
+      "prefix": "panikl",
+      "body": "脂ᴾ",
+      "kanji": "脂",
+      "detail": "panikl → 脂ᴾ (同綴異義: 皮下)",
+      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-amb.tsv:24",
+      "priority": 1,
+      "sourceRoot": "panikl",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 24
+    },
+    {
       "prefix": "paniklit",
       "body": "圆锥炎",
       "kanji": "圆锥炎",
@@ -93842,6 +94169,19 @@
       "sourceLine": 3983
     },
     {
+      "prefix": "pat",
+      "body": "困",
+      "kanji": "困",
+      "detail": "pat → 困 (同綴異義: 手詰)",
+      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-amb.tsv:4",
+      "priority": 1,
+      "sourceRoot": "pat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 4
+    },
+    {
       "prefix": "patat",
       "body": "甘薯ᴾ",
       "kanji": "甘薯",
@@ -95036,6 +95376,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7604
+    },
+    {
+      "prefix": "peon",
+      "body": "佃",
+      "kanji": "佃",
+      "detail": "peon → 佃 (同綴異義: 隷農)",
+      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-amb.tsv:34",
+      "priority": 1,
+      "sourceRoot": "peon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 34
     },
     {
       "prefix": "peoni",
@@ -96310,6 +96663,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 7042
+    },
+    {
+      "prefix": "picx",
+      "body": "调ᴾ",
+      "kanji": "调",
+      "detail": "pic^ → 调ᴾ (同綴異義: 音高)",
+      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-amb.tsv:29",
+      "priority": 1,
+      "sourceRoot": "pic^",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 29
     },
     {
       "prefix": "pied",
@@ -98548,6 +98914,19 @@
       "sourceLine": 2070
     },
     {
+      "prefix": "plum",
+      "body": "笔ᴾᴸ",
+      "kanji": "笔",
+      "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
+      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-amb.tsv:2",
+      "priority": 1,
+      "sourceRoot": "plum",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 2
+    },
+    {
       "prefix": "plumb",
       "body": "铅",
       "kanji": "铅",
@@ -98858,6 +99237,19 @@
       "frequency": 25,
       "base": true,
       "sourceLine": 51
+    },
+    {
+      "prefix": "po",
+      "body": "草ᴾᴼ2",
+      "kanji": "草",
+      "detail": "po → 草ᴾᴼ2 (同綴異義: Poa)",
+      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-amb.tsv:38",
+      "priority": 1,
+      "sourceRoot": "po",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 38
     },
     {
       "prefix": "pocx",
@@ -101354,6 +101746,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 7995
+    },
+    {
+      "prefix": "prim",
+      "body": "祷",
+      "kanji": "祷",
+      "detail": "prim → 祷 (同綴異義: 一時課)",
+      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-amb.tsv:28",
+      "priority": 1,
+      "sourceRoot": "prim",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 28
     },
     {
       "prefix": "primar",
@@ -108623,6 +109028,19 @@
       "sourceLine": 6968
     },
     {
+      "prefix": "rod",
+      "body": "泊",
+      "kanji": "泊",
+      "detail": "rod → 泊 (同綴異義: 停泊)",
+      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-amb.tsv:25",
+      "priority": 1,
+      "sourceRoot": "rod",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 25
+    },
+    {
       "prefix": "rodi",
       "body": "金ᴿᴼ",
       "kanji": "金",
@@ -114083,6 +114501,19 @@
       "sourceLine": 3425
     },
     {
+      "prefix": "sinus",
+      "body": "弦ˢ",
+      "kanji": "弦",
+      "detail": "sinus → 弦ˢ (同綴異義: 正弦)",
+      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-amb.tsv:42",
+      "priority": 1,
+      "sourceRoot": "sinus",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 42
+    },
+    {
       "prefix": "sirapt",
       "body": "鸟ˢᴾ",
       "kanji": "鸟",
@@ -114107,6 +114538,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7438
+    },
+    {
+      "prefix": "siren",
+      "body": "牛ˢ",
+      "kanji": "牛",
+      "detail": "siren → 牛ˢ (同綴異義: 海牛)",
+      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-amb.tsv:22",
+      "priority": 1,
+      "sourceRoot": "siren",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 22
     },
     {
       "prefix": "sirfed",
@@ -115903,6 +116347,19 @@
       "sourceLine": 1350
     },
     {
+      "prefix": "sol",
+      "body": "溶",
+      "kanji": "溶",
+      "detail": "sol → 溶 (同綴異義: ゾル)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-amb.tsv:21",
+      "priority": 1,
+      "sourceRoot": "sol",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 21
+    },
+    {
       "prefix": "solan",
       "body": "茄ˢ",
       "kanji": "茄",
@@ -116592,6 +117049,19 @@
       "sourceLine": 1833
     },
     {
+      "prefix": "spat",
+      "body": "苞ˢ",
+      "kanji": "苞",
+      "detail": "spat → 苞ˢ (同綴異義: 仏炎)",
+      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-amb.tsv:20",
+      "priority": 1,
+      "sourceRoot": "spat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 20
+    },
+    {
       "prefix": "spatang",
       "body": "虫ˢᴾ",
       "kanji": "虫",
@@ -117162,6 +117632,19 @@
       "frequency": 8,
       "base": true,
       "sourceLine": 6378
+    },
+    {
+      "prefix": "spin",
+      "body": "旋ˢᴺ",
+      "kanji": "旋",
+      "detail": "spin → 旋ˢᴺ (同綴異義: スピン)",
+      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-amb.tsv:18",
+      "priority": 1,
+      "sourceRoot": "spin",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 18
     },
     {
       "prefix": "spinac",
@@ -118969,6 +119452,19 @@
       "frequency": 5,
       "base": false,
       "sourceLine": 2888
+    },
+    {
+      "prefix": "stok",
+      "body": "粘ˢ",
+      "kanji": "粘",
+      "detail": "stok → 粘ˢ (同綴異義: ストークス)",
+      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-amb.tsv:15",
+      "priority": 1,
+      "sourceRoot": "stok",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 15
     },
     {
       "prefix": "stokast",
@@ -126589,6 +127085,19 @@
       "sourceLine": 8024
     },
     {
+      "prefix": "tof",
+      "body": "瘤ᵀᶠ",
+      "kanji": "瘤",
+      "detail": "tof → 瘤ᵀᶠ (同綴異義: 痛風)",
+      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-amb.tsv:40",
+      "priority": 1,
+      "sourceRoot": "tof",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 40
+    },
+    {
       "prefix": "toks",
       "body": "毒ᵀ",
       "kanji": "毒",
@@ -126938,6 +127447,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 3587
+    },
+    {
+      "prefix": "topik",
+      "body": "敷ᵀ",
+      "kanji": "敷",
+      "detail": "topik → 敷ᵀ (同綴異義: 外用)",
+      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-amb.tsv:36",
+      "priority": 1,
+      "sourceRoot": "topik",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 36
     },
     {
       "prefix": "topinambur",
@@ -131904,6 +132426,19 @@
       "frequency": 16,
       "base": true,
       "sourceLine": 4000
+    },
+    {
+      "prefix": "vat",
+      "body": "瓦ⱽ",
+      "kanji": "瓦",
+      "detail": "vat → 瓦ⱽ (同綴異義: ワット)",
+      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-amb.tsv:5",
+      "priority": 1,
+      "sourceRoot": "vat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 5
     },
     {
       "prefix": "vathorometr",

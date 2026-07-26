@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 480,
+    "itemCount": 482,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "e",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -4508,6 +4510,19 @@
       "sourceLine": 209
     },
     {
+      "prefix": "er",
+      "body": "纪ᴱᴿ",
+      "kanji": "纪",
+      "detail": "er → 纪ᴱᴿ (同綴異義: 紀元)",
+      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-amb.tsv:37",
+      "priority": 1,
+      "sourceRoot": "er",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 37
+    },
+    {
       "prefix": "era",
       "body": "代ᴱ",
       "kanji": "代",
@@ -4610,6 +4625,19 @@
       "frequency": 7,
       "base": true,
       "sourceLine": 6440
+    },
+    {
+      "prefix": "ergot",
+      "body": "距ᴱ",
+      "kanji": "距",
+      "detail": "ergot → 距ᴱ (同綴異義: 蹴爪)",
+      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-amb.tsv:23",
+      "priority": 1,
+      "sourceRoot": "ergot",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 23
     },
     {
       "prefix": "erigeron",

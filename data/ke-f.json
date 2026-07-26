@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 499,
+    "itemCount": 501,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "f",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -2493,6 +2495,19 @@
       "sourceLine": 7901
     },
     {
+      "prefix": "file",
+      "body": "线ᶠ",
+      "kanji": "线",
+      "detail": "file → 线ᶠ (同綴異義: 罫線)",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-amb.tsv:33",
+      "priority": 1,
+      "sourceRoot": "file",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 33
+    },
+    {
       "prefix": "fili",
       "body": "支ᶠ",
       "kanji": "支",
@@ -3973,6 +3988,19 @@
       "frequency": 79,
       "base": false,
       "sourceLine": 2179
+    },
+    {
+      "prefix": "fon",
+      "body": "响ᶠ",
+      "kanji": "响",
+      "detail": "fon → 响ᶠ (同綴異義: ホン)",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-amb.tsv:17",
+      "priority": 1,
+      "sourceRoot": "fon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 17
     },
     {
       "prefix": "fond",

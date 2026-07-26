@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 273,
+    "itemCount": 274,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "o",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -2530,6 +2532,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6977
+    },
+    {
+      "prefix": "orkid",
+      "body": "丸ᴼ",
+      "kanji": "丸",
+      "detail": "orkid → 丸ᴼ (同綴異義: 睾丸)",
+      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-amb.tsv:19",
+      "priority": 1,
+      "sourceRoot": "orkid",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 19
     },
     {
       "prefix": "orkide",

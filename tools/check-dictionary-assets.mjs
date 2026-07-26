@@ -140,6 +140,46 @@ for (const [body, roots] of rootsByBody) {
   }
 }
 
+// Same-spelling/different-meaning alternates (data/homonym-amb.tsv, merged by
+// merge-homonym-amb.mjs) live OUTSIDE the sidecar the primary dictionary is built from, so a
+// rebuild that runs only the sidecar → split → reverse steps would drop all of them and still
+// look perfectly self-consistent to every check above. Assert here that each curated alternate
+// actually reached all.json, so a forgotten merge step fails the build instead of silently
+// shipping a dictionary that lost its second senses.
+const ambSourcePath = path.join(dataDir, 'homonym-amb.tsv');
+try {
+  const ambRaw = await fs.readFile(ambSourcePath, 'utf8');
+  const ambLines = ambRaw.replace(/^﻿/, '').split(/\r?\n/).filter(line => line.trim());
+  const ambHeader = ambLines.shift().split('\t');
+  const col = (cols, name) => (cols[ambHeader.indexOf(name)] ?? '').trim();
+  const ambRows = ambLines.map(line => line.split('\t')).filter(cols => col(cols, 'type') === 'amb');
+  const ambItems = items.filter(item => item.type === 'amb');
+  const ambItemsByBody = new Map(ambItems.map(item => [String(item.body || ''), item]));
+
+  if (ambItems.length !== ambRows.length) {
+    errors.push(`homonym alternates: all.json has ${ambItems.length} amb item(s) but ${path.basename(ambSourcePath)} defines ${ambRows.length} — run: node tools/merge-homonym-amb.mjs ./all.json ${ambSourcePath} ./all.json`);
+  }
+  for (const cols of ambRows) {
+    const body = col(cols, 'overrideDisp');
+    const item = ambItemsByBody.get(body);
+    if (!item) {
+      errors.push(`homonym alternate missing from all.json: ${col(cols, 'segment')} → ${body}`);
+      continue;
+    }
+    if (String(item.kanji || '') !== col(cols, 'overrideKanji')) {
+      errors.push(`homonym alternate kanji differs for ${body}: all.json "${item.kanji}" vs source "${col(cols, 'overrideKanji')}"`);
+    }
+    // priority 0 is the base sense's rank; an alternate must never outrank it.
+    if (!(Number(item.priority) > 0)) {
+      errors.push(`homonym alternate ${body} has priority ${item.priority} — alternates must rank after the base sense`);
+    }
+  }
+} catch (error) {
+  // Absent source file: nothing to enforce (legacy dictionaries built by ke-txt-to-all.mjs
+  // have no alternates at all). Any other failure is a real problem worth surfacing.
+  if (error.code !== 'ENOENT') errors.push(`cannot verify homonym alternates: ${error.message}`);
+}
+
 if (errors.length) {
   for (const error of errors) console.error(`ERROR: ${error}`);
   process.exit(1);

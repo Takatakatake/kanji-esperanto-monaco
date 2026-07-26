@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 992,
+    "itemCount": 998,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "s",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -4638,6 +4640,19 @@
       "sourceLine": 3425
     },
     {
+      "prefix": "sinus",
+      "body": "弦ˢ",
+      "kanji": "弦",
+      "detail": "sinus → 弦ˢ (同綴異義: 正弦)",
+      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-amb.tsv:42",
+      "priority": 1,
+      "sourceRoot": "sinus",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 42
+    },
+    {
       "prefix": "sirapt",
       "body": "鸟ˢᴾ",
       "kanji": "鸟",
@@ -4662,6 +4677,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7438
+    },
+    {
+      "prefix": "siren",
+      "body": "牛ˢ",
+      "kanji": "牛",
+      "detail": "siren → 牛ˢ (同綴異義: 海牛)",
+      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-amb.tsv:22",
+      "priority": 1,
+      "sourceRoot": "siren",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 22
     },
     {
       "prefix": "sirfed",
@@ -6458,6 +6486,19 @@
       "sourceLine": 1350
     },
     {
+      "prefix": "sol",
+      "body": "溶",
+      "kanji": "溶",
+      "detail": "sol → 溶 (同綴異義: ゾル)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-amb.tsv:21",
+      "priority": 1,
+      "sourceRoot": "sol",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 21
+    },
+    {
       "prefix": "solan",
       "body": "茄ˢ",
       "kanji": "茄",
@@ -7147,6 +7188,19 @@
       "sourceLine": 1833
     },
     {
+      "prefix": "spat",
+      "body": "苞ˢ",
+      "kanji": "苞",
+      "detail": "spat → 苞ˢ (同綴異義: 仏炎)",
+      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-amb.tsv:20",
+      "priority": 1,
+      "sourceRoot": "spat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 20
+    },
+    {
       "prefix": "spatang",
       "body": "虫ˢᴾ",
       "kanji": "虫",
@@ -7717,6 +7771,19 @@
       "frequency": 8,
       "base": true,
       "sourceLine": 6378
+    },
+    {
+      "prefix": "spin",
+      "body": "旋ˢᴺ",
+      "kanji": "旋",
+      "detail": "spin → 旋ˢᴺ (同綴異義: スピン)",
+      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-amb.tsv:18",
+      "priority": 1,
+      "sourceRoot": "spin",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 18
     },
     {
       "prefix": "spinac",
@@ -9524,6 +9591,19 @@
       "frequency": 5,
       "base": false,
       "sourceLine": 2888
+    },
+    {
+      "prefix": "stok",
+      "body": "粘ˢ",
+      "kanji": "粘",
+      "detail": "stok → 粘ˢ (同綴異義: ストークス)",
+      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-amb.tsv:15",
+      "priority": 1,
+      "sourceRoot": "stok",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 15
     },
     {
       "prefix": "stokast",

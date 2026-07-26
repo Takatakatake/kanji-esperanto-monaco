@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 386,
+    "itemCount": 387,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "r",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -4194,6 +4196,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6968
+    },
+    {
+      "prefix": "rod",
+      "body": "泊",
+      "kanji": "泊",
+      "detail": "rod → 泊 (同綴異義: 停泊)",
+      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-amb.tsv:25",
+      "priority": 1,
+      "sourceRoot": "rod",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 25
     },
     {
       "prefix": "rodi",

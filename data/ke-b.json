@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 442,
+    "itemCount": 443,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "b",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -2985,6 +2987,19 @@
       "frequency": 12,
       "base": false,
       "sourceLine": 4686
+    },
+    {
+      "prefix": "bit",
+      "body": "桩ᴮ",
+      "kanji": "桩",
+      "detail": "bit → 桩ᴮ (同綴異義: 繋柱)",
+      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-amb.tsv:26",
+      "priority": 1,
+      "sourceRoot": "bit",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 26
     },
     {
       "prefix": "bitum",

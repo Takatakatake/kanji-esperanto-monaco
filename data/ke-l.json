@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 380,
+    "itemCount": 384,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "l",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -21,6 +23,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 7131
+    },
+    {
+      "prefix": "lab",
+      "body": "验ᴸ",
+      "kanji": "验",
+      "detail": "lab → 验ᴸ (同綴異義: 実験室)",
+      "documentation": "語根: lab\n入力: lab\n最終形: 验ᴸ\n漢字: 验\n識別子: ᴸ\n型: amb(同綴異義)\n語義: 実験室\n注記: 実験室。lab=皱胃と別\n基本形: no\n出典: homonym-amb.tsv:30",
+      "priority": 1,
+      "sourceRoot": "lab",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 30
     },
     {
       "prefix": "labi",
@@ -3299,6 +3314,19 @@
       "sourceLine": 2027
     },
     {
+      "prefix": "line",
+      "body": "草ᴸᴵᴺ",
+      "kanji": "草",
+      "detail": "line → 草ᴸᴵᴺ (同綴異義: リンネ)",
+      "documentation": "語根: line\n入力: line\n最終形: 草ᴸᴵᴺ\n漢字: 草\n識別子: ᴸᴵᴺ\n型: amb(同綴異義)\n語義: リンネ\n注記: リンネ草。line=线と別行\n基本形: no\n出典: homonym-amb.tsv:39",
+      "priority": 1,
+      "sourceRoot": "line",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 39
+    },
+    {
       "prefix": "linear",
       "body": "线ᴸᴿ",
       "kanji": "线",
@@ -3479,6 +3507,19 @@
       "frequency": 5,
       "base": false,
       "sourceLine": 5282
+    },
+    {
+      "prefix": "lir",
+      "body": "币ᴸ",
+      "kanji": "币",
+      "detail": "lir → 币ᴸ (同綴異義: リラ)",
+      "documentation": "語根: lir\n入力: lir\n最終形: 币ᴸ\n漢字: 币\n識別子: ᴸ\n型: amb(同綴異義)\n語義: リラ\n注記: リラ通貨。lir=琴と別行\n基本形: no\n出典: homonym-amb.tsv:10",
+      "priority": 1,
+      "sourceRoot": "lir",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 10
     },
     {
       "prefix": "lirik",
@@ -4649,6 +4690,19 @@
       "frequency": 10,
       "base": true,
       "sourceLine": 3466
+    },
+    {
+      "prefix": "luks",
+      "body": "照ᴸ",
+      "kanji": "照",
+      "detail": "luks → 照ᴸ (同綴異義: ルクス)",
+      "documentation": "語根: luks\n入力: luks\n最終形: 照ᴸ\n漢字: 照\n識別子: ᴸ\n型: amb(同綴異義)\n語義: ルクス\n注記: ルクス照度。luks=奢と別行\n基本形: no\n出典: homonym-amb.tsv:14",
+      "priority": 1,
+      "sourceRoot": "luks",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 14
     },
     {
       "prefix": "luksaci",

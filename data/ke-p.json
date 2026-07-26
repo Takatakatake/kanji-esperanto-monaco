@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 999,
+    "itemCount": 1006,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "p",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -957,6 +959,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 8470
+    },
+    {
+      "prefix": "panikl",
+      "body": "脂ᴾ",
+      "kanji": "脂",
+      "detail": "panikl → 脂ᴾ (同綴異義: 皮下)",
+      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-amb.tsv:24",
+      "priority": 1,
+      "sourceRoot": "panikl",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 24
     },
     {
       "prefix": "paniklit",
@@ -2402,6 +2417,19 @@
       "sourceLine": 3983
     },
     {
+      "prefix": "pat",
+      "body": "困",
+      "kanji": "困",
+      "detail": "pat → 困 (同綴異義: 手詰)",
+      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-amb.tsv:4",
+      "priority": 1,
+      "sourceRoot": "pat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 4
+    },
+    {
       "prefix": "patat",
       "body": "甘薯ᴾ",
       "kanji": "甘薯",
@@ -3596,6 +3624,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7604
+    },
+    {
+      "prefix": "peon",
+      "body": "佃",
+      "kanji": "佃",
+      "detail": "peon → 佃 (同綴異義: 隷農)",
+      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-amb.tsv:34",
+      "priority": 1,
+      "sourceRoot": "peon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 34
     },
     {
       "prefix": "peoni",
@@ -4870,6 +4911,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 7042
+    },
+    {
+      "prefix": "picx",
+      "body": "调ᴾ",
+      "kanji": "调",
+      "detail": "pic^ → 调ᴾ (同綴異義: 音高)",
+      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-amb.tsv:29",
+      "priority": 1,
+      "sourceRoot": "pic^",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 29
     },
     {
       "prefix": "pied",
@@ -7108,6 +7162,19 @@
       "sourceLine": 2070
     },
     {
+      "prefix": "plum",
+      "body": "笔ᴾᴸ",
+      "kanji": "笔",
+      "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
+      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-amb.tsv:2",
+      "priority": 1,
+      "sourceRoot": "plum",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 2
+    },
+    {
       "prefix": "plumb",
       "body": "铅",
       "kanji": "铅",
@@ -7418,6 +7485,19 @@
       "frequency": 25,
       "base": true,
       "sourceLine": 51
+    },
+    {
+      "prefix": "po",
+      "body": "草ᴾᴼ2",
+      "kanji": "草",
+      "detail": "po → 草ᴾᴼ2 (同綴異義: Poa)",
+      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-amb.tsv:38",
+      "priority": 1,
+      "sourceRoot": "po",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 38
     },
     {
       "prefix": "pocx",
@@ -9914,6 +9994,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 7995
+    },
+    {
+      "prefix": "prim",
+      "body": "祷",
+      "kanji": "祷",
+      "detail": "prim → 祷 (同綴異義: 一時課)",
+      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-amb.tsv:28",
+      "priority": 1,
+      "sourceRoot": "prim",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 28
     },
     {
       "prefix": "primar",

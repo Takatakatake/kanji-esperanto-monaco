@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 1208,
+    "itemCount": 1213,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "k",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -1843,6 +1845,19 @@
       "sourceLine": 6011
     },
     {
+      "prefix": "kanon",
+      "body": "典ᴷᴺ",
+      "kanji": "典",
+      "detail": "kanon → 典ᴷᴺ (同綴異義: 典)",
+      "documentation": "語根: kanon\n入力: kanon\n最終形: 典ᴷᴺ\n漢字: 典\n識別子: ᴷᴺ\n型: amb(同綴異義)\n語義: 典\n注記: 正典/カノン。kanon=炮と別行\n基本形: no\n出典: homonym-amb.tsv:6",
+      "priority": 1,
+      "sourceRoot": "kanon",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 6
+    },
+    {
       "prefix": "kanonik",
       "body": "会士",
       "kanji": "会士",
@@ -3518,6 +3533,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 5839
+    },
+    {
+      "prefix": "karp",
+      "body": "腕ᴷ",
+      "kanji": "腕",
+      "detail": "karp → 腕ᴷ (同綴異義: 手首)",
+      "documentation": "語根: karp\n入力: karp\n最終形: 腕ᴷ\n漢字: 腕\n識別子: ᴷ\n型: amb(同綴異義)\n語義: 手首\n注記: 手根。karp=鲤と別行\n基本形: no\n出典: homonym-amb.tsv:7",
+      "priority": 1,
+      "sourceRoot": "karp",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 7
     },
     {
       "prefix": "karpel",
@@ -6144,6 +6172,19 @@
       "frequency": 11,
       "base": false,
       "sourceLine": 3909
+    },
+    {
+      "prefix": "klik",
+      "body": "派ᴷᴸ",
+      "kanji": "派",
+      "detail": "klik → 派ᴷᴸ (同綴異義: 徒党)",
+      "documentation": "語根: klik\n入力: klik\n最終形: 派ᴷᴸ\n漢字: 派\n識別子: ᴷᴸ\n型: amb(同綴異義)\n語義: 徒党\n注記: 徒党。klik=爪と別\n基本形: no\n出典: homonym-amb.tsv:35",
+      "priority": 1,
+      "sourceRoot": "klik",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 35
     },
     {
       "prefix": "klimaks",
@@ -13725,6 +13766,19 @@
       "sourceLine": 4505
     },
     {
+      "prefix": "kron",
+      "body": "币ᴷ",
+      "kanji": "币",
+      "detail": "kron → 币ᴷ (同綴異義: クローネ)",
+      "documentation": "語根: kron\n入力: kron\n最終形: 币ᴷ\n漢字: 币\n識別子: ᴷ\n型: amb(同綴異義)\n語義: クローネ\n注記: クローネ。kron=冠と別行\n基本形: no\n出典: homonym-amb.tsv:11",
+      "priority": 1,
+      "sourceRoot": "kron",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 11
+    },
+    {
       "prefix": "kronik",
       "body": "慢",
       "kanji": "慢",
@@ -14945,6 +14999,19 @@
       "frequency": 5,
       "base": true,
       "sourceLine": 6817
+    },
+    {
+      "prefix": "kuri",
+      "body": "居ᴷ",
+      "kanji": "居",
+      "detail": "kuri → 居ᴷ (同綴異義: キュリー)",
+      "documentation": "語根: kuri\n入力: kuri\n最終形: 居ᴷ\n漢字: 居\n識別子: ᴷ\n型: amb(同綴異義)\n語義: キュリー\n注記: キュリー。kuri=廷と別行\n基本形: no\n出典: homonym-amb.tsv:16",
+      "priority": 1,
+      "sourceRoot": "kuri",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 16
     },
     {
       "prefix": "kurier",

@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 576,
+    "itemCount": 578,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "t",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -4248,6 +4250,19 @@
       "sourceLine": 8024
     },
     {
+      "prefix": "tof",
+      "body": "瘤ᵀᶠ",
+      "kanji": "瘤",
+      "detail": "tof → 瘤ᵀᶠ (同綴異義: 痛風)",
+      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-amb.tsv:40",
+      "priority": 1,
+      "sourceRoot": "tof",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 40
+    },
+    {
       "prefix": "toks",
       "body": "毒ᵀ",
       "kanji": "毒",
@@ -4597,6 +4612,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 3587
+    },
+    {
+      "prefix": "topik",
+      "body": "敷ᵀ",
+      "kanji": "敷",
+      "detail": "topik → 敷ᵀ (同綴異義: 外用)",
+      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-amb.tsv:36",
+      "priority": 1,
+      "sourceRoot": "topik",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 36
     },
     {
       "prefix": "topinambur",

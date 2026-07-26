@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 279,
+    "itemCount": 280,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "v",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -905,6 +907,19 @@
       "frequency": 16,
       "base": true,
       "sourceLine": 4000
+    },
+    {
+      "prefix": "vat",
+      "body": "瓦ⱽ",
+      "kanji": "瓦",
+      "detail": "vat → 瓦ⱽ (同綴異義: ワット)",
+      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-amb.tsv:5",
+      "priority": 1,
+      "sourceRoot": "vat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 5
     },
     {
       "prefix": "vathorometr",

@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 667,
+    "itemCount": 670,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "m",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -801,6 +803,19 @@
       "frequency": 4,
       "base": false,
       "sourceLine": 4023
+    },
+    {
+      "prefix": "male",
+      "body": "疫ᴹ",
+      "kanji": "疫",
+      "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-amb.tsv:41",
+      "priority": 1,
+      "sourceRoot": "male",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 41
     },
     {
       "prefix": "maleol",
@@ -1635,6 +1650,19 @@
       "sourceLine": 1524
     },
     {
+      "prefix": "mark",
+      "body": "币ᴹ",
+      "kanji": "币",
+      "detail": "mark → 币ᴹ (同綴異義: マルク)",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-amb.tsv:9",
+      "priority": 1,
+      "sourceRoot": "mark",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 9
+    },
+    {
       "prefix": "marketr",
       "body": "嵌",
       "kanji": "嵌",
@@ -2127,6 +2155,19 @@
       "frequency": 11,
       "base": true,
       "sourceLine": 5225
+    },
+    {
+      "prefix": "mat",
+      "body": "将ᴹ",
+      "kanji": "将",
+      "detail": "mat → 将ᴹ (同綴異義: 詰)",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-amb.tsv:3",
+      "priority": 1,
+      "sourceRoot": "mat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 3
     },
     {
       "prefix": "matcx",

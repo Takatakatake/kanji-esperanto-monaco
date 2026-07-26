@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 86,
+    "itemCount": 87,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "j",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -242,6 +244,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 4821
+    },
+    {
+      "prefix": "jard",
+      "body": "杆ᴶ",
+      "kanji": "杆",
+      "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-amb.tsv:27",
+      "priority": 1,
+      "sourceRoot": "jard",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 27
     },
     {
       "prefix": "jaroviz",

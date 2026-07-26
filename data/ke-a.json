@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r22_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 930,
+    "itemCount": 933,
     "skippedCount": 0,
+    "homonymSourceName": "homonym-amb.tsv",
+    "homonymAmbCount": 41,
     "bucket": "a",
-    "dictionaryItemCount": 10395
+    "dictionaryItemCount": 10436
   },
   "items": [
     {
@@ -21,6 +23,19 @@
       "frequency": 2,
       "base": true,
       "sourceLine": 8350
+    },
+    {
+      "prefix": "abak",
+      "body": "顶ᴬᴮ",
+      "kanji": "顶",
+      "detail": "abak → 顶ᴬᴮ (同綴異義: 柱頭)",
+      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-amb.tsv:32",
+      "priority": 1,
+      "sourceRoot": "abak",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 32
     },
     {
       "prefix": "abandon",
@@ -8252,6 +8267,19 @@
       "sourceLine": 222
     },
     {
+      "prefix": "ar",
+      "body": "亩",
+      "kanji": "亩",
+      "detail": "ar → 亩 (同綴異義: アール)",
+      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-amb.tsv:13",
+      "priority": 1,
+      "sourceRoot": "ar",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 13
+    },
+    {
       "prefix": "ara",
       "body": "鹦ᴬ",
       "kanji": "鹦",
@@ -9030,6 +9058,19 @@
       "frequency": 4,
       "base": true,
       "sourceLine": 6914
+    },
+    {
+      "prefix": "arke",
+      "body": "菌ᴬᴷ",
+      "kanji": "菌",
+      "detail": "arke → 菌ᴬᴷ (同綴異義: 古細菌)",
+      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-amb.tsv:31",
+      "priority": 1,
+      "sourceRoot": "arke",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 31
     },
     {
       "prefix": "arkegoni",
