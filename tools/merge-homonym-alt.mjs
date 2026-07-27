@@ -37,7 +37,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { toXSystem } from './x-system.mjs';
-import { ALT_TYPES, INLINE_TYPE } from './candidate-types.mjs';
+import { ALT_TYPES, INLINE_TYPE, SEALED_NOTE } from './candidate-types.mjs';
 
 export { ALT_TYPES };
 
@@ -156,6 +156,12 @@ export function classifyAlternates(baseItems, rows, sourceName = 'homonym-alt.ts
 
   for (const row of ordered) {
     if (!ALT_TYPES.has(row.type)) { skipped.push({ row, reason: `unsupported type "${row.type}"` }); continue; }
+    // Before anything else, so a retracted row cannot even claim its display form and block the
+    // live row that may now carry it (see SEALED_NOTE).
+    if (SEALED_NOTE.test(String(row.note || ''))) {
+      skipped.push({ row, reason: 'sealed by the master — its note marks the sense 使用禁止/実現禁止/撤回・封印' });
+      continue;
+    }
     if (!row.segment || !row.overrideKanji || !row.overrideDisp) {
       skipped.push({ row, reason: 'missing segment/overrideKanji/overrideDisp' });
       continue;

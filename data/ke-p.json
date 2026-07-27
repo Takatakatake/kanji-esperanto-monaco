@@ -6,11 +6,11 @@
     "itemCount": 1020,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "p",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -993,13 +993,13 @@
       "body": "脂ᴾ",
       "kanji": "脂",
       "detail": "panikl → 脂ᴾ (同綴異義: 皮下)",
-      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-alt.tsv:158",
+      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-alt.tsv:163",
       "priority": 1,
       "sourceRoot": "panikl",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 158
+      "sourceLine": 163
     },
     {
       "prefix": "paniklit",
@@ -2449,13 +2449,13 @@
       "body": "困",
       "kanji": "困",
       "detail": "pat → 困 (同綴異義: 手詰)",
-      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-alt.tsv:132",
+      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-alt.tsv:137",
       "priority": 1,
       "sourceRoot": "pat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 132
+      "sourceLine": 137
     },
     {
       "prefix": "pat",
@@ -3723,13 +3723,13 @@
       "body": "佃",
       "kanji": "佃",
       "detail": "peon → 佃 (同綴異義: 隷農)",
-      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-alt.tsv:169",
+      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-alt.tsv:174",
       "priority": 1,
       "sourceRoot": "peon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 169
+      "sourceLine": 174
     },
     {
       "prefix": "peoni",
@@ -5023,13 +5023,13 @@
       "body": "调ᴾ",
       "kanji": "调",
       "detail": "pic^ → 调ᴾ (同綴異義: 音高)",
-      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-alt.tsv:164",
+      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-alt.tsv:169",
       "priority": 1,
       "sourceRoot": "pic^",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 164
+      "sourceLine": 169
     },
     {
       "prefix": "pied",
@@ -7298,13 +7298,13 @@
       "body": "笔ᴾᴸ",
       "kanji": "笔",
       "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
-      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:130",
+      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:135",
       "priority": 1,
       "sourceRoot": "plum",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 130
+      "sourceLine": 135
     },
     {
       "prefix": "plumb",
@@ -7623,13 +7623,13 @@
       "body": "草ᴾᴼ2",
       "kanji": "草",
       "detail": "po → 草ᴾᴼ2 (同綴異義: Poa)",
-      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-alt.tsv:174",
+      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-alt.tsv:179",
       "priority": 1,
       "sourceRoot": "po",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 174
+      "sourceLine": 179
     },
     {
       "prefix": "pocx",
@@ -8806,13 +8806,13 @@
       "body": "孔ᴾ",
       "kanji": "孔",
       "detail": "por → 孔ᴾ (語限定 気孔: por/o, por/a)",
-      "documentation": "語根: por\n入力: por\n最終形: 孔ᴾ\n漢字: 孔\n識別子: ᴾ\n型: sep(語限定)\n語義: 気孔\n適用語: por/o, por/a\n注記: 気孔。前置詞por=为と別\n基本形: no\n出典: homonym-alt.tsv:127",
+      "documentation": "語根: por\n入力: por\n最終形: 孔ᴾ\n漢字: 孔\n識別子: ᴾ\n型: sep(語限定)\n語義: 気孔\n適用語: por/o, por/a\n注記: 気孔。前置詞por=为と別\n基本形: no\n出典: homonym-alt.tsv:132",
       "priority": 1,
       "sourceRoot": "por",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 127
+      "sourceLine": 132
     },
     {
       "prefix": "porcelan",
@@ -10158,13 +10158,13 @@
       "body": "祷",
       "kanji": "祷",
       "detail": "prim → 祷 (同綴異義: 一時課)",
-      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-alt.tsv:163",
+      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-alt.tsv:168",
       "priority": 1,
       "sourceRoot": "prim",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 163
+      "sourceLine": 168
     },
     {
       "prefix": "primar",
@@ -11445,13 +11445,13 @@
       "body": "匠ᴾ",
       "kanji": "匠",
       "detail": "prot → 匠ᴾ (語限定 組版長: prot/o)",
-      "documentation": "語根: prot\n入力: prot\n最終形: 匠ᴾ\n漢字: 匠\n識別子: ᴾ\n型: sep(語限定)\n語義: 組版長\n適用語: prot/o\n注記: 組版長。prot=质子と別\n基本形: no\n出典: homonym-alt.tsv:162",
+      "documentation": "語根: prot\n入力: prot\n最終形: 匠ᴾ\n漢字: 匠\n識別子: ᴾ\n型: sep(語限定)\n語義: 組版長\n適用語: prot/o\n注記: 組版長。prot=质子と別\n基本形: no\n出典: homonym-alt.tsv:167",
       "priority": 1,
       "sourceRoot": "prot",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 162
+      "sourceLine": 167
     },
     {
       "prefix": "protaktini",

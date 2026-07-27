@@ -6,11 +6,11 @@
     "itemCount": 88,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "j",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -252,13 +252,13 @@
       "body": "杆ᴶ",
       "kanji": "杆",
       "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
-      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:161",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:166",
       "priority": 1,
       "sourceRoot": "jard",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 161
+      "sourceLine": 166
     },
     {
       "prefix": "jaroviz",

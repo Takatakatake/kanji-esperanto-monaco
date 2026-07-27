@@ -6,11 +6,11 @@
     "itemCount": 508,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "f",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -2553,13 +2553,13 @@
       "body": "线ᶠ",
       "kanji": "线",
       "detail": "file → 线ᶠ (同綴異義: 罫線)",
-      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:168",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:173",
       "priority": 1,
       "sourceRoot": "file",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 168
+      "sourceLine": 173
     },
     {
       "prefix": "fili",
@@ -4061,13 +4061,13 @@
       "body": "响ᶠ",
       "kanji": "响",
       "detail": "fon → 响ᶠ (同綴異義: ホン)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:148",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:153",
       "priority": 1,
       "sourceRoot": "fon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 148
+      "sourceLine": 153
     },
     {
       "prefix": "fon",

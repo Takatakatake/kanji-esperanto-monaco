@@ -6,11 +6,11 @@
     "itemCount": 681,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "m",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -811,13 +811,13 @@
       "body": "疫ᴹ",
       "kanji": "疫",
       "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
-      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:179",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:184",
       "priority": 1,
       "sourceRoot": "male",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 179
+      "sourceLine": 184
     },
     {
       "prefix": "maleol",
@@ -1656,13 +1656,13 @@
       "body": "币ᴹ",
       "kanji": "币",
       "detail": "mark → 币ᴹ (同綴異義: マルク)",
-      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:138",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:143",
       "priority": 1,
       "sourceRoot": "mark",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 138
+      "sourceLine": 143
     },
     {
       "prefix": "marketr",
@@ -2163,13 +2163,13 @@
       "body": "将ᴹ",
       "kanji": "将",
       "detail": "mat → 将ᴹ (同綴異義: 詰)",
-      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:131",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:136",
       "priority": 1,
       "sourceRoot": "mat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 131
+      "sourceLine": 136
     },
     {
       "prefix": "matcx",
@@ -8468,13 +8468,13 @@
       "body": "草ᴹᵁᴺ",
       "kanji": "草",
       "detail": "mung → 草ᴹᵁᴺ (語限定 緑豆(Vigna radiata=マメ科)+豆もやし: mung/o, mung/id/oj)",
-      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:181",
+      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:186",
       "priority": 1,
       "sourceRoot": "mung",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 181
+      "sourceLine": 186
     },
     {
       "prefix": "mungot",

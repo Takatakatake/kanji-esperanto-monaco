@@ -6,11 +6,11 @@
     "itemCount": 450,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "b",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -70,13 +70,13 @@
       "body": "币ᴮ",
       "kanji": "币",
       "detail": "bac → 币ᴮ (語限定 古独貨: bac/o)",
-      "documentation": "語根: bac\n入力: bac\n最終形: 币ᴮ\n漢字: 币\n識別子: ᴮ\n型: sep(語限定)\n語義: 古独貨\n適用語: bac/o\n注記: 古独貨。bac=响と別\n基本形: no\n出典: homonym-alt.tsv:143",
+      "documentation": "語根: bac\n入力: bac\n最終形: 币ᴮ\n漢字: 币\n識別子: ᴮ\n型: sep(語限定)\n語義: 古独貨\n適用語: bac/o\n注記: 古独貨。bac=响と別\n基本形: no\n出典: homonym-alt.tsv:148",
       "priority": 1,
       "sourceRoot": "bac",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 143
+      "sourceLine": 148
     },
     {
       "prefix": "bacil",
@@ -1344,13 +1344,13 @@
       "body": "辩ᴮ",
       "kanji": "辩",
       "detail": "bat → 辩ᴮ (同綴異義: 討論)",
-      "documentation": "語根: bat\n入力: bat\n最終形: 辩ᴮ\n漢字: 辩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 討論\n注記: debati(PIV k7342 debat独立見出し=Oficiale diskuti)の bat 分節→辩。たたき落とす de/bat/i は語釈非該当で 打 を維持\n基本形: no\n出典: homonym-alt.tsv:178",
+      "documentation": "語根: bat\n入力: bat\n最終形: 辩ᴮ\n漢字: 辩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 討論\n注記: debati(PIV k7342 debat独立見出し=Oficiale diskuti)の bat 分節→辩。たたき落とす de/bat/i は語釈非該当で 打 を維持\n基本形: no\n出典: homonym-alt.tsv:183",
       "priority": 1,
       "sourceRoot": "bat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 178
+      "sourceLine": 183
     },
     {
       "prefix": "bat",
@@ -3060,13 +3060,13 @@
       "body": "桩ᴮ",
       "kanji": "桩",
       "detail": "bit → 桩ᴮ (同綴異義: 繋柱)",
-      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-alt.tsv:160",
+      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-alt.tsv:165",
       "priority": 1,
       "sourceRoot": "bit",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 160
+      "sourceLine": 165
     },
     {
       "prefix": "bitum",

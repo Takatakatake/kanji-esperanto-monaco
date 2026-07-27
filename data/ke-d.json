@@ -6,11 +6,11 @@
     "itemCount": 457,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "d",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -2384,13 +2384,13 @@
       "body": "汇ᴰ",
       "kanji": "汇",
       "detail": "deviz → 汇ᴰ (同綴異義: 外貨)",
-      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-alt.tsv:137",
+      "documentation": "語根: deviz\n入力: deviz\n最終形: 汇ᴰ\n漢字: 汇\n識別子: ᴰ\n型: amb(同綴異義)\n語義: 外貨\n注記: 外貨。deviz=铭と同綴\n基本形: no\n出典: homonym-alt.tsv:142",
       "priority": 1,
       "sourceRoot": "deviz",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 137
+      "sourceLine": 142
     },
     {
       "prefix": "devot",
@@ -5894,13 +5894,13 @@
       "body": "币ᴰ",
       "kanji": "币",
       "detail": "dur → 币ᴰ (同綴異義: ドゥーロ)",
-      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-alt.tsv:141",
+      "documentation": "語根: dur\n入力: dur\n最終形: 币ᴰ\n漢字: 币\n識別子: ᴰ\n型: amb(同綴異義)\n語義: ドゥーロ\n注記: ドゥーロ銀貨。dur=硬と別\n基本形: no\n出典: homonym-alt.tsv:146",
       "priority": 1,
       "sourceRoot": "dur",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 141
+      "sourceLine": 146
     },
     {
       "prefix": "duramatr",

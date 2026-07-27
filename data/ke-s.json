@@ -3,14 +3,14 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 1011,
+    "itemCount": 1010,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "s",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -330,13 +330,13 @@
       "body": "荐ˢ",
       "kanji": "荐",
       "detail": "sakr → 荐ˢ (語限定 仙骨: sakr/o, sakr/a)",
-      "documentation": "語根: sakr\n入力: sakr\n最終形: 荐ˢ\n漢字: 荐\n識別子: ˢ\n型: sep(語限定)\n語義: 仙骨\n適用語: sakr/o, sakr/a\n注記: 仙骨。sakr=骂と別\n基本形: no\n出典: homonym-alt.tsv:136",
+      "documentation": "語根: sakr\n入力: sakr\n最終形: 荐ˢ\n漢字: 荐\n識別子: ˢ\n型: sep(語限定)\n語義: 仙骨\n適用語: sakr/o, sakr/a\n注記: 仙骨。sakr=骂と別\n基本形: no\n出典: homonym-alt.tsv:141",
       "priority": 1,
       "sourceRoot": "sakr",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 136
+      "sourceLine": 141
     },
     {
       "prefix": "sakral",
@@ -1734,13 +1734,13 @@
       "body": "草ˢᴱᴰ",
       "kanji": "草",
       "detail": "sed → 草ˢᴱᴰ (語限定 Sedum=ベンケイソウ科の観賞植物属: sed/o)",
-      "documentation": "語根: sed\n入力: sed\n最終形: 草ˢᴱᴰ\n漢字: 草\n識別子: ˢᴱᴰ\n型: sep(語限定)\n語義: Sedum=ベンケイソウ科の観賞植物属\n適用語: sed/o\n注記: Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行\n基本形: no\n出典: homonym-alt.tsv:182",
+      "documentation": "語根: sed\n入力: sed\n最終形: 草ˢᴱᴰ\n漢字: 草\n識別子: ˢᴱᴰ\n型: sep(語限定)\n語義: Sedum=ベンケイソウ科の観賞植物属\n適用語: sed/o\n注記: Sedum=ベンケイソウ科の観賞植物属→草。接続詞/動詞sed・sed/i=但と別行\n基本形: no\n出典: homonym-alt.tsv:187",
       "priority": 1,
       "sourceRoot": "sed",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 182
+      "sourceLine": 187
     },
     {
       "prefix": "sedativ",
@@ -4724,13 +4724,13 @@
       "body": "弦ˢ",
       "kanji": "弦",
       "detail": "sinus → 弦ˢ (同綴異義: 正弦)",
-      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-alt.tsv:180",
+      "documentation": "語根: sinus\n入力: sinus\n最終形: 弦ˢ\n漢字: 弦\n識別子: ˢ\n型: amb(同綴異義)\n語義: 正弦\n注記: 正弦sine。sinus=洞と別行\n基本形: no\n出典: homonym-alt.tsv:185",
       "priority": 1,
       "sourceRoot": "sinus",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 180
+      "sourceLine": 185
     },
     {
       "prefix": "sirapt",
@@ -4763,13 +4763,13 @@
       "body": "牛ˢ",
       "kanji": "牛",
       "detail": "siren → 牛ˢ (同綴異義: 海牛)",
-      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-alt.tsv:155",
+      "documentation": "語根: siren\n入力: siren\n最終形: 牛ˢ\n漢字: 牛\n識別子: ˢ\n型: amb(同綴異義)\n語義: 海牛\n注記: 海牛類。siren=警笛と別行\n基本形: no\n出典: homonym-alt.tsv:160",
       "priority": 1,
       "sourceRoot": "siren",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 155
+      "sourceLine": 160
     },
     {
       "prefix": "sirfed",
@@ -6580,29 +6580,16 @@
     },
     {
       "prefix": "sol",
-      "body": "溶",
-      "kanji": "溶",
-      "detail": "sol → 溶 (同綴異義: ゾル)",
-      "documentation": "語根: sol\n入力: sol\n最終形: 溶\n漢字: 溶\n識別子: なし\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行\n基本形: no\n出典: homonym-alt.tsv:154",
+      "body": "胶ˢ",
+      "kanji": "胶",
+      "detail": "sol → 胶ˢ (同綴異義: ゾル)",
+      "documentation": "語根: sol\n入力: sol\n最終形: 胶ˢ\n漢字: 胶\n識別子: ˢ\n型: amb(同綴異義)\n語義: ゾル\n注記: ゾル。sol=唯と別行。★2026-07-27 続39: 続37で新字 溶 を当てたが、既に sep で 胶ˢ(aerosol=气溶胶)があり字種を増やす必要がない→胶 に統一(溶は未使用に戻る)\n基本形: no\n出典: homonym-alt.tsv:159",
       "priority": 1,
       "sourceRoot": "sol",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 154
-    },
-    {
-      "prefix": "sol",
-      "body": "胶ˢ",
-      "kanji": "胶",
-      "detail": "sol → 胶ˢ (語限定 sol(【化】ゾル=コロイド): aer/o/sol/o)",
-      "documentation": "語根: sol\n入力: sol\n最終形: 胶ˢ\n漢字: 胶\n識別子: ˢ\n型: sep(語限定)\n語義: sol(【化】ゾル=コロイド)\n適用語: aer/o/sol/o\n注記: sol(【化】ゾル=コロイド)→胶: 气溶胶(aerosol)。同綴 sol/a=唯一 は唯を維持。sol/o は amb(化学ゾルと独奏が同綴)ゆえ disc非掲載\n基本形: no\n出典: homonym-alt.tsv:21",
-      "priority": 2,
-      "sourceRoot": "sol",
-      "type": "sep",
-      "frequency": 0,
-      "base": false,
-      "sourceLine": 21
+      "sourceLine": 159
     },
     {
       "prefix": "sol",
@@ -6610,7 +6597,7 @@
       "kanji": "液",
       "detail": "sol → 液ˢ (語限定 Latin solutio(溶液): cito/sol/o, c^el/sol/o)",
       "documentation": "語根: sol\n入力: sol\n最終形: 液ˢ\n漢字: 液\n識別子: ˢ\n型: sep(語限定)\n語義: Latin solutio(溶液)\n適用語: cito/sol/o, c^el/sol/o\n注記: Latin solutio(溶液)→液。細胞質液cytosol(cito/sol=胞/液)・ĉelsol。唯一sol/a・独唱sol/o等の sol=唯 は維持(word-scoped)。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:91",
-      "priority": 3,
+      "priority": 2,
       "sourceRoot": "sol",
       "type": "sep",
       "frequency": 0,
@@ -7025,13 +7012,13 @@
       "body": "胞ˢ",
       "kanji": "胞",
       "detail": "sor → 胞ˢ (語限定 胞子嚢群: sor/o)",
-      "documentation": "語根: sor\n入力: sor\n最終形: 胞ˢ\n漢字: 胞\n識別子: ˢ\n型: sep(語限定)\n語義: 胞子嚢群\n適用語: sor/o\n注記: 胞子嚢群。sor=腾と別\n基本形: no\n出典: homonym-alt.tsv:157",
+      "documentation": "語根: sor\n入力: sor\n最終形: 胞ˢ\n漢字: 胞\n識別子: ˢ\n型: sep(語限定)\n語義: 胞子嚢群\n適用語: sor/o\n注記: 胞子嚢群。sor=腾と別\n基本形: no\n出典: homonym-alt.tsv:162",
       "priority": 1,
       "sourceRoot": "sor",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 157
+      "sourceLine": 162
     },
     {
       "prefix": "sorb",
@@ -7324,13 +7311,13 @@
       "body": "苞ˢ",
       "kanji": "苞",
       "detail": "spat → 苞ˢ (同綴異義: 仏炎)",
-      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-alt.tsv:153",
+      "documentation": "語根: spat\n入力: spat\n最終形: 苞ˢ\n漢字: 苞\n識別子: ˢ\n型: amb(同綴異義)\n語義: 仏炎\n注記: 仏炎苞。spat=石と別行\n基本形: no\n出典: homonym-alt.tsv:158",
       "priority": 1,
       "sourceRoot": "spat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 153
+      "sourceLine": 158
     },
     {
       "prefix": "spatang",
@@ -7922,13 +7909,13 @@
       "body": "旋ˢᴺ",
       "kanji": "旋",
       "detail": "spin → 旋ˢᴺ (同綴異義: スピン)",
-      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-alt.tsv:150",
+      "documentation": "語根: spin\n入力: spin\n最終形: 旋ˢᴺ\n漢字: 旋\n識別子: ˢᴺ\n型: amb(同綴異義)\n語義: スピン\n注記: 物理スピン。spin=脊と別行\n基本形: no\n出典: homonym-alt.tsv:155",
       "priority": 1,
       "sourceRoot": "spin",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 150
+      "sourceLine": 155
     },
     {
       "prefix": "spinac",
@@ -9742,13 +9729,13 @@
       "body": "粘ˢ",
       "kanji": "粘",
       "detail": "stok → 粘ˢ (同綴異義: ストークス)",
-      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-alt.tsv:146",
+      "documentation": "語根: stok\n入力: stok\n最終形: 粘ˢ\n漢字: 粘\n識別子: ˢ\n型: amb(同綴異義)\n語義: ストークス\n注記: ストークス粘度。stok=储と別行\n基本形: no\n出典: homonym-alt.tsv:151",
       "priority": 1,
       "sourceRoot": "stok",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 146
+      "sourceLine": 151
     },
     {
       "prefix": "stokast",
@@ -11588,13 +11575,13 @@
       "body": "腿ˢ",
       "kanji": "腿",
       "detail": "sur → 腿ˢ (語限定 ふくらはぎ: sur/o)",
-      "documentation": "語根: sur\n入力: sur\n最終形: 腿ˢ\n漢字: 腿\n識別子: ˢ\n型: sep(語限定)\n語義: ふくらはぎ\n適用語: sur/o\n注記: ふくらはぎ。前置詞sur=上と別\n基本形: no\n出典: homonym-alt.tsv:128",
+      "documentation": "語根: sur\n入力: sur\n最終形: 腿ˢ\n漢字: 腿\n識別子: ˢ\n型: sep(語限定)\n語義: ふくらはぎ\n適用語: sur/o\n注記: ふくらはぎ。前置詞sur=上と別\n基本形: no\n出典: homonym-alt.tsv:133",
       "priority": 1,
       "sourceRoot": "sur",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 128
+      "sourceLine": 133
     },
     {
       "prefix": "surd",

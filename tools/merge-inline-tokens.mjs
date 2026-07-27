@@ -38,7 +38,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { toXSystem } from './x-system.mjs';
-import { INLINE_TYPE } from './candidate-types.mjs';
+import { INLINE_TYPE, SEALED_NOTE } from './candidate-types.mjs';
 
 export { INLINE_TYPE };
 
@@ -118,6 +118,12 @@ export function classifyInlineTokens(existingItems, rows, sourceName = 'inline-t
       continue;
     }
     if (!row.token || !row.segment) { skipped.push({ row, reason: 'missing token/segment' }); continue; }
+    // The master seals retracted rows in place rather than deleting them (see SEALED_NOTE). This
+    // table has none today; honour the convention anyway so a future retraction here cannot ship.
+    if (SEALED_NOTE.test(String(row.note || ''))) {
+      skipped.push({ row, reason: 'sealed by the master — its note marks the token 使用禁止/実現禁止/撤回・封印' });
+      continue;
+    }
 
     const body = row.token;
     if (claimed.has(body)) { skipped.push({ row, reason: 'duplicate token (an earlier row already contributes it)' }); continue; }

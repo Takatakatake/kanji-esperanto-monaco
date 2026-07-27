@@ -6,11 +6,11 @@
     "itemCount": 945,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170,
+    "homonymAltCount": 168,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "a",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10570
   },
   "items": [
     {
@@ -31,13 +31,13 @@
       "body": "顶ᴬᴮ",
       "kanji": "顶",
       "detail": "abak → 顶ᴬᴮ (同綴異義: 柱頭)",
-      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-alt.tsv:167",
+      "documentation": "語根: abak\n入力: abak\n最終形: 顶ᴬᴮ\n漢字: 顶\n識別子: ᴬᴮ\n型: amb(同綴異義)\n語義: 柱頭\n注記: 柱頭。abak=算盘と別\n基本形: no\n出典: homonym-alt.tsv:172",
       "priority": 1,
       "sourceRoot": "abak",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 167
+      "sourceLine": 172
     },
     {
       "prefix": "abandon",
@@ -3242,13 +3242,13 @@
       "body": "翼ᴬ",
       "kanji": "翼",
       "detail": "al → 翼ᴬ (語限定 翼(alo=翼/羽根): al/o, helic/al/o 他4語)",
-      "documentation": "語根: al\n入力: al\n最終形: 翼ᴬ\n漢字: 翼\n識別子: ᴬ\n型: sep(語限定)\n語義: 翼(alo=翼/羽根)\n適用語: al/o, helic/al/o, c^irkau^/al/a, frog/al/o, al/et/o, al/et/s^rau^b/ing/o\n注記: 翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:126",
+      "documentation": "語根: al\n入力: al\n最終形: 翼ᴬ\n漢字: 翼\n識別子: ᴬ\n型: sep(語限定)\n語義: 翼(alo=翼/羽根)\n適用語: al/o, helic/al/o, c^irkau^/al/a, frog/al/o, al/et/o, al/et/s^rau^b/ing/o\n注記: 翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)\n基本形: no\n出典: homonym-alt.tsv:131",
       "priority": 1,
       "sourceRoot": "al",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 126
+      "sourceLine": 131
     },
     {
       "prefix": "alabastr",
@@ -8364,13 +8364,13 @@
       "body": "亩",
       "kanji": "亩",
       "detail": "ar → 亩 (同綴異義: アール)",
-      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-alt.tsv:144",
+      "documentation": "語根: ar\n入力: ar\n最終形: 亩\n漢字: 亩\n識別子: なし\n型: amb(同綴異義)\n語義: アール\n注記: アール面積。ar=群と別行\n基本形: no\n出典: homonym-alt.tsv:149",
       "priority": 1,
       "sourceRoot": "ar",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 144
+      "sourceLine": 149
     },
     {
       "prefix": "ara",
@@ -9157,13 +9157,13 @@
       "body": "菌ᴬᴷ",
       "kanji": "菌",
       "detail": "arke → 菌ᴬᴷ (同綴異義: 古細菌)",
-      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-alt.tsv:166",
+      "documentation": "語根: arke\n入力: arke\n最終形: 菌ᴬᴷ\n漢字: 菌\n識別子: ᴬᴷ\n型: amb(同綴異義)\n語義: 古細菌\n注記: 古細菌。arke=方舟と別\n基本形: no\n出典: homonym-alt.tsv:171",
       "priority": 1,
       "sourceRoot": "arke",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 166
+      "sourceLine": 171
     },
     {
       "prefix": "arke",
