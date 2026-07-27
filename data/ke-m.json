@@ -6,11 +6,11 @@
     "itemCount": 681,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 168,
+    "homonymAltCount": 169,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "m",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10573
   },
   "items": [
     {
@@ -18,52 +18,52 @@
       "body": "浸ᴹ",
       "kanji": "浸",
       "detail": "macer → 浸ᴹ (pejvo, F=6)",
-      "documentation": "語根: macer\n入力: macer\n最終形: 浸ᴹ\n漢字: 浸\n識別子: m\n型: pejvo\nF(汎用性): 6\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4421",
+      "documentation": "語根: macer\n入力: macer\n最終形: 浸ᴹ\n漢字: 浸\n識別子: m\n型: pejvo\nF(汎用性): 6\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4422",
       "priority": 0,
       "sourceRoot": "macer",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 4421
+      "sourceLine": 4422
     },
     {
       "prefix": "macutak",
       "body": "菌ᴹᵀ",
       "kanji": "菌",
       "detail": "macutak → 菌ᴹᵀ (piv, F=1)",
-      "documentation": "語根: macutak\n入力: macutak\n最終形: 菌ᴹᵀ\n漢字: 菌\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5571",
+      "documentation": "語根: macutak\n入力: macutak\n最終形: 菌ᴹᵀ\n漢字: 菌\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5572",
       "priority": 0,
       "sourceRoot": "macutak",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5571
+      "sourceLine": 5572
     },
     {
       "prefix": "macx",
       "body": "嚼",
       "kanji": "嚼",
       "detail": "maĉ → 嚼 (basic, F=12, 基本形)",
-      "documentation": "語根: maĉ\n入力: macx\n最終形: 嚼\n漢字: 嚼\n識別子: なし\n型: basic\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4569",
+      "documentation": "語根: maĉ\n入力: macx\n最終形: 嚼\n漢字: 嚼\n識別子: なし\n型: basic\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4570",
       "priority": 0,
       "sourceRoot": "maĉ",
       "type": "basic",
       "frequency": 12,
       "base": true,
-      "sourceLine": 4569
+      "sourceLine": 4570
     },
     {
       "prefix": "madi",
       "body": "菊ᴹ",
       "kanji": "菊",
       "detail": "madi → 菊ᴹ (piv, F=1)",
-      "documentation": "語根: madi\n入力: madi\n最終形: 菊ᴹ\n漢字: 菊\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5063",
+      "documentation": "語根: madi\n入力: madi\n最終形: 菊ᴹ\n漢字: 菊\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5064",
       "priority": 0,
       "sourceRoot": "madi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5063
+      "sourceLine": 5064
     },
     {
       "prefix": "madrigal",
@@ -200,13 +200,13 @@
       "body": "磁",
       "kanji": "磁",
       "detail": "magnet → 磁 (basic, F=66, 基本形)",
-      "documentation": "語根: magnet\n入力: magnet\n最終形: 磁\n漢字: 磁\n識別子: なし\n型: basic\nF(汎用性): 66\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5116",
+      "documentation": "語根: magnet\n入力: magnet\n最終形: 磁\n漢字: 磁\n識別子: なし\n型: basic\nF(汎用性): 66\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5117",
       "priority": 0,
       "sourceRoot": "magnet",
       "type": "basic",
       "frequency": 66,
       "base": true,
-      "sourceLine": 5116
+      "sourceLine": 5117
     },
     {
       "prefix": "magnetit",
@@ -226,13 +226,13 @@
       "body": "磁ᴹᶠ",
       "kanji": "磁",
       "detail": "magnetofon → 磁ᴹᶠ (basic, F=0)",
-      "documentation": "語根: magnetofon\n入力: magnetofon\n最終形: 磁ᴹᶠ\n漢字: 磁\n識別子: mf\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5117",
+      "documentation": "語根: magnetofon\n入力: magnetofon\n最終形: 磁ᴹᶠ\n漢字: 磁\n識別子: mf\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5118",
       "priority": 0,
       "sourceRoot": "magnetofon",
       "type": "basic",
       "frequency": 0,
       "base": false,
-      "sourceLine": 5117
+      "sourceLine": 5118
     },
     {
       "prefix": "magnetometr",
@@ -408,13 +408,13 @@
       "body": "玉米",
       "kanji": "玉米",
       "detail": "maiz → 玉米 (basic, F=6, 基本形)",
-      "documentation": "語根: maiz\n入力: maiz\n最終形: 玉米\n漢字: 玉米\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5753",
+      "documentation": "語根: maiz\n入力: maiz\n最終形: 玉米\n漢字: 玉米\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5754",
       "priority": 0,
       "sourceRoot": "maiz",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 5753
+      "sourceLine": 5754
     },
     {
       "prefix": "maj",
@@ -603,13 +603,13 @@
       "body": "宏ᴹ",
       "kanji": "宏",
       "detail": "makro → 宏ᴹ (pejvo, F=13)",
-      "documentation": "語根: makro\n入力: makro\n最終形: 宏ᴹ\n漢字: 宏\n識別子: m\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5648",
+      "documentation": "語根: makro\n入力: makro\n最終形: 宏ᴹ\n漢字: 宏\n識別子: m\n型: pejvo\nF(汎用性): 13\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5649",
       "priority": 0,
       "sourceRoot": "makro",
       "type": "pejvo",
       "frequency": 13,
       "base": false,
-      "sourceLine": 5648
+      "sourceLine": 5649
     },
     {
       "prefix": "makrocefal",
@@ -811,13 +811,13 @@
       "body": "疫ᴹ",
       "kanji": "疫",
       "detail": "male → 疫ᴹ (同綴異義: 鼻疽)",
-      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:184",
+      "documentation": "語根: male\n入力: male\n最終形: 疫ᴹ\n漢字: 疫\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 鼻疽\n注記: 馬鼻疽。male=锤ᴹᴸと別行\n基本形: no\n出典: homonym-alt.tsv:187",
       "priority": 1,
       "sourceRoot": "male",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 184
+      "sourceLine": 187
     },
     {
       "prefix": "maleol",
@@ -850,26 +850,26 @@
       "body": "恶",
       "kanji": "恶",
       "detail": "malic → 恶 (basic, F=9, 基本形)",
-      "documentation": "語根: malic\n入力: malic\n最終形: 恶\n漢字: 恶\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:5754",
+      "documentation": "語根: malic\n入力: malic\n最終形: 恶\n漢字: 恶\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:5755",
       "priority": 0,
       "sourceRoot": "malic",
       "type": "basic",
       "frequency": 9,
       "base": true,
-      "sourceLine": 5754
+      "sourceLine": 5755
     },
     {
       "prefix": "malign",
       "body": "恶ᴹᴳ",
       "kanji": "恶",
       "detail": "malign → 恶ᴹᴳ (pejvo, F=3)",
-      "documentation": "語根: malign\n入力: malign\n最終形: 恶ᴹᴳ\n漢字: 恶\n識別子: mg\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5755",
+      "documentation": "語根: malign\n入力: malign\n最終形: 恶ᴹᴳ\n漢字: 恶\n識別子: mg\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5756",
       "priority": 0,
       "sourceRoot": "malign",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5755
+      "sourceLine": 5756
     },
     {
       "prefix": "malt",
@@ -1084,13 +1084,13 @@
       "body": "茄ᴹ",
       "kanji": "茄",
       "detail": "mandragor → 茄ᴹ (pejvo, F=1)",
-      "documentation": "語根: mandragor\n入力: mandragor\n最終形: 茄ᴹ\n漢字: 茄\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: _identifier_sidecar.tsv:5384",
+      "documentation": "語根: mandragor\n入力: mandragor\n最終形: 茄ᴹ\n漢字: 茄\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: _identifier_sidecar.tsv:5385",
       "priority": 0,
       "sourceRoot": "mandragor",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5384
+      "sourceLine": 5385
     },
     {
       "prefix": "mandril",
@@ -1448,13 +1448,13 @@
       "body": "稿",
       "kanji": "稿",
       "detail": "manuskript → 稿 (basic, F=2, 基本形)",
-      "documentation": "語根: manuskript\n入力: manuskript\n最終形: 稿\n漢字: 稿\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5118",
+      "documentation": "語根: manuskript\n入力: manuskript\n最終形: 稿\n漢字: 稿\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5119",
       "priority": 0,
       "sourceRoot": "manuskript",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5118
+      "sourceLine": 5119
     },
     {
       "prefix": "map",
@@ -1539,26 +1539,26 @@
       "body": "菌ᴹˢ",
       "kanji": "菌",
       "detail": "marasmi → 菌ᴹˢ (piv, F=1)",
-      "documentation": "語根: marasmi\n入力: marasmi\n最終形: 菌ᴹˢ\n漢字: 菌\n識別子: ms\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5537",
+      "documentation": "語根: marasmi\n入力: marasmi\n最終形: 菌ᴹˢ\n漢字: 菌\n識別子: ms\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5538",
       "priority": 0,
       "sourceRoot": "marasmi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5537
+      "sourceLine": 5538
     },
     {
       "prefix": "marcx",
       "body": "沼",
       "kanji": "沼",
       "detail": "marĉ → 沼 (basic, F=17, 基本形)",
-      "documentation": "語根: marĉ\n入力: marcx\n最終形: 沼\n漢字: 沼\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4570",
+      "documentation": "語根: marĉ\n入力: marcx\n最終形: 沼\n漢字: 沼\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4571",
       "priority": 0,
       "sourceRoot": "marĉ",
       "type": "basic",
       "frequency": 17,
       "base": true,
-      "sourceLine": 4570
+      "sourceLine": 4571
     },
     {
       "prefix": "marcxand",
@@ -1617,13 +1617,13 @@
       "body": "浸ᴹᴿ",
       "kanji": "浸",
       "detail": "marin → 浸ᴹᴿ (pejvo, F=4)",
-      "documentation": "語根: marin\n入力: marin\n最終形: 浸ᴹᴿ\n漢字: 浸\n識別子: mr\n型: pejvo\nF(汎用性): 4\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4422",
+      "documentation": "語根: marin\n入力: marin\n最終形: 浸ᴹᴿ\n漢字: 浸\n識別子: mr\n型: pejvo\nF(汎用性): 4\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4423",
       "priority": 0,
       "sourceRoot": "marin",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 4422
+      "sourceLine": 4423
     },
     {
       "prefix": "marionet",
@@ -1656,13 +1656,13 @@
       "body": "币ᴹ",
       "kanji": "币",
       "detail": "mark → 币ᴹ (同綴異義: マルク)",
-      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:143",
+      "documentation": "語根: mark\n入力: mark\n最終形: 币ᴹ\n漢字: 币\n識別子: ᴹ\n型: amb(同綴異義)\n語義: マルク\n注記: マルク。mark=标と別行\n基本形: no\n出典: homonym-alt.tsv:146",
       "priority": 1,
       "sourceRoot": "mark",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 143
+      "sourceLine": 146
     },
     {
       "prefix": "marketr",
@@ -1708,13 +1708,13 @@
       "body": "侯ᴹ",
       "kanji": "侯",
       "detail": "markiz → 侯ᴹ (pejvo, F=4)",
-      "documentation": "語根: markiz\n入力: markiz\n最終形: 侯ᴹ\n漢字: 侯\n識別子: m\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5301",
+      "documentation": "語根: markiz\n入力: markiz\n最終形: 侯ᴹ\n漢字: 侯\n識別子: m\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5302",
       "priority": 0,
       "sourceRoot": "markiz",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5301
+      "sourceLine": 5302
     },
     {
       "prefix": "markot",
@@ -1773,13 +1773,13 @@
       "body": "鼠ᴹᴹ",
       "kanji": "鼠",
       "detail": "marmot → 鼠ᴹᴹ (pejvo, F=1)",
-      "documentation": "語根: marmot\n入力: marmot\n最終形: 鼠ᴹᴹ\n漢字: 鼠\n識別子: mm\n型: pejvo\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4607",
+      "documentation": "語根: marmot\n入力: marmot\n最終形: 鼠ᴹᴹ\n漢字: 鼠\n識別子: mm\n型: pejvo\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4608",
       "priority": 0,
       "sourceRoot": "marmot",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4607
+      "sourceLine": 4608
     },
     {
       "prefix": "marmoz",
@@ -1838,13 +1838,13 @@
       "body": "栗ᴹ",
       "kanji": "栗",
       "detail": "maron → 栗ᴹ (pejvo, F=3)",
-      "documentation": "語根: maron\n入力: maron\n最終形: 栗ᴹ\n漢字: 栗\n識別子: m\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5709",
+      "documentation": "語根: maron\n入力: maron\n最終形: 栗ᴹ\n漢字: 栗\n識別子: m\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5710",
       "priority": 0,
       "sourceRoot": "maron",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5709
+      "sourceLine": 5710
     },
     {
       "prefix": "marsupi",
@@ -1981,26 +1981,26 @@
       "body": "摩",
       "kanji": "摩",
       "detail": "masaĝ → 摩 (basic, F=3, 基本形)",
-      "documentation": "語根: masaĝ\n入力: masagx\n最終形: 摩\n漢字: 摩\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5119",
+      "documentation": "語根: masaĝ\n入力: masagx\n最終形: 摩\n漢字: 摩\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5120",
       "priority": 0,
       "sourceRoot": "masaĝ",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5119
+      "sourceLine": 5120
     },
     {
       "prefix": "masakr",
       "body": "屠ᴹ",
       "kanji": "屠",
       "detail": "masakr → 屠ᴹ (pejvo, F=2)",
-      "documentation": "語根: masakr\n入力: masakr\n最終形: 屠ᴹ\n漢字: 屠\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5588",
+      "documentation": "語根: masakr\n入力: masakr\n最終形: 屠ᴹ\n漢字: 屠\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5589",
       "priority": 0,
       "sourceRoot": "masakr",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5588
+      "sourceLine": 5589
     },
     {
       "prefix": "mask",
@@ -2150,39 +2150,39 @@
       "body": "席",
       "kanji": "席",
       "detail": "mat → 席 (basic, F=11, 基本形)",
-      "documentation": "語根: mat\n入力: mat\n最終形: 席\n漢字: 席\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5226",
+      "documentation": "語根: mat\n入力: mat\n最終形: 席\n漢字: 席\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5227",
       "priority": 0,
       "sourceRoot": "mat",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 5226
+      "sourceLine": 5227
     },
     {
       "prefix": "mat",
       "body": "将ᴹ",
       "kanji": "将",
       "detail": "mat → 将ᴹ (同綴異義: 詰)",
-      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:136",
+      "documentation": "語根: mat\n入力: mat\n最終形: 将ᴹ\n漢字: 将\n識別子: ᴹ\n型: amb(同綴異義)\n語義: 詰\n注記: チェス詰み。mat=席と別行\n基本形: no\n出典: homonym-alt.tsv:139",
       "priority": 1,
       "sourceRoot": "mat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 136
+      "sourceLine": 139
     },
     {
       "prefix": "matcx",
       "body": "赛",
       "kanji": "赛",
       "detail": "matĉ → 赛 (basic, F=2, 基本形)",
-      "documentation": "語根: matĉ\n入力: matcx\n最終形: 赛\n漢字: 赛\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5120",
+      "documentation": "語根: matĉ\n入力: matcx\n最終形: 赛\n漢字: 赛\n識別子: なし\n型: basic\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5121",
       "priority": 0,
       "sourceRoot": "matĉ",
       "type": "basic",
       "frequency": 2,
       "base": true,
-      "sourceLine": 5120
+      "sourceLine": 5121
     },
     {
       "prefix": "mate",
@@ -2202,13 +2202,13 @@
       "body": "数学",
       "kanji": "数学",
       "detail": "matematik → 数学 (basic, F=5, 基本形)",
-      "documentation": "語根: matematik\n入力: matematik\n最終形: 数学\n漢字: 数学\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5227",
+      "documentation": "語根: matematik\n入力: matematik\n最終形: 数学\n漢字: 数学\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5228",
       "priority": 0,
       "sourceRoot": "matematik",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 5227
+      "sourceLine": 5228
     },
     {
       "prefix": "maten",
@@ -2306,13 +2306,13 @@
       "body": "菊ᴹᵀ",
       "kanji": "菊",
       "detail": "matrikari → 菊ᴹᵀ (piv, F=1)",
-      "documentation": "語根: matrikari\n入力: matrikari\n最終形: 菊ᴹᵀ\n漢字: 菊\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5105",
+      "documentation": "語根: matrikari\n入力: matrikari\n最終形: 菊ᴹᵀ\n漢字: 菊\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5106",
       "priority": 0,
       "sourceRoot": "matrikari",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5105
+      "sourceLine": 5106
     },
     {
       "prefix": "matrikul",
@@ -2345,13 +2345,13 @@
       "body": "恶ᴹⱽ",
       "kanji": "恶",
       "detail": "mav → 恶ᴹⱽ (pejvo, F=1)",
-      "documentation": "語根: mav\n入力: mav\n最終形: 恶ᴹⱽ\n漢字: 恶\n識別子: mv\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5756",
+      "documentation": "語根: mav\n入力: mav\n最終形: 恶ᴹⱽ\n漢字: 恶\n識別子: mv\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5757",
       "priority": 0,
       "sourceRoot": "mav",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5756
+      "sourceLine": 5757
     },
     {
       "prefix": "mazam",
@@ -2462,13 +2462,13 @@
       "body": "境",
       "kanji": "境",
       "detail": "medi → 境 (basic, F=51, 基本形)",
-      "documentation": "語根: medi\n入力: medi\n最終形: 境\n漢字: 境\n識別子: なし\n型: basic\nF(汎用性): 51\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5122",
+      "documentation": "語根: medi\n入力: medi\n最終形: 境\n漢字: 境\n識別子: なし\n型: basic\nF(汎用性): 51\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5123",
       "priority": 0,
       "sourceRoot": "medi",
       "type": "basic",
       "frequency": 51,
       "base": true,
-      "sourceLine": 5122
+      "sourceLine": 5123
     },
     {
       "prefix": "mediaci",
@@ -2683,13 +2683,13 @@
       "body": "鼠ᴹᶠ",
       "kanji": "鼠",
       "detail": "mefit → 鼠ᴹᶠ (pejvo, F=2)",
-      "documentation": "語根: mefit\n入力: mefit\n最終形: 鼠ᴹᶠ\n漢字: 鼠\n識別子: mf\n型: pejvo\nF(汎用性): 2\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4594",
+      "documentation": "語根: mefit\n入力: mefit\n最終形: 鼠ᴹᶠ\n漢字: 鼠\n識別子: mf\n型: pejvo\nF(汎用性): 2\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4595",
       "priority": 0,
       "sourceRoot": "mefit",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4594
+      "sourceLine": 4595
     },
     {
       "prefix": "mega",
@@ -2956,13 +2956,13 @@
       "body": "里",
       "kanji": "里",
       "detail": "mejl → 里 (basic, F=3, 基本形)",
-      "documentation": "語根: mejl\n入力: mejl\n最終形: 里\n漢字: 里\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5124",
+      "documentation": "語根: mejl\n入力: mejl\n最終形: 里\n漢字: 里\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5125",
       "priority": 0,
       "sourceRoot": "mejl",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5124
+      "sourceLine": 5125
     },
     {
       "prefix": "mejoz",
@@ -2982,13 +2982,13 @@
       "body": "鸣ᴹ",
       "kanji": "鸣",
       "detail": "mek → 鸣ᴹ (pejvo, F=1)",
-      "documentation": "語根: mek\n入力: mek\n最終形: 鸣ᴹ\n漢字: 鸣\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 11\n基本形: no\n出典: _identifier_sidecar.tsv:4951",
+      "documentation": "語根: mek\n入力: mek\n最終形: 鸣ᴹ\n漢字: 鸣\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 11\n基本形: no\n出典: _identifier_sidecar.tsv:4952",
       "priority": 0,
       "sourceRoot": "mek",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4951
+      "sourceLine": 4952
     },
     {
       "prefix": "mekan",
@@ -3047,13 +3047,13 @@
       "body": "鼠ᴹᴸ",
       "kanji": "鼠",
       "detail": "mel → 鼠ᴹᴸ (pejvo, F=2)",
-      "documentation": "語根: mel\n入力: mel\n最終形: 鼠ᴹᴸ\n漢字: 鼠\n識別子: ml\n型: pejvo\nF(汎用性): 2\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4591",
+      "documentation": "語根: mel\n入力: mel\n最終形: 鼠ᴹᴸ\n漢字: 鼠\n識別子: ml\n型: pejvo\nF(汎用性): 2\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4592",
       "priority": 0,
       "sourceRoot": "mel",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4591
+      "sourceLine": 4592
     },
     {
       "prefix": "melaleuxk",
@@ -3112,13 +3112,13 @@
       "body": "郁ᴹ",
       "kanji": "郁",
       "detail": "melankoli → 郁ᴹ (pejvo, F=3)",
-      "documentation": "語根: melankoli\n入力: melankoli\n最終形: 郁ᴹ\n漢字: 郁\n識別子: m\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4902",
+      "documentation": "語根: melankoli\n入力: melankoli\n最終形: 郁ᴹ\n漢字: 郁\n識別子: m\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4903",
       "priority": 0,
       "sourceRoot": "melankoli",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4902
+      "sourceLine": 4903
     },
     {
       "prefix": "melanom",
@@ -3164,13 +3164,13 @@
       "body": "贝ᴹᴸ",
       "kanji": "贝",
       "detail": "meleagren → 贝ᴹᴸ (piv, F=1)",
-      "documentation": "語根: meleagren\n入力: meleagren\n最終形: 贝ᴹᴸ\n漢字: 贝\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 22\n基本形: no\n出典: _identifier_sidecar.tsv:4868",
+      "documentation": "語根: meleagren\n入力: meleagren\n最終形: 贝ᴹᴸ\n漢字: 贝\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 22\n基本形: no\n出典: _identifier_sidecar.tsv:4869",
       "priority": 0,
       "sourceRoot": "meleagren",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4868
+      "sourceLine": 4869
     },
     {
       "prefix": "meli",
@@ -3190,13 +3190,13 @@
       "body": "豆ᴹ",
       "kanji": "豆",
       "detail": "melilot → 豆ᴹ (pejvo, F=1)",
-      "documentation": "語根: melilot\n入力: melilot\n最終形: 豆ᴹ\n漢字: 豆\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5018",
+      "documentation": "語根: melilot\n入力: melilot\n最終形: 豆ᴹ\n漢字: 豆\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5019",
       "priority": 0,
       "sourceRoot": "melilot",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5018
+      "sourceLine": 5019
     },
     {
       "prefix": "melis",
@@ -3294,39 +3294,39 @@
       "body": "瓜",
       "kanji": "瓜",
       "detail": "melon → 瓜 (basic, F=5, 基本形)",
-      "documentation": "語根: melon\n入力: melon\n最終形: 瓜\n漢字: 瓜\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 17\n基本形: yes\n出典: _identifier_sidecar.tsv:5228",
+      "documentation": "語根: melon\n入力: melon\n最終形: 瓜\n漢字: 瓜\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 17\n基本形: yes\n出典: _identifier_sidecar.tsv:5229",
       "priority": 0,
       "sourceRoot": "melon",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 5228
+      "sourceLine": 5229
     },
     {
       "prefix": "melongen",
       "body": "茄ᴹᴸ",
       "kanji": "茄",
       "detail": "melongen → 茄ᴹᴸ (piv, F=1)",
-      "documentation": "語根: melongen\n入力: melongen\n最終形: 茄ᴹᴸ\n漢字: 茄\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: _identifier_sidecar.tsv:5391",
+      "documentation": "語根: melongen\n入力: melongen\n最終形: 茄ᴹᴸ\n漢字: 茄\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 12\n基本形: no\n出典: _identifier_sidecar.tsv:5392",
       "priority": 0,
       "sourceRoot": "melongen",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5391
+      "sourceLine": 5392
     },
     {
       "prefix": "melopep",
       "body": "瓜ᴹᴾ",
       "kanji": "瓜",
       "detail": "melopep → 瓜ᴹᴾ (pejvo, F=1)",
-      "documentation": "語根: melopep\n入力: melopep\n最終形: 瓜ᴹᴾ\n漢字: 瓜\n識別子: mp\n型: pejvo\nF(汎用性): 1\nグループ数: 17\n基本形: no\n出典: _identifier_sidecar.tsv:5232",
+      "documentation": "語根: melopep\n入力: melopep\n最終形: 瓜ᴹᴾ\n漢字: 瓜\n識別子: mp\n型: pejvo\nF(汎用性): 1\nグループ数: 17\n基本形: no\n出典: _identifier_sidecar.tsv:5233",
       "priority": 0,
       "sourceRoot": "melopep",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5232
+      "sourceLine": 5233
     },
     {
       "prefix": "melopsitak",
@@ -3879,13 +3879,13 @@
       "body": "菌ᴹᴸ",
       "kanji": "菌",
       "detail": "meruli → 菌ᴹᴸ (piv, F=1)",
-      "documentation": "語根: meruli\n入力: meruli\n最終形: 菌ᴹᴸ\n漢字: 菌\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5522",
+      "documentation": "語根: meruli\n入力: meruli\n最終形: 菌ᴹᴸ\n漢字: 菌\n識別子: ml\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5523",
       "priority": 0,
       "sourceRoot": "meruli",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5522
+      "sourceLine": 5523
     },
     {
       "prefix": "mes",
@@ -4152,13 +4152,13 @@
       "body": "段ᴹ",
       "kanji": "段",
       "detail": "metamer → 段ᴹ (piv, F=2)",
-      "documentation": "語根: metamer\n入力: metamer\n最終形: 段ᴹ\n漢字: 段\n識別子: m\n型: piv\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4727",
+      "documentation": "語根: metamer\n入力: metamer\n最終形: 段ᴹ\n漢字: 段\n識別子: m\n型: piv\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4728",
       "priority": 0,
       "sourceRoot": "metamer",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4727
+      "sourceLine": 4728
     },
     {
       "prefix": "metamorf",
@@ -4646,13 +4646,13 @@
       "body": "鸥",
       "kanji": "鸥",
       "detail": "mev → 鸥 (basic, F=3, 基本形)",
-      "documentation": "語根: mev\n入力: mev\n最終形: 鸥\n漢字: 鸥\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5125",
+      "documentation": "語根: mev\n入力: mev\n最終形: 鸥\n漢字: 鸥\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5126",
       "priority": 0,
       "sourceRoot": "mev",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5125
+      "sourceLine": 5126
     },
     {
       "prefix": "mez",
@@ -4841,52 +4841,52 @@
       "body": "咪",
       "kanji": "咪",
       "detail": "miaŭ → 咪 (basic, F=3, 基本形)",
-      "documentation": "語根: miaŭ\n入力: miaux\n最終形: 咪\n漢字: 咪\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5127",
+      "documentation": "語根: miaŭ\n入力: miaux\n最終形: 咪\n漢字: 咪\n識別子: なし\n型: basic\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5128",
       "priority": 0,
       "sourceRoot": "miaŭ",
       "type": "basic",
       "frequency": 3,
       "base": true,
-      "sourceLine": 5127
+      "sourceLine": 5128
     },
     {
       "prefix": "miceli",
       "body": "菌ᴹᴱ",
       "kanji": "菌",
       "detail": "miceli → 菌ᴹᴱ (piv, F=1)",
-      "documentation": "語根: miceli\n入力: miceli\n最終形: 菌ᴹᴱ\n漢字: 菌\n識別子: me\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5523",
+      "documentation": "語根: miceli\n入力: miceli\n最終形: 菌ᴹᴱ\n漢字: 菌\n識別子: me\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5524",
       "priority": 0,
       "sourceRoot": "miceli",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5523
+      "sourceLine": 5524
     },
     {
       "prefix": "micen",
       "body": "菌ᴹᴺ",
       "kanji": "菌",
       "detail": "micen → 菌ᴹᴺ (piv, F=2)",
-      "documentation": "語根: micen\n入力: micen\n最終形: 菌ᴹᴺ\n漢字: 菌\n識別子: mn\n型: piv\nF(汎用性): 2\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5499",
+      "documentation": "語根: micen\n入力: micen\n最終形: 菌ᴹᴺ\n漢字: 菌\n識別子: mn\n型: piv\nF(汎用性): 2\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5500",
       "priority": 0,
       "sourceRoot": "micen",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5499
+      "sourceLine": 5500
     },
     {
       "prefix": "micet",
       "body": "菌ᴹᶜ",
       "kanji": "菌",
       "detail": "micet → 菌ᴹᶜ (piv, F=17)",
-      "documentation": "語根: micet\n入力: micet\n最終形: 菌ᴹᶜ\n漢字: 菌\n識別子: mc\n型: piv\nF(汎用性): 17\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5493",
+      "documentation": "語根: micet\n入力: micet\n最終形: 菌ᴹᶜ\n漢字: 菌\n識別子: mc\n型: piv\nF(汎用性): 17\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5494",
       "priority": 0,
       "sourceRoot": "micet",
       "type": "piv",
       "frequency": 17,
       "base": false,
-      "sourceLine": 5493
+      "sourceLine": 5494
     },
     {
       "prefix": "micetologi",
@@ -4932,13 +4932,13 @@
       "body": "蜜",
       "kanji": "蜜",
       "detail": "miel → 蜜 (basic, F=9, 基本形)",
-      "documentation": "語根: miel\n入力: miel\n最終形: 蜜\n漢字: 蜜\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5245",
+      "documentation": "語根: miel\n入力: miel\n最終形: 蜜\n漢字: 蜜\n識別子: なし\n型: basic\nF(汎用性): 9\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5246",
       "priority": 0,
       "sourceRoot": "miel",
       "type": "basic",
       "frequency": 9,
       "base": true,
-      "sourceLine": 5245
+      "sourceLine": 5246
     },
     {
       "prefix": "mien",
@@ -4984,13 +4984,13 @@
       "body": "迁",
       "kanji": "迁",
       "detail": "migr → 迁 (basic, F=35, 基本形)",
-      "documentation": "語根: migr\n入力: migr\n最終形: 迁\n漢字: 迁\n識別子: なし\n型: basic\nF(汎用性): 35\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4571",
+      "documentation": "語根: migr\n入力: migr\n最終形: 迁\n漢字: 迁\n識別子: なし\n型: basic\nF(汎用性): 35\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4572",
       "priority": 0,
       "sourceRoot": "migr",
       "type": "basic",
       "frequency": 35,
       "base": true,
-      "sourceLine": 4571
+      "sourceLine": 4572
     },
     {
       "prefix": "miit",
@@ -5010,13 +5010,13 @@
       "body": "菌ᴹ",
       "kanji": "菌",
       "detail": "miko → 菌ᴹ (piv, F=6)",
-      "documentation": "語根: miko\n入力: miko\n最終形: 菌ᴹ\n漢字: 菌\n識別子: m\n型: piv\nF(汎用性): 6\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5492",
+      "documentation": "語根: miko\n入力: miko\n最終形: 菌ᴹ\n漢字: 菌\n識別子: m\n型: piv\nF(汎用性): 6\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5493",
       "priority": 0,
       "sourceRoot": "miko",
       "type": "piv",
       "frequency": 6,
       "base": false,
-      "sourceLine": 5492
+      "sourceLine": 5493
     },
     {
       "prefix": "mikobakteri",
@@ -5075,26 +5075,26 @@
       "body": "菌ᴹᶻ",
       "kanji": "菌",
       "detail": "mikoriz → 菌ᴹᶻ (piv, F=1)",
-      "documentation": "語根: mikoriz\n入力: mikoriz\n最終形: 菌ᴹᶻ\n漢字: 菌\n識別子: mz\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5538",
+      "documentation": "語根: mikoriz\n入力: mikoriz\n最終形: 菌ᴹᶻ\n漢字: 菌\n識別子: mz\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5539",
       "priority": 0,
       "sourceRoot": "mikoriz",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5538
+      "sourceLine": 5539
     },
     {
       "prefix": "mikot",
       "body": "菌ᴹᴵ",
       "kanji": "菌",
       "detail": "mikot → 菌ᴹᴵ (piv, F=2)",
-      "documentation": "語根: mikot\n入力: mikot\n最終形: 菌ᴹᴵ\n漢字: 菌\n識別子: mi\n型: piv\nF(汎用性): 2\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5498",
+      "documentation": "語根: mikot\n入力: mikot\n最終形: 菌ᴹᴵ\n漢字: 菌\n識別子: mi\n型: piv\nF(汎用性): 2\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5499",
       "priority": 0,
       "sourceRoot": "mikot",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5498
+      "sourceLine": 5499
     },
     {
       "prefix": "mikoz",
@@ -5114,13 +5114,13 @@
       "body": "微",
       "kanji": "微",
       "detail": "mikro → 微 (pref, F=50, 基本形)",
-      "documentation": "語根: mikro\n入力: mikro\n最終形: 微\n漢字: 微\n識別子: なし\n型: pref\nF(汎用性): 50\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:5138",
+      "documentation": "語根: mikro\n入力: mikro\n最終形: 微\n漢字: 微\n識別子: なし\n型: pref\nF(汎用性): 50\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:5139",
       "priority": 0,
       "sourceRoot": "mikro",
       "type": "pref",
       "frequency": 50,
       "base": true,
-      "sourceLine": 5138
+      "sourceLine": 5139
     },
     {
       "prefix": "mikrob",
@@ -5426,13 +5426,13 @@
       "body": "鼠ᴹᴷ",
       "kanji": "鼠",
       "detail": "mikrot → 鼠ᴹᴷ (piv, F=1)",
-      "documentation": "語根: mikrot\n入力: mikrot\n最終形: 鼠ᴹᴷ\n漢字: 鼠\n識別子: mk\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4614",
+      "documentation": "語根: mikrot\n入力: mikrot\n最終形: 鼠ᴹᴷ\n漢字: 鼠\n識別子: mk\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4615",
       "priority": 0,
       "sourceRoot": "mikrot",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4614
+      "sourceLine": 4615
     },
     {
       "prefix": "mikrotom",
@@ -5556,13 +5556,13 @@
       "body": "十亿",
       "kanji": "十亿",
       "detail": "miliard → 十亿 (num, F=2, 基本形)",
-      "documentation": "語根: miliard\n入力: miliard\n最終形: 十亿\n漢字: 十亿\n識別子: なし\n型: num\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4574",
+      "documentation": "語根: miliard\n入力: miliard\n最終形: 十亿\n漢字: 十亿\n識別子: なし\n型: num\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4575",
       "priority": 0,
       "sourceRoot": "miliard",
       "type": "num",
       "frequency": 2,
       "base": true,
-      "sourceLine": 4574
+      "sourceLine": 4575
     },
     {
       "prefix": "milic",
@@ -5764,13 +5764,13 @@
       "body": "矿",
       "kanji": "矿",
       "detail": "min → 矿 (basic, F=43, 基本形)",
-      "documentation": "語根: min\n入力: min\n最終形: 矿\n漢字: 矿\n識別子: なし\n型: basic\nF(汎用性): 43\nグループ数: 9\n基本形: yes\n出典: _identifier_sidecar.tsv:4575",
+      "documentation": "語根: min\n入力: min\n最終形: 矿\n漢字: 矿\n識別子: なし\n型: basic\nF(汎用性): 43\nグループ数: 9\n基本形: yes\n出典: _identifier_sidecar.tsv:4576",
       "priority": 0,
       "sourceRoot": "min",
       "type": "basic",
       "frequency": 43,
       "base": true,
-      "sourceLine": 4575
+      "sourceLine": 4576
     },
     {
       "prefix": "minac",
@@ -5803,39 +5803,39 @@
       "body": "蝉ᴹ",
       "kanji": "蝉",
       "detail": "mincikad → 蝉ᴹ (basic, F=1)",
-      "documentation": "語根: mincikad\n入力: mincikad\n最終形: 蝉ᴹ\n漢字: 蝉\n識別子: m\n型: basic\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5595",
+      "documentation": "語根: mincikad\n入力: mincikad\n最終形: 蝉ᴹ\n漢字: 蝉\n識別子: m\n型: basic\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5596",
       "priority": 0,
       "sourceRoot": "mincikad",
       "type": "basic",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5595
+      "sourceLine": 5596
     },
     {
       "prefix": "minera",
       "body": "矿ᴹᴵ",
       "kanji": "矿",
       "detail": "minera → 矿ᴹᴵ (pejvo, F=2)",
-      "documentation": "語根: minera\n入力: minera\n最終形: 矿ᴹᴵ\n漢字: 矿\n識別子: mi\n型: pejvo\nF(汎用性): 2\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:4581",
+      "documentation": "語根: minera\n入力: minera\n最終形: 矿ᴹᴵ\n漢字: 矿\n識別子: mi\n型: pejvo\nF(汎用性): 2\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:4582",
       "priority": 0,
       "sourceRoot": "minera",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4581
+      "sourceLine": 4582
     },
     {
       "prefix": "mineral",
       "body": "矿ᴹᴿ",
       "kanji": "矿",
       "detail": "mineral → 矿ᴹᴿ (basic, F=9)",
-      "documentation": "語根: mineral\n入力: mineral\n最終形: 矿ᴹᴿ\n漢字: 矿\n識別子: mr\n型: basic\nF(汎用性): 9\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:4576",
+      "documentation": "語根: mineral\n入力: mineral\n最終形: 矿ᴹᴿ\n漢字: 矿\n識別子: mr\n型: basic\nF(汎用性): 9\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:4577",
       "priority": 0,
       "sourceRoot": "mineral",
       "type": "basic",
       "frequency": 9,
       "base": false,
-      "sourceLine": 4576
+      "sourceLine": 4577
     },
     {
       "prefix": "mineralog",
@@ -5881,13 +5881,13 @@
       "body": "最小",
       "kanji": "最小",
       "detail": "minimum → 最小 (basic, F=8, 基本形)",
-      "documentation": "語根: minimum\n入力: minimum\n最終形: 最小\n漢字: 最小\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5247",
+      "documentation": "語根: minimum\n入力: minimum\n最終形: 最小\n漢字: 最小\n識別子: なし\n型: basic\nF(汎用性): 8\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5248",
       "priority": 0,
       "sourceRoot": "minimum",
       "type": "basic",
       "frequency": 8,
       "base": true,
-      "sourceLine": 5247
+      "sourceLine": 5248
     },
     {
       "prefix": "ministeri",
@@ -6024,13 +6024,13 @@
       "body": "鼠ᴹᵀ",
       "kanji": "鼠",
       "detail": "miokastor → 鼠ᴹᵀ (piv, F=1)",
-      "documentation": "語根: miokastor\n入力: miokastor\n最終形: 鼠ᴹᵀ\n漢字: 鼠\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4620",
+      "documentation": "語根: miokastor\n入力: miokastor\n最終形: 鼠ᴹᵀ\n漢字: 鼠\n識別子: mt\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4621",
       "priority": 0,
       "sourceRoot": "miokastor",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4620
+      "sourceLine": 4621
     },
     {
       "prefix": "miom",
@@ -6206,13 +6206,13 @@
       "body": "伞ᴹ",
       "kanji": "伞",
       "detail": "mirid → 伞ᴹ (pejvo, F=1)",
-      "documentation": "語根: mirid\n入力: mirid\n最終形: 伞ᴹ\n漢字: 伞\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4648",
+      "documentation": "語根: mirid\n入力: mirid\n最終形: 伞ᴹ\n漢字: 伞\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4649",
       "priority": 0,
       "sourceRoot": "mirid",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4648
+      "sourceLine": 4649
     },
     {
       "prefix": "mirik",
@@ -6570,13 +6570,13 @@
       "body": "冠ᴹ",
       "kanji": "冠",
       "detail": "mitr → 冠ᴹ (pejvo, F=5)",
-      "documentation": "語根: mitr\n入力: mitr\n最終形: 冠ᴹ\n漢字: 冠\n識別子: m\n型: pejvo\nF(汎用性): 5\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4509",
+      "documentation": "語根: mitr\n入力: mitr\n最終形: 冠ᴹ\n漢字: 冠\n識別子: m\n型: pejvo\nF(汎用性): 5\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4510",
       "priority": 0,
       "sourceRoot": "mitr",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 4509
+      "sourceLine": 4510
     },
     {
       "prefix": "mitral",
@@ -6765,13 +6765,13 @@
       "body": "模",
       "kanji": "模",
       "detail": "model → 模 (basic, F=14, 基本形)",
-      "documentation": "語根: model\n入力: model\n最終形: 模\n漢字: 模\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4584",
+      "documentation": "語根: model\n入力: model\n最終形: 模\n漢字: 模\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4585",
       "priority": 0,
       "sourceRoot": "model",
       "type": "basic",
       "frequency": 14,
       "base": true,
-      "sourceLine": 4584
+      "sourceLine": 4585
     },
     {
       "prefix": "moder",
@@ -6843,13 +6843,13 @@
       "body": "塑ᴹ",
       "kanji": "塑",
       "detail": "modl → 塑ᴹ (pejvo, F=8)",
-      "documentation": "語根: modl\n入力: modl\n最終形: 塑ᴹ\n漢字: 塑\n識別子: m\n型: pejvo\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5296",
+      "documentation": "語根: modl\n入力: modl\n最終形: 塑ᴹ\n漢字: 塑\n識別子: m\n型: pejvo\nF(汎用性): 8\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5297",
       "priority": 0,
       "sourceRoot": "modl",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 5296
+      "sourceLine": 5297
     },
     {
       "prefix": "modlur",
@@ -6986,13 +6986,13 @@
       "body": "虐ᴹ",
       "kanji": "虐",
       "detail": "molest → 虐ᴹ (pejvo, F=2)",
-      "documentation": "語根: molest\n入力: molest\n最終形: 虐ᴹ\n漢字: 虐\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4432",
+      "documentation": "語根: molest\n入力: molest\n最終形: 虐ᴹ\n漢字: 虐\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4433",
       "priority": 0,
       "sourceRoot": "molest",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4432
+      "sourceLine": 4433
     },
     {
       "prefix": "moli",
@@ -7116,13 +7116,13 @@
       "body": "瓜ᴹᴹ",
       "kanji": "瓜",
       "detail": "momordik → 瓜ᴹᴹ (piv, F=1)",
-      "documentation": "語根: momordik\n入力: momordik\n最終形: 瓜ᴹᴹ\n漢字: 瓜\n識別子: mm\n型: piv\nF(汎用性): 1\nグループ数: 17\n基本形: no\n出典: _identifier_sidecar.tsv:5244",
+      "documentation": "語根: momordik\n入力: momordik\n最終形: 瓜ᴹᴹ\n漢字: 瓜\n識別子: mm\n型: piv\nF(汎用性): 1\nグループ数: 17\n基本形: no\n出典: _identifier_sidecar.tsv:5245",
       "priority": 0,
       "sourceRoot": "momordik",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5244
+      "sourceLine": 5245
     },
     {
       "prefix": "mon",
@@ -7272,26 +7272,26 @@
       "body": "鸦ᴹ",
       "kanji": "鸦",
       "detail": "moned → 鸦ᴹ (pejvo, F=1)",
-      "documentation": "語根: moned\n入力: moned\n最終形: 鸦ᴹ\n漢字: 鸦\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5735",
+      "documentation": "語根: moned\n入力: moned\n最終形: 鸦ᴹ\n漢字: 鸦\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5736",
       "priority": 0,
       "sourceRoot": "moned",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5735
+      "sourceLine": 5736
     },
     {
       "prefix": "monili",
       "body": "菌ᴹᴼ",
       "kanji": "菌",
       "detail": "monili → 菌ᴹᴼ (piv, F=1)",
-      "documentation": "語根: monili\n入力: monili\n最終形: 菌ᴹᴼ\n漢字: 菌\n識別子: mo\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5524",
+      "documentation": "語根: monili\n入力: monili\n最終形: 菌ᴹᴼ\n漢字: 菌\n識別子: mo\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5525",
       "priority": 0,
       "sourceRoot": "monili",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5524
+      "sourceLine": 5525
     },
     {
       "prefix": "monism",
@@ -7597,13 +7597,13 @@
       "body": "垄",
       "kanji": "垄",
       "detail": "monopol → 垄 (basic, F=11, 基本形)",
-      "documentation": "語根: monopol\n入力: monopol\n最終形: 垄\n漢字: 垄\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5128",
+      "documentation": "語根: monopol\n入力: monopol\n最終形: 垄\n漢字: 垄\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5129",
       "priority": 0,
       "sourceRoot": "monopol",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 5128
+      "sourceLine": 5129
     },
     {
       "prefix": "monosakarid",
@@ -7701,13 +7701,13 @@
       "body": "怪",
       "kanji": "怪",
       "detail": "monstr → 怪 (basic, F=5, 基本形)",
-      "documentation": "語根: monstr\n入力: monstr\n最終形: 怪\n漢字: 怪\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4751",
+      "documentation": "語根: monstr\n入力: monstr\n最終形: 怪\n漢字: 怪\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4752",
       "priority": 0,
       "sourceRoot": "monstr",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4751
+      "sourceLine": 4752
     },
     {
       "prefix": "mont",
@@ -7753,13 +7753,13 @@
       "body": "碑",
       "kanji": "碑",
       "detail": "monument → 碑 (basic, F=4, 基本形)",
-      "documentation": "語根: monument\n入力: monument\n最終形: 碑\n漢字: 碑\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5248",
+      "documentation": "語根: monument\n入力: monument\n最終形: 碑\n漢字: 碑\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5249",
       "priority": 0,
       "sourceRoot": "monument",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5248
+      "sourceLine": 5249
     },
     {
       "prefix": "mops",
@@ -7792,26 +7792,26 @@
       "body": "德ᴹ",
       "kanji": "德",
       "detail": "moral → 德ᴹ (basic, F=22)",
-      "documentation": "語根: moral\n入力: moral\n最終形: 德ᴹ\n漢字: 德\n識別子: m\n型: basic\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4449",
+      "documentation": "語根: moral\n入力: moral\n最終形: 德ᴹ\n漢字: 德\n識別子: m\n型: basic\nF(汎用性): 22\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4450",
       "priority": 0,
       "sourceRoot": "moral",
       "type": "basic",
       "frequency": 22,
       "base": false,
-      "sourceLine": 4449
+      "sourceLine": 4450
     },
     {
       "prefix": "moratori",
       "body": "延ᴹ",
       "kanji": "延",
       "detail": "moratori → 延ᴹ (pejvo, F=1)",
-      "documentation": "語根: moratori\n入力: moratori\n最終形: 延ᴹ\n漢字: 延\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4707",
+      "documentation": "語根: moratori\n入力: moratori\n最終形: 延ᴹ\n漢字: 延\n識別子: m\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4708",
       "priority": 0,
       "sourceRoot": "moratori",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4707
+      "sourceLine": 4708
     },
     {
       "prefix": "morb",
@@ -7922,13 +7922,13 @@
       "body": "菌ᴹᴷ",
       "kanji": "菌",
       "detail": "morkel → 菌ᴹᴷ (piv, F=1)",
-      "documentation": "語根: morkel\n入力: morkel\n最終形: 菌ᴹᴷ\n漢字: 菌\n識別子: mk\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5570",
+      "documentation": "語根: morkel\n入力: morkel\n最終形: 菌ᴹᴷ\n漢字: 菌\n識別子: mk\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5571",
       "priority": 0,
       "sourceRoot": "morkel",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5570
+      "sourceLine": 5571
     },
     {
       "prefix": "mort",
@@ -7948,13 +7948,13 @@
       "body": "肠ᴹ",
       "kanji": "肠",
       "detail": "mortadel → 肠ᴹ (piv, F=1)",
-      "documentation": "語根: mortadel\n入力: mortadel\n最終形: 肠ᴹ\n漢字: 肠\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:4828",
+      "documentation": "語根: mortadel\n入力: mortadel\n最終形: 肠ᴹ\n漢字: 肠\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:4829",
       "priority": 0,
       "sourceRoot": "mortadel",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4828
+      "sourceLine": 4829
     },
     {
       "prefix": "morter",
@@ -8026,13 +8026,13 @@
       "body": "蚊",
       "kanji": "蚊",
       "detail": "moskit → 蚊 (basic, F=5, 基本形)",
-      "documentation": "語根: moskit\n入力: moskit\n最終形: 蚊\n漢字: 蚊\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4586",
+      "documentation": "語根: moskit\n入力: moskit\n最終形: 蚊\n漢字: 蚊\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4587",
       "priority": 0,
       "sourceRoot": "moskit",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4586
+      "sourceLine": 4587
     },
     {
       "prefix": "most",
@@ -8091,13 +8091,13 @@
       "body": "由",
       "kanji": "由",
       "detail": "motiv → 由 (basic, F=11, 基本形)",
-      "documentation": "語根: motiv\n入力: motiv\n最終形: 由\n漢字: 由\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5129",
+      "documentation": "語根: motiv\n入力: motiv\n最終形: 由\n漢字: 由\n識別子: なし\n型: basic\nF(汎用性): 11\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5130",
       "priority": 0,
       "sourceRoot": "motiv",
       "type": "basic",
       "frequency": 11,
       "base": true,
-      "sourceLine": 5129
+      "sourceLine": 5130
     },
     {
       "prefix": "motor",
@@ -8221,26 +8221,26 @@
       "body": "样ᴹ",
       "kanji": "样",
       "detail": "muestr → 样ᴹ (piv, F=2)",
-      "documentation": "語根: muestr\n入力: muestr\n最終形: 样ᴹ\n漢字: 样\n識別子: m\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5360",
+      "documentation": "語根: muestr\n入力: muestr\n最終形: 样ᴹ\n漢字: 样\n識別子: m\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5361",
       "priority": 0,
       "sourceRoot": "muestr",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5360
+      "sourceLine": 5361
     },
     {
       "prefix": "muf",
       "body": "套ᴹ",
       "kanji": "套",
       "detail": "muf → 套ᴹ (pejvo, F=6)",
-      "documentation": "語根: muf\n入力: muf\n最終形: 套ᴹ\n漢字: 套\n識別子: m\n型: pejvo\nF(汎用性): 6\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:5806",
+      "documentation": "語根: muf\n入力: muf\n最終形: 套ᴹ\n漢字: 套\n識別子: m\n型: pejvo\nF(汎用性): 6\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:5807",
       "priority": 0,
       "sourceRoot": "muf",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 5806
+      "sourceLine": 5807
     },
     {
       "prefix": "mufl",
@@ -8325,13 +8325,13 @@
       "body": "菌ᴹᴿ",
       "kanji": "菌",
       "detail": "mukor → 菌ᴹᴿ (piv, F=1)",
-      "documentation": "語根: mukor\n入力: mukor\n最終形: 菌ᴹᴿ\n漢字: 菌\n識別子: mr\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5504",
+      "documentation": "語根: mukor\n入力: mukor\n最終形: 菌ᴹᴿ\n漢字: 菌\n識別子: mr\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5505",
       "priority": 0,
       "sourceRoot": "mukor",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5504
+      "sourceLine": 5505
     },
     {
       "prefix": "mukoz",
@@ -8364,13 +8364,13 @@
       "body": "覆ᴹ",
       "kanji": "覆",
       "detail": "mulc^ → 覆ᴹ (pejvo, F=2)",
-      "documentation": "語根: mulc^\n入力: mulcx\n最終形: 覆ᴹ\n漢字: 覆\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4417",
+      "documentation": "語根: mulc^\n入力: mulcx\n最終形: 覆ᴹ\n漢字: 覆\n識別子: m\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4418",
       "priority": 0,
       "sourceRoot": "mulc^",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4417
+      "sourceLine": 4418
     },
     {
       "prefix": "muld",
@@ -8468,13 +8468,13 @@
       "body": "草ᴹᵁᴺ",
       "kanji": "草",
       "detail": "mung → 草ᴹᵁᴺ (語限定 緑豆(Vigna radiata=マメ科)+豆もやし: mung/o, mung/id/oj)",
-      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:186",
+      "documentation": "語根: mung\n入力: mung\n最終形: 草ᴹᵁᴺ\n漢字: 草\n識別子: ᴹᵁᴺ\n型: sep(語限定)\n語義: 緑豆(Vigna radiata=マメ科)+豆もやし\n適用語: mung/o, mung/id/oj\n注記: 緑豆(Vigna radiata=マメ科)+豆もやし→草(§4.6最近一级字)。動詞mung/i=擦鼻(洟をかむ)と別行(2026-06-26 全コーパス監査)\n基本形: no\n出典: homonym-alt.tsv:189",
       "priority": 1,
       "sourceRoot": "mung",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 186
+      "sourceLine": 189
     },
     {
       "prefix": "mungot",
@@ -8559,13 +8559,13 @@
       "body": "贝ᴹ",
       "kanji": "贝",
       "detail": "mureks → 贝ᴹ (piv, F=1)",
-      "documentation": "語根: mureks\n入力: mureks\n最終形: 贝ᴹ\n漢字: 贝\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 22\n基本形: no\n出典: _identifier_sidecar.tsv:4859",
+      "documentation": "語根: mureks\n入力: mureks\n最終形: 贝ᴹ\n漢字: 贝\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 22\n基本形: no\n出典: _identifier_sidecar.tsv:4860",
       "priority": 0,
       "sourceRoot": "mureks",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4859
+      "sourceLine": 4860
     },
     {
       "prefix": "muren",
@@ -8598,13 +8598,13 @@
       "body": "鼠",
       "kanji": "鼠",
       "detail": "mus → 鼠 (basic, F=15, 基本形)",
-      "documentation": "語根: mus\n入力: mus\n最終形: 鼠\n漢字: 鼠\n識別子: なし\n型: basic\nF(汎用性): 15\nグループ数: 38\n基本形: yes\n出典: _identifier_sidecar.tsv:4589",
+      "documentation": "語根: mus\n入力: mus\n最終形: 鼠\n漢字: 鼠\n識別子: なし\n型: basic\nF(汎用性): 15\nグループ数: 38\n基本形: yes\n出典: _identifier_sidecar.tsv:4590",
       "priority": 0,
       "sourceRoot": "mus",
       "type": "basic",
       "frequency": 15,
       "base": true,
-      "sourceLine": 4589
+      "sourceLine": 4590
     },
     {
       "prefix": "musend",
@@ -8624,26 +8624,26 @@
       "body": "苔",
       "kanji": "苔",
       "detail": "musk → 苔 (basic, F=5, 基本形)",
-      "documentation": "語根: musk\n入力: musk\n最終形: 苔\n漢字: 苔\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:5250",
+      "documentation": "語根: musk\n入力: musk\n最終形: 苔\n漢字: 苔\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:5251",
       "priority": 0,
       "sourceRoot": "musk",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 5250
+      "sourceLine": 5251
     },
     {
       "prefix": "muskarden",
       "body": "鼠ᴹᴿ",
       "kanji": "鼠",
       "detail": "muskarden → 鼠ᴹᴿ (piv, F=1)",
-      "documentation": "語根: muskarden\n入力: muskarden\n最終形: 鼠ᴹᴿ\n漢字: 鼠\n識別子: mr\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4621",
+      "documentation": "語根: muskarden\n入力: muskarden\n最終形: 鼠ᴹᴿ\n漢字: 鼠\n識別子: mr\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4622",
       "priority": 0,
       "sourceRoot": "muskarden",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4621
+      "sourceLine": 4622
     },
     {
       "prefix": "muskardin",
@@ -8702,13 +8702,13 @@
       "body": "筋",
       "kanji": "筋",
       "detail": "muskol → 筋 (basic, F=16, 基本形)",
-      "documentation": "語根: muskol\n入力: muskol\n最終形: 筋\n漢字: 筋\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4627",
+      "documentation": "語根: muskol\n入力: muskol\n最終形: 筋\n漢字: 筋\n識別子: なし\n型: basic\nF(汎用性): 16\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4628",
       "priority": 0,
       "sourceRoot": "muskol",
       "type": "basic",
       "frequency": 16,
       "base": true,
-      "sourceLine": 4627
+      "sourceLine": 4628
     },
     {
       "prefix": "muskoloz",
@@ -8728,26 +8728,26 @@
       "body": "芥",
       "kanji": "芥",
       "detail": "mustard → 芥 (basic, F=4, 基本形)",
-      "documentation": "語根: mustard\n入力: mustard\n最終形: 芥\n漢字: 芥\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5130",
+      "documentation": "語根: mustard\n入力: mustard\n最終形: 芥\n漢字: 芥\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5131",
       "priority": 0,
       "sourceRoot": "mustard",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 5130
+      "sourceLine": 5131
     },
     {
       "prefix": "mustel",
       "body": "鼠ᴹˢ",
       "kanji": "鼠",
       "detail": "mustel → 鼠ᴹˢ (pejvo, F=6)",
-      "documentation": "語根: mustel\n入力: mustel\n最終形: 鼠ᴹˢ\n漢字: 鼠\n識別子: ms\n型: pejvo\nF(汎用性): 6\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4597",
+      "documentation": "語根: mustel\n入力: mustel\n最終形: 鼠ᴹˢ\n漢字: 鼠\n識別子: ms\n型: pejvo\nF(汎用性): 6\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4598",
       "priority": 0,
       "sourceRoot": "mustel",
       "type": "pejvo",
       "frequency": 6,
       "base": false,
-      "sourceLine": 4597
+      "sourceLine": 4598
     },
     {
       "prefix": "musx",
@@ -8793,13 +8793,13 @@
       "body": "残ᴹ",
       "kanji": "残",
       "detail": "mutil → 残ᴹ (piv, F=1)",
-      "documentation": "語根: mutil\n入力: mutil\n最終形: 残ᴹ\n漢字: 残\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4554",
+      "documentation": "語根: mutil\n入力: mutil\n最終形: 残ᴹ\n漢字: 残\n識別子: m\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4555",
       "priority": 0,
       "sourceRoot": "mutil",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4554
+      "sourceLine": 4555
     },
     {
       "prefix": "mutual",

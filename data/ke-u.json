@@ -6,11 +6,11 @@
     "itemCount": 91,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 168,
+    "homonymAltCount": 169,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "u",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10573
   },
   "items": [
     {
@@ -109,13 +109,13 @@
       "body": "豆ᵁ",
       "kanji": "豆",
       "detail": "uleks → 豆ᵁ (pejvo, F=1)",
-      "documentation": "語根: uleks\n入力: uleks\n最終形: 豆ᵁ\n漢字: 豆\n識別子: u\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5013",
+      "documentation": "語根: uleks\n入力: uleks\n最終形: 豆ᵁ\n漢字: 豆\n識別子: u\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5014",
       "priority": 0,
       "sourceRoot": "uleks",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5013
+      "sourceLine": 5014
     },
     {
       "prefix": "ulm",
@@ -200,13 +200,13 @@
       "body": "藻ᵁ",
       "kanji": "藻",
       "detail": "ulv → 藻ᵁ (piv, F=1)",
-      "documentation": "語根: ulv\n入力: ulv\n最終形: 藻ᵁ\n漢字: 藻\n識別子: u\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5446",
+      "documentation": "語根: ulv\n入力: ulv\n最終形: 藻ᵁ\n漢字: 藻\n識別子: u\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5447",
       "priority": 0,
       "sourceRoot": "ulv",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5446
+      "sourceLine": 5447
     },
     {
       "prefix": "ulvofic",
@@ -226,26 +226,26 @@
       "body": "伞ᵁ",
       "kanji": "伞",
       "detail": "umbel → 伞ᵁ (pejvo, F=2)",
-      "documentation": "語根: umbel\n入力: umbel\n最終形: 伞ᵁ\n漢字: 伞\n識別子: u\n型: pejvo\nF(汎用性): 2\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4643",
+      "documentation": "語根: umbel\n入力: umbel\n最終形: 伞ᵁ\n漢字: 伞\n識別子: u\n型: pejvo\nF(汎用性): 2\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4644",
       "priority": 0,
       "sourceRoot": "umbel",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4643
+      "sourceLine": 4644
     },
     {
       "prefix": "umbelifer",
       "body": "伞ᵁᶠ",
       "kanji": "伞",
       "detail": "umbelifer → 伞ᵁᶠ (pejvo, F=1)",
-      "documentation": "語根: umbelifer\n入力: umbelifer\n最終形: 伞ᵁᶠ\n漢字: 伞\n識別子: uf\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4656",
+      "documentation": "語根: umbelifer\n入力: umbelifer\n最終形: 伞ᵁᶠ\n漢字: 伞\n識別子: uf\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:4657",
       "priority": 0,
       "sourceRoot": "umbelifer",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4656
+      "sourceLine": 4657
     },
     {
       "prefix": "umbilik",
@@ -265,13 +265,13 @@
       "body": "菌ᵁᴹ",
       "kanji": "菌",
       "detail": "umbilikari → 菌ᵁᴹ (piv, F=1)",
-      "documentation": "語根: umbilikari\n入力: umbilikari\n最終形: 菌ᵁᴹ\n漢字: 菌\n識別子: um\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5566",
+      "documentation": "語根: umbilikari\n入力: umbilikari\n最終形: 菌ᵁᴹ\n漢字: 菌\n識別子: um\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5567",
       "priority": 0,
       "sourceRoot": "umbilikari",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5566
+      "sourceLine": 5567
     },
     {
       "prefix": "umbr",
@@ -343,13 +343,13 @@
       "body": "藻ᵁᴺ",
       "kanji": "藻",
       "detail": "undari → 藻ᵁᴺ (piv, F=1)",
-      "documentation": "語根: undari\n入力: undari\n最終形: 藻ᵁᴺ\n漢字: 藻\n識別子: un\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5456",
+      "documentation": "語根: undari\n入力: undari\n最終形: 藻ᵁᴺ\n漢字: 藻\n識別子: un\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5457",
       "priority": 0,
       "sourceRoot": "undari",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5456
+      "sourceLine": 5457
     },
     {
       "prefix": "ung",
@@ -369,13 +369,13 @@
       "body": "膏ᵁ",
       "kanji": "膏",
       "detail": "ungvent → 膏ᵁ (pejvo, F=1)",
-      "documentation": "語根: ungvent\n入力: ungvent\n最終形: 膏ᵁ\n漢字: 膏\n識別子: u\n型: pejvo\nF(汎用性): 1\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:5607",
+      "documentation": "語根: ungvent\n入力: ungvent\n最終形: 膏ᵁ\n漢字: 膏\n識別子: u\n型: pejvo\nF(汎用性): 1\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:5608",
       "priority": 0,
       "sourceRoot": "ungvent",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5607
+      "sourceLine": 5608
     },
     {
       "prefix": "uni",
@@ -395,13 +395,13 @@
       "body": "制服",
       "kanji": "制服",
       "detail": "uniform → 制服 (basic, F=6, 基本形)",
-      "documentation": "語根: uniform\n入力: uniform\n最終形: 制服\n漢字: 制服\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5401",
+      "documentation": "語根: uniform\n入力: uniform\n最終形: 制服\n漢字: 制服\n識別子: なし\n型: basic\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5402",
       "priority": 0,
       "sourceRoot": "uniform",
       "type": "basic",
       "frequency": 6,
       "base": true,
-      "sourceLine": 5401
+      "sourceLine": 5402
     },
     {
       "prefix": "unik",
@@ -460,13 +460,13 @@
       "body": "宇ᵁ",
       "kanji": "宇",
       "detail": "univers → 宇ᵁ (basic, F=3)",
-      "documentation": "語根: univers\n入力: univers\n最終形: 宇ᵁ\n漢字: 宇\n識別子: u\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4904",
+      "documentation": "語根: univers\n入力: univers\n最終形: 宇ᵁ\n漢字: 宇\n識別子: u\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4905",
       "priority": 0,
       "sourceRoot": "univers",
       "type": "basic",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4904
+      "sourceLine": 4905
     },
     {
       "prefix": "universal",
@@ -746,13 +746,13 @@
       "body": "尿",
       "kanji": "尿",
       "detail": "urin → 尿 (basic, F=18, 基本形)",
-      "documentation": "語根: urin\n入力: urin\n最終形: 尿\n漢字: 尿\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4905",
+      "documentation": "語根: urin\n入力: urin\n最終形: 尿\n漢字: 尿\n識別子: なし\n型: basic\nF(汎用性): 18\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4906",
       "priority": 0,
       "sourceRoot": "urin",
       "type": "basic",
       "frequency": 18,
       "base": true,
-      "sourceLine": 4905
+      "sourceLine": 4906
     },
     {
       "prefix": "urinat",
@@ -837,13 +837,13 @@
       "body": "尿ᵁᴼ",
       "kanji": "尿",
       "detail": "uro → 尿ᵁᴼ (piv, F=3)",
-      "documentation": "語根: uro\n入力: uro\n最終形: 尿ᵁᴼ\n漢字: 尿\n識別子: uo\n型: piv\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4907",
+      "documentation": "語根: uro\n入力: uro\n最終形: 尿ᵁᴼ\n漢字: 尿\n識別子: uo\n型: piv\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4908",
       "priority": 0,
       "sourceRoot": "uro",
       "type": "piv",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4907
+      "sourceLine": 4908
     },
     {
       "prefix": "urogal",
@@ -902,39 +902,39 @@
       "body": "熊",
       "kanji": "熊",
       "detail": "urs → 熊 (basic, F=22, 基本形)",
-      "documentation": "語根: urs\n入力: urs\n最終形: 熊\n漢字: 熊\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4433",
+      "documentation": "語根: urs\n入力: urs\n最終形: 熊\n漢字: 熊\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4434",
       "priority": 0,
       "sourceRoot": "urs",
       "type": "basic",
       "frequency": 22,
       "base": true,
-      "sourceLine": 4433
+      "sourceLine": 4434
     },
     {
       "prefix": "urtik",
       "body": "痒ᵁ",
       "kanji": "痒",
       "detail": "urtik → 痒ᵁ (pejvo, F=4)",
-      "documentation": "語根: urtik\n入力: urtik\n最終形: 痒ᵁ\n漢字: 痒\n識別子: u\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5380",
+      "documentation": "語根: urtik\n入力: urtik\n最終形: 痒ᵁ\n漢字: 痒\n識別子: u\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5381",
       "priority": 0,
       "sourceRoot": "urtik",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5380
+      "sourceLine": 5381
     },
     {
       "prefix": "urusxi",
       "body": "漆ᵁ",
       "kanji": "漆",
       "detail": "urus^i → 漆ᵁ (piv, F=2)",
-      "documentation": "語根: urus^i\n入力: urusxi\n最終形: 漆ᵁ\n漢字: 漆\n識別子: u\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5856",
+      "documentation": "語根: urus^i\n入力: urusxi\n最終形: 漆ᵁ\n漢字: 漆\n識別子: u\n型: piv\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5857",
       "priority": 0,
       "sourceRoot": "urus^i",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5856
+      "sourceLine": 5857
     },
     {
       "prefix": "uskl",
@@ -954,26 +954,26 @@
       "body": "菌ᵁ",
       "kanji": "菌",
       "detail": "usne → 菌ᵁ (piv, F=1)",
-      "documentation": "語根: usne\n入力: usne\n最終形: 菌ᵁ\n漢字: 菌\n識別子: u\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5497",
+      "documentation": "語根: usne\n入力: usne\n最終形: 菌ᵁ\n漢字: 菌\n識別子: u\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5498",
       "priority": 0,
       "sourceRoot": "usne",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5497
+      "sourceLine": 5498
     },
     {
       "prefix": "ustilag",
       "body": "菌ᵁᵀ",
       "kanji": "菌",
       "detail": "ustilag → 菌ᵁᵀ (piv, F=1)",
-      "documentation": "語根: ustilag\n入力: ustilag\n最終形: 菌ᵁᵀ\n漢字: 菌\n識別子: ut\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5544",
+      "documentation": "語根: ustilag\n入力: ustilag\n最終形: 菌ᵁᵀ\n漢字: 菌\n識別子: ut\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5545",
       "priority": 0,
       "sourceRoot": "ustilag",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5544
+      "sourceLine": 5545
     },
     {
       "prefix": "uta",
@@ -993,13 +993,13 @@
       "body": "宫ᵁ",
       "kanji": "宫",
       "detail": "uter → 宫ᵁ (pejvo, F=16)",
-      "documentation": "語根: uter\n入力: uter\n最終形: 宫ᵁ\n漢字: 宫\n識別子: u\n型: pejvo\nF(汎用性): 16\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4677",
+      "documentation": "語根: uter\n入力: uter\n最終形: 宫ᵁ\n漢字: 宫\n識別子: u\n型: pejvo\nF(汎用性): 16\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4678",
       "priority": 0,
       "sourceRoot": "uter",
       "type": "pejvo",
       "frequency": 16,
       "base": false,
-      "sourceLine": 4677
+      "sourceLine": 4678
     },
     {
       "prefix": "uterit",

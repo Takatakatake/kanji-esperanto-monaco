@@ -3,14 +3,14 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 281,
+    "itemCount": 282,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 168,
+    "homonymAltCount": 169,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "o",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10573
   },
   "items": [
     {
@@ -83,13 +83,13 @@
       "body": "饼ᴼ",
       "kanji": "饼",
       "detail": "oblat → 饼ᴼ (pejvo, F=2)",
-      "documentation": "語根: oblat\n入力: oblat\n最終形: 饼ᴼ\n漢字: 饼\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4495",
+      "documentation": "語根: oblat\n入力: oblat\n最終形: 饼ᴼ\n漢字: 饼\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4496",
       "priority": 0,
       "sourceRoot": "oblat",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4495
+      "sourceLine": 4496
     },
     {
       "prefix": "obligaci",
@@ -135,26 +135,26 @@
       "body": "缠ᴼ",
       "kanji": "缠",
       "detail": "obsed → 缠ᴼ (pejvo, F=4)",
-      "documentation": "語根: obsed\n入力: obsed\n最終形: 缠ᴼ\n漢字: 缠\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5667",
+      "documentation": "語根: obsed\n入力: obsed\n最終形: 缠ᴼ\n漢字: 缠\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5668",
       "priority": 0,
       "sourceRoot": "obsed",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5667
+      "sourceLine": 5668
     },
     {
       "prefix": "observ",
       "body": "观",
       "kanji": "观",
       "detail": "observ → 观 (basic, F=17, 基本形)",
-      "documentation": "語根: observ\n入力: observ\n最終形: 观\n漢字: 观\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4638",
+      "documentation": "語根: observ\n入力: observ\n最終形: 观\n漢字: 观\n識別子: なし\n型: basic\nF(汎用性): 17\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:4639",
       "priority": 0,
       "sourceRoot": "observ",
       "type": "basic",
       "frequency": 17,
       "base": true,
-      "sourceLine": 4638
+      "sourceLine": 4639
     },
     {
       "prefix": "observatori",
@@ -174,13 +174,13 @@
       "body": "暗ᴼ",
       "kanji": "暗",
       "detail": "obskur → 暗ᴼ (pejvo, F=8)",
-      "documentation": "語根: obskur\n入力: obskur\n最終形: 暗ᴼ\n漢字: 暗\n識別子: o\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4934",
+      "documentation": "語根: obskur\n入力: obskur\n最終形: 暗ᴼ\n漢字: 暗\n識別子: o\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4935",
       "priority": 0,
       "sourceRoot": "obskur",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 4934
+      "sourceLine": 4935
     },
     {
       "prefix": "obstakl",
@@ -291,26 +291,26 @@
       "body": "弹ᴼ",
       "kanji": "弹",
       "detail": "obus → 弹ᴼ (pejvo, F=4)",
-      "documentation": "語根: obus\n入力: obus\n最終形: 弹ᴼ\n漢字: 弹\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4502",
+      "documentation": "語根: obus\n入力: obus\n最終形: 弹ᴼ\n漢字: 弹\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4503",
       "priority": 0,
       "sourceRoot": "obus",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 4502
+      "sourceLine": 4503
     },
     {
       "prefix": "ocean",
       "body": "洋",
       "kanji": "洋",
       "detail": "ocean → 洋 (basic, F=14, 基本形)",
-      "documentation": "語根: ocean\n入力: ocean\n最終形: 洋\n漢字: 洋\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5257",
+      "documentation": "語根: ocean\n入力: ocean\n最終形: 洋\n漢字: 洋\n識別子: なし\n型: basic\nF(汎用性): 14\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5258",
       "priority": 0,
       "sourceRoot": "ocean",
       "type": "basic",
       "frequency": 14,
       "base": true,
-      "sourceLine": 5257
+      "sourceLine": 5258
     },
     {
       "prefix": "oceanografi",
@@ -395,13 +395,13 @@
       "body": "颂ᴼ",
       "kanji": "颂",
       "detail": "od → 颂ᴼ (pejvo, F=2)",
-      "documentation": "語根: od\n入力: od\n最終形: 颂ᴼ\n漢字: 颂\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5660",
+      "documentation": "語根: od\n入力: od\n最終形: 颂ᴼ\n漢字: 颂\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5661",
       "priority": 0,
       "sourceRoot": "od",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5660
+      "sourceLine": 5661
     },
     {
       "prefix": "odor",
@@ -720,13 +720,13 @@
       "body": "菌ᴼ",
       "kanji": "菌",
       "detail": "ojdi → 菌ᴼ (piv, F=1)",
-      "documentation": "語根: ojdi\n入力: ojdi\n最終形: 菌ᴼ\n漢字: 菌\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5496",
+      "documentation": "語根: ojdi\n入力: ojdi\n最終形: 菌ᴼ\n漢字: 菌\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 90\n基本形: no\n出典: _identifier_sidecar.tsv:5497",
       "priority": 0,
       "sourceRoot": "ojdi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5496
+      "sourceLine": 5497
     },
     {
       "prefix": "ojstr",
@@ -1123,13 +1123,13 @@
       "body": "老ᴼ",
       "kanji": "老",
       "detail": "old → 老ᴼ (pejvo, F=1)",
-      "documentation": "語根: old\n入力: old\n最終形: 老ᴼ\n漢字: 老\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4915",
+      "documentation": "語根: old\n入力: old\n最終形: 老ᴼ\n漢字: 老\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4916",
       "priority": 0,
       "sourceRoot": "old",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4915
+      "sourceLine": 4916
     },
     {
       "prefix": "ole",
@@ -1253,13 +1253,13 @@
       "body": "寡ᴼ",
       "kanji": "寡",
       "detail": "oligo → 寡ᴼ (piv, F=5)",
-      "documentation": "語根: oligo\n入力: oligo\n最終形: 寡ᴼ\n漢字: 寡\n識別子: o\n型: piv\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4447",
+      "documentation": "語根: oligo\n入力: oligo\n最終形: 寡ᴼ\n漢字: 寡\n識別子: o\n型: piv\nF(汎用性): 5\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4448",
       "priority": 0,
       "sourceRoot": "oligo",
       "type": "piv",
       "frequency": 5,
       "base": false,
-      "sourceLine": 4447
+      "sourceLine": 4448
     },
     {
       "prefix": "oligoelement",
@@ -1357,13 +1357,13 @@
       "body": "伞",
       "kanji": "伞",
       "detail": "ombrel → 伞 (basic, F=5, 基本形)",
-      "documentation": "語根: ombrel\n入力: ombrel\n最終形: 伞\n漢字: 伞\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 35\n基本形: yes\n出典: _identifier_sidecar.tsv:4641",
+      "documentation": "語根: ombrel\n入力: ombrel\n最終形: 伞\n漢字: 伞\n識別子: なし\n型: basic\nF(汎用性): 5\nグループ数: 35\n基本形: yes\n出典: _identifier_sidecar.tsv:4642",
       "priority": 0,
       "sourceRoot": "ombrel",
       "type": "basic",
       "frequency": 5,
       "base": true,
-      "sourceLine": 4641
+      "sourceLine": 4642
     },
     {
       "prefix": "on",
@@ -1380,16 +1380,29 @@
     },
     {
       "prefix": "on",
-      "body": "子ᴼ",
-      "kanji": "子",
-      "detail": "on → 子ᴼ (語限定 物理粒子-on: anti/prot/on/o, elektr/on/a 他20語)",
-      "documentation": "語根: on\n入力: on\n最終形: 子ᴼ\n漢字: 子\n識別子: ᴼ\n型: sep(語限定)\n語義: 物理粒子-on\n適用語: anti/prot/on/o, elektr/on/a, elektr/on/kanon/o, elektr/on/o, elektr/on/tub/o, elektr/on/volt/o, fon/on/o, fot/on/o, giga/elektr/on/volt/o, magnet/on/o, mega/elektr/on/volt/o, mez/on/o, mez/on/teori/o, neu^tr/on/a, neu^tr/on/o, nukle/on/o, prot/on/o, term/o/elektr/on/o, valent/elektr/on/o, elektr/on/mikro/skop/o, fot/on/mikro/skop/o, anti/neu^tr/on/o\n注記: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)\n基本形: no\n出典: homonym-alt.tsv:194",
+      "body": "叔ᴼᴺ",
+      "kanji": "叔",
+      "detail": "on → 叔ᴼᴺ (語限定 on(onklo の切り詰め): on/c^j/o)",
+      "documentation": "語根: on\n入力: on\n最終形: 叔ᴼᴺ\n漢字: 叔\n識別子: ᴼᴺ\n型: sep(語限定)\n語義: on(onklo の切り詰め)\n適用語: on/c^j/o\n注記: on(onklo の切り詰め)→叔。★これを入れないと分数接尾 -on-=分 を拾って on/c^j/o⟦分/c^j/o⟧(おじちゃん→「分」)と誤描画される。accusative の -on は語尾扱いでラテンのまま=無関係。同義の o/c^j/o は語頭 o が語尾トークン扱いのためラテン据置\n基本形: no\n出典: homonym-alt.tsv:131",
       "priority": 1,
       "sourceRoot": "on",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 194
+      "sourceLine": 131
+    },
+    {
+      "prefix": "on",
+      "body": "子ᴼ",
+      "kanji": "子",
+      "detail": "on → 子ᴼ (語限定 物理粒子-on: anti/prot/on/o, elektr/on/a 他20語)",
+      "documentation": "語根: on\n入力: on\n最終形: 子ᴼ\n漢字: 子\n識別子: ᴼ\n型: sep(語限定)\n語義: 物理粒子-on\n適用語: anti/prot/on/o, elektr/on/a, elektr/on/kanon/o, elektr/on/o, elektr/on/tub/o, elektr/on/volt/o, fon/on/o, fot/on/o, giga/elektr/on/volt/o, magnet/on/o, mega/elektr/on/volt/o, mez/on/o, mez/on/teori/o, neu^tr/on/a, neu^tr/on/o, nukle/on/o, prot/on/o, term/o/elektr/on/o, valent/elektr/on/o, elektr/on/mikro/skop/o, fot/on/mikro/skop/o, anti/neu^tr/on/o\n注記: 物理粒子-on→子(電子/陽子/中性子/光子/中間子/磁子/核子。分数-on/o=分は維持)\n基本形: no\n出典: homonym-alt.tsv:197",
+      "priority": 2,
+      "sourceRoot": "on",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 197
     },
     {
       "prefix": "onagr",
@@ -1435,13 +1448,13 @@
       "body": "鼠ᴼ",
       "kanji": "鼠",
       "detail": "ondatr → 鼠ᴼ (piv, F=1)",
-      "documentation": "語根: ondatr\n入力: ondatr\n最終形: 鼠ᴼ\n漢字: 鼠\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4615",
+      "documentation": "語根: ondatr\n入力: ondatr\n最終形: 鼠ᴼ\n漢字: 鼠\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4616",
       "priority": 0,
       "sourceRoot": "ondatr",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4615
+      "sourceLine": 4616
     },
     {
       "prefix": "ondometr",
@@ -1500,13 +1513,13 @@
       "body": "虾ᴼ",
       "kanji": "虾",
       "detail": "onisk → 虾ᴼ (pejvo, F=1)",
-      "documentation": "語根: onisk\n入力: onisk\n最終形: 虾ᴼ\n漢字: 虾\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 20\n基本形: no\n出典: _identifier_sidecar.tsv:5822",
+      "documentation": "語根: onisk\n入力: onisk\n最終形: 虾ᴼ\n漢字: 虾\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 20\n基本形: no\n出典: _identifier_sidecar.tsv:5823",
       "priority": 0,
       "sourceRoot": "onisk",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5822
+      "sourceLine": 5823
     },
     {
       "prefix": "onk",
@@ -1578,39 +1591,39 @@
       "body": "豆ᴼ",
       "kanji": "豆",
       "detail": "onobrik → 豆ᴼ (pejvo, F=1)",
-      "documentation": "語根: onobrik\n入力: onobrik\n最終形: 豆ᴼ\n漢字: 豆\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5019",
+      "documentation": "語根: onobrik\n入力: onobrik\n最終形: 豆ᴼ\n漢字: 豆\n識別子: o\n型: pejvo\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5020",
       "priority": 0,
       "sourceRoot": "onobrik",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5019
+      "sourceLine": 5020
     },
     {
       "prefix": "ononid",
       "body": "豆ᴼᴺ",
       "kanji": "豆",
       "detail": "ononid → 豆ᴼᴺ (piv, F=1)",
-      "documentation": "語根: ononid\n入力: ononid\n最終形: 豆ᴼᴺ\n漢字: 豆\n識別子: on\n型: piv\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5029",
+      "documentation": "語根: ononid\n入力: ononid\n最終形: 豆ᴼᴺ\n漢字: 豆\n識別子: on\n型: piv\nF(汎用性): 1\nグループ数: 35\n基本形: no\n出典: _identifier_sidecar.tsv:5030",
       "priority": 0,
       "sourceRoot": "ononid",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5029
+      "sourceLine": 5030
     },
     {
       "prefix": "onopord",
       "body": "菊ᴼ",
       "kanji": "菊",
       "detail": "onopord → 菊ᴼ (piv, F=1)",
-      "documentation": "語根: onopord\n入力: onopord\n最終形: 菊ᴼ\n漢字: 菊\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5089",
+      "documentation": "語根: onopord\n入力: onopord\n最終形: 菊ᴼ\n漢字: 菊\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 69\n基本形: no\n出典: _identifier_sidecar.tsv:5090",
       "priority": 0,
       "sourceRoot": "onopord",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5089
+      "sourceLine": 5090
     },
     {
       "prefix": "ont",
@@ -1825,13 +1838,13 @@
       "body": "鼠ᴼᴾ",
       "kanji": "鼠",
       "detail": "oposum → 鼠ᴼᴾ (pejvo, F=1)",
-      "documentation": "語根: oposum\n入力: oposum\n最終形: 鼠ᴼᴾ\n漢字: 鼠\n識別子: op\n型: pejvo\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4605",
+      "documentation": "語根: oposum\n入力: oposum\n最終形: 鼠ᴼᴾ\n漢字: 鼠\n識別子: op\n型: pejvo\nF(汎用性): 1\nグループ数: 38\n基本形: no\n出典: _identifier_sidecar.tsv:4606",
       "priority": 0,
       "sourceRoot": "oposum",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4605
+      "sourceLine": 4606
     },
     {
       "prefix": "opozici",
@@ -1929,13 +1942,13 @@
       "body": "优ᴼ",
       "kanji": "优",
       "detail": "optimum → 优ᴼ (pejvo, F=2)",
-      "documentation": "語根: optimum\n入力: optimum\n最終形: 优ᴼ\n漢字: 优\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5481",
+      "documentation": "語根: optimum\n入力: optimum\n最終形: 优ᴼ\n漢字: 优\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:5482",
       "priority": 0,
       "sourceRoot": "optimum",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5481
+      "sourceLine": 5482
     },
     {
       "prefix": "optometr",
@@ -2319,13 +2332,13 @@
       "body": "琴ᴼ",
       "kanji": "琴",
       "detail": "orgen → 琴ᴼ (pejvo, F=4)",
-      "documentation": "語根: orgen\n入力: orgen\n最終形: 琴ᴼ\n漢字: 琴\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:5285",
+      "documentation": "語根: orgen\n入力: orgen\n最終形: 琴ᴼ\n漢字: 琴\n識別子: o\n型: pejvo\nF(汎用性): 4\nグループ数: 9\n基本形: no\n出典: _identifier_sidecar.tsv:5286",
       "priority": 0,
       "sourceRoot": "orgen",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 5285
+      "sourceLine": 5286
     },
     {
       "prefix": "orgi",
@@ -2345,13 +2358,13 @@
       "body": "傲ᴼ",
       "kanji": "傲",
       "detail": "orgojl → 傲ᴼ (pejvo, F=2)",
-      "documentation": "語根: orgojl\n入力: orgojl\n最終形: 傲ᴼ\n漢字: 傲\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4477",
+      "documentation": "語根: orgojl\n入力: orgojl\n最終形: 傲ᴼ\n漢字: 傲\n識別子: o\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:4478",
       "priority": 0,
       "sourceRoot": "orgojl",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4477
+      "sourceLine": 4478
     },
     {
       "prefix": "oriel",
@@ -2449,13 +2462,13 @@
       "body": "孔ᴼ",
       "kanji": "孔",
       "detail": "orific → 孔ᴼ (piv, F=1)",
-      "documentation": "語根: orific\n入力: orific\n最終形: 孔ᴼ\n漢字: 孔\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5470",
+      "documentation": "語根: orific\n入力: orific\n最終形: 孔ᴼ\n漢字: 孔\n識別子: o\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5471",
       "priority": 0,
       "sourceRoot": "orific",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5470
+      "sourceLine": 5471
     },
     {
       "prefix": "origan",
@@ -2592,13 +2605,13 @@
       "body": "丸ᴼ",
       "kanji": "丸",
       "detail": "orkid → 丸ᴼ (同綴異義: 睾丸)",
-      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-alt.tsv:157",
+      "documentation": "語根: orkid\n入力: orkid\n最終形: 丸ᴼ\n漢字: 丸\n識別子: ᴼ\n型: amb(同綴異義)\n語義: 睾丸\n注記: 睾丸。orkid=兰と別\n基本形: no\n出典: homonym-alt.tsv:160",
       "priority": 1,
       "sourceRoot": "orkid",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 157
+      "sourceLine": 160
     },
     {
       "prefix": "orkide",
@@ -2865,13 +2878,13 @@
       "body": "拼",
       "kanji": "拼",
       "detail": "ortografi → 拼 (basic, F=0, 基本形)",
-      "documentation": "語根: ortografi\n入力: ortografi\n最終形: 拼\n漢字: 拼\n識別子: なし\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5258",
+      "documentation": "語根: ortografi\n入力: ortografi\n最終形: 拼\n漢字: 拼\n識別子: なし\n型: basic\nF(汎用性): 0\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:5259",
       "priority": 0,
       "sourceRoot": "ortografi",
       "type": "basic",
       "frequency": 0,
       "base": true,
-      "sourceLine": 5258
+      "sourceLine": 5259
     },
     {
       "prefix": "ortogram",
@@ -3606,26 +3619,26 @@
       "body": "症ᴼ",
       "kanji": "症",
       "detail": "oz → 症ᴼ (語限定 -ozo名詞: arteri/o/skler/oz/o, tromb/oz/o 他133語)",
-      "documentation": "語根: oz\n入力: oz\n最終形: 症ᴼ\n漢字: 症\n識別子: ᴼ\n型: sep(語限定)\n語義: -ozo名詞\n適用語: arteri/o/skler/oz/o, tromb/oz/o, dermat/oz/o, du/on/meta/morf/oz/a, embol/oz/o, fag/o/cit/oz/o, hor/zon/oz/o, tuberkul/oz/ul/on, meta/morf/oz/i, meta/morf/oz/o, muk/oz/o, neu^r/oz/a, neu^r/oz/o, neu^r/oz/ul/o, pir/oz/o, plen/meta/morf/oz/a, polen/oz/o, polip/oz/o, psik/o/neu^r/oz/o, psik/oz/o, sen/meta/morf/oz/a, silik/oz/o, skler/oz/o, tuberkul/oz/o, tuberkul/oz/ul/o, acid/oz/o, adip/oz/o, akar/oz/o, akr/o/cian/oz/o, aktin/o/micet/oz/o, alkal/oz/o, ameb/oz/o, ancilostom/oz/o, artr/oz/o, asbest/oz/o, askarid/oz/o, aspergil/oz/o, atero/skler/oz/o, a/vitamin/oz/o, bilharzi/oz/o, blast/o/micet/oz/o, brucel/oz/oj, cian/oz/o, cisticerk/oz/o, cit/oz/o, demodeks/oz/o, embol/oz/ig/o, ergot/oz/o, filari/oz/o, fung/oz/o, furunk/oz/o, giardi/oz/o, gonokok/oz/o, granul/om/oz/o, gum/oz/o, halucin/oz/o, helmint/oz/o, hemat/oz/o, hidatid/oz/o, kandid/oz/o, karcinom/oz/o, kerat/oz/o, keton/oz/o, kokcidi/oz/o, ksantom/oz/o, legionel/oz/o, leptospir/oz/o, leu^ko/cit/oz/o, leu^k/oz/o, listeri/oz/o, micet/oz/o, mikro/spor/oz/o, muk/oz/aj^/o, muskol/oz/o, nefr/oz/o, nekr/oz/o, nekr/oz/i, oksiur/oz/o, onkocerk/oz/o, papil/om/oz/o, parazit/oz/o, psitak/oz/o, pustul/oz/o, retikul/oz/o, rikeci/oz/oj, salmonel/oz/o, sarkom/oz/o, ser/oz/o, ser/oz/aj^/o, silic/oz/o, sinistr/oz/o, skistosom/oz/o, spiril/oz/o, spiroket/oz/o, spor/o/trik/oz/o, stafilokok/oz/o, steat/oz/o, streptokok/oz/o, suber/oz/o, tabak/oz/o, teni/oz/o, treponem/oz/o, trik/oz/o, trik/o/micet/oz/o, trikofit/oz/o, trofo/neu^r/oz/o, trombidi/oz/o, tuberkul/oz/a, velk/oz/o, veruk/oz/o, virus/oz/o, kojl/o/bacil/oz/o, el/cit/oz/o, ekzo/cit/oz/o, en/cit/oz/o, endo/cit/oz/o, tuberkul/granul/oz/o, foli/makul/oz/o, pio/nefr/oz/o, trofi/neu^r/oz/o, klab/radik/oz/o, foli/rul/oz/o, plat/skler/oz/o, sen/vitamin/oz/o, proto/zo/oz/o, fagocit/oz/o, aktinomicet/oz/o, blastomicet/oz/o, granulom/oz/o, leu^kocit/oz/o, mikrospor/oz/o, papilom/oz/o, sporotrik/oz/o, trikomicet/oz/o, protozo/oz/o\n注記: -ozo名詞→症(状態/症状全般に集約。病/変態/食作用/膜/iodoso/jetlag。糖類のみ糖・genuine形容詞-oza富。2026-06-21ユーザー裁定で症+糖の2字に集約)\n基本形: no\n出典: homonym-alt.tsv:192",
+      "documentation": "語根: oz\n入力: oz\n最終形: 症ᴼ\n漢字: 症\n識別子: ᴼ\n型: sep(語限定)\n語義: -ozo名詞\n適用語: arteri/o/skler/oz/o, tromb/oz/o, dermat/oz/o, du/on/meta/morf/oz/a, embol/oz/o, fag/o/cit/oz/o, hor/zon/oz/o, tuberkul/oz/ul/on, meta/morf/oz/i, meta/morf/oz/o, muk/oz/o, neu^r/oz/a, neu^r/oz/o, neu^r/oz/ul/o, pir/oz/o, plen/meta/morf/oz/a, polen/oz/o, polip/oz/o, psik/o/neu^r/oz/o, psik/oz/o, sen/meta/morf/oz/a, silik/oz/o, skler/oz/o, tuberkul/oz/o, tuberkul/oz/ul/o, acid/oz/o, adip/oz/o, akar/oz/o, akr/o/cian/oz/o, aktin/o/micet/oz/o, alkal/oz/o, ameb/oz/o, ancilostom/oz/o, artr/oz/o, asbest/oz/o, askarid/oz/o, aspergil/oz/o, atero/skler/oz/o, a/vitamin/oz/o, bilharzi/oz/o, blast/o/micet/oz/o, brucel/oz/oj, cian/oz/o, cisticerk/oz/o, cit/oz/o, demodeks/oz/o, embol/oz/ig/o, ergot/oz/o, filari/oz/o, fung/oz/o, furunk/oz/o, giardi/oz/o, gonokok/oz/o, granul/om/oz/o, gum/oz/o, halucin/oz/o, helmint/oz/o, hemat/oz/o, hidatid/oz/o, kandid/oz/o, karcinom/oz/o, kerat/oz/o, keton/oz/o, kokcidi/oz/o, ksantom/oz/o, legionel/oz/o, leptospir/oz/o, leu^ko/cit/oz/o, leu^k/oz/o, listeri/oz/o, micet/oz/o, mikro/spor/oz/o, muk/oz/aj^/o, muskol/oz/o, nefr/oz/o, nekr/oz/o, nekr/oz/i, oksiur/oz/o, onkocerk/oz/o, papil/om/oz/o, parazit/oz/o, psitak/oz/o, pustul/oz/o, retikul/oz/o, rikeci/oz/oj, salmonel/oz/o, sarkom/oz/o, ser/oz/o, ser/oz/aj^/o, silic/oz/o, sinistr/oz/o, skistosom/oz/o, spiril/oz/o, spiroket/oz/o, spor/o/trik/oz/o, stafilokok/oz/o, steat/oz/o, streptokok/oz/o, suber/oz/o, tabak/oz/o, teni/oz/o, treponem/oz/o, trik/oz/o, trik/o/micet/oz/o, trikofit/oz/o, trofo/neu^r/oz/o, trombidi/oz/o, tuberkul/oz/a, velk/oz/o, veruk/oz/o, virus/oz/o, kojl/o/bacil/oz/o, el/cit/oz/o, ekzo/cit/oz/o, en/cit/oz/o, endo/cit/oz/o, tuberkul/granul/oz/o, foli/makul/oz/o, pio/nefr/oz/o, trofi/neu^r/oz/o, klab/radik/oz/o, foli/rul/oz/o, plat/skler/oz/o, sen/vitamin/oz/o, proto/zo/oz/o, fagocit/oz/o, aktinomicet/oz/o, blastomicet/oz/o, granulom/oz/o, leu^kocit/oz/o, mikrospor/oz/o, papilom/oz/o, sporotrik/oz/o, trikomicet/oz/o, protozo/oz/o\n注記: -ozo名詞→症(状態/症状全般に集約。病/変態/食作用/膜/iodoso/jetlag。糖類のみ糖・genuine形容詞-oza富。2026-06-21ユーザー裁定で症+糖の2字に集約)\n基本形: no\n出典: homonym-alt.tsv:195",
       "priority": 1,
       "sourceRoot": "oz",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 192
+      "sourceLine": 195
     },
     {
       "prefix": "oz",
       "body": "糖ᴼ",
       "kanji": "糖",
       "detail": "oz → 糖ᴼ (語限定 -ose糖: celul/oz/a, celul/oz/o 他28語)",
-      "documentation": "語根: oz\n入力: oz\n最終形: 糖ᴼ\n漢字: 糖\n識別子: ᴼ\n型: sep(語限定)\n語義: -ose糖\n適用語: celul/oz/a, celul/oz/o, lakt/oz/a, lakt/oz/o, malt/oz/o, sakar/oz/o, amel/oz/o, arab/in/oz/o, frukt/oz/o, hemi/celul/oz/o, indig/oz/id/o, indig/oz/id/az/o, kal/oz/o, ksil/oz/o, nukle/oz/id/o, rafin/oz/o, rib/oz/o, rut/oz/id/o, salik/oz/id/o, staki/oz/o, gren/malt/oz/aj^/o, ald/oz/o, de/oksi/oz/o, furan/oz/o, ket/oz/o, piran/oz/o, sap/oz/id/o, de/oksi/rib/oz/o, oz/o, oz/id/o\n注記: -ose糖→糖(標準語oz/o単糖含む)\n基本形: no\n出典: homonym-alt.tsv:193",
+      "documentation": "語根: oz\n入力: oz\n最終形: 糖ᴼ\n漢字: 糖\n識別子: ᴼ\n型: sep(語限定)\n語義: -ose糖\n適用語: celul/oz/a, celul/oz/o, lakt/oz/a, lakt/oz/o, malt/oz/o, sakar/oz/o, amel/oz/o, arab/in/oz/o, frukt/oz/o, hemi/celul/oz/o, indig/oz/id/o, indig/oz/id/az/o, kal/oz/o, ksil/oz/o, nukle/oz/id/o, rafin/oz/o, rib/oz/o, rut/oz/id/o, salik/oz/id/o, staki/oz/o, gren/malt/oz/aj^/o, ald/oz/o, de/oksi/oz/o, furan/oz/o, ket/oz/o, piran/oz/o, sap/oz/id/o, de/oksi/rib/oz/o, oz/o, oz/id/o\n注記: -ose糖→糖(標準語oz/o単糖含む)\n基本形: no\n出典: homonym-alt.tsv:196",
       "priority": 2,
       "sourceRoot": "oz",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 193
+      "sourceLine": 196
     },
     {
       "prefix": "ozon",

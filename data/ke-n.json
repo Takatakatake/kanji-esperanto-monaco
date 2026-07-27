@@ -6,11 +6,11 @@
     "itemCount": 239,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 168,
+    "homonymAltCount": 169,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "n",
-    "dictionaryItemCount": 10572
+    "dictionaryItemCount": 10573
   },
   "items": [
     {
@@ -83,13 +83,13 @@
       "body": "朴",
       "kanji": "朴",
       "detail": "naiv → 朴 (basic, F=7, 基本形)",
-      "documentation": "語根: naiv\n入力: naiv\n最終形: 朴\n漢字: 朴\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4629",
+      "documentation": "語根: naiv\n入力: naiv\n最終形: 朴\n漢字: 朴\n識別子: なし\n型: basic\nF(汎用性): 7\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4630",
       "priority": 0,
       "sourceRoot": "naiv",
       "type": "basic",
       "frequency": 7,
       "base": true,
-      "sourceLine": 4629
+      "sourceLine": 4630
     },
     {
       "prefix": "naj",
@@ -226,13 +226,13 @@
       "body": "狱ᴺ",
       "kanji": "狱",
       "detail": "narak → 狱ᴺ (pejvo, F=1)",
-      "documentation": "語根: narak\n入力: narak\n最終形: 狱ᴺ\n漢字: 狱\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5681",
+      "documentation": "語根: narak\n入力: narak\n最終形: 狱ᴺ\n漢字: 狱\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5682",
       "priority": 0,
       "sourceRoot": "narak",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5681
+      "sourceLine": 5682
     },
     {
       "prefix": "narcis",
@@ -304,13 +304,13 @@
       "body": "鲸ᴺ",
       "kanji": "鲸",
       "detail": "narval → 鲸ᴺ (pejvo, F=1)",
-      "documentation": "語根: narval\n入力: narval\n最終形: 鲸ᴺ\n漢字: 鲸\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4489",
+      "documentation": "語根: narval\n入力: narval\n最終形: 鲸ᴺ\n漢字: 鲸\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4490",
       "priority": 0,
       "sourceRoot": "narval",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 4489
+      "sourceLine": 4490
     },
     {
       "prefix": "nask",
@@ -499,39 +499,39 @@
       "body": "虾ᴺ",
       "kanji": "虾",
       "detail": "nau^pli → 虾ᴺ (piv, F=1)",
-      "documentation": "語根: nau^pli\n入力: nauxpli\n最終形: 虾ᴺ\n漢字: 虾\n識別子: n\n型: piv\nF(汎用性): 1\nグループ数: 20\n基本形: no\n出典: _identifier_sidecar.tsv:5834",
+      "documentation": "語根: nau^pli\n入力: nauxpli\n最終形: 虾ᴺ\n漢字: 虾\n識別子: n\n型: piv\nF(汎用性): 1\nグループ数: 20\n基本形: no\n出典: _identifier_sidecar.tsv:5835",
       "priority": 0,
       "sourceRoot": "nau^pli",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5834
+      "sourceLine": 5835
     },
     {
       "prefix": "nauxt",
       "body": "航ᴺᴬ",
       "kanji": "航",
       "detail": "nau^t → 航ᴺᴬ (pejvo, F=8)",
-      "documentation": "語根: nau^t\n入力: nauxt\n最終形: 航ᴺᴬ\n漢字: 航\n識別子: na\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4485",
+      "documentation": "語根: nau^t\n入力: nauxt\n最終形: 航ᴺᴬ\n漢字: 航\n識別子: na\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4486",
       "priority": 0,
       "sourceRoot": "nau^t",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 4485
+      "sourceLine": 4486
     },
     {
       "prefix": "nauxtik",
       "body": "航ᴺᵁ̆",
       "kanji": "航",
       "detail": "nau^tik → 航ᴺᵁ̆ (piv, F=2)",
-      "documentation": "語根: nau^tik\n入力: nauxtik\n最終形: 航ᴺᵁ̆\n漢字: 航\n識別子: nŭ\n型: piv\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4486",
+      "documentation": "語根: nau^tik\n入力: nauxtik\n最終形: 航ᴺᵁ̆\n漢字: 航\n識別子: nŭ\n型: piv\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4487",
       "priority": 0,
       "sourceRoot": "nau^tik",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4486
+      "sourceLine": 4487
     },
     {
       "prefix": "nauxtil",
@@ -551,26 +551,26 @@
       "body": "呕",
       "kanji": "呕",
       "detail": "naŭz → 呕 (basic, F=4, 基本形)",
-      "documentation": "語根: naŭz\n入力: nauxz\n最終形: 呕\n漢字: 呕\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4631",
+      "documentation": "語根: naŭz\n入力: nauxz\n最終形: 呕\n漢字: 呕\n識別子: なし\n型: basic\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:4632",
       "priority": 0,
       "sourceRoot": "naŭz",
       "type": "basic",
       "frequency": 4,
       "base": true,
-      "sourceLine": 4631
+      "sourceLine": 4632
     },
     {
       "prefix": "nav",
       "body": "廊ᴺ",
       "kanji": "廊",
       "detail": "nav → 廊ᴺ (pejvo, F=2)",
-      "documentation": "語根: nav\n入力: nav\n最終形: 廊ᴺ\n漢字: 廊\n識別子: n\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5730",
+      "documentation": "語根: nav\n入力: nav\n最終形: 廊ᴺ\n漢字: 廊\n識別子: n\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5731",
       "priority": 0,
       "sourceRoot": "nav",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 5730
+      "sourceLine": 5731
     },
     {
       "prefix": "naved",
@@ -603,26 +603,26 @@
       "body": "航ᴺ",
       "kanji": "航",
       "detail": "navig → 航ᴺ (pejvo, F=10)",
-      "documentation": "語根: navig\n入力: navig\n最終形: 航ᴺ\n漢字: 航\n識別子: n\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4483",
+      "documentation": "語根: navig\n入力: navig\n最終形: 航ᴺ\n漢字: 航\n識別子: n\n型: pejvo\nF(汎用性): 10\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4484",
       "priority": 0,
       "sourceRoot": "navig",
       "type": "pejvo",
       "frequency": 10,
       "base": false,
-      "sourceLine": 4483
+      "sourceLine": 4484
     },
     {
       "prefix": "navigaci",
       "body": "航ᴺᶜ",
       "kanji": "航",
       "detail": "navigaci → 航ᴺᶜ (pejvo, F=2)",
-      "documentation": "語根: navigaci\n入力: navigaci\n最終形: 航ᴺᶜ\n漢字: 航\n識別子: nc\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4484",
+      "documentation": "語根: navigaci\n入力: navigaci\n最終形: 航ᴺᶜ\n漢字: 航\n識別子: nc\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:4485",
       "priority": 0,
       "sourceRoot": "navigaci",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4484
+      "sourceLine": 4485
     },
     {
       "prefix": "naz",
@@ -759,13 +759,13 @@
       "body": "肾ᴺ",
       "kanji": "肾",
       "detail": "nefr → 肾ᴺ (piv, F=11)",
-      "documentation": "語根: nefr\n入力: nefr\n最終形: 肾ᴺ\n漢字: 肾\n識別子: n\n型: piv\nF(汎用性): 11\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5328",
+      "documentation": "語根: nefr\n入力: nefr\n最終形: 肾ᴺ\n漢字: 肾\n識別子: n\n型: piv\nF(汎用性): 11\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5329",
       "priority": 0,
       "sourceRoot": "nefr",
       "type": "piv",
       "frequency": 11,
       "base": false,
-      "sourceLine": 5328
+      "sourceLine": 5329
     },
     {
       "prefix": "nefrektomi",
@@ -837,52 +837,52 @@
       "body": "否ᴺᴱ",
       "kanji": "否",
       "detail": "neg → 否ᴺᴱ (piv, F=3)",
-      "documentation": "語根: neg\n入力: neg\n最終形: 否ᴺᴱ\n漢字: 否\n識別子: ne\n型: piv\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5136",
+      "documentation": "語根: neg\n入力: neg\n最終形: 否ᴺᴱ\n漢字: 否\n識別子: ne\n型: piv\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5137",
       "priority": 0,
       "sourceRoot": "neg",
       "type": "piv",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5136
+      "sourceLine": 5137
     },
     {
       "prefix": "negaci",
       "body": "否ᴺᶜ",
       "kanji": "否",
       "detail": "negaci → 否ᴺᶜ (pejvo, F=1)",
-      "documentation": "語根: negaci\n入力: negaci\n最終形: 否ᴺᶜ\n漢字: 否\n識別子: nc\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5134",
+      "documentation": "語根: negaci\n入力: negaci\n最終形: 否ᴺᶜ\n漢字: 否\n識別子: nc\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:5135",
       "priority": 0,
       "sourceRoot": "negaci",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5134
+      "sourceLine": 5135
     },
     {
       "prefix": "negativ",
       "body": "否",
       "kanji": "否",
       "detail": "negativ → 否 (basic, F=21, 基本形)",
-      "documentation": "語根: negativ\n入力: negativ\n最終形: 否\n漢字: 否\n識別子: なし\n型: basic\nF(汎用性): 21\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:5132",
+      "documentation": "語根: negativ\n入力: negativ\n最終形: 否\n漢字: 否\n識別子: なし\n型: basic\nF(汎用性): 21\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:5133",
       "priority": 0,
       "sourceRoot": "negativ",
       "type": "basic",
       "frequency": 21,
       "base": true,
-      "sourceLine": 5132
+      "sourceLine": 5133
     },
     {
       "prefix": "neglekt",
       "body": "忽ᴺ",
       "kanji": "忽",
       "detail": "neglekt → 忽ᴺ (basic, F=3)",
-      "documentation": "語根: neglekt\n入力: neglekt\n最終形: 忽ᴺ\n漢字: 忽\n識別子: n\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5256",
+      "documentation": "語根: neglekt\n入力: neglekt\n最終形: 忽ᴺ\n漢字: 忽\n識別子: n\n型: basic\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5257",
       "priority": 0,
       "sourceRoot": "neglekt",
       "type": "basic",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5256
+      "sourceLine": 5257
     },
     {
       "prefix": "negligx",
@@ -1071,13 +1071,13 @@
       "body": "蜜ᴺ",
       "kanji": "蜜",
       "detail": "nektar → 蜜ᴺ (pejvo, F=3)",
-      "documentation": "語根: nektar\n入力: nektar\n最終形: 蜜ᴺ\n漢字: 蜜\n識別子: n\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5246",
+      "documentation": "語根: nektar\n入力: nektar\n最終形: 蜜ᴺ\n漢字: 蜜\n識別子: n\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5247",
       "priority": 0,
       "sourceRoot": "nektar",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5246
+      "sourceLine": 5247
     },
     {
       "prefix": "nekton",
@@ -1552,13 +1552,13 @@
       "body": "神经",
       "kanji": "神经",
       "detail": "nerv → 神经 (basic, F=22, 基本形)",
-      "documentation": "語根: nerv\n入力: nerv\n最終形: 神经\n漢字: 神经\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4632",
+      "documentation": "語根: nerv\n入力: nerv\n最終形: 神经\n漢字: 神经\n識別子: なし\n型: basic\nF(汎用性): 22\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:4633",
       "priority": 0,
       "sourceRoot": "nerv",
       "type": "basic",
       "frequency": 22,
       "base": true,
-      "sourceLine": 4632
+      "sourceLine": 4633
     },
     {
       "prefix": "nervologi",
@@ -1591,13 +1591,13 @@
       "body": "脉ᴺ",
       "kanji": "脉",
       "detail": "nervur → 脉ᴺ (pejvo, F=1)",
-      "documentation": "語根: nervur\n入力: nervur\n最終形: 脉ᴺ\n漢字: 脉\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:5475",
+      "documentation": "語根: nervur\n入力: nervur\n最終形: 脉ᴺ\n漢字: 脉\n識別子: n\n型: pejvo\nF(汎用性): 1\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:5476",
       "priority": 0,
       "sourceRoot": "nervur",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5475
+      "sourceLine": 5476
     },
     {
       "prefix": "nest",
@@ -1630,13 +1630,13 @@
       "body": "神经ᴺᵁ̆",
       "kanji": "神经",
       "detail": "neŭr → 神经ᴺᵁ̆ (sci, F=20)",
-      "documentation": "語根: neŭr\n入力: neuxr\n最終形: 神经ᴺᵁ̆\n漢字: 神经\n識別子: nŭ\n型: sci\nF(汎用性): 20\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4633",
+      "documentation": "語根: neŭr\n入力: neuxr\n最終形: 神经ᴺᵁ̆\n漢字: 神经\n識別子: nŭ\n型: sci\nF(汎用性): 20\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:4634",
       "priority": 0,
       "sourceRoot": "neŭr",
       "type": "sci",
       "frequency": 20,
       "base": false,
-      "sourceLine": 4633
+      "sourceLine": 4634
     },
     {
       "prefix": "neuxralgi",
@@ -2020,13 +2020,13 @@
       "body": "精ᴺᴷ",
       "kanji": "精",
       "detail": "niks → 精ᴺᴷ (pejvo, F=2)",
-      "documentation": "語根: niks\n入力: niks\n最終形: 精ᴺᴷ\n漢字: 精\n識別子: nk\n型: pejvo\nF(汎用性): 2\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4996",
+      "documentation": "語根: niks\n入力: niks\n最終形: 精ᴺᴷ\n漢字: 精\n識別子: nk\n型: pejvo\nF(汎用性): 2\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4997",
       "priority": 0,
       "sourceRoot": "niks",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4996
+      "sourceLine": 4997
     },
     {
       "prefix": "niktag",
@@ -2098,13 +2098,13 @@
       "body": "精ᴺ",
       "kanji": "精",
       "detail": "nimf → 精ᴺ (pejvo, F=3)",
-      "documentation": "語根: nimf\n入力: nimf\n最終形: 精ᴺ\n漢字: 精\n識別子: n\n型: pejvo\nF(汎用性): 3\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4995",
+      "documentation": "語根: nimf\n入力: nimf\n最終形: 精ᴺ\n漢字: 精\n識別子: n\n型: pejvo\nF(汎用性): 3\nグループ数: 8\n基本形: no\n出典: _identifier_sidecar.tsv:4996",
       "priority": 0,
       "sourceRoot": "nimf",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 4995
+      "sourceLine": 4996
     },
     {
       "prefix": "nimfe",
@@ -2176,13 +2176,13 @@
       "body": "藻ᴺ",
       "kanji": "藻",
       "detail": "nitel → 藻ᴺ (piv, F=1)",
-      "documentation": "語根: nitel\n入力: nitel\n最終形: 藻ᴺ\n漢字: 藻\n識別子: n\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5450",
+      "documentation": "語根: nitel\n入力: nitel\n最終形: 藻ᴺ\n漢字: 藻\n識別子: n\n型: piv\nF(汎用性): 1\nグループ数: 23\n基本形: no\n出典: _identifier_sidecar.tsv:5451",
       "priority": 0,
       "sourceRoot": "nitel",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 5450
+      "sourceLine": 5451
     },
     {
       "prefix": "niton",
@@ -2306,13 +2306,13 @@
       "body": "贵ᴺᴱ",
       "kanji": "贵",
       "detail": "nobel → 贵ᴺᴱ (pejvo, F=10)",
-      "documentation": "語根: nobel\n入力: nobel\n最終形: 贵ᴺᴱ\n漢字: 贵\n識別子: ne\n型: pejvo\nF(汎用性): 10\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4635",
+      "documentation": "語根: nobel\n入力: nobel\n最終形: 贵ᴺᴱ\n漢字: 贵\n識別子: ne\n型: pejvo\nF(汎用性): 10\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:4636",
       "priority": 0,
       "sourceRoot": "nobel",
       "type": "pejvo",
       "frequency": 10,
       "base": false,
-      "sourceLine": 4635
+      "sourceLine": 4636
     },
     {
       "prefix": "nobeli",
@@ -2332,13 +2332,13 @@
       "body": "贵",
       "kanji": "贵",
       "detail": "nobl → 贵 (basic, F=13, 基本形)",
-      "documentation": "語根: nobl\n入力: nobl\n最終形: 贵\n漢字: 贵\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:4634",
+      "documentation": "語根: nobl\n入力: nobl\n最終形: 贵\n漢字: 贵\n識別子: なし\n型: basic\nF(汎用性): 13\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:4635",
       "priority": 0,
       "sourceRoot": "nobl",
       "type": "basic",
       "frequency": 13,
       "base": true,
-      "sourceLine": 4634
+      "sourceLine": 4635
     },
     {
       "prefix": "noc",
@@ -2358,13 +2358,13 @@
       "body": "概ᴺ",
       "kanji": "概",
       "detail": "noci → 概ᴺ (pejvo, F=2)",
-      "documentation": "語根: noci\n入力: noci\n最終形: 概ᴺ\n漢字: 概\n識別子: n\n型: pejvo\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4699",
+      "documentation": "語根: noci\n入力: noci\n最終形: 概ᴺ\n漢字: 概\n識別子: n\n型: pejvo\nF(汎用性): 2\nグループ数: 7\n基本形: no\n出典: _identifier_sidecar.tsv:4700",
       "priority": 0,
       "sourceRoot": "noci",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 4699
+      "sourceLine": 4700
     },
     {
       "prefix": "nocx",
@@ -2618,13 +2618,13 @@
       "body": "范",
       "kanji": "范",
       "detail": "norm → 范 (basic, F=32, 基本形)",
-      "documentation": "語根: norm\n入力: norm\n最終形: 范\n漢字: 范\n識別子: なし\n型: basic\nF(汎用性): 32\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5137",
+      "documentation": "語根: norm\n入力: norm\n最終形: 范\n漢字: 范\n識別子: なし\n型: basic\nF(汎用性): 32\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:5138",
       "priority": 0,
       "sourceRoot": "norm",
       "type": "basic",
       "frequency": 32,
       "base": true,
-      "sourceLine": 5137
+      "sourceLine": 5138
     },
     {
       "prefix": "normal",
@@ -2813,13 +2813,13 @@
       "body": "微ᴺ",
       "kanji": "微",
       "detail": "nuanc → 微ᴺ (basic, F=3)",
-      "documentation": "語根: nuanc\n入力: nuanc\n最終形: 微ᴺ\n漢字: 微\n識別子: n\n型: basic\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5139",
+      "documentation": "語根: nuanc\n入力: nuanc\n最終形: 微ᴺ\n漢字: 微\n識別子: n\n型: basic\nF(汎用性): 3\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:5140",
       "priority": 0,
       "sourceRoot": "nuanc",
       "type": "basic",
       "frequency": 3,
       "base": false,
-      "sourceLine": 5139
+      "sourceLine": 5140
     },
     {
       "prefix": "nub",
@@ -2865,13 +2865,13 @@
       "body": "面ᴺ",
       "kanji": "面",
       "detail": "nudel → 面ᴺ (pejvo, F=5)",
-      "documentation": "語根: nudel\n入力: nudel\n最終形: 面ᴺ\n漢字: 面\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:4404",
+      "documentation": "語根: nudel\n入力: nudel\n最終形: 面ᴺ\n漢字: 面\n識別子: n\n型: pejvo\nF(汎用性): 5\nグループ数: 6\n基本形: no\n出典: _identifier_sidecar.tsv:4405",
       "priority": 0,
       "sourceRoot": "nudel",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 4404
+      "sourceLine": 4405
     },
     {
       "prefix": "nufar",
@@ -2904,13 +2904,13 @@
       "body": "核ᴺ",
       "kanji": "核",
       "detail": "nukle → 核ᴺ (basic, F=44)",
-      "documentation": "語根: nukle\n入力: nukle\n最終形: 核ᴺ\n漢字: 核\n識別子: n\n型: basic\nF(汎用性): 44\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5143",
+      "documentation": "語根: nukle\n入力: nukle\n最終形: 核ᴺ\n漢字: 核\n識別子: n\n型: basic\nF(汎用性): 44\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:5144",
       "priority": 0,
       "sourceRoot": "nukle",
       "type": "basic",
       "frequency": 44,
       "base": false,
-      "sourceLine": 5143
+      "sourceLine": 5144
     },
     {
       "prefix": "nuklegami",

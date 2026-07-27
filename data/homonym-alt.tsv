@@ -128,6 +128,9 @@ mat	sep	mat/i,mat/ig/i,mat/ig/o	将	将ᴹ	mat(チェス/将棋の詰み checkma
 kanon	sep	kanon/ec/o,kanon/ig/i,en/kanon/ig/i,du/a/kanon/a	典	典ᴷᴺ	kanon(希kanon=規範→聖書正典/教会法/カノン)→典。聖典性kanon/ec・列聖kanon/ig/i・en/kanon/ig/i・第二正典du/a/kanon/a。大砲義(kanon/ad砲撃・kanon/boat砲艦・kanon/tub砲身 等)は炮維持。kanon/ist(砲手/教会法学者)・kanon/a(PIV=砲列)は混在/砲義ゆえ炮維持。同綴2行の kanon/o は語釈scoped(『聖書正典』)で是正
 orkid	sep	orkid/it/o,orkid/ektomi/o,orkid/o/terapi/o	丸	丸ᴼ	orkid(希orkhis=睾丸。ラン科の塊茎が睾丸状であることに由来)→丸。精巣炎orkid/it(丸ᴼ/炎ᵀ)・精巣摘出orkid/ektomi・精巣製剤療法orkid/o/terapi。ラン義(orkid/ac/oj ラン科)は兰維持。bare orkid/o は「【植】ハクサンチドリ;【解】精巣,睾丸」の混在行ゆえ $forceAmb で兰を維持
 jard	sep	al/jard/ig/i	杆	杆ᴶ	jard(帆桁yard-arm)→杆。帆を帆桁に結ぶal/jard/ig/i。bare jard/o は「【単】ヤード;【海】ヤード,帆桁」の混在行ゆえ $forceAmb で码ᴶ(ヤード)を維持
+on	sep	on/c^j/o	叔	叔ᴼᴺ	on(onklo の切り詰め)→叔。★これを入れないと分数接尾 -on-=分 を拾って on/c^j/o⟦分/c^j/o⟧(おじちゃん→「分」)と誤描画される。accusative の -on は語尾扱いでラテンのまま=無関係。同義の o/c^j/o は語頭 o が語尾トークン扱いのためラテン据置
+fra	sep	fra/c^j/o,fra/nj/o	兄	兄ᶠᴿ	fra(frato の切り詰め)→兄。fra/c^j/o=兄ちゃん・fra/nj/o⟦兄/女ᴺ/o⟧=姉ちゃん。既存の frat/in/o⟦兄/女/o⟧ の完全な鏡像。分節 fra は両版でこの2語にしか現れない
+pa	sep	pa/c^j/o,pa/nj/o	父	父ᴾᴬ	pa(patro の切り詰め)→父。pa/c^j/o=パパ・pa/nj/o⟦父/女ᴺ/o⟧=ママ。既存の patr/in/o⟦父/女/o⟧ の完全な鏡像。分節 pa は両版でこの2語にしか現れない
 al	sep	al/o,helic/al/o,c^irkau^/al/a,frog/al/o,al/et/o,al/et/s^rau^b/ing/o	翼	翼ᴬ	翼(alo=翼/羽根)。前置詞al=向と別。複合語内al/o=翼も翼へ(helic/al/o=プロペラ羽根・c^irkau^/al/a=翼に囲まれた・frog/al/o=フログ翼部・al/et/o=蝶ナットのつまみ・al/et/s^rau^b/ing/o=蝶ねじ受け=aleto小翼。hsepはwhole-wordキーのため複合を明示列挙=2026-06-25 接尾辞悉皆監査WF・2026-07-04 aleto向誤適用是正)
 por	sep	por/o,por/a	孔	孔ᴾ	気孔。前置詞por=为と別
 sur	sep	sur/o	腿	腿ˢ	ふくらはぎ。前置詞sur=上と別
