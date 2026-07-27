@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 448,
+    "itemCount": 449,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "b",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -68,13 +68,13 @@
       "body": "币ᴮ",
       "kanji": "币",
       "detail": "bac → 币ᴮ (語限定 古独貨: bac/o)",
-      "documentation": "語根: bac\n入力: bac\n最終形: 币ᴮ\n漢字: 币\n識別子: ᴮ\n型: sep(語限定)\n語義: 古独貨\n適用語: bac/o\n注記: 古独貨。bac=响と別\n基本形: no\n出典: homonym-alt.tsv:137",
+      "documentation": "語根: bac\n入力: bac\n最終形: 币ᴮ\n漢字: 币\n識別子: ᴮ\n型: sep(語限定)\n語義: 古独貨\n適用語: bac/o\n注記: 古独貨。bac=响と別\n基本形: no\n出典: homonym-alt.tsv:143",
       "priority": 1,
       "sourceRoot": "bac",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 137
+      "sourceLine": 143
     },
     {
       "prefix": "bacil",
@@ -1339,11 +1339,24 @@
     },
     {
       "prefix": "bat",
+      "body": "辩ᴮ",
+      "kanji": "辩",
+      "detail": "bat → 辩ᴮ (同綴異義: 討論)",
+      "documentation": "語根: bat\n入力: bat\n最終形: 辩ᴮ\n漢字: 辩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 討論\n注記: debati(PIV k7342 debat独立見出し=Oficiale diskuti)の bat 分節→辩。たたき落とす de/bat/i は語釈非該当で 打 を維持\n基本形: no\n出典: homonym-alt.tsv:178",
+      "priority": 1,
+      "sourceRoot": "bat",
+      "type": "amb",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 178
+    },
+    {
+      "prefix": "bat",
       "body": "深ᴮ",
       "kanji": "深",
       "detail": "bat → 深ᴮ (語限定 bathy-(希βαθύς=深): bat/o/metr/o, bat/o/metri/o)",
       "documentation": "語根: bat\n入力: bat\n最終形: 深ᴮ\n漢字: 深\n識別子: ᴮ\n型: sep(語限定)\n語義: bathy-(希βαθύς=深)\n適用語: bat/o/metr/o, bat/o/metri/o\n注記: bathy-(希βαθύς=深)→深。深度計bathometer(bat/o/metr=深/计)・測深学bathymetria(bat/o/metri=深/测)の bat のみ。打撃bat/i・bat/o(打)・心拍kor/bat は打維持(word-scoped)。2026-07-18 偽友スイープ是正\n基本形: no\n出典: homonym-alt.tsv:55",
-      "priority": 1,
+      "priority": 2,
       "sourceRoot": "bat",
       "type": "sep",
       "frequency": 0,
@@ -2213,13 +2226,13 @@
       "body": "二ᴮ",
       "kanji": "二",
       "detail": "bi → 二ᴮ (語限定 bi-(two=二): bi/, bi/dent/o 他33語)",
-      "documentation": "語根: bi\n入力: bi\n最終形: 二ᴮ\n漢字: 二\n識別子: ᴮ\n型: sep(語限定)\n語義: bi-(two=二)\n適用語: bi/, bi/dent/o, bi/labial/o, bi/dual/o, bi/gami/o, bi/gami/ul/o, bi/lion/o, bi/holo/morf/a, bi/holo/morfi/o, bi/jekci/a, bi/jekci/o, bi/karbon/at/o, bi/kromiat/o, bi/metal/a, bi/metal/ism/o, bi/sulf/at/o, bi/sulf/it/o, meta/bi/sulf/it/o, poli/klor/bi/fenil/o, bi/kromi/at/o, bi/holomorf/a, bi/holomorfi/o, bi/sulfat/o, bi/sulfit/o, meta/bi/sulfit/o, bi/konkav/a, bi/konveks/a, bi/plan/o, bi/fac/o, bi/faden/a, bi/fen/il/o, bi/fenil/o, poli/klor/bi/fen/il/o, bi/sak/o, bi/sekc/i\n注記: bi-(two=二)→二。学術版粗分解 bi/holomorf(双正則)・bi/sulfat(重硫酸塩)・bi/sulfit(重亜硫酸塩)・meta/bi/sulfit も二(2026-06-23 sep派生形網羅。bio生はdisc不掲載で維持)。biot生(bi/ont/o/logi=生物学)はdisc不掲載で生維持。重婚bi/gami・重曹bi/karbon/at・双射bi/jekci・双金属bi/metal・重铬酸bi/kromiat・メタ重亜硫酸meta/bi/sulf/it・PCB poli/klor/bi/fenil 等。di-(二)と平行。十億 bi/lion/o=二/lion(乗数bi-=2。tri/lion=三/lion と平行。bio bi/ont=生 とは別の数詞bi。2026-06-29 WSL bilion→bi/lion 露出で sep列挙に追加=生ᴮᴵ誤適用を是正。2026-07-04 bilabial→bi/labial露出で bi/labial/o(両唇音=two-lipped)追加=生ᴮᴵ誤適用是正。aer/o/bi(好気=bio)・bi/ont(biont生)等は生のまま維持。2026-07-18偽友スイープR2: 両凹bi/konkav・両凸bi/konveks・複葉機bi/plan・両面石器bi/fac・二本糸bi/faden・ビフェニルbi/fen/il・二嚢bi/sak・二等分bi/sekc(Latin bi-two=二。生ᴮᴵ=bioの誤友是正))\n基本形: no\n出典: homonym-alt.tsv:116",
+      "documentation": "語根: bi\n入力: bi\n最終形: 二ᴮ\n漢字: 二\n識別子: ᴮ\n型: sep(語限定)\n語義: bi-(two=二)\n適用語: bi/, bi/dent/o, bi/labial/o, bi/dual/o, bi/gami/o, bi/gami/ul/o, bi/lion/o, bi/holo/morf/a, bi/holo/morfi/o, bi/jekci/a, bi/jekci/o, bi/karbon/at/o, bi/kromiat/o, bi/metal/a, bi/metal/ism/o, bi/sulf/at/o, bi/sulf/it/o, meta/bi/sulf/it/o, poli/klor/bi/fenil/o, bi/kromi/at/o, bi/holomorf/a, bi/holomorfi/o, bi/sulfat/o, bi/sulfit/o, meta/bi/sulfit/o, bi/konkav/a, bi/konveks/a, bi/plan/o, bi/fac/o, bi/faden/a, bi/fen/il/o, bi/fenil/o, poli/klor/bi/fen/il/o, bi/sak/o, bi/sekc/i\n注記: bi-(two=二)→二。学術版粗分解 bi/holomorf(双正則)・bi/sulfat(重硫酸塩)・bi/sulfit(重亜硫酸塩)・meta/bi/sulfit も二(2026-06-23 sep派生形網羅。bio生はdisc不掲載で維持)。biot生(bi/ont/o/logi=生物学)はdisc不掲載で生維持。重婚bi/gami・重曹bi/karbon/at・双射bi/jekci・双金属bi/metal・重铬酸bi/kromiat・メタ重亜硫酸meta/bi/sulf/it・PCB poli/klor/bi/fenil 等。di-(二)と平行。十億 bi/lion/o=二/lion(乗数bi-=2。tri/lion=三/lion と平行。bio bi/ont=生 とは別の数詞bi。2026-06-29 WSL bilion→bi/lion 露出で sep列挙に追加=生ᴮᴵ誤適用を是正。2026-07-04 bilabial→bi/labial露出で bi/labial/o(両唇音=two-lipped)追加=生ᴮᴵ誤適用是正。aer/o/bi(好気=bio)・bi/ont(biont生)等は生のまま維持。2026-07-18偽友スイープR2: 両凹bi/konkav・両凸bi/konveks・複葉機bi/plan・両面石器bi/fac・二本糸bi/faden・ビフェニルbi/fen/il・二嚢bi/sak・二等分bi/sekc(Latin bi-two=二。生ᴮᴵ=bioの誤友是正))\n基本形: no\n出典: homonym-alt.tsv:117",
       "priority": 1,
       "sourceRoot": "bi",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 116
+      "sourceLine": 117
     },
     {
       "prefix": "bias",
@@ -3045,13 +3058,13 @@
       "body": "桩ᴮ",
       "kanji": "桩",
       "detail": "bit → 桩ᴮ (同綴異義: 繋柱)",
-      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-alt.tsv:154",
+      "documentation": "語根: bit\n入力: bit\n最終形: 桩ᴮ\n漢字: 桩\n識別子: ᴮ\n型: amb(同綴異義)\n語義: 繋柱\n注記: 繋柱。bit=位と別行\n基本形: no\n出典: homonym-alt.tsv:160",
       "priority": 1,
       "sourceRoot": "bit",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 154
+      "sourceLine": 160
     },
     {
       "prefix": "bitum",

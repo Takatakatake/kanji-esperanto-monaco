@@ -6,9 +6,9 @@
     "itemCount": 484,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "e",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -2070,13 +2070,13 @@
       "body": "酒ᴱ",
       "kanji": "酒",
       "detail": "el → 酒ᴱ (語限定 エール: el/o)",
-      "documentation": "語根: el\n入力: el\n最終形: 酒ᴱ\n漢字: 酒\n識別子: ᴱ\n型: sep(語限定)\n語義: エール\n適用語: el/o\n注記: エール。前置詞el=出と別\n基本形: no\n出典: homonym-alt.tsv:123",
+      "documentation": "語根: el\n入力: el\n最終形: 酒ᴱ\n漢字: 酒\n識別子: ᴱ\n型: sep(語限定)\n語義: エール\n適用語: el/o\n注記: エール。前置詞el=出と別\n基本形: no\n出典: homonym-alt.tsv:129",
       "priority": 1,
       "sourceRoot": "el",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 123
+      "sourceLine": 129
     },
     {
       "prefix": "elafr",
@@ -4540,13 +4540,13 @@
       "body": "纪ᴱᴿ",
       "kanji": "纪",
       "detail": "er → 纪ᴱᴿ (同綴異義: 紀元)",
-      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-alt.tsv:167",
+      "documentation": "語根: er\n入力: er\n最終形: 纪ᴱᴿ\n漢字: 纪\n識別子: ᴱᴿ\n型: amb(同綴異義)\n語義: 紀元\n注記: 紀元。er=粒と別行\n基本形: no\n出典: homonym-alt.tsv:173",
       "priority": 1,
       "sourceRoot": "er",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 167
+      "sourceLine": 173
     },
     {
       "prefix": "era",
@@ -4657,13 +4657,13 @@
       "body": "距ᴱ",
       "kanji": "距",
       "detail": "ergot → 距ᴱ (同綴異義: 蹴爪)",
-      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-alt.tsv:150",
+      "documentation": "語根: ergot\n入力: ergot\n最終形: 距ᴱ\n漢字: 距\n識別子: ᴱ\n型: amb(同綴異義)\n語義: 蹴爪\n注記: 蹴爪。ergot=麦角と別\n基本形: no\n出典: homonym-alt.tsv:156",
       "priority": 1,
       "sourceRoot": "ergot",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 150
+      "sourceLine": 156
     },
     {
       "prefix": "erigeron",

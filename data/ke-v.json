@@ -3,12 +3,12 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 281,
+    "itemCount": 282,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "v",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -653,13 +653,13 @@
       "body": "内ⱽ",
       "kanji": "内",
       "detail": "var → 内ⱽ (語限定 内反varus: var/a)",
-      "documentation": "語根: var\n入力: var\n最終形: 内ⱽ\n漢字: 内\n識別子: ⱽ\n型: sep(語限定)\n語義: 内反varus\n適用語: var/a\n注記: 内反varus。var=货と別\n基本形: no\n出典: homonym-alt.tsv:145",
+      "documentation": "語根: var\n入力: var\n最終形: 内ⱽ\n漢字: 内\n識別子: ⱽ\n型: sep(語限定)\n語義: 内反varus\n適用語: var/a\n注記: 内反varus。var=货と別\n基本形: no\n出典: homonym-alt.tsv:151",
       "priority": 1,
       "sourceRoot": "var",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 145
+      "sourceLine": 151
     },
     {
       "prefix": "varan",
@@ -926,13 +926,13 @@
       "body": "瓦ⱽ",
       "kanji": "瓦",
       "detail": "vat → 瓦ⱽ (同綴異義: ワット)",
-      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-alt.tsv:127",
+      "documentation": "語根: vat\n入力: vat\n最終形: 瓦ⱽ\n漢字: 瓦\n識別子: ⱽ\n型: amb(同綴異義)\n語義: ワット\n注記: ワット。vat=棉と別行\n基本形: no\n出典: homonym-alt.tsv:133",
       "priority": 1,
       "sourceRoot": "vat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 127
+      "sourceLine": 133
     },
     {
       "prefix": "vathorometr",
@@ -3572,6 +3572,19 @@
       "frequency": 22,
       "base": true,
       "sourceLine": 5982
+    },
+    {
+      "prefix": "vulkan",
+      "body": "硫ⱽ",
+      "kanji": "硫",
+      "detail": "vulkan → 硫ⱽ (語限定 vulkaniz(PIV独立見出し k49266=ゴムに硫黄を結合): vulkan/iz/i, vulkan/iz/o 他1語)",
+      "documentation": "語根: vulkan\n入力: vulkan\n最終形: 硫ⱽ\n漢字: 硫\n識別子: ⱽ\n型: sep(語限定)\n語義: vulkaniz(PIV独立見出し k49266=ゴムに硫黄を結合)\n適用語: vulkan/iz/i, vulkan/iz/o, vulkan/iz/il/o\n注記: vulkaniz(PIV独立見出し k49266=ゴムに硫黄を結合)→硫: 中国語標準名 硫化 と一致。火山 vulkan/o は同綴別語で disc外維持\n基本形: no\n出典: homonym-alt.tsv:80",
+      "priority": 1,
+      "sourceRoot": "vulkan",
+      "type": "sep",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 80
     },
     {
       "prefix": "vulkanolog",

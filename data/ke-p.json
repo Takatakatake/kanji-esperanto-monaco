@@ -6,9 +6,9 @@
     "itemCount": 1019,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "p",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -471,13 +471,13 @@
       "body": "古ᴾᴬ",
       "kanji": "古",
       "detail": "pale → 古ᴾᴬ (語限定 palaios(希古い): pale/o/grafi/o, pale/o/graf/o 他9語)",
-      "documentation": "語根: pale\n入力: pale\n最終形: 古ᴾᴬ\n漢字: 古\n識別子: ᴾᴬ\n型: sep(語限定)\n語義: palaios(希古い)\n適用語: pale/o/grafi/o, pale/o/graf/o, pale/o/botanik/o, pale/o/eko/log/o, pale/o/eko/logi/o, pale/o/grund/o, pale/o/hist/o/logi/o, pale/o/magnet/ism/o, pale/o/ekolog/o, pale/o/ekologi/o, pale/o/histologi/o\n注記: palaios(希古い)→古。古文書paleografi・古生態paleoekologi・古土壌paleogrund・古組織paleohistologi・古地磁気paleomagnetism等のpaleo-接頭辞。イネ科の内頴pale/o=内壳(palea)は維持(word-scoped)。paleo/lit旧石器=古ᴾと整合。2026-07-18 偽友スイープR3/2026-07-19 学術版粗分節pale/o/ekolog·ekologi·histologi追加(学習者版はeko/log等細分節でR3既発火・学術版は粗分節で未発火だった)\n基本形: no\n出典: homonym-alt.tsv:94",
+      "documentation": "語根: pale\n入力: pale\n最終形: 古ᴾᴬ\n漢字: 古\n識別子: ᴾᴬ\n型: sep(語限定)\n語義: palaios(希古い)\n適用語: pale/o/grafi/o, pale/o/graf/o, pale/o/botanik/o, pale/o/eko/log/o, pale/o/eko/logi/o, pale/o/grund/o, pale/o/hist/o/logi/o, pale/o/magnet/ism/o, pale/o/ekolog/o, pale/o/ekologi/o, pale/o/histologi/o\n注記: palaios(希古い)→古。古文書paleografi・古生態paleoekologi・古土壌paleogrund・古組織paleohistologi・古地磁気paleomagnetism等のpaleo-接頭辞。イネ科の内頴pale/o=内壳(palea)は維持(word-scoped)。paleo/lit旧石器=古ᴾと整合。2026-07-18 偽友スイープR3/2026-07-19 学術版粗分節pale/o/ekolog·ekologi·histologi追加(学習者版はeko/log等細分節でR3既発火・学術版は粗分節で未発火だった)\n基本形: no\n出典: homonym-alt.tsv:95",
       "priority": 1,
       "sourceRoot": "pale",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 94
+      "sourceLine": 95
     },
     {
       "prefix": "paled",
@@ -991,13 +991,13 @@
       "body": "脂ᴾ",
       "kanji": "脂",
       "detail": "panikl → 脂ᴾ (同綴異義: 皮下)",
-      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-alt.tsv:152",
+      "documentation": "語根: panikl\n入力: panikl\n最終形: 脂ᴾ\n漢字: 脂\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 皮下\n注記: 皮下脂肪。panikl=圆锥と別\n基本形: no\n出典: homonym-alt.tsv:158",
       "priority": 1,
       "sourceRoot": "panikl",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 152
+      "sourceLine": 158
     },
     {
       "prefix": "paniklit",
@@ -2447,13 +2447,13 @@
       "body": "困",
       "kanji": "困",
       "detail": "pat → 困 (同綴異義: 手詰)",
-      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-alt.tsv:126",
+      "documentation": "語根: pat\n入力: pat\n最終形: 困\n漢字: 困\n識別子: なし\n型: amb(同綴異義)\n語義: 手詰\n注記: ステールメイト。pat=锅と別行\n基本形: no\n出典: homonym-alt.tsv:132",
       "priority": 1,
       "sourceRoot": "pat",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 126
+      "sourceLine": 132
     },
     {
       "prefix": "pat",
@@ -3071,13 +3071,13 @@
       "body": "土ᴾ",
       "kanji": "土",
       "detail": "pedo → 土ᴾ (語限定 希pedon(土壌soil): pedo/log/o)",
-      "documentation": "語根: pedo\n入力: pedo\n最終形: 土ᴾ\n漢字: 土\n識別子: ᴾ\n型: sep(語限定)\n語義: 希pedon(土壌soil)\n適用語: pedo/log/o\n注記: 希pedon(土壌soil)→土。土壌学者pedolog(pedo/log=土/学家)=grundolog(土/o/学家)の同義語。児童学pedo/logi/o=童(希pais子供)は同綴別語源で維持(word-scoped)。PIV定義「Specialisto pri pedologio. Sin. grundologo」=土壌学者ゆえ童は誤友。2026-07-19 偽友監査\n基本形: no\n出典: homonym-alt.tsv:96",
+      "documentation": "語根: pedo\n入力: pedo\n最終形: 土ᴾ\n漢字: 土\n識別子: ᴾ\n型: sep(語限定)\n語義: 希pedon(土壌soil)\n適用語: pedo/log/o\n注記: 希pedon(土壌soil)→土。土壌学者pedolog(pedo/log=土/学家)=grundolog(土/o/学家)の同義語。児童学pedo/logi/o=童(希pais子供)は同綴別語源で維持(word-scoped)。PIV定義「Specialisto pri pedologio. Sin. grundologo」=土壌学者ゆえ童は誤友。2026-07-19 偽友監査\n基本形: no\n出典: homonym-alt.tsv:97",
       "priority": 1,
       "sourceRoot": "pedo",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 96
+      "sourceLine": 97
     },
     {
       "prefix": "pedofili",
@@ -3708,13 +3708,13 @@
       "body": "佃",
       "kanji": "佃",
       "detail": "peon → 佃 (同綴異義: 隷農)",
-      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-alt.tsv:163",
+      "documentation": "語根: peon\n入力: peon\n最終形: 佃\n漢字: 佃\n識別子: なし\n型: amb(同綴異義)\n語義: 隷農\n注記: 隷農。peon=卒と別\n基本形: no\n出典: homonym-alt.tsv:169",
       "priority": 1,
       "sourceRoot": "peon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 163
+      "sourceLine": 169
     },
     {
       "prefix": "peoni",
@@ -5008,13 +5008,13 @@
       "body": "调ᴾ",
       "kanji": "调",
       "detail": "pic^ → 调ᴾ (同綴異義: 音高)",
-      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-alt.tsv:158",
+      "documentation": "語根: pic^\n入力: picx\n最終形: 调ᴾ\n漢字: 调\n識別子: ᴾ\n型: amb(同綴異義)\n語義: 音高\n注記: 音高。pic^=阴户と別行\n基本形: no\n出典: homonym-alt.tsv:164",
       "priority": 1,
       "sourceRoot": "pic^",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 158
+      "sourceLine": 164
     },
     {
       "prefix": "pied",
@@ -5735,8 +5735,8 @@
       "prefix": "pir",
       "body": "火ᴾ",
       "kanji": "火",
-      "detail": "pir → 火ᴾ (語限定 pyro-(火·熱): pir/heli/o/metr/o, pir/geo/metr/o 他15語)",
-      "documentation": "語根: pir\n入力: pir\n最終形: 火ᴾ\n漢字: 火\n識別子: ᴾ\n型: sep(語限定)\n語義: pyro-(火·熱)\n適用語: pir/heli/o/metr/o, pir/geo/metr/o, pir/o/elektr/a, pir/o/magnet/a, pir/o/teknik/aj^/o, pir/o/teknik/ist/o, pir/o/teknik/o, pir/o/liz/i, pir/o/liz/o, pir/o/metr/o, pir/o/fosf/at/o, pir/o/gajl/o, pir/o/gajlol/o, pir/o/sulf/at/o, pir/o/sulf/it/o, pir/o/fosfat/o, pir/oz/o\n注記: pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。胸やけpirozo=火/症(pyrosis灼熱感。2026-07-19正本ドリフト piroz→pir/oz 露出)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持\n基本形: no\n出典: homonym-alt.tsv:66",
+      "detail": "pir → 火ᴾ (語限定 pyro-(火·熱): pir/heli/o/metr/o, pir/geo/metr/o 他16語)",
+      "documentation": "語根: pir\n入力: pir\n最終形: 火ᴾ\n漢字: 火\n識別子: ᴾ\n型: sep(語限定)\n語義: pyro-(火·熱)\n適用語: pir/heli/o/metr/o, pir/geo/metr/o, pir/o/elektr/a, pir/o/magnet/a, pir/o/teknik/aj^/o, pir/o/teknik/ist/o, pir/o/teknik/o, pir/o/liz/i, pir/o/liz/o, pir/o/metr/o, pir/o/fosf/at/o, pir/o/gajl/o, pir/o/gajlol/o, pir/o/gajl/ol/o, pir/o/sulf/at/o, pir/o/sulf/it/o, pir/o/fosfat/o, pir/oz/o\n注記: pyro-(火·熱)→火。pir/o/fosfat=学術版粗分解(2026-06-23)。胸やけpirozo=火/症(pyrosis灼熱感。2026-07-19正本ドリフト piroz→pir/oz 露出)。洋ナシpir/o(梨)·pir/arb/pir/uj/pir/vinは維持\n基本形: no\n出典: homonym-alt.tsv:66",
       "priority": 1,
       "sourceRoot": "pir",
       "type": "sep",
@@ -6438,13 +6438,13 @@
       "body": "平ᴾ",
       "kanji": "平",
       "detail": "plan → 平ᴾ (語限定 plano(平面plane=平): plan/i/metri/o, plan/i/metr/o)",
-      "documentation": "語根: plan\n入力: plan\n最終形: 平ᴾ\n漢字: 平\n識別子: ᴾ\n型: sep(語限定)\n語義: plano(平面plane=平)\n適用語: plan/i/metri/o, plan/i/metr/o\n注記: plano(平面plane=平)→平。面積測定法planimetri(plan/i/metri=平/i/测)・プラニメータplanimetr(平/计)のplano-plane幾何。計画/図面plan/o=划(base)は維持(word-scoped)。平面eben=平と同字(識別子で弁別)。2026-07-19 偽友監査(planimetria=面積測定でplan=划は誤友)\n基本形: no\n出典: homonym-alt.tsv:95",
+      "documentation": "語根: plan\n入力: plan\n最終形: 平ᴾ\n漢字: 平\n識別子: ᴾ\n型: sep(語限定)\n語義: plano(平面plane=平)\n適用語: plan/i/metri/o, plan/i/metr/o\n注記: plano(平面plane=平)→平。面積測定法planimetri(plan/i/metri=平/i/测)・プラニメータplanimetr(平/计)のplano-plane幾何。計画/図面plan/o=划(base)は維持(word-scoped)。平面eben=平と同字(識別子で弁別)。2026-07-19 偽友監査(planimetria=面積測定でplan=划は誤友)\n基本形: no\n出典: homonym-alt.tsv:96",
       "priority": 1,
       "sourceRoot": "plan",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 95
+      "sourceLine": 96
     },
     {
       "prefix": "pland",
@@ -7283,13 +7283,13 @@
       "body": "笔ᴾᴸ",
       "kanji": "笔",
       "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
-      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:124",
+      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:130",
       "priority": 1,
       "sourceRoot": "plum",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 124
+      "sourceLine": 130
     },
     {
       "prefix": "plumb",
@@ -7608,13 +7608,13 @@
       "body": "草ᴾᴼ2",
       "kanji": "草",
       "detail": "po → 草ᴾᴼ2 (同綴異義: Poa)",
-      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-alt.tsv:168",
+      "documentation": "語根: po\n入力: po\n最終形: 草ᴾᴼ2\n漢字: 草\n識別子: ᴾᴼ2\n型: amb(同綴異義)\n語義: Poa\n注記: Poa属。po=每と別行\n基本形: no\n出典: homonym-alt.tsv:174",
       "priority": 1,
       "sourceRoot": "po",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 168
+      "sourceLine": 174
     },
     {
       "prefix": "pocx",
@@ -8791,13 +8791,13 @@
       "body": "孔ᴾ",
       "kanji": "孔",
       "detail": "por → 孔ᴾ (語限定 気孔: por/o, por/a)",
-      "documentation": "語根: por\n入力: por\n最終形: 孔ᴾ\n漢字: 孔\n識別子: ᴾ\n型: sep(語限定)\n語義: 気孔\n適用語: por/o, por/a\n注記: 気孔。前置詞por=为と別\n基本形: no\n出典: homonym-alt.tsv:121",
+      "documentation": "語根: por\n入力: por\n最終形: 孔ᴾ\n漢字: 孔\n識別子: ᴾ\n型: sep(語限定)\n語義: 気孔\n適用語: por/o, por/a\n注記: 気孔。前置詞por=为と別\n基本形: no\n出典: homonym-alt.tsv:127",
       "priority": 1,
       "sourceRoot": "por",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 121
+      "sourceLine": 127
     },
     {
       "prefix": "porcelan",
@@ -10143,13 +10143,13 @@
       "body": "祷",
       "kanji": "祷",
       "detail": "prim → 祷 (同綴異義: 一時課)",
-      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-alt.tsv:157",
+      "documentation": "語根: prim\n入力: prim\n最終形: 祷\n漢字: 祷\n識別子: なし\n型: amb(同綴異義)\n語義: 一時課\n注記: 一時課。prim=质数と同行\n基本形: no\n出典: homonym-alt.tsv:163",
       "priority": 1,
       "sourceRoot": "prim",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 157
+      "sourceLine": 163
     },
     {
       "prefix": "primar",
@@ -10377,13 +10377,13 @@
       "body": "前ᴾᴼ",
       "kanji": "前",
       "detail": "pro → 前ᴾᴼ (語限定 ギリシャ接頭pro-(前·fore): pro/log/o, pro/faz/o 他3語)",
-      "documentation": "語根: pro\n入力: pro\n最終形: 前ᴾᴼ\n漢字: 前\n識別子: ᴾᴼ\n型: sep(語限定)\n語義: ギリシャ接頭pro-(前·fore)\n適用語: pro/log/o, pro/faz/o, pro/virus/o, pro/gnat/a, pro/gnat/ec/o\n注記: ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)·prognathous前突顎(pro/gnat⟦前/gnat⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)。2026-07-18 正本過細分解 prognat→pro/gnat 露出→追加(pro→因理由の偽友是正)\n基本形: no\n出典: homonym-alt.tsv:109",
+      "documentation": "語根: pro\n入力: pro\n最終形: 前ᴾᴼ\n漢字: 前\n識別子: ᴾᴼ\n型: sep(語限定)\n語義: ギリシャ接頭pro-(前·fore)\n適用語: pro/log/o, pro/faz/o, pro/virus/o, pro/gnat/a, pro/gnat/ec/o\n注記: ギリシャ接頭pro-(前·fore)→前。prologue序言(pro/log⟦前/话⟧)·prophase前相(pro/faz⟦前/相⟧)·provirus前駆ウイルス(pro/virus⟦前/毒⟧)·prognathous前突顎(pro/gnat⟦前/gnat⟧)。epi=后と対。エス前置詞pro=因(pro tio因此·proparol代弁·pro/pek贖罪·pro/mort等)は維持(disc不掲載)。2026-07-18 正本過細分解 prognat→pro/gnat 露出→追加(pro→因理由の偽友是正)\n基本形: no\n出典: homonym-alt.tsv:110",
       "priority": 1,
       "sourceRoot": "pro",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 109
+      "sourceLine": 110
     },
     {
       "prefix": "probabl",
@@ -11430,13 +11430,13 @@
       "body": "匠ᴾ",
       "kanji": "匠",
       "detail": "prot → 匠ᴾ (語限定 組版長: prot/o)",
-      "documentation": "語根: prot\n入力: prot\n最終形: 匠ᴾ\n漢字: 匠\n識別子: ᴾ\n型: sep(語限定)\n語義: 組版長\n適用語: prot/o\n注記: 組版長。prot=质子と別\n基本形: no\n出典: homonym-alt.tsv:156",
+      "documentation": "語根: prot\n入力: prot\n最終形: 匠ᴾ\n漢字: 匠\n識別子: ᴾ\n型: sep(語限定)\n語義: 組版長\n適用語: prot/o\n注記: 組版長。prot=质子と別\n基本形: no\n出典: homonym-alt.tsv:162",
       "priority": 1,
       "sourceRoot": "prot",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 156
+      "sourceLine": 162
     },
     {
       "prefix": "protaktini",

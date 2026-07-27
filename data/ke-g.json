@@ -6,9 +6,9 @@
     "itemCount": 424,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "g",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -3058,26 +3058,26 @@
       "body": "语ᴳ",
       "kanji": "语",
       "detail": "glos → 语ᴳ (語限定 isogloss(等語線)のglos: izo/glos/o)",
-      "documentation": "語根: glos\n入力: glos\n最終形: 语ᴳ\n漢字: 语\n識別子: ᴳ\n型: sep(語限定)\n語義: isogloss(等語線)のglos\n適用語: izo/glos/o\n注記: isogloss(等語線)のglos→语(希γλῶσσα言語)。注(glosaro注)/舌(glosit舌炎)は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:86",
+      "documentation": "語根: glos\n入力: glos\n最終形: 语ᴳ\n漢字: 语\n識別子: ᴳ\n型: sep(語限定)\n語義: isogloss(等語線)のglos\n適用語: izo/glos/o\n注記: isogloss(等語線)のglos→语(希γλῶσσα言語)。注(glosaro注)/舌(glosit舌炎)は別。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:87",
       "priority": 1,
       "sourceRoot": "glos",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 86
+      "sourceLine": 87
     },
     {
       "prefix": "glos",
       "body": "舌ᴳ",
       "kanji": "舌",
       "detail": "glos → 舌ᴳ (語限定 ギリシャglōssa(舌tongue)の解剖義: glos/ektomi/o, glos/it/o 他1語)",
-      "documentation": "語根: glos\n入力: glos\n最終形: 舌ᴳ\n漢字: 舌\n識別子: ᴳ\n型: sep(語限定)\n語義: ギリシャglōssa(舌tongue)の解剖義\n適用語: glos/ektomi/o, glos/it/o, hipo/glos/o\n注記: ギリシャglōssa(舌tongue)の解剖義→舌。舌切除glosektomi(glos/除)·舌炎glosit(glos/炎)·舌下神経hipogloso(亚/舌)。注釈gloss(用語集glos/ar/o·gloso)のglos=注は維持(word-scoped 同綴別義)。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:102",
+      "documentation": "語根: glos\n入力: glos\n最終形: 舌ᴳ\n漢字: 舌\n識別子: ᴳ\n型: sep(語限定)\n語義: ギリシャglōssa(舌tongue)の解剖義\n適用語: glos/ektomi/o, glos/it/o, hipo/glos/o\n注記: ギリシャglōssa(舌tongue)の解剖義→舌。舌切除glosektomi(glos/除)·舌炎glosit(glos/炎)·舌下神経hipogloso(亚/舌)。注釈gloss(用語集glos/ar/o·gloso)のglos=注は維持(word-scoped 同綴別義)。2026-07-19 偽友スイープ最終\n基本形: no\n出典: homonym-alt.tsv:103",
       "priority": 2,
       "sourceRoot": "glos",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 102
+      "sourceLine": 103
     },
     {
       "prefix": "glosektomi",

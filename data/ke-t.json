@@ -6,9 +6,9 @@
     "itemCount": 589,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "t",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -276,13 +276,13 @@
       "body": "币ᵀ",
       "kanji": "币",
       "detail": "tak → 币ᵀ (語限定 タカ通貨: tak/o)",
-      "documentation": "語根: tak\n入力: tak\n最終形: 币ᵀ\n漢字: 币\n識別子: ᵀ\n型: sep(語限定)\n語義: タカ通貨\n適用語: tak/o\n注記: タカ通貨。tak=倾と別\n基本形: no\n出典: homonym-alt.tsv:136",
+      "documentation": "語根: tak\n入力: tak\n最終形: 币ᵀ\n漢字: 币\n識別子: ᵀ\n型: sep(語限定)\n語義: タカ通貨\n適用語: tak/o\n注記: タカ通貨。tak=倾と別\n基本形: no\n出典: homonym-alt.tsv:142",
       "priority": 1,
       "sourceRoot": "tak",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 136
+      "sourceLine": 142
     },
     {
       "prefix": "taki",
@@ -783,13 +783,13 @@
       "body": "舞ᵀ",
       "kanji": "舞",
       "detail": "tang → 舞ᵀ (語限定 タンゴ: tang/o)",
-      "documentation": "語根: tang\n入力: tang\n最終形: 舞ᵀ\n漢字: 舞\n識別子: ᵀ\n型: sep(語限定)\n語義: タンゴ\n適用語: tang/o\n注記: タンゴ。tang=颠と別行\n基本形: no\n出典: homonym-alt.tsv:164",
+      "documentation": "語根: tang\n入力: tang\n最終形: 舞ᵀ\n漢字: 舞\n識別子: ᵀ\n型: sep(語限定)\n語義: タンゴ\n適用語: tang/o\n注記: タンゴ。tang=颠と別行\n基本形: no\n出典: homonym-alt.tsv:170",
       "priority": 1,
       "sourceRoot": "tang",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 164
+      "sourceLine": 170
     },
     {
       "prefix": "tangar",
@@ -3265,8 +3265,8 @@
       "prefix": "tetra",
       "body": "四ᵀᴬ",
       "kanji": "四",
-      "detail": "tetra → 四ᵀᴬ (語限定 tetra-数詞接頭辞(4): tetra/, tetra/gram/o 他5語)",
-      "documentation": "語根: tetra\n入力: tetra\n最終形: 四ᵀᴬ\n漢字: 四\n識別子: ᵀᴬ\n型: sep(語限定)\n語義: tetra-数詞接頭辞(4)\n適用語: tetra/, tetra/gram/o, tetra/borat/o, tetra/mer/o, tetra/tionat/o, tetra/ol/o, tetra/bor/at/o\n注記: tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)。tetra/bor/at(WSL過細分解同期)\n基本形: no\n出典: homonym-alt.tsv:10",
+      "detail": "tetra → 四ᵀᴬ (語限定 tetra-数詞接頭辞(4): tetra/, tetra/gram/o 他6語)",
+      "documentation": "語根: tetra\n入力: tetra\n最終形: 四ᵀᴬ\n漢字: 四\n識別子: ᵀᴬ\n型: sep(語限定)\n語義: tetra-数詞接頭辞(4)\n適用語: tetra/, tetra/gram/o, tetra/borat/o, tetra/mer/o, tetra/tionat/o, tetra/tion/at/o, tetra/ol/o, tetra/bor/at/o\n注記: tetra-数詞接頭辞(4)→四。鳥tetra/o=野鸡(基本形)は除外。tetra/ol→四(2026-06-22 ol精緻化)。tetra/bor/at(WSL過細分解同期)\n基本形: no\n出典: homonym-alt.tsv:10",
       "priority": 1,
       "sourceRoot": "tetra",
       "type": "sep",
@@ -4345,13 +4345,13 @@
       "body": "瘤ᵀᶠ",
       "kanji": "瘤",
       "detail": "tof → 瘤ᵀᶠ (同綴異義: 痛風)",
-      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-alt.tsv:170",
+      "documentation": "語根: tof\n入力: tof\n最終形: 瘤ᵀᶠ\n漢字: 瘤\n識別子: ᵀᶠ\n型: amb(同綴異義)\n語義: 痛風\n注記: 痛風結節。tof=凝灰と別\n基本形: no\n出典: homonym-alt.tsv:176",
       "priority": 1,
       "sourceRoot": "tof",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 170
+      "sourceLine": 176
     },
     {
       "prefix": "toks",
@@ -4722,13 +4722,13 @@
       "body": "敷ᵀ",
       "kanji": "敷",
       "detail": "topik → 敷ᵀ (同綴異義: 外用)",
-      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-alt.tsv:166",
+      "documentation": "語根: topik\n入力: topik\n最終形: 敷ᵀ\n漢字: 敷\n識別子: ᵀ\n型: amb(同綴異義)\n語義: 外用\n注記: 外用薬。topik=题と別\n基本形: no\n出典: homonym-alt.tsv:172",
       "priority": 1,
       "sourceRoot": "topik",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 166
+      "sourceLine": 172
     },
     {
       "prefix": "topinambur",
@@ -6177,14 +6177,14 @@
       "prefix": "trik",
       "body": "毛ᵀ",
       "kanji": "毛",
-      "detail": "trik → 毛ᵀ (語限定 毛(tricho-): trik/o, trik/oz/o 他5語)",
-      "documentation": "語根: trik\n入力: trik\n最終形: 毛ᵀ\n漢字: 毛\n識別子: ᵀ\n型: sep(語限定)\n語義: 毛(tricho-)\n適用語: trik/o, trik/oz/o, poli/trik/o, trik/o/pati/o, trik/o/plazi/o, trik/o/pter/oj, trik/o/micet/oz/o\n注記: 毛(tricho-)。trik=织(編む)と別。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:143",
+      "detail": "trik → 毛ᵀ (語限定 毛(tricho-): trik/o, trik/oz/o 他8語)",
+      "documentation": "語根: trik\n入力: trik\n最終形: 毛ᵀ\n漢字: 毛\n識別子: ᵀ\n型: sep(語限定)\n語義: 毛(tricho-)\n適用語: trik/o, trik/oz/o, poli/trik/o, trik/o/pati/o, trik/o/plazi/o, trik/o/pter/oj, trik/o/micet/oz/o, spor/o/trik/o, spor/o/trik/oz/o, spor/o/trik/um/o\n注記: 毛(tricho-)。trik=织(編む)と別。2026-07-26 第13レンズ: Sporothrix/Sporotrichum(spor/o/trik 系3語)を追加=-trik- は希 thrix(毛)で編む(triki)でない。従来この3語だけ毛リストから漏れ 织ᵀᴿ を拾って「胞子-編む」と読めていた。tricho-毛の複合(trichosis毛症/Polytrichum多毛コケ/trichopathy毛病/trichoplasia毛増生/Trichoptera毛翅/trichomycosis毛/菌/症)も毛へ(2026-06-23/27 sep派生形網羅)\n基本形: no\n出典: homonym-alt.tsv:149",
       "priority": 1,
       "sourceRoot": "trik",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 143
+      "sourceLine": 149
     },
     {
       "prefix": "trikin",

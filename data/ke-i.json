@@ -6,9 +6,9 @@
     "itemCount": 313,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "i",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -120,13 +120,13 @@
       "body": "化ᴵᴰ",
       "kanji": "化",
       "detail": "id → 化ᴵᴰ (語限定 化学-id(-ide=二元化合物X化物): brom/id/o, brom/id/paper/o 他27語)",
-      "documentation": "語根: id\n入力: id\n最終形: 化ᴵᴰ\n漢字: 化\n識別子: ᴵᴰ\n型: sep(語限定)\n語義: 化学-id(-ide=二元化合物X化物)\n適用語: brom/id/o, brom/id/paper/o, cian/id/o, klor/id/o, klor/id/a, di/klor/id/o, tri/klor/id/o, metil/klor/id/o, met/il/klor/id/o, vinil/klor/id/o, klor/id/emi/o, hipo/klor/id/emi/o, sen/klor/id/ig^/o, sulf/id/o, di/sulf/id/o, fluor/id/o, fosf/id/o, halogen/id/o, hidr/id/o, hidr/id/i, jod/id/o, karb/id/o, karbon/id/o, karbon/hidr/id/o, nitr/id/o, selen/id/o, silici/id/o, arsen/id/o, ure/id/o\n注記: 化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外。2026-07-18 化物残件を追加: silici/id硅化物·arsen/id砷化物·met/il/klor/id塩化メチル(過細分解 metil→met/il でmetil/klor/idと不一致だった)。2026-07-24 別AI round8: karbon/hidr/id/o(炭化水素hidrokarbono=学習者版過細分解 karbon/h/i/d/r/id/o)追加=学術版karbon/hidrid/o(碳/氢化)と粒度整合・学習者版hidr/id/o(水ᴴ/化ᴵᴰ)と一致(碳/水ᴴ/子→碳/水ᴴ/化ᴵᴰ)\n基本形: no\n出典: homonym-alt.tsv:119",
+      "documentation": "語根: id\n入力: id\n最終形: 化ᴵᴰ\n漢字: 化\n識別子: ᴵᴰ\n型: sep(語限定)\n語義: 化学-id(-ide=二元化合物X化物)\n適用語: brom/id/o, brom/id/paper/o, cian/id/o, klor/id/o, klor/id/a, di/klor/id/o, tri/klor/id/o, metil/klor/id/o, met/il/klor/id/o, vinil/klor/id/o, klor/id/emi/o, hipo/klor/id/emi/o, sen/klor/id/ig^/o, sulf/id/o, di/sulf/id/o, fluor/id/o, fosf/id/o, halogen/id/o, hidr/id/o, hidr/id/i, jod/id/o, karb/id/o, karbon/id/o, karbon/hidr/id/o, nitr/id/o, selen/id/o, silici/id/o, arsen/id/o, ure/id/o\n注記: 化学-id(-ide=二元化合物X化物)→化。塩-at/-it=盐の兄弟(-ide=化合物 / -ate-ite=塩)。子孫-id(bov/id仔牛·kat/id仔猫·c^eval/id等の動物の子)はdisc不掲載で子維持。lanthanoid lantan/id(系列)·saccharide sakar/id(糖類)は二元化合物でないため除外。2026-07-18 化物残件を追加: silici/id硅化物·arsen/id砷化物·met/il/klor/id塩化メチル(過細分解 metil→met/il でmetil/klor/idと不一致だった)。2026-07-24 別AI round8: karbon/hidr/id/o(炭化水素hidrokarbono=学習者版過細分解 karbon/h/i/d/r/id/o)追加=学術版karbon/hidrid/o(碳/氢化)と粒度整合・学習者版hidr/id/o(水ᴴ/化ᴵᴰ)と一致(碳/水ᴴ/子→碳/水ᴴ/化ᴵᴰ)\n基本形: no\n出典: homonym-alt.tsv:120",
       "priority": 1,
       "sourceRoot": "id",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 119
+      "sourceLine": 120
     },
     {
       "prefix": "ide",

@@ -45,7 +45,7 @@ try {
   const STRICT = params.get('strict') === '1';
   const APP_VERSION = window.KE_APP_VERSION || 'dev';
   const DEFAULT_DICTIONARY_ID = 'pejvo-piv-20260620';
-  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r26';
+  const DEFAULT_DICTIONARY_ASSET_VERSION = 'pejvo-piv-20260620-r27';
   const DICTIONARY_SET_KEY = `ke-dictionary-set-v1:${location.pathname}`;
   const DICTIONARY_SETS = {
     [DEFAULT_DICTIONARY_ID]: {

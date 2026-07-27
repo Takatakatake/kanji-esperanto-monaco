@@ -6,9 +6,9 @@
     "itemCount": 508,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "f",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -1589,13 +1589,13 @@
       "body": "现ᶠᴱ",
       "kanji": "现",
       "detail": "fen → 现ᶠᴱ (語限定 phainein(希現れる·示す): fen/o/tip/o)",
-      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:91",
+      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:92",
       "priority": 1,
       "sourceRoot": "fen",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 91
+      "sourceLine": 92
     },
     {
       "prefix": "fend",
@@ -2421,13 +2421,13 @@
       "body": "系ᶠᴸ",
       "kanji": "系",
       "detail": "fil → 系ᶠᴸ (語限定 phylogenesis(系統発生)のfil: fil/o/genez/o)",
-      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:88",
+      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:89",
       "priority": 2,
       "sourceRoot": "fil",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 88
+      "sourceLine": 89
     },
     {
       "prefix": "filadelf",
@@ -2551,13 +2551,13 @@
       "body": "线ᶠ",
       "kanji": "线",
       "detail": "file → 线ᶠ (同綴異義: 罫線)",
-      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:162",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:168",
       "priority": 1,
       "sourceRoot": "file",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 162
+      "sourceLine": 168
     },
     {
       "prefix": "fili",
@@ -4059,26 +4059,26 @@
       "body": "响ᶠ",
       "kanji": "响",
       "detail": "fon → 响ᶠ (同綴異義: ホン)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:142",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:148",
       "priority": 1,
       "sourceRoot": "fon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 142
+      "sourceLine": 148
     },
     {
       "prefix": "fon",
       "body": "声ᶠᴼ",
       "kanji": "声",
       "detail": "fon → 声ᶠᴼ (語限定 phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等: fon/o/graf/o, fon/o/gram/o 他5語)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:115",
+      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:116",
       "priority": 2,
       "sourceRoot": "fon",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 115
+      "sourceLine": 116
     },
     {
       "prefix": "fond",

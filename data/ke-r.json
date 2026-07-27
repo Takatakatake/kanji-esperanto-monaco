@@ -6,9 +6,9 @@
     "itemCount": 390,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 167,
+    "homonymAltCount": 170,
     "bucket": "r",
-    "dictionaryItemCount": 10563
+    "dictionaryItemCount": 10566
   },
   "items": [
     {
@@ -4240,14 +4240,14 @@
       "prefix": "rod",
       "body": "泊",
       "kanji": "泊",
-      "detail": "rod → 泊 (同綴異義: 停泊)",
-      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: amb(同綴異義)\n語義: 停泊\n注記: 停泊地。rod=啃と別行\n基本形: no\n出典: homonym-alt.tsv:153",
+      "detail": "rod → 泊 (語限定 停泊地: rod/o, el/rod/ig^/i)",
+      "documentation": "語根: rod\n入力: rod\n最終形: 泊\n漢字: 泊\n識別子: なし\n型: sep(語限定)\n語義: 停泊地\n適用語: rod/o, el/rod/ig^/i\n注記: 停泊地。rod=啃と別行。2026-07-27 第15レンズ: -cmatch 是正で本行が amb→sep に復帰(従来は Rod/o=ロードス島 を同綴2行目と誤数)。派生 el/rod/ig^/i(【PIV】風で停泊地の外へ流される)も追加=出/啃/成「かじり出される」の偽の友を解消\n基本形: no\n出典: homonym-alt.tsv:159",
       "priority": 1,
       "sourceRoot": "rod",
-      "type": "amb",
+      "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 153
+      "sourceLine": 159
     },
     {
       "prefix": "rodi",
