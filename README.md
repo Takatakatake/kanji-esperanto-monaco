@@ -26,6 +26,7 @@ kanji-esperanto-monaco/
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
 node tools/merge-homonym-alt.mjs ./all.json ./data/homonym-alt.tsv ./all.json
+node tools/merge-inline-tokens.mjs ./all.json ./data/inline-tokens.tsv ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
 node tools/check-dictionary-assets.mjs ./all.json ./data
@@ -47,6 +48,11 @@ node tools/check-versions.mjs
   - `comb` — 結合形。`-metr-` = 计ᴹ「計器」（`metr` 単独の 米 とは別）
   `sep`/`comb` は語スコープ付きなので、適用語を `detail`（例: `krom → 金ᴷᴹ (語限定 クロム(金属元素): krom/o, krom/at/o 他1語)`）と `documentation` の `適用語:` 行に明記し、選択は人に委ねます。逆変換は表示形が一意なので常に無損失で、範囲外で選んでも語の選び間違いにしかなりません。
 - 取り込めない行はツールが理由付きで報告してスキップします（**語根が無い**=語中にしか現れない分節、**表示形の重複**=同じ形が複数行に載っている、**別語根の漢字と衝突**=採用すると逆変換が不可逆になる、**既に辞書にある**）。`check-dictionary-assets.mjs` は同じ分類器を読み込んで期待値を再計算し、`all.json` の中身と1件ずつ突き合わせます。**マージ工程を飛ばす・別義が欠ける・説明文や優先順位が食い違う、のいずれも CI が赤になります**。
+- `data/inline-tokens.tsv` は、正典 `_inline_tokens.tsv` の複製です（更新は同じく再取得するだけ: `sed '1s/^\xEF\xBB\xBF//' _inline_tokens.tsv > data/inline-tokens.tsv`）。注入層が**行単位の文脈**で決める描画のため、語根表にも同綴異義台帳にも載らないトークンが対象で、放置すると漢字文に現れるのに逆引きできません（例: `庚/an/o`=ヘプタン）。
+  - 採用するのは `merge-inline-tokens.mjs` の `ADOPTED_RULES` に挙げた規則だけで、現在は**アルキル語幹 `$alkylStem` のみ**（`but`→丁 / `pent`→戊 / `okt`→辛 / `hept`→庚 / `non`→壬 / `dek`→癸）。化学塩 `$chemSaltLine` と医学 `$medIt` は、綴りが分詞接尾 `-at-`/`-it-` と同じで入力頻度が桁違いに高いため**意図的に除外**しています（2026-07-27 ユーザー裁定）。正典が新しい規則を足しても既定は除外側なので、レビュー前に候補へ出てしまうことはありません。
+  - 同綴異義と違い、**単独語根が無くても採用します**。正典自身が裸の分節を見出しとして描画しており（`hept/` → `庚/`）、入力単位として実在するためです（`hept` はこれまで候補ゼロでした）。
+  - `merge-homonym-alt.mjs` はこのトークンを**素通しで温存しつつ、自分の優先順位の基準からは外します**。そうしないと「どちらを先に流したか」で全ての優先順位が変わってしまうためで、この2工程はどちらの順で何度流しても同じ結果へ収束します（順序を間違えた場合は CI が該当トークン名を挙げて止めます）。
+  - 1字の `丁` を足しても既存の `丁香`（チョウジ/ライラック）は壊れません。逆変換は**長い表示形から順に**照合するためで、注入コーパス 52,230 語で旧版と突き合わせて退行 0・新たに復元可能 23 語を確認しています。
 - `data/reverse.json` は、漢字ごとの割当語根検索に使う逆引きインデックスです。
 
 ## 大辞書（分割・遅延読込）

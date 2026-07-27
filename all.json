@@ -3,10 +3,12 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 10566,
+    "itemCount": 10572,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 170
+    "homonymAltCount": 170,
+    "inlineSourceName": "inline-tokens.tsv",
+    "inlineTokenCount": 6
   },
   "items": [
     {
@@ -18041,6 +18043,19 @@
       "sourceLine": 7303
     },
     {
+      "prefix": "but",
+      "body": "丁",
+      "kanji": "丁",
+      "detail": "but → 丁 (化学文脈: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol))",
+      "documentation": "語根: but\n入力: but\n最終形: 丁\n漢字: 丁\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)\n規則: $alkylStem\n注記: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)。バター but/er/o=培 と弁別\n基本形: no\n出典: inline-tokens.tsv:22",
+      "priority": 1,
+      "sourceRoot": "but",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 22
+    },
+    {
       "prefix": "bute",
       "body": "鹰ᴮ",
       "kanji": "鹰",
@@ -22459,6 +22474,19 @@
       "frequency": 65,
       "base": true,
       "sourceLine": 150
+    },
+    {
+      "prefix": "dek",
+      "body": "癸",
+      "kanji": "癸",
+      "detail": "dek → 癸 (化学文脈: アルキル C10 decane)",
+      "documentation": "語根: dek\n入力: dek\n最終形: 癸\n漢字: 癸\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C10 decane\n規則: $alkylStem\n注記: アルキル C10 decane。数詞 dek=十 と弁別\n基本形: no\n出典: inline-tokens.tsv:27",
+      "priority": 1,
+      "sourceRoot": "dek",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 27
     },
     {
       "prefix": "deka",
@@ -47588,6 +47616,19 @@
       "frequency": 1,
       "base": true,
       "sourceLine": 9279
+    },
+    {
+      "prefix": "hept",
+      "body": "庚",
+      "kanji": "庚",
+      "detail": "hept → 庚 (化学文脈: アルキル C7 heptane)",
+      "documentation": "語根: hept\n入力: hept\n最終形: 庚\n漢字: 庚\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C7 heptane\n規則: $alkylStem\n注記: アルキル C7 heptane\n基本形: no\n出典: inline-tokens.tsv:25",
+      "priority": 0,
+      "sourceRoot": "hept",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 25
     },
     {
       "prefix": "hepta",
@@ -88722,6 +88763,19 @@
       "sourceLine": 1929
     },
     {
+      "prefix": "non",
+      "body": "壬",
+      "kanji": "壬",
+      "detail": "non → 壬 (化学文脈: アルキル C9 nonane)",
+      "documentation": "語根: non\n入力: non\n最終形: 壬\n漢字: 壬\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C9 nonane\n規則: $alkylStem\n注記: アルキル C9 nonane\n基本形: no\n出典: inline-tokens.tsv:26",
+      "priority": 0,
+      "sourceRoot": "non",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 26
+    },
+    {
       "prefix": "nopal",
       "body": "草ᴺᴼ",
       "kanji": "草",
@@ -90202,6 +90256,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 7190
+    },
+    {
+      "prefix": "okt",
+      "body": "辛",
+      "kanji": "辛",
+      "detail": "okt → 辛 (化学文脈: アルキル C8 octane)",
+      "documentation": "語根: okt\n入力: okt\n最終形: 辛\n漢字: 辛\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C8 octane\n規則: $alkylStem\n注記: アルキル C8 octane。八度 okt/o=八度 と弁別\n基本形: no\n出典: inline-tokens.tsv:24",
+      "priority": 1,
+      "sourceRoot": "okt",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 24
     },
     {
       "prefix": "okta",
@@ -96494,6 +96561,19 @@
       "frequency": 0,
       "base": false,
       "sourceLine": 11
+    },
+    {
+      "prefix": "pent",
+      "body": "戊",
+      "kanji": "戊",
+      "detail": "pent → 戊 (化学文脈: アルキル C5 pentane)",
+      "documentation": "語根: pent\n入力: pent\n最終形: 戊\n漢字: 戊\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C5 pentane\n規則: $alkylStem\n注記: アルキル C5 pentane。後悔 pent/o=悔 と弁別\n基本形: no\n出典: inline-tokens.tsv:23",
+      "priority": 2,
+      "sourceRoot": "pent",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 23
     },
     {
       "prefix": "penta",

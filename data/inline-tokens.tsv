@@ -1,0 +1,27 @@
+# 文脈規則が直接埋め込む描画トークンの一覧(2026-07-27 第16レンズで新設)
+#
+# 【なぜ要るか】
+# 注入層 _inject_final.ps1 は、化学塩・医学-itis・アルキル語幹などを **行レベルの文脈判定** で描画する。
+# これらのトークンは語根表(_identifier_sidecar.tsv)にも同綴異義台帳(_homonym_disp.tsv)にも載らないため、
+# 配信物だけを見ているアプリは「漢字→語根」の逆引き辞書を完成できない(第16レンズで9種を検出)。
+# ここに一覧を置き、[N]監査(_audit_token_coverage.py)が出力との突き合わせを機械検査する。
+#
+# 【逆引きは一意】下の9トークンはいずれも1つの分節にしか使われない(第16レンズで全出現を確認)。
+#
+# 【注意: ここに載せていない文脈共有】アルキル語幹の甲(met)・乙(et)・丙(prop)・己(heks)は
+#   語根表に別の所有者がいる(甲=kiras鎧・乙=etil・丙=propil・己=si)。
+#   化学文脈でだけ met/et/prop/heks を指すので、**字だけでは逆引きできない**(語釈が要る)。
+#   同種の文脈共有は他にも 吞(fag←glut)・马(hipo←c^eval)・瘤(om←veruk)・尿(uri←urin) など約58種あり、
+#   これは設計どおり(rare字を作らず既存hubへ合流)。逆引きの完全性より字種の節約を優先した結果。
+#
+# 列: token(描画トークン) / segment(戻る分節) / rule(注入側の規則) / note
+token	segment	rule	note
+盐ᴬ	at	$chemSaltLine	化学塩 -ate(酢酸塩 acet/at/o=醋/盐ᴬ)。受動分詞 -at-=被 と弁別。行レベルの化学判定で発火
+盐ᴵ	it	$chemSaltLine	化学塩 -ite(亜リン酸 fosf/it/a=磷/盐ᴵ)。受動分詞 -it-=受 と弁別
+炎ᵀ	it	$medIt	医学 -itis(炎症。虫垂炎 apendic/it/o=虫垂/炎ᵀ)。受動分詞 -it-=受・化学塩 盐ᴵ と弁別
+丁	but	$alkylStem	アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)。バター but/er/o=培 と弁別
+戊	pent	$alkylStem	アルキル C5 pentane。後悔 pent/o=悔 と弁別
+辛	okt	$alkylStem	アルキル C8 octane。八度 okt/o=八度 と弁別
+庚	hept	$alkylStem	アルキル C7 heptane
+壬	non	$alkylStem	アルキル C9 nonane
+癸	dek	$alkylStem	アルキル C10 decane。数詞 dek=十 と弁別

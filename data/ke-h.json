@@ -3,12 +3,14 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 401,
+    "itemCount": 402,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
     "homonymAltCount": 170,
+    "inlineSourceName": "inline-tokens.tsv",
+    "inlineTokenCount": 6,
     "bucket": "h",
-    "dictionaryItemCount": 10566
+    "dictionaryItemCount": 10572
   },
   "items": [
     {
@@ -1726,6 +1728,19 @@
       "frequency": 1,
       "base": true,
       "sourceLine": 9279
+    },
+    {
+      "prefix": "hept",
+      "body": "庚",
+      "kanji": "庚",
+      "detail": "hept → 庚 (化学文脈: アルキル C7 heptane)",
+      "documentation": "語根: hept\n入力: hept\n最終形: 庚\n漢字: 庚\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C7 heptane\n規則: $alkylStem\n注記: アルキル C7 heptane\n基本形: no\n出典: inline-tokens.tsv:25",
+      "priority": 0,
+      "sourceRoot": "hept",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 25
     },
     {
       "prefix": "hepta",

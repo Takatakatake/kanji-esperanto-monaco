@@ -37,8 +37,9 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { toXSystem } from './x-system.mjs';
+import { ALT_TYPES, INLINE_TYPE } from './candidate-types.mjs';
 
-export const ALT_TYPES = new Set(['amb', 'sep', 'comb']);
+export { ALT_TYPES };
 
 const TYPE_LABEL = { amb: '同綴異義', sep: '語限定', comb: '結合形' };
 
@@ -206,13 +207,18 @@ export function classifyAlternates(baseItems, rows, sourceName = 'homonym-alt.ts
 async function main() {
   const [,, allPath = './all.json', altPath = './data/homonym-alt.tsv', outPath = allPath] = process.argv;
   const src = JSON.parse(await fs.readFile(allPath, 'utf8'));
+  const srcItems = Array.isArray(src.items) ? src.items : [];
   // Drop any previously merged alternates so the step is idempotent (see header).
-  const baseItems = (Array.isArray(src.items) ? src.items : []).filter(item => !ALT_TYPES.has(item.type));
+  // Inline tokens (merge-inline-tokens.mjs) are carried through untouched but kept OUT of the
+  // baseline: ranking alternates behind them would make this step's output depend on whether
+  // that other step had already run, and the two orders would disagree about every priority.
+  const baseItems = srcItems.filter(item => !ALT_TYPES.has(item.type) && item.type !== INLINE_TYPE);
+  const inlineItems = srcItems.filter(item => item.type === INLINE_TYPE);
   const sourceName = path.basename(altPath);
   const rows = parseAlternateTsv(await fs.readFile(altPath, 'utf8'));
   const { adopted, skipped } = classifyAlternates(baseItems, rows, sourceName);
 
-  const items = [...baseItems, ...adopted.map(entry => entry.item)].sort((a, b) => (
+  const items = [...baseItems, ...adopted.map(entry => entry.item), ...inlineItems].sort((a, b) => (
     String(a.prefix).localeCompare(String(b.prefix))
     || (Number(a.priority) || 0) - (Number(b.priority) || 0)
     || String(a.body || '').localeCompare(String(b.body || ''))

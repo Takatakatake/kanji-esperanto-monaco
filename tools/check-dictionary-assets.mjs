@@ -3,7 +3,9 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { buildReverseItems } from './generate-reverse-index.mjs';
-import { ALT_TYPES, classifyAlternates, parseAlternateTsv } from './merge-homonym-alt.mjs';
+import { ALT_TYPES, INLINE_TYPE } from './candidate-types.mjs';
+import { classifyAlternates, parseAlternateTsv } from './merge-homonym-alt.mjs';
+import { classifyInlineTokens, parseInlineTokenTsv } from './merge-inline-tokens.mjs';
 
 const [,, allPath = './all.json', dataDir = './data'] = process.argv;
 
@@ -152,7 +154,9 @@ const altSourcePath = path.join(dataDir, 'homonym-alt.tsv');
 try {
   const altRaw = await fs.readFile(altSourcePath, 'utf8');
   const altRows = parseAlternateTsv(altRaw);
-  const baseItems = items.filter(item => !ALT_TYPES.has(item.type));
+  // Same baseline the merge step uses: inline tokens rank AFTER the alternates, so they must not
+  // be part of what the alternates are ranked against (see merge-homonym-alt.mjs).
+  const baseItems = items.filter(item => !ALT_TYPES.has(item.type) && item.type !== INLINE_TYPE);
   const { adopted } = classifyAlternates(baseItems, altRows, path.basename(altSourcePath));
   const actual = items.filter(item => ALT_TYPES.has(item.type));
   const actualByBody = new Map(actual.map(item => [String(item.body || ''), item]));
@@ -174,6 +178,37 @@ try {
   // Absent source file: nothing to enforce (legacy dictionaries built by ke-txt-to-all.mjs
   // have no alternates at all). Any other failure is a real problem worth surfacing.
   if (error.code !== 'ENOENT') errors.push(`cannot verify homonym alternates: ${error.message}`);
+}
+
+// Inline rendering tokens (data/inline-tokens.tsv, merged by merge-inline-tokens.mjs) sit outside
+// the sidecar exactly like the homonym alternates, and are protected the same way: re-derive the
+// expected set with that tool's own classifier and compare. This also pins the ADOPTED_RULES
+// policy — if the master adds a rule, or an excluded rule is quietly let in, the build fails
+// instead of shipping new candidates on high-traffic suffixes that nobody reviewed.
+const inlineSourcePath = path.join(dataDir, 'inline-tokens.tsv');
+try {
+  const inlineRaw = await fs.readFile(inlineSourcePath, 'utf8');
+  const inlineRows = parseInlineTokenTsv(inlineRaw);
+  const existing = items.filter(item => item.type !== INLINE_TYPE);
+  const { adopted } = classifyInlineTokens(existing, inlineRows, path.basename(inlineSourcePath));
+  const actual = items.filter(item => item.type === INLINE_TYPE);
+  const actualByBody = new Map(actual.map(item => [String(item.body || ''), item]));
+
+  if (actual.length !== adopted.length) {
+    errors.push(`inline tokens: all.json carries ${actual.length} but ${path.basename(inlineSourcePath)} yields ${adopted.length} — run: node tools/merge-inline-tokens.mjs ./all.json ${inlineSourcePath} ./all.json`);
+  }
+  for (const entry of adopted) {
+    const item = actualByBody.get(entry.item.body);
+    if (!item) {
+      errors.push(`inline token missing from all.json: ${entry.row.segment} → ${entry.item.body}`);
+      continue;
+    }
+    if (JSON.stringify(item) !== JSON.stringify(entry.item)) {
+      errors.push(`inline token differs from its source row: ${entry.item.body} (${entry.row.segment}, line ${entry.row.line})`);
+    }
+  }
+} catch (error) {
+  if (error.code !== 'ENOENT') errors.push(`cannot verify inline tokens: ${error.message}`);
 }
 
 if (errors.length) {

@@ -3,12 +3,14 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 280,
+    "itemCount": 281,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
     "homonymAltCount": 170,
+    "inlineSourceName": "inline-tokens.tsv",
+    "inlineTokenCount": 6,
     "bucket": "o",
-    "dictionaryItemCount": 10566
+    "dictionaryItemCount": 10572
   },
   "items": [
     {
@@ -959,6 +961,19 @@
       "frequency": 2,
       "base": false,
       "sourceLine": 7190
+    },
+    {
+      "prefix": "okt",
+      "body": "辛",
+      "kanji": "辛",
+      "detail": "okt → 辛 (化学文脈: アルキル C8 octane)",
+      "documentation": "語根: okt\n入力: okt\n最終形: 辛\n漢字: 辛\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C8 octane\n規則: $alkylStem\n注記: アルキル C8 octane。八度 okt/o=八度 と弁別\n基本形: no\n出典: inline-tokens.tsv:24",
+      "priority": 1,
+      "sourceRoot": "okt",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 24
     },
     {
       "prefix": "okta",

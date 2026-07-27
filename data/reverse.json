@@ -1,8 +1,8 @@
 {
   "meta": {
     "sourceName": "all.json",
-    "itemCount": 10566,
-    "dictionaryItemCount": 10566
+    "itemCount": 10572,
+    "dictionaryItemCount": 10572
   },
   "items": [
     {
@@ -68,6 +68,22 @@
       "base": true,
       "type": "piv",
       "sourceLine": 7559
+    },
+    {
+      "body": "丁",
+      "kanji": "丁",
+      "root": "but",
+      "prefixes": [
+        "but"
+      ],
+      "insertText": "but",
+      "detail": "but → 丁 (化学文脈: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol))",
+      "documentation": "語根: but\n入力: but\n最終形: 丁\n漢字: 丁\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)\n規則: $alkylStem\n注記: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)。バター but/er/o=培 と弁別\n基本形: no\n出典: inline-tokens.tsv:22",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 22
     },
     {
       "body": "丁香",
@@ -34134,6 +34150,22 @@
       "sourceLine": 6141
     },
     {
+      "body": "壬",
+      "kanji": "壬",
+      "root": "non",
+      "prefixes": [
+        "non"
+      ],
+      "insertText": "non",
+      "detail": "non → 壬 (化学文脈: アルキル C9 nonane)",
+      "documentation": "語根: non\n入力: non\n最終形: 壬\n漢字: 壬\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C9 nonane\n規則: $alkylStem\n注記: アルキル C9 nonane\n基本形: no\n出典: inline-tokens.tsv:26",
+      "priority": 0,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 26
+    },
+    {
       "body": "声",
       "kanji": "声",
       "root": "son",
@@ -45862,6 +45894,22 @@
       "sourceLine": 8158
     },
     {
+      "body": "庚",
+      "kanji": "庚",
+      "root": "hept",
+      "prefixes": [
+        "hept"
+      ],
+      "insertText": "hept",
+      "detail": "hept → 庚 (化学文脈: アルキル C7 heptane)",
+      "documentation": "語根: hept\n入力: hept\n最終形: 庚\n漢字: 庚\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C7 heptane\n規則: $alkylStem\n注記: アルキル C7 heptane\n基本形: no\n出典: inline-tokens.tsv:25",
+      "priority": 0,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 25
+    },
+    {
       "body": "废",
       "kanji": "废",
       "root": "rub",
@@ -51732,6 +51780,22 @@
       "base": true,
       "type": "pejvo",
       "sourceLine": 7023
+    },
+    {
+      "body": "戊",
+      "kanji": "戊",
+      "root": "pent",
+      "prefixes": [
+        "pent"
+      ],
+      "insertText": "pent",
+      "detail": "pent → 戊 (化学文脈: アルキル C5 pentane)",
+      "documentation": "語根: pent\n入力: pent\n最終形: 戊\n漢字: 戊\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C5 pentane\n規則: $alkylStem\n注記: アルキル C5 pentane。後悔 pent/o=悔 と弁別\n基本形: no\n出典: inline-tokens.tsv:23",
+      "priority": 2,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 23
     },
     {
       "body": "戏",
@@ -94052,6 +94116,22 @@
       "base": false,
       "type": "pejvo",
       "sourceLine": 7946
+    },
+    {
+      "body": "癸",
+      "kanji": "癸",
+      "root": "dek",
+      "prefixes": [
+        "dek"
+      ],
+      "insertText": "dek",
+      "detail": "dek → 癸 (化学文脈: アルキル C10 decane)",
+      "documentation": "語根: dek\n入力: dek\n最終形: 癸\n漢字: 癸\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C10 decane\n規則: $alkylStem\n注記: アルキル C10 decane。数詞 dek=十 と弁別\n基本形: no\n出典: inline-tokens.tsv:27",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 27
     },
     {
       "body": "白",
@@ -145476,6 +145556,22 @@
       "base": true,
       "type": "piv",
       "sourceLine": 7904
+    },
+    {
+      "body": "辛",
+      "kanji": "辛",
+      "root": "okt",
+      "prefixes": [
+        "okt"
+      ],
+      "insertText": "okt",
+      "detail": "okt → 辛 (化学文脈: アルキル C8 octane)",
+      "documentation": "語根: okt\n入力: okt\n最終形: 辛\n漢字: 辛\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C8 octane\n規則: $alkylStem\n注記: アルキル C8 octane。八度 okt/o=八度 と弁別\n基本形: no\n出典: inline-tokens.tsv:24",
+      "priority": 1,
+      "frequency": 0,
+      "base": false,
+      "type": "inline",
+      "sourceLine": 24
     },
     {
       "body": "辞",

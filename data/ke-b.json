@@ -3,12 +3,14 @@
     "sourceName": "sidecar_r26_HEAD.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 449,
+    "itemCount": 450,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
     "homonymAltCount": 170,
+    "inlineSourceName": "inline-tokens.tsv",
+    "inlineTokenCount": 6,
     "bucket": "b",
-    "dictionaryItemCount": 10566
+    "dictionaryItemCount": 10572
   },
   "items": [
     {
@@ -5756,6 +5758,19 @@
       "frequency": 3,
       "base": true,
       "sourceLine": 7303
+    },
+    {
+      "prefix": "but",
+      "body": "丁",
+      "kanji": "丁",
+      "detail": "but → 丁 (化学文脈: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol))",
+      "documentation": "語根: but\n入力: but\n最終形: 丁\n漢字: 丁\n識別子: なし\n型: inline(文脈埋込)\n語義: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)\n規則: $alkylStem\n注記: アルキル C4 butane(ブタノール but/an/ol/o=丁/an/ol)。バター but/er/o=培 と弁別\n基本形: no\n出典: inline-tokens.tsv:22",
+      "priority": 1,
+      "sourceRoot": "but",
+      "type": "inline",
+      "frequency": 0,
+      "base": false,
+      "sourceLine": 22
     },
     {
       "prefix": "bute",
