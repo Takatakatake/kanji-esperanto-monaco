@@ -15,7 +15,6 @@ Monaco Editor を使った「漢字化エスペラント」入力サイト。URL
 kanji-esperanto-monaco/
 ├─ index.html       # 画面と Monaco ローダ
 ├─ app.js           # 言語登録・補完・キーバインド
-├─ ke-snippets.js   # 旧来の小規模辞書サンプル（通常は未使用）
 ├─ data/            # 大辞書用の分割 JSON（任意）
 └─ tools/           # 大辞書を分割する補助スクリプト
 ```
