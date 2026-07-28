@@ -21,11 +21,13 @@ kanji-esperanto-monaco/
 ```
 
 ## 漢字割当 TSV からの取り込み
-割当の正典ディレクトリ `漢字化・語彙資料/エスペラント語根＿漢字割り当て＿20260621`（旧 `PEJVO・PIV語根分解資料_20260613` の後継・現行の正）の `_identifier_sidecar.tsv` を、Monaco 補完用の `all.json` に変換できます。`漢字割当一覧_識別子付きプレビュー` 形式の TSV も同じツールで取り込めます。
+辞書は正典ディレクトリ `エスペラント語根＿漢字割り当て＿20260630` の3ファイルから組み立てます。
+
+> **規則そのものと「なぜ緩めてはいけないか」は、各ツール冒頭のコメントが正**です。ここには手順だけを置きます。同じ規則を2か所に書くと必ず片方が古くなり、しかも散文には CI が効きません（正典側で実際に起きた事故がこの形でした——撤回済みの裁定が別の記録に残ったまま、誰も気づかないうちに実装へ復活しかけた）。
 
 ```
 node tools/kanji-assignments-tsv-to-all.mjs "/path/to/_identifier_sidecar.tsv" ./all.json
-node tools/merge-homonym-alt.mjs ./all.json ./data/homonym-alt.tsv ./all.json
+node tools/merge-homonym-alt.mjs   ./all.json ./data/homonym-alt.tsv   ./all.json
 node tools/merge-inline-tokens.mjs ./all.json ./data/inline-tokens.tsv ./all.json
 node tools/split-dictionary.mjs ./all.json ./data
 node tools/generate-reverse-index.mjs ./all.json ./data/reverse.json
@@ -33,29 +35,34 @@ node tools/check-dictionary-assets.mjs ./all.json ./data
 node tools/check-versions.mjs
 ```
 
-- `check-dictionary-assets.mjs` は、分割バケットと逆引きインデックスの**内容**が `all.json` と一致するか検証します。
-- `check-versions.mjs` は、`sw.js` / `app.js` / `index.html` のバージョン文字列が食い違っていないか検証します（辞書更新時の手動バンプ漏れ対策）。
-- これら2つのチェックは GitHub Actions（`.github/workflows/pages.yml` の `verify` ジョブ）で push / PR 時に自動実行され、不一致ならデプロイを止めます。
+### 入力の3ファイル
+| ファイル | 中身 | 規則の正 |
+|---|---|---|
+| `_identifier_sidecar.tsv`（正典） | 1語根1漢字の基本義 | `tools/kanji-assignments-tsv-to-all.mjs` |
+| `data/homonym-alt.tsv` | 同綴異義の第2候補以降（`amb`/`sep`/`comb`）。取り込めない行は理由付きで報告される | `tools/merge-homonym-alt.mjs`（撤回行の「封印」判定は `tools/candidate-types.mjs`） |
+| `data/inline-tokens.tsv` | 文脈で決まる描画トークン。採用範囲は `ADOPTED_RULES` で明示（現在はアルキル語幹のみ） | `tools/merge-inline-tokens.mjs` |
+
+`data/` の2つは正典の複製なので、正典が変わったら**再取得するだけ**です:
+
+```
+sed '1s/^\xEF\xBB\xBF//' _homonym_disp.tsv  > data/homonym-alt.tsv
+sed '1s/^\xEF\xBB\xBF//' _inline_tokens.tsv > data/inline-tokens.tsv
+```
+
+2つのマージ工程は**順序に依存しません**（どちらから何度流しても同じ結果へ収束します）。
+
+### CI が赤になる条件
+`.github/workflows/pages.yml` の `verify` ジョブが push / PR ごとに実行し、赤ならデプロイを止めます。
+
+- マージ工程を飛ばした / 副資料の行が欠けた / 説明文・優先順位・マージ順が食い違う
+  → `check-dictionary-assets.mjs` が**両マージ工程の分類器そのもの**を読み込んで期待値を再計算し、1件ずつ突き合わせます（規則の写しを持たないので、ツールを直せば検査も自動で追随します）
+- 分割バケット・逆引きインデックスの**内容**が `all.json` と一致しない（件数だけでなく中身を照合）
+- `sw.js` / `app.js` / `index.html` のバージョン文字列が食い違う → `check-versions.mjs`
+
+### 補完の見え方
 - `ĉ`, `ĝ`, `ŝ`, `ŭ` と `c^`, `g^`, `s^`, `u^` などは、入力用に `cx`, `gx`, `sx`, `ux` へ正規化します。
-- 同一語根に複数候補がある場合は、`priority` の小さい順に候補表示します。
-- `data/homonym-alt.tsv` は、**1つの綴りが複数の意味を持ち別々の漢字が当たっている**ケースを第2候補以降として登録する副資料です。`_identifier_sidecar.tsv` は1語根1漢字しか持てないため、正典 `_homonym_disp.tsv` をそのまま複製して補います（更新は正典から再取得するだけ）:
-  ```
-  sed '1s/^\xEF\xBB\xBF//' _homonym_disp.tsv > data/homonym-alt.tsv
-  ```
-  3種類の行があり、いずれも `merge-homonym-alt.mjs` が `priority` 1 以降（基本義の後ろ）として `all.json` に合流させます。
-  - `amb` — 綴りを共有する**全く別の語**。`plum` = 羽「羽根」/ 笔ᴾᴸ「ペン」、`mat` = 席「マット」/ 将ᴹ「チェス詰み」
-  - `sep` — **特定の語の中でだけ**成り立つ語義。`krom` = 外「〜のほかに」だが `krom/o` などでは 金ᴷᴹ「クロム」
-  - `comb` — 結合形。`-metr-` = 计ᴹ「計器」（`metr` 単独の 米 とは別）
-  `sep`/`comb` は語スコープ付きなので、適用語を `detail`（例: `krom → 金ᴷᴹ (語限定 クロム(金属元素): krom/o, krom/at/o 他1語)`）と `documentation` の `適用語:` 行に明記し、選択は人に委ねます。逆変換は表示形が一意なので常に無損失で、範囲外で選んでも語の選び間違いにしかなりません。
-- **裁定が撤回された行は、正典が行ごと消さずに「封印」して残します**（判断の記録を失わないため）。語義欄が `【削除済ダミー・発火しない】` に差し替えられ、注記に `使用禁止` / `実現禁止` / `撤回・封印` が入ります。`merge-homonym-alt.mjs` は正典の注入器と**同一の判定式**（`SEALED_NOTE`、`tools/candidate-types.mjs`）でこれを検出し、他のどの判定よりも先に弾きます。列だけ読むツールは漢字が残っているため気付かず候補に出してしまいます（実例: `kuri → 居ᴷ` は部分音訳で方針違反として撤回されたのに、そのままでは「同綴異義: 【削除済ダミー・発火しない】」という候補になっていました）。
-  - この式を `撤回` だけに緩めてはいけません。**現役の行が「別の形が撤回された」と本文で説明している**ことがあり（`sol → 胶ˢ` が実際にそうです）、緩い一致はそれらを巻き添えで封印します。
-- 取り込めない行はツールが理由付きで報告してスキップします（**封印**、**語根が無い**=語中にしか現れない分節、**表示形の重複**=同じ形が複数行に載っている、**別語根の漢字と衝突**=採用すると逆変換が不可逆になる、**既に辞書にある**）。`check-dictionary-assets.mjs` は同じ分類器を読み込んで期待値を再計算し、`all.json` の中身と1件ずつ突き合わせます。**マージ工程を飛ばす・別義が欠ける・説明文や優先順位が食い違う、のいずれも CI が赤になります**。
-- `data/inline-tokens.tsv` は、正典 `_inline_tokens.tsv` の複製です（更新は同じく再取得するだけ: `sed '1s/^\xEF\xBB\xBF//' _inline_tokens.tsv > data/inline-tokens.tsv`）。注入層が**行単位の文脈**で決める描画のため、語根表にも同綴異義台帳にも載らないトークンが対象で、放置すると漢字文に現れるのに逆引きできません（例: `庚/an/o`=ヘプタン）。
-  - 採用するのは `merge-inline-tokens.mjs` の `ADOPTED_RULES` に挙げた規則だけで、現在は**アルキル語幹 `$alkylStem` のみ**（`but`→丁 / `pent`→戊 / `okt`→辛 / `hept`→庚 / `non`→壬 / `dek`→癸）。化学塩 `$chemSaltLine` と医学 `$medIt` は、綴りが分詞接尾 `-at-`/`-it-` と同じで入力頻度が桁違いに高いため**意図的に除外**しています（2026-07-27 ユーザー裁定）。正典が新しい規則を足しても既定は除外側なので、レビュー前に候補へ出てしまうことはありません。
-  - 同綴異義と違い、**単独語根が無くても採用します**。正典自身が裸の分節を見出しとして描画しており（`hept/` → `庚/`）、入力単位として実在するためです（`hept` はこれまで候補ゼロでした）。
-  - `merge-homonym-alt.mjs` はこのトークンを**素通しで温存しつつ、自分の優先順位の基準からは外します**。そうしないと「どちらを先に流したか」で全ての優先順位が変わってしまうためで、この2工程はどちらの順で何度流しても同じ結果へ収束します（順序を間違えた場合は CI が該当トークン名を挙げて止めます）。
-  - 1字の `丁` を足しても既存の `丁香`（チョウジ/ライラック）は壊れません。逆変換は**長い表示形から順に**照合するためで、注入コーパス 52,230 語で旧版と突き合わせて退行 0・新たに復元可能 23 語を確認しています。
-- `data/reverse.json` は、漢字ごとの割当語根検索に使う逆引きインデックスです。
+- 同一語根に複数候補がある場合は `priority` の小さい順（基本義が先頭）に表示します。語スコープ付きの語義は適用語を `detail` と `documentation` の `適用語:` 行に明記し、選択は人に委ねます。
+- `data/reverse.json` は「割当検索」パネルが使う、漢字ごとの割当語根の逆引きインデックスです。
 
 ## 大辞書（分割・遅延読込）
 - `data/ke-a.json`, `data/ke-b.json`, ... に `{ meta, items: [{ prefix, body, detail? }] }` 形式で保存。

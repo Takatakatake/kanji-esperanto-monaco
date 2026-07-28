@@ -24,10 +24,16 @@
 // Rows are adopted only when they can be attached safely; every other row is reported with
 // its reason so a master-side change never silently alters what ships. Skips are expected
 // (the master maintains this table for the annotator, whose reach is wider than the editor's):
+//   * `sealed`                 — the master retracted this sense and neutralised the row in
+//                                place; checked FIRST, before the row can claim anything
+//                                (see SEALED_NOTE in candidate-types.mjs for why, and for why
+//                                the pattern must not be loosened)
 //   * `already in dictionary`  — the exact form is already assigned to that same root
 //   * `duplicate display form` — an earlier row already contributes it (same morpheme listed
 //                                under several types); adopting both would collide with itself
-//   * `no base root`           — a word-internal segment with no standalone root to rank after
+//   * `no base root`           — a word-internal segment with no standalone root to rank after.
+//                                Contrast merge-inline-tokens.mjs, which DOES attach rootless
+//                                segments — its header explains when that is right
 //   * `collides with another root` — the form already belongs to a DIFFERENT root; adopting it
 //                                would make reversal lossy (see check-dictionary-assets.mjs)
 //
