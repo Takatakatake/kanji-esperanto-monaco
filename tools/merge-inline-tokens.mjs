@@ -121,7 +121,7 @@ export function classifyInlineTokens(existingItems, rows, sourceName = 'inline-t
     // The master seals retracted rows in place rather than deleting them (see SEALED_NOTE). This
     // table has none today; honour the convention anyway so a future retraction here cannot ship.
     if (SEALED_NOTE.test(String(row.note || ''))) {
-      skipped.push({ row, reason: 'sealed by the master — its note marks the token 使用禁止/実現禁止/撤回・封印' });
+      skipped.push({ row, reason: 'sealed by the master — its note forbids using this token (see SEALED_NOTE)' });
       continue;
     }
 

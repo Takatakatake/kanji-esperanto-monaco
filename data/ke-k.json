@@ -6,11 +6,11 @@
     "itemCount": 1224,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 169,
+    "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "k",
-    "dictionaryItemCount": 10573
+    "dictionaryItemCount": 10571
   },
   "items": [
     {
@@ -15186,10 +15186,10 @@
     },
     {
       "prefix": "kuriterapi",
-      "body": "廷疗",
-      "kanji": "廷疗",
-      "detail": "kuriterapi → 廷疗 (piv, F=1, 基本形)",
-      "documentation": "語根: kuriterapi\n入力: kuriterapi\n最終形: 廷疗\n漢字: 廷疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9528",
+      "body": "kuri疗",
+      "kanji": "kuri疗",
+      "detail": "kuriterapi → kuri疗 (piv, F=1, 基本形)",
+      "documentation": "語根: kuriterapi\n入力: kuriterapi\n最終形: kuri疗\n漢字: kuri疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9528",
       "priority": 0,
       "sourceRoot": "kuriterapi",
       "type": "piv",

@@ -6,11 +6,11 @@
     "itemCount": 450,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 169,
+    "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "b",
-    "dictionaryItemCount": 10573
+    "dictionaryItemCount": 10571
   },
   "items": [
     {
@@ -3970,13 +3970,13 @@
       "body": "矿盐",
       "kanji": "矿盐",
       "detail": "borat → 矿盐 (piv, F=1, 基本形)",
-      "documentation": "語根: borat\n入力: borat\n最終形: 矿盐\n漢字: 矿盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:9974",
+      "documentation": "語根: borat\n入力: borat\n最終形: 矿盐\n漢字: 矿盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:9975",
       "priority": 0,
       "sourceRoot": "borat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9974
+      "sourceLine": 9975
     },
     {
       "prefix": "bord",

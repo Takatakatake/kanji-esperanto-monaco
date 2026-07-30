@@ -165,7 +165,7 @@ export function classifyAlternates(baseItems, rows, sourceName = 'homonym-alt.ts
     // Before anything else, so a retracted row cannot even claim its display form and block the
     // live row that may now carry it (see SEALED_NOTE).
     if (SEALED_NOTE.test(String(row.note || ''))) {
-      skipped.push({ row, reason: 'sealed by the master — its note marks the sense 使用禁止/実現禁止/撤回・封印' });
+      skipped.push({ row, reason: 'sealed by the master — its note forbids using this sense (see SEALED_NOTE)' });
       continue;
     }
     if (!row.segment || !row.overrideKanji || !row.overrideDisp) {

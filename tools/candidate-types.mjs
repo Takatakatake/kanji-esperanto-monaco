@@ -24,7 +24,23 @@ export const INLINE_TYPE = 'inline';
 // violation), yet the row still carries the kanji, so a tool that only reads the columns would
 // happily offer it — labelled with the placeholder text, no less.
 //
-// The pattern is a VERBATIM copy of the master's gate in `_inject_final.ps1`. Do not "improve"
-// it by matching 撤回 alone: active rows explain in prose that some OTHER form was retracted
-// (the live `sol → 胶ˢ` row says exactly that), and a looser match would silently seal them.
-export const SEALED_NOTE = /使用禁止|実現禁止|撤回・封印/;
+// The first three alternatives are a VERBATIM copy of the master's gate in `_inject_final.ps1`.
+// The fourth covers rows the master keeps as a RECORD of a settled ruling: it neutralises the
+// injection but leaves the kanji in place, then states in the note that the row is not permission
+// to use it ("笔を実現してよいという記録ではない。再提案不要"). Those rulings are the user's own
+// (plum→羽 統一 / sinus→洞ˢ 統一), so offering the retracted form as a candidate contradicts a
+// decision that has already been made.
+//
+// EVERY addition here must be a PROHIBITION, never a category description, and must be verified
+// against the whole ledger first. Measured on the 197-row table of master f1cc2a7:
+//   使用禁止 / 実現禁止 / 撤回・封印               → 1 row  (kuri 居ᴷ)          ✅ intended
+//   実現してよいという記録ではない                  → 2 rows (plum 笔ᴾᴸ, sinus 弦ˢ) ✅ intended
+// and the tempting-but-wrong candidates, all of which hit LIVE rows:
+//   注入非適用の履歴記録 — describes what an `amb` row IS; would kill every amb row if the
+//                          master ever writes it generally
+//   据置               — 5 rows, 3 of them live (aŭt 自ᴬ, arke 菌ᴬᴷ, on 叔ᴼᴺ)
+//   撤回 (alone)        — 3 rows, including the live `sol → 胶ˢ`, whose note merely explains
+//                          that some OTHER form was retracted
+// A false negative (shipping something the master did not want) is visible and fixable; a false
+// positive silently removes working candidates for every user. Prefer precision.
+export const SEALED_NOTE = /使用禁止|実現禁止|撤回・封印|実現してよいという記録ではない/;

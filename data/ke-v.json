@@ -6,11 +6,11 @@
     "itemCount": 282,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 169,
+    "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "v",
-    "dictionaryItemCount": 10573
+    "dictionaryItemCount": 10571
   },
   "items": [
     {
@@ -2176,13 +2176,13 @@
       "body": "振具",
       "kanji": "振具",
       "detail": "vibrator → 振具 (piv, F=1, 基本形)",
-      "documentation": "語根: vibrator\n入力: vibrator\n最終形: 振具\n漢字: 振具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9749",
+      "documentation": "語根: vibrator\n入力: vibrator\n最終形: 振具\n漢字: 振具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9750",
       "priority": 0,
       "sourceRoot": "vibrator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9749
+      "sourceLine": 9750
     },
     {
       "prefix": "vibrometr",

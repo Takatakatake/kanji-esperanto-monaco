@@ -3,14 +3,14 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 1020,
+    "itemCount": 1019,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 169,
+    "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "p",
-    "dictionaryItemCount": 10573
+    "dictionaryItemCount": 10571
   },
   "items": [
     {
@@ -57,26 +57,26 @@
       "body": "和主义",
       "kanji": "和主义",
       "detail": "pacifism → 和主义 (piv, F=1, 基本形)",
-      "documentation": "語根: pacifism\n入力: pacifism\n最終形: 和主义\n漢字: 和主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9779",
+      "documentation": "語根: pacifism\n入力: pacifism\n最終形: 和主义\n漢字: 和主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9780",
       "priority": 0,
       "sourceRoot": "pacifism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9779
+      "sourceLine": 9780
     },
     {
       "prefix": "pacifist",
       "body": "和家",
       "kanji": "和家",
       "detail": "pacifist → 和家 (piv, F=1, 基本形)",
-      "documentation": "語根: pacifist\n入力: pacifist\n最終形: 和家\n漢字: 和家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9780",
+      "documentation": "語根: pacifist\n入力: pacifist\n最終形: 和家\n漢字: 和家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9781",
       "priority": 0,
       "sourceRoot": "pacifist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9780
+      "sourceLine": 9781
     },
     {
       "prefix": "pacxul",
@@ -434,13 +434,13 @@
       "body": "口顶炎",
       "kanji": "口顶炎",
       "detail": "palatit → 口顶炎 (piv, F=1, 基本形)",
-      "documentation": "語根: palatit\n入力: palatit\n最終形: 口顶炎\n漢字: 口顶炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9781",
+      "documentation": "語根: palatit\n入力: palatit\n最終形: 口顶炎\n漢字: 口顶炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9782",
       "priority": 0,
       "sourceRoot": "palatit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9781
+      "sourceLine": 9782
     },
     {
       "prefix": "palavr",
@@ -525,39 +525,39 @@
       "body": "古记",
       "kanji": "古记",
       "detail": "paleograf → 古记 (piv, F=1, 基本形)",
-      "documentation": "語根: paleograf\n入力: paleograf\n最終形: 古记\n漢字: 古记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9782",
+      "documentation": "語根: paleograf\n入力: paleograf\n最終形: 古记\n漢字: 古记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9783",
       "priority": 0,
       "sourceRoot": "paleograf",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9782
-    },
-    {
-      "prefix": "paleografi",
-      "body": "古志",
-      "kanji": "古志",
-      "detail": "paleografi → 古志 (piv, F=1, 基本形)",
-      "documentation": "語根: paleografi\n入力: paleografi\n最終形: 古志\n漢字: 古志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9783",
-      "priority": 0,
-      "sourceRoot": "paleografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9783
     },
     {
+      "prefix": "paleografi",
+      "body": "古志",
+      "kanji": "古志",
+      "detail": "paleografi → 古志 (piv, F=1, 基本形)",
+      "documentation": "語根: paleografi\n入力: paleografi\n最終形: 古志\n漢字: 古志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9784",
+      "priority": 0,
+      "sourceRoot": "paleografi",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9784
+    },
+    {
       "prefix": "paleolitik",
       "body": "古石学",
       "kanji": "古石学",
       "detail": "paleolitik → 古石学 (piv, F=1, 基本形)",
-      "documentation": "語根: paleolitik\n入力: paleolitik\n最終形: 古石学\n漢字: 古石学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9784",
+      "documentation": "語根: paleolitik\n入力: paleolitik\n最終形: 古石学\n漢字: 古石学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9785",
       "priority": 0,
       "sourceRoot": "paleolitik",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9784
+      "sourceLine": 9785
     },
     {
       "prefix": "paleont",
@@ -733,13 +733,13 @@
       "body": "目皮炎",
       "kanji": "目皮炎",
       "detail": "palpebrit → 目皮炎 (piv, F=1, 基本形)",
-      "documentation": "語根: palpebrit\n入力: palpebrit\n最終形: 目皮炎\n漢字: 目皮炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9785",
+      "documentation": "語根: palpebrit\n入力: palpebrit\n最終形: 目皮炎\n漢字: 目皮炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9786",
       "priority": 0,
       "sourceRoot": "palpebrit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9785
+      "sourceLine": 9786
     },
     {
       "prefix": "palt",
@@ -1003,16 +1003,16 @@
     },
     {
       "prefix": "paniklit",
-      "body": "圆锥炎",
-      "kanji": "圆锥炎",
-      "detail": "paniklit → 圆锥炎 (piv, F=1, 基本形)",
-      "documentation": "語根: paniklit\n入力: paniklit\n最終形: 圆锥炎\n漢字: 圆锥炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9786",
+      "body": "脂炎",
+      "kanji": "脂炎",
+      "detail": "paniklit → 脂炎 (piv, F=1, 基本形)",
+      "documentation": "語根: paniklit\n入力: paniklit\n最終形: 脂炎\n漢字: 脂炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9787",
       "priority": 0,
       "sourceRoot": "paniklit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9786
+      "sourceLine": 9787
     },
     {
       "prefix": "pankraci",
@@ -1071,39 +1071,39 @@
       "body": "胰除",
       "kanji": "胰除",
       "detail": "pankreatektomi → 胰除 (piv, F=1, 基本形)",
-      "documentation": "語根: pankreatektomi\n入力: pankreatektomi\n最終形: 胰除\n漢字: 胰除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9787",
+      "documentation": "語根: pankreatektomi\n入力: pankreatektomi\n最終形: 胰除\n漢字: 胰除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9788",
       "priority": 0,
       "sourceRoot": "pankreatektomi",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9787
-    },
-    {
-      "prefix": "pankreatit",
-      "body": "胰炎",
-      "kanji": "胰炎",
-      "detail": "pankreatit → 胰炎 (piv, F=1, 基本形)",
-      "documentation": "語根: pankreatit\n入力: pankreatit\n最終形: 胰炎\n漢字: 胰炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9788",
-      "priority": 0,
-      "sourceRoot": "pankreatit",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9788
     },
     {
+      "prefix": "pankreatit",
+      "body": "胰炎",
+      "kanji": "胰炎",
+      "detail": "pankreatit → 胰炎 (piv, F=1, 基本形)",
+      "documentation": "語根: pankreatit\n入力: pankreatit\n最終形: 胰炎\n漢字: 胰炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9789",
+      "priority": 0,
+      "sourceRoot": "pankreatit",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9789
+    },
+    {
       "prefix": "pankromat",
       "body": "全色",
       "kanji": "全色",
       "detail": "pankromat → 全色 (piv, F=1, 基本形)",
-      "documentation": "語根: pankromat\n入力: pankromat\n最終形: 全色\n漢字: 全色\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9789",
+      "documentation": "語根: pankromat\n入力: pankromat\n最終形: 全色\n漢字: 全色\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9790",
       "priority": 0,
       "sourceRoot": "pankromat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9789
+      "sourceLine": 9790
     },
     {
       "prefix": "panope",
@@ -1162,26 +1162,26 @@
       "body": "全神主义",
       "kanji": "全神主义",
       "detail": "panteism → 全神主义 (piv, F=1, 基本形)",
-      "documentation": "語根: panteism\n入力: panteism\n最終形: 全神主义\n漢字: 全神主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9790",
+      "documentation": "語根: panteism\n入力: panteism\n最終形: 全神主义\n漢字: 全神主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9791",
       "priority": 0,
       "sourceRoot": "panteism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9790
+      "sourceLine": 9791
     },
     {
       "prefix": "panteist",
       "body": "全神家",
       "kanji": "全神家",
       "detail": "panteist → 全神家 (piv, F=1, 基本形)",
-      "documentation": "語根: panteist\n入力: panteist\n最終形: 全神家\n漢字: 全神家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9791",
+      "documentation": "語根: panteist\n入力: panteist\n最終形: 全神家\n漢字: 全神家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9792",
       "priority": 0,
       "sourceRoot": "panteist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9791
+      "sourceLine": 9792
     },
     {
       "prefix": "panter",
@@ -1370,26 +1370,26 @@
       "body": "纸草学家",
       "kanji": "纸草学家",
       "detail": "papirolog → 纸草学家 (piv, F=1, 基本形)",
-      "documentation": "語根: papirolog\n入力: papirolog\n最終形: 纸草学家\n漢字: 纸草学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9792",
+      "documentation": "語根: papirolog\n入力: papirolog\n最終形: 纸草学家\n漢字: 纸草学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9793",
       "priority": 0,
       "sourceRoot": "papirolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9792
+      "sourceLine": 9793
     },
     {
       "prefix": "papirologi",
       "body": "纸草学",
       "kanji": "纸草学",
       "detail": "papirologi → 纸草学 (piv, F=1, 基本形)",
-      "documentation": "語根: papirologi\n入力: papirologi\n最終形: 纸草学\n漢字: 纸草学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9793",
+      "documentation": "語根: papirologi\n入力: papirologi\n最終形: 纸草学\n漢字: 纸草学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9794",
       "priority": 0,
       "sourceRoot": "papirologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9793
+      "sourceLine": 9794
     },
     {
       "prefix": "papirus",
@@ -1539,13 +1539,13 @@
       "body": "并图",
       "kanji": "并图",
       "detail": "paralelogram → 并图 (piv, F=1, 基本形)",
-      "documentation": "語根: paralelogram\n入力: paralelogram\n最終形: 并图\n漢字: 并图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9794",
+      "documentation": "語根: paralelogram\n入力: paralelogram\n最終形: 并图\n漢字: 并图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9795",
       "priority": 0,
       "sourceRoot": "paralelogram",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9794
+      "sourceLine": 9795
     },
     {
       "prefix": "paraliz",
@@ -1643,26 +1643,26 @@
       "body": "寄生杀",
       "kanji": "寄生杀",
       "detail": "paraziticid → 寄生杀 (piv, F=1, 基本形)",
-      "documentation": "語根: paraziticid\n入力: paraziticid\n最終形: 寄生杀\n漢字: 寄生杀\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9795",
+      "documentation": "語根: paraziticid\n入力: paraziticid\n最終形: 寄生杀\n漢字: 寄生杀\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9796",
       "priority": 0,
       "sourceRoot": "paraziticid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9795
+      "sourceLine": 9796
     },
     {
       "prefix": "parazitologi",
       "body": "寄生学",
       "kanji": "寄生学",
       "detail": "parazitologi → 寄生学 (piv, F=1, 基本形)",
-      "documentation": "語根: parazitologi\n入力: parazitologi\n最終形: 寄生学\n漢字: 寄生学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9796",
+      "documentation": "語根: parazitologi\n入力: parazitologi\n最終形: 寄生学\n漢字: 寄生学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9797",
       "priority": 0,
       "sourceRoot": "parazitologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9796
+      "sourceLine": 9797
     },
     {
       "prefix": "parcel",
@@ -1942,13 +1942,13 @@
       "body": "极主义",
       "kanji": "极主义",
       "detail": "paroksism → 极主义 (piv, F=1, 基本形)",
-      "documentation": "語根: paroksism\n入力: paroksism\n最終形: 极主义\n漢字: 极主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9797",
+      "documentation": "語根: paroksism\n入力: paroksism\n最終形: 极主义\n漢字: 极主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9798",
       "priority": 0,
       "sourceRoot": "paroksism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9797
+      "sourceLine": 9798
     },
     {
       "prefix": "parol",
@@ -1994,13 +1994,13 @@
       "body": "腮腺炎",
       "kanji": "腮腺炎",
       "detail": "parotidit → 腮腺炎 (piv, F=1, 基本形)",
-      "documentation": "語根: parotidit\n入力: parotidit\n最終形: 腮腺炎\n漢字: 腮腺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9798",
+      "documentation": "語根: parotidit\n入力: parotidit\n最終形: 腮腺炎\n漢字: 腮腺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9799",
       "priority": 0,
       "sourceRoot": "parotidit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9798
+      "sourceLine": 9799
     },
     {
       "prefix": "part",
@@ -2566,39 +2566,39 @@
       "body": "病生",
       "kanji": "病生",
       "detail": "patogen → 病生 (piv, F=1, 基本形)",
-      "documentation": "語根: patogen\n入力: patogen\n最終形: 病生\n漢字: 病生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9799",
+      "documentation": "語根: patogen\n入力: patogen\n最終形: 病生\n漢字: 病生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9800",
       "priority": 0,
       "sourceRoot": "patogen",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9799
-    },
-    {
-      "prefix": "patogenez",
-      "body": "病源",
-      "kanji": "病源",
-      "detail": "patogenez → 病源 (piv, F=1, 基本形)",
-      "documentation": "語根: patogenez\n入力: patogenez\n最終形: 病源\n漢字: 病源\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9800",
-      "priority": 0,
-      "sourceRoot": "patogenez",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9800
     },
     {
+      "prefix": "patogenez",
+      "body": "病源",
+      "kanji": "病源",
+      "detail": "patogenez → 病源 (piv, F=1, 基本形)",
+      "documentation": "語根: patogenez\n入力: patogenez\n最終形: 病源\n漢字: 病源\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9801",
+      "priority": 0,
+      "sourceRoot": "patogenez",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9801
+    },
+    {
       "prefix": "patolog",
       "body": "病学家",
       "kanji": "病学家",
       "detail": "patolog → 病学家 (piv, F=1, 基本形)",
-      "documentation": "語根: patolog\n入力: patolog\n最終形: 病学家\n漢字: 病学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9801",
+      "documentation": "語根: patolog\n入力: patolog\n最終形: 病学家\n漢字: 病学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9802",
       "priority": 0,
       "sourceRoot": "patolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9801
+      "sourceLine": 9802
     },
     {
       "prefix": "patologi",
@@ -2735,13 +2735,13 @@
       "body": "父学",
       "kanji": "父学",
       "detail": "patrologi → 父学 (piv, F=1, 基本形)",
-      "documentation": "語根: patrologi\n入力: patrologi\n最終形: 父学\n漢字: 父学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9802",
+      "documentation": "語根: patrologi\n入力: patrologi\n最終形: 父学\n漢字: 父学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9803",
       "priority": 0,
       "sourceRoot": "patrologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9802
+      "sourceLine": 9803
     },
     {
       "prefix": "patron",
@@ -3086,13 +3086,13 @@
       "body": "童爱",
       "kanji": "童爱",
       "detail": "pedofili → 童爱 (piv, F=1, 基本形)",
-      "documentation": "語根: pedofili\n入力: pedofili\n最終形: 童爱\n漢字: 童爱\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9803",
+      "documentation": "語根: pedofili\n入力: pedofili\n最終形: 童爱\n漢字: 童爱\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9804",
       "priority": 0,
       "sourceRoot": "pedofili",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9803
+      "sourceLine": 9804
     },
     {
       "prefix": "pedolog",
@@ -3112,13 +3112,13 @@
       "body": "童学",
       "kanji": "童学",
       "detail": "pedologi → 童学 (piv, F=1, 基本形)",
-      "documentation": "語根: pedologi\n入力: pedologi\n最終形: 童学\n漢字: 童学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9804",
+      "documentation": "語根: pedologi\n入力: pedologi\n最終形: 童学\n漢字: 童学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9805",
       "priority": 0,
       "sourceRoot": "pedologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9804
+      "sourceLine": 9805
     },
     {
       "prefix": "pedunkl",
@@ -3346,13 +3346,13 @@
       "body": "盆测",
       "kanji": "盆测",
       "detail": "pelvometri → 盆测 (piv, F=1, 基本形)",
-      "documentation": "語根: pelvometri\n入力: pelvometri\n最終形: 盆测\n漢字: 盆测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9805",
+      "documentation": "語根: pelvometri\n入力: pelvometri\n最終形: 盆测\n漢字: 盆测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9806",
       "priority": 0,
       "sourceRoot": "pelvometri",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9805
+      "sourceLine": 9806
     },
     {
       "prefix": "pemikan",
@@ -3489,13 +3489,13 @@
       "body": "青霉素疗",
       "kanji": "青霉素疗",
       "detail": "penicilinoterapi → 青霉素疗 (piv, F=1, 基本形)",
-      "documentation": "語根: penicilinoterapi\n入力: penicilinoterapi\n最終形: 青霉素疗\n漢字: 青霉素疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9806",
+      "documentation": "語根: penicilinoterapi\n入力: penicilinoterapi\n最終形: 青霉素疗\n漢字: 青霉素疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9807",
       "priority": 0,
       "sourceRoot": "penicilinoterapi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9806
+      "sourceLine": 9807
     },
     {
       "prefix": "penik",
@@ -3528,13 +3528,13 @@
       "body": "阴茎炎",
       "kanji": "阴茎炎",
       "detail": "penisit → 阴茎炎 (piv, F=1, 基本形)",
-      "documentation": "語根: penisit\n入力: penisit\n最終形: 阴茎炎\n漢字: 阴茎炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9807",
+      "documentation": "語根: penisit\n入力: penisit\n最終形: 阴茎炎\n漢字: 阴茎炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9808",
       "priority": 0,
       "sourceRoot": "penisit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9807
+      "sourceLine": 9808
     },
     {
       "prefix": "pens",
@@ -3658,26 +3658,26 @@
       "body": "五图",
       "kanji": "五图",
       "detail": "pentagram → 五图 (piv, F=1, 基本形)",
-      "documentation": "語根: pentagram\n入力: pentagram\n最終形: 五图\n漢字: 五图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9808",
+      "documentation": "語根: pentagram\n入力: pentagram\n最終形: 五图\n漢字: 五图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9809",
       "priority": 0,
       "sourceRoot": "pentagram",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9808
+      "sourceLine": 9809
     },
     {
       "prefix": "pentametr",
       "body": "五米",
       "kanji": "五米",
       "detail": "pentametr → 五米 (piv, F=1, 基本形)",
-      "documentation": "語根: pentametr\n入力: pentametr\n最終形: 五米\n漢字: 五米\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9809",
+      "documentation": "語根: pentametr\n入力: pentametr\n最終形: 五米\n漢字: 五米\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9810",
       "priority": 0,
       "sourceRoot": "pentametr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9809
+      "sourceLine": 9810
     },
     {
       "prefix": "pentatom",
@@ -3944,13 +3944,13 @@
       "body": "围环",
       "kanji": "围环",
       "detail": "pericikl → 围环 (piv, F=1, 基本形)",
-      "documentation": "語根: pericikl\n入力: pericikl\n最終形: 围环\n漢字: 围环\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9810",
+      "documentation": "語根: pericikl\n入力: pericikl\n最終形: 围环\n漢字: 围环\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9811",
       "priority": 0,
       "sourceRoot": "pericikl",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9810
+      "sourceLine": 9811
     },
     {
       "prefix": "periferi",
@@ -3970,78 +3970,78 @@
       "body": "围句",
       "kanji": "围句",
       "detail": "perifraz → 围句 (piv, F=1, 基本形)",
-      "documentation": "語根: perifraz\n入力: perifraz\n最終形: 围句\n漢字: 围句\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9811",
+      "documentation": "語根: perifraz\n入力: perifraz\n最終形: 围句\n漢字: 围句\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9812",
       "priority": 0,
       "sourceRoot": "perifraz",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9811
-    },
-    {
-      "prefix": "periglaci",
-      "body": "围冰",
-      "kanji": "围冰",
-      "detail": "periglaci → 围冰 (piv, F=1, 基本形)",
-      "documentation": "語根: periglaci\n入力: periglaci\n最終形: 围冰\n漢字: 围冰\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9812",
-      "priority": 0,
-      "sourceRoot": "periglaci",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9812
     },
     {
-      "prefix": "periheli",
-      "body": "围日",
-      "kanji": "围日",
-      "detail": "periheli → 围日 (piv, F=1, 基本形)",
-      "documentation": "語根: periheli\n入力: periheli\n最終形: 围日\n漢字: 围日\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9813",
+      "prefix": "periglaci",
+      "body": "围冰",
+      "kanji": "围冰",
+      "detail": "periglaci → 围冰 (piv, F=1, 基本形)",
+      "documentation": "語根: periglaci\n入力: periglaci\n最終形: 围冰\n漢字: 围冰\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9813",
       "priority": 0,
-      "sourceRoot": "periheli",
+      "sourceRoot": "periglaci",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9813
     },
     {
-      "prefix": "perikard",
-      "body": "围心",
-      "kanji": "围心",
-      "detail": "perikard → 围心 (piv, F=1, 基本形)",
-      "documentation": "語根: perikard\n入力: perikard\n最終形: 围心\n漢字: 围心\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9814",
+      "prefix": "periheli",
+      "body": "围日",
+      "kanji": "围日",
+      "detail": "periheli → 围日 (piv, F=1, 基本形)",
+      "documentation": "語根: periheli\n入力: periheli\n最終形: 围日\n漢字: 围日\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9814",
       "priority": 0,
-      "sourceRoot": "perikard",
+      "sourceRoot": "periheli",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9814
     },
     {
+      "prefix": "perikard",
+      "body": "围心",
+      "kanji": "围心",
+      "detail": "perikard → 围心 (piv, F=1, 基本形)",
+      "documentation": "語根: perikard\n入力: perikard\n最終形: 围心\n漢字: 围心\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9815",
+      "priority": 0,
+      "sourceRoot": "perikard",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9815
+    },
+    {
       "prefix": "perikardi",
       "body": "围心ᴾᴵ",
       "kanji": "围心",
       "detail": "perikardi → 围心ᴾᴵ (piv, F=1)",
-      "documentation": "語根: perikardi\n入力: perikardi\n最終形: 围心ᴾᴵ\n漢字: 围心\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9815",
+      "documentation": "語根: perikardi\n入力: perikardi\n最終形: 围心ᴾᴵ\n漢字: 围心\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9816",
       "priority": 0,
       "sourceRoot": "perikardi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9815
+      "sourceLine": 9816
     },
     {
       "prefix": "perikardiit",
       "body": "围心炎",
       "kanji": "围心炎",
       "detail": "perikardiit → 围心炎 (piv, F=1, 基本形)",
-      "documentation": "語根: perikardiit\n入力: perikardiit\n最終形: 围心炎\n漢字: 围心炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9816",
+      "documentation": "語根: perikardiit\n入力: perikardiit\n最終形: 围心炎\n漢字: 围心炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9817",
       "priority": 0,
       "sourceRoot": "perikardiit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9816
+      "sourceLine": 9817
     },
     {
       "prefix": "perilj",
@@ -4061,13 +4061,13 @@
       "body": "围测",
       "kanji": "围测",
       "detail": "perimetr → 围测 (piv, F=1, 基本形)",
-      "documentation": "語根: perimetr\n入力: perimetr\n最終形: 围测\n漢字: 围测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9817",
+      "documentation": "語根: perimetr\n入力: perimetr\n最終形: 围测\n漢字: 围测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9818",
       "priority": 0,
       "sourceRoot": "perimetr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9817
+      "sourceLine": 9818
     },
     {
       "prefix": "period",
@@ -4100,13 +4100,13 @@
       "body": "围镜",
       "kanji": "围镜",
       "detail": "periskop → 围镜 (piv, F=1, 基本形)",
-      "documentation": "語根: periskop\n入力: periskop\n最終形: 围镜\n漢字: 围镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9818",
+      "documentation": "語根: periskop\n入力: periskop\n最終形: 围镜\n漢字: 围镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9819",
       "priority": 0,
       "sourceRoot": "periskop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9818
+      "sourceLine": 9819
     },
     {
       "prefix": "perisore",
@@ -4126,26 +4126,26 @@
       "body": "围种",
       "kanji": "围种",
       "detail": "perisperm → 围种 (piv, F=1, 基本形)",
-      "documentation": "語根: perisperm\n入力: perisperm\n最終形: 围种\n漢字: 围种\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9819",
+      "documentation": "語根: perisperm\n入力: perisperm\n最終形: 围种\n漢字: 围种\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9820",
       "priority": 0,
       "sourceRoot": "perisperm",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9819
+      "sourceLine": 9820
     },
     {
       "prefix": "perispirit",
       "body": "围灵",
       "kanji": "围灵",
       "detail": "perispirit → 围灵 (piv, F=1, 基本形)",
-      "documentation": "語根: perispirit\n入力: perispirit\n最終形: 围灵\n漢字: 围灵\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9820",
+      "documentation": "語根: perispirit\n入力: perispirit\n最終形: 围灵\n漢字: 围灵\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9821",
       "priority": 0,
       "sourceRoot": "perispirit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9820
+      "sourceLine": 9821
     },
     {
       "prefix": "peristalt",
@@ -4204,26 +4204,26 @@
       "body": "浸被",
       "kanji": "浸被",
       "detail": "perkolat → 浸被 (piv, F=1, 基本形)",
-      "documentation": "語根: perkolat\n入力: perkolat\n最終形: 浸被\n漢字: 浸被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9821",
+      "documentation": "語根: perkolat\n入力: perkolat\n最終形: 浸被\n漢字: 浸被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9822",
       "priority": 0,
       "sourceRoot": "perkolat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9821
+      "sourceLine": 9822
     },
     {
       "prefix": "perkolator",
       "body": "浸具",
       "kanji": "浸具",
       "detail": "perkolator → 浸具 (piv, F=1, 基本形)",
-      "documentation": "語根: perkolator\n入力: perkolator\n最終形: 浸具\n漢字: 浸具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9822",
+      "documentation": "語根: perkolator\n入力: perkolator\n最終形: 浸具\n漢字: 浸具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9823",
       "priority": 0,
       "sourceRoot": "perkolator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9822
+      "sourceLine": 9823
     },
     {
       "prefix": "perkut",
@@ -4282,13 +4282,13 @@
       "body": "过锰盐",
       "kanji": "过锰盐",
       "detail": "permanganat → 过锰盐 (piv, F=1, 基本形)",
-      "documentation": "語根: permanganat\n入力: permanganat\n最終形: 过锰盐\n漢字: 过锰盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9823",
+      "documentation": "語根: permanganat\n入力: permanganat\n最終形: 过锰盐\n漢字: 过锰盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9824",
       "priority": 0,
       "sourceRoot": "permanganat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9823
+      "sourceLine": 9824
     },
     {
       "prefix": "permeabl",
@@ -4347,13 +4347,13 @@
       "body": "过氧化",
       "kanji": "过氧化",
       "detail": "peroksid → 过氧化 (piv, F=1, 基本形)",
-      "documentation": "語根: peroksid\n入力: peroksid\n最終形: 过氧化\n漢字: 过氧化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9824",
+      "documentation": "語根: peroksid\n入力: peroksid\n最終形: 过氧化\n漢字: 过氧化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9825",
       "priority": 0,
       "sourceRoot": "peroksid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9824
+      "sourceLine": 9825
     },
     {
       "prefix": "peron",
@@ -4568,13 +4568,13 @@
       "body": "扰记",
       "kanji": "扰记",
       "detail": "perturbograf → 扰记 (piv, F=1, 基本形)",
-      "documentation": "語根: perturbograf\n入力: perturbograf\n最終形: 扰记\n漢字: 扰记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9825",
+      "documentation": "語根: perturbograf\n入力: perturbograf\n最終形: 扰记\n漢字: 扰记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9826",
       "priority": 0,
       "sourceRoot": "perturbograf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9825
+      "sourceLine": 9826
     },
     {
       "prefix": "peruk",
@@ -4646,26 +4646,26 @@
       "body": "悲主义",
       "kanji": "悲主义",
       "detail": "pesimism → 悲主义 (piv, F=1, 基本形)",
-      "documentation": "語根: pesimism\n入力: pesimism\n最終形: 悲主义\n漢字: 悲主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9826",
+      "documentation": "語根: pesimism\n入力: pesimism\n最終形: 悲主义\n漢字: 悲主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9827",
       "priority": 0,
       "sourceRoot": "pesimism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9826
+      "sourceLine": 9827
     },
     {
       "prefix": "pesimist",
       "body": "悲家",
       "kanji": "悲家",
       "detail": "pesimist → 悲家 (piv, F=1, 基本形)",
-      "documentation": "語根: pesimist\n入力: pesimist\n最終形: 悲家\n漢字: 悲家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9827",
+      "documentation": "語根: pesimist\n入力: pesimist\n最終形: 悲家\n漢字: 悲家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9828",
       "priority": 0,
       "sourceRoot": "pesimist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9827
+      "sourceLine": 9828
     },
     {
       "prefix": "pest",
@@ -4815,13 +4815,13 @@
       "body": "岩志",
       "kanji": "岩志",
       "detail": "petrografi → 岩志 (piv, F=1, 基本形)",
-      "documentation": "語根: petrografi\n入力: petrografi\n最終形: 岩志\n漢字: 岩志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9828",
+      "documentation": "語根: petrografi\n入力: petrografi\n最終形: 岩志\n漢字: 岩志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9829",
       "priority": 0,
       "sourceRoot": "petrografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9828
+      "sourceLine": 9829
     },
     {
       "prefix": "petrol",
@@ -4841,26 +4841,26 @@
       "body": "岩学家",
       "kanji": "岩学家",
       "detail": "petrolog → 岩学家 (piv, F=1, 基本形)",
-      "documentation": "語根: petrolog\n入力: petrolog\n最終形: 岩学家\n漢字: 岩学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9829",
+      "documentation": "語根: petrolog\n入力: petrolog\n最終形: 岩学家\n漢字: 岩学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9830",
       "priority": 0,
       "sourceRoot": "petrolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9829
+      "sourceLine": 9830
     },
     {
       "prefix": "petrologi",
       "body": "岩学",
       "kanji": "岩学",
       "detail": "petrologi → 岩学 (piv, F=1, 基本形)",
-      "documentation": "語根: petrologi\n入力: petrologi\n最終形: 岩学\n漢字: 岩学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9830",
+      "documentation": "語根: petrologi\n入力: petrologi\n最終形: 岩学\n漢字: 岩学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9831",
       "priority": 0,
       "sourceRoot": "petrologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9830
+      "sourceLine": 9831
     },
     {
       "prefix": "petromiz",
@@ -4893,13 +4893,13 @@
       "body": "岩伞",
       "kanji": "岩伞",
       "detail": "petroselin → 岩伞 (piv, F=1, 基本形)",
-      "documentation": "語根: petroselin\n入力: petroselin\n最終形: 岩伞\n漢字: 岩伞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9831",
+      "documentation": "語根: petroselin\n入力: petroselin\n最終形: 岩伞\n漢字: 岩伞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9832",
       "priority": 0,
       "sourceRoot": "petroselin",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9831
+      "sourceLine": 9832
     },
     {
       "prefix": "petuni",
@@ -5127,26 +5127,26 @@
       "body": "敬主义",
       "kanji": "敬主义",
       "detail": "pietism → 敬主义 (piv, F=1, 基本形)",
-      "documentation": "語根: pietism\n入力: pietism\n最終形: 敬主义\n漢字: 敬主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9832",
+      "documentation": "語根: pietism\n入力: pietism\n最終形: 敬主义\n漢字: 敬主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9833",
       "priority": 0,
       "sourceRoot": "pietism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9832
+      "sourceLine": 9833
     },
     {
       "prefix": "pietist",
       "body": "敬家",
       "kanji": "敬家",
       "detail": "pietist → 敬家 (piv, F=1, 基本形)",
-      "documentation": "語根: pietist\n入力: pietist\n最終形: 敬家\n漢字: 敬家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9833",
+      "documentation": "語根: pietist\n入力: pietist\n最終形: 敬家\n漢字: 敬家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9834",
       "priority": 0,
       "sourceRoot": "pietist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9833
+      "sourceLine": 9834
     },
     {
       "prefix": "pig",
@@ -5556,13 +5556,13 @@
       "body": "松植",
       "kanji": "松植",
       "detail": "pinofit → 松植 (piv, F=1, 基本形)",
-      "documentation": "語根: pinofit\n入力: pinofit\n最終形: 松植\n漢字: 松植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9834",
+      "documentation": "語根: pinofit\n入力: pinofit\n最終形: 松植\n漢字: 松植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9835",
       "priority": 0,
       "sourceRoot": "pinofit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9834
+      "sourceLine": 9835
     },
     {
       "prefix": "pint",
@@ -5608,26 +5608,26 @@
       "body": "脓血",
       "kanji": "脓血",
       "detail": "pioemi → 脓血 (piv, F=1, 基本形)",
-      "documentation": "語根: pioemi\n入力: pioemi\n最終形: 脓血\n漢字: 脓血\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9835",
+      "documentation": "語根: pioemi\n入力: pioemi\n最終形: 脓血\n漢字: 脓血\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9836",
       "priority": 0,
       "sourceRoot": "pioemi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9835
+      "sourceLine": 9836
     },
     {
       "prefix": "piogen",
       "body": "脓生",
       "kanji": "脓生",
       "detail": "piogen → 脓生 (piv, F=1, 基本形)",
-      "documentation": "語根: piogen\n入力: piogen\n最終形: 脓生\n漢字: 脓生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9836",
+      "documentation": "語根: piogen\n入力: piogen\n最終形: 脓生\n漢字: 脓生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9837",
       "priority": 0,
       "sourceRoot": "piogen",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9836
+      "sourceLine": 9837
     },
     {
       "prefix": "pionir",
@@ -5842,26 +5842,26 @@
       "body": "火地计",
       "kanji": "火地计",
       "detail": "pirgeometr → 火地计 (piv, F=1, 基本形)",
-      "documentation": "語根: pirgeometr\n入力: pirgeometr\n最終形: 火地计\n漢字: 火地计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9837",
+      "documentation": "語根: pirgeometr\n入力: pirgeometr\n最終形: 火地计\n漢字: 火地计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9838",
       "priority": 0,
       "sourceRoot": "pirgeometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9837
+      "sourceLine": 9838
     },
     {
       "prefix": "pirheliometr",
       "body": "火日计",
       "kanji": "火日计",
       "detail": "pirheliometr → 火日计 (piv, F=1, 基本形)",
-      "documentation": "語根: pirheliometr\n入力: pirheliometr\n最終形: 火日计\n漢字: 火日计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9838",
+      "documentation": "語根: pirheliometr\n入力: pirheliometr\n最終形: 火日计\n漢字: 火日计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9839",
       "priority": 0,
       "sourceRoot": "pirheliometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9838
+      "sourceLine": 9839
     },
     {
       "prefix": "pirit",
@@ -5881,13 +5881,13 @@
       "body": "火电",
       "kanji": "火电",
       "detail": "piroelektr → 火电 (piv, F=1, 基本形)",
-      "documentation": "語根: piroelektr\n入力: piroelektr\n最終形: 火电\n漢字: 火电\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9839",
+      "documentation": "語根: piroelektr\n入力: piroelektr\n最終形: 火电\n漢字: 火电\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9840",
       "priority": 0,
       "sourceRoot": "piroelektr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9839
+      "sourceLine": 9840
     },
     {
       "prefix": "pirog",
@@ -5907,13 +5907,13 @@
       "body": "火树瘤",
       "kanji": "火树瘤",
       "detail": "pirogajl → 火树瘤 (piv, F=1, 基本形)",
-      "documentation": "語根: pirogajl\n入力: pirogajl\n最終形: 火树瘤\n漢字: 火树瘤\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9840",
+      "documentation": "語根: pirogajl\n入力: pirogajl\n最終形: 火树瘤\n漢字: 火树瘤\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9841",
       "priority": 0,
       "sourceRoot": "pirogajl",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9840
+      "sourceLine": 9841
     },
     {
       "prefix": "pirokorak",
@@ -5946,65 +5946,65 @@
       "body": "火解",
       "kanji": "火解",
       "detail": "piroliz → 火解 (piv, F=1, 基本形)",
-      "documentation": "語根: piroliz\n入力: piroliz\n最終形: 火解\n漢字: 火解\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9841",
+      "documentation": "語根: piroliz\n入力: piroliz\n最終形: 火解\n漢字: 火解\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9842",
       "priority": 0,
       "sourceRoot": "piroliz",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9841
-    },
-    {
-      "prefix": "piromagnet",
-      "body": "火磁",
-      "kanji": "火磁",
-      "detail": "piromagnet → 火磁 (piv, F=1, 基本形)",
-      "documentation": "語根: piromagnet\n入力: piromagnet\n最終形: 火磁\n漢字: 火磁\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9842",
-      "priority": 0,
-      "sourceRoot": "piromagnet",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9842
     },
     {
-      "prefix": "pirometr",
-      "body": "火计",
-      "kanji": "火计",
-      "detail": "pirometr → 火计 (piv, F=1, 基本形)",
-      "documentation": "語根: pirometr\n入力: pirometr\n最終形: 火计\n漢字: 火计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9843",
+      "prefix": "piromagnet",
+      "body": "火磁",
+      "kanji": "火磁",
+      "detail": "piromagnet → 火磁 (piv, F=1, 基本形)",
+      "documentation": "語根: piromagnet\n入力: piromagnet\n最終形: 火磁\n漢字: 火磁\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9843",
       "priority": 0,
-      "sourceRoot": "pirometr",
+      "sourceRoot": "piromagnet",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9843
     },
     {
-      "prefix": "pirosulfat",
-      "body": "火硫盐",
-      "kanji": "火硫盐",
-      "detail": "pirosulfat → 火硫盐 (piv, F=1, 基本形)",
-      "documentation": "語根: pirosulfat\n入力: pirosulfat\n最終形: 火硫盐\n漢字: 火硫盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9844",
+      "prefix": "pirometr",
+      "body": "火计",
+      "kanji": "火计",
+      "detail": "pirometr → 火计 (piv, F=1, 基本形)",
+      "documentation": "語根: pirometr\n入力: pirometr\n最終形: 火计\n漢字: 火计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9844",
       "priority": 0,
-      "sourceRoot": "pirosulfat",
+      "sourceRoot": "pirometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9844
     },
     {
+      "prefix": "pirosulfat",
+      "body": "火硫盐",
+      "kanji": "火硫盐",
+      "detail": "pirosulfat → 火硫盐 (piv, F=1, 基本形)",
+      "documentation": "語根: pirosulfat\n入力: pirosulfat\n最終形: 火硫盐\n漢字: 火硫盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9845",
+      "priority": 0,
+      "sourceRoot": "pirosulfat",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9845
+    },
+    {
       "prefix": "pirosulfit",
       "body": "火硫盐ᴾᴵ",
       "kanji": "火硫盐",
       "detail": "pirosulfit → 火硫盐ᴾᴵ (piv, F=1)",
-      "documentation": "語根: pirosulfit\n入力: pirosulfit\n最終形: 火硫盐ᴾᴵ\n漢字: 火硫盐\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9845",
+      "documentation": "語根: pirosulfit\n入力: pirosulfit\n最終形: 火硫盐ᴾᴵ\n漢字: 火硫盐\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9846",
       "priority": 0,
       "sourceRoot": "pirosulfit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9845
+      "sourceLine": 9846
     },
     {
       "prefix": "piroteknik",
@@ -6115,13 +6115,13 @@
       "body": "捣具",
       "kanji": "捣具",
       "detail": "pistil → 捣具 (piv, F=1, 基本形)",
-      "documentation": "語根: pistil\n入力: pistil\n最終形: 捣具\n漢字: 捣具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9846",
+      "documentation": "語根: pistil\n入力: pistil\n最終形: 捣具\n漢字: 捣具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9847",
       "priority": 0,
       "sourceRoot": "pistil",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9846
+      "sourceLine": 9847
     },
     {
       "prefix": "pistol",
@@ -6271,13 +6271,13 @@
       "body": "豌石",
       "kanji": "豌石",
       "detail": "pizolit → 豌石 (piv, F=1, 基本形)",
-      "documentation": "語根: pizolit\n入力: pizolit\n最終形: 豌石\n漢字: 豌石\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9847",
+      "documentation": "語根: pizolit\n入力: pizolit\n最終形: 豌石\n漢字: 豌石\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9848",
       "priority": 0,
       "sourceRoot": "pizolit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9847
+      "sourceLine": 9848
     },
     {
       "prefix": "pjel",
@@ -6297,13 +6297,13 @@
       "body": "肾盆炎",
       "kanji": "肾盆炎",
       "detail": "pjelit → 肾盆炎 (piv, F=1, 基本形)",
-      "documentation": "語根: pjelit\n入力: pjelit\n最終形: 肾盆炎\n漢字: 肾盆炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9848",
+      "documentation": "語根: pjelit\n入力: pjelit\n最終形: 肾盆炎\n漢字: 肾盆炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9849",
       "priority": 0,
       "sourceRoot": "pjelit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9848
+      "sourceLine": 9849
     },
     {
       "prefix": "plac",
@@ -6427,13 +6427,13 @@
       "body": "板皮",
       "kanji": "板皮",
       "detail": "plakoderm → 板皮 (piv, F=1, 基本形)",
-      "documentation": "語根: plakoderm\n入力: plakoderm\n最終形: 板皮\n漢字: 板皮\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9849",
+      "documentation": "語根: plakoderm\n入力: plakoderm\n最終形: 板皮\n漢字: 板皮\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9850",
       "priority": 0,
       "sourceRoot": "plakoderm",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9849
+      "sourceLine": 9850
     },
     {
       "prefix": "plan",
@@ -6505,26 +6505,26 @@
       "body": "平计",
       "kanji": "平计",
       "detail": "planimetr → 平计 (piv, F=1, 基本形)",
-      "documentation": "語根: planimetr\n入力: planimetr\n最終形: 平计\n漢字: 平计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9850",
+      "documentation": "語根: planimetr\n入力: planimetr\n最終形: 平计\n漢字: 平计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9851",
       "priority": 0,
       "sourceRoot": "planimetr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9850
+      "sourceLine": 9851
     },
     {
       "prefix": "planimetri",
       "body": "平测",
       "kanji": "平测",
       "detail": "planimetri → 平测 (piv, F=1, 基本形)",
-      "documentation": "語根: planimetri\n入力: planimetri\n最終形: 平测\n漢字: 平测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9851",
+      "documentation": "語根: planimetri\n入力: planimetri\n最終形: 平测\n漢字: 平测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9852",
       "priority": 0,
       "sourceRoot": "planimetri",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9851
+      "sourceLine": 9852
     },
     {
       "prefix": "plank",
@@ -6583,26 +6583,26 @@
       "body": "植学家",
       "kanji": "植学家",
       "detail": "plantolog → 植学家 (piv, F=1, 基本形)",
-      "documentation": "語根: plantolog\n入力: plantolog\n最終形: 植学家\n漢字: 植学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9852",
+      "documentation": "語根: plantolog\n入力: plantolog\n最終形: 植学家\n漢字: 植学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9853",
       "priority": 0,
       "sourceRoot": "plantolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9852
+      "sourceLine": 9853
     },
     {
       "prefix": "plantologi",
       "body": "植学",
       "kanji": "植学",
       "detail": "plantologi → 植学 (piv, F=1, 基本形)",
-      "documentation": "語根: plantologi\n入力: plantologi\n最終形: 植学\n漢字: 植学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9853",
+      "documentation": "語根: plantologi\n入力: plantologi\n最終形: 植学\n漢字: 植学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9854",
       "priority": 0,
       "sourceRoot": "plantologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9853
+      "sourceLine": 9854
     },
     {
       "prefix": "plasm",
@@ -6622,13 +6622,13 @@
       "body": "浆配",
       "kanji": "浆配",
       "detail": "plasmogami → 浆配 (piv, F=1, 基本形)",
-      "documentation": "語根: plasmogami\n入力: plasmogami\n最終形: 浆配\n漢字: 浆配\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9854",
+      "documentation": "語根: plasmogami\n入力: plasmogami\n最終形: 浆配\n漢字: 浆配\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9855",
       "priority": 0,
       "sourceRoot": "plasmogami",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9854
+      "sourceLine": 9855
     },
     {
       "prefix": "plasmopar",
@@ -7051,13 +7051,13 @@
       "body": "胸膜炎",
       "kanji": "胸膜炎",
       "detail": "pleu^rit → 胸膜炎 (piv, F=1, 基本形)",
-      "documentation": "語根: pleu^rit\n入力: pleuxrit\n最終形: 胸膜炎\n漢字: 胸膜炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9855",
+      "documentation": "語根: pleu^rit\n入力: pleuxrit\n最終形: 胸膜炎\n漢字: 胸膜炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9856",
       "priority": 0,
       "sourceRoot": "pleu^rit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9855
+      "sourceLine": 9856
     },
     {
       "prefix": "pleuxronekt",
@@ -7294,19 +7294,6 @@
       "sourceLine": 2070
     },
     {
-      "prefix": "plum",
-      "body": "笔ᴾᴸ",
-      "kanji": "笔",
-      "detail": "plum → 笔ᴾᴸ (同綴異義: ペン)",
-      "documentation": "語根: plum\n入力: plum\n最終形: 笔ᴾᴸ\n漢字: 笔\n識別子: ᴾᴸ\n型: amb(同綴異義)\n語義: ペン\n注記: ペン。plum=羽と同綴\n基本形: no\n出典: homonym-alt.tsv:138",
-      "priority": 1,
-      "sourceRoot": "plum",
-      "type": "amb",
-      "frequency": 0,
-      "base": false,
-      "sourceLine": 138
-    },
-    {
       "prefix": "plumb",
       "body": "铅",
       "kanji": "铅",
@@ -7337,26 +7324,26 @@
       "body": "铅盐",
       "kanji": "铅盐",
       "detail": "plumbat → 铅盐 (piv, F=1, 基本形)",
-      "documentation": "語根: plumbat\n入力: plumbat\n最終形: 铅盐\n漢字: 铅盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9856",
+      "documentation": "語根: plumbat\n入力: plumbat\n最終形: 铅盐\n漢字: 铅盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9857",
       "priority": 0,
       "sourceRoot": "plumbat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9856
+      "sourceLine": 9857
     },
     {
       "prefix": "plumbit",
       "body": "铅盐ᴾᴵ",
       "kanji": "铅盐",
       "detail": "plumbit → 铅盐ᴾᴵ (piv, F=1)",
-      "documentation": "語根: plumbit\n入力: plumbit\n最終形: 铅盐ᴾᴵ\n漢字: 铅盐\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9857",
+      "documentation": "語根: plumbit\n入力: plumbit\n最終形: 铅盐ᴾᴵ\n漢字: 铅盐\n識別子: pi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9858",
       "priority": 0,
       "sourceRoot": "plumbit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9857
+      "sourceLine": 9858
     },
     {
       "prefix": "plur",
@@ -7467,26 +7454,26 @@
       "body": "雨计",
       "kanji": "雨计",
       "detail": "pluvmetr → 雨计 (piv, F=1, 基本形)",
-      "documentation": "語根: pluvmetr\n入力: pluvmetr\n最終形: 雨计\n漢字: 雨计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9858",
+      "documentation": "語根: pluvmetr\n入力: pluvmetr\n最終形: 雨计\n漢字: 雨计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9859",
       "priority": 0,
       "sourceRoot": "pluvmetr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9858
+      "sourceLine": 9859
     },
     {
       "prefix": "pluvometr",
       "body": "雨计ᴾᴼ",
       "kanji": "雨计",
       "detail": "pluvometr → 雨计ᴾᴼ (piv, F=1)",
-      "documentation": "語根: pluvometr\n入力: pluvometr\n最終形: 雨计ᴾᴼ\n漢字: 雨计\n識別子: po\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9859",
+      "documentation": "語根: pluvometr\n入力: pluvometr\n最終形: 雨计ᴾᴼ\n漢字: 雨计\n識別子: po\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9860",
       "priority": 0,
       "sourceRoot": "pluvometr",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9859
+      "sourceLine": 9860
     },
     {
       "prefix": "pneuxmat",
@@ -7532,13 +7519,13 @@
       "body": "肺除",
       "kanji": "肺除",
       "detail": "pneu^monektomi → 肺除 (piv, F=1, 基本形)",
-      "documentation": "語根: pneu^monektomi\n入力: pneuxmonektomi\n最終形: 肺除\n漢字: 肺除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9860",
+      "documentation": "語根: pneu^monektomi\n入力: pneuxmonektomi\n最終形: 肺除\n漢字: 肺除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9861",
       "priority": 0,
       "sourceRoot": "pneu^monektomi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9860
+      "sourceLine": 9861
     },
     {
       "prefix": "pneuxmoni",
@@ -7558,13 +7545,13 @@
       "body": "肺炎ᴾᴺ",
       "kanji": "肺炎",
       "detail": "pneu^monit → 肺炎ᴾᴺ (piv, F=1)",
-      "documentation": "語根: pneu^monit\n入力: pneuxmonit\n最終形: 肺炎ᴾᴺ\n漢字: 肺炎\n識別子: pn\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9862",
+      "documentation": "語根: pneu^monit\n入力: pneuxmonit\n最終形: 肺炎ᴾᴺ\n漢字: 肺炎\n識別子: pn\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9863",
       "priority": 0,
       "sourceRoot": "pneu^monit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9862
+      "sourceLine": 9863
     },
     {
       "prefix": "pneuxmonokonioz",
@@ -7584,26 +7571,26 @@
       "body": "肺学",
       "kanji": "肺学",
       "detail": "pneu^monologi → 肺学 (piv, F=1, 基本形)",
-      "documentation": "語根: pneu^monologi\n入力: pneuxmonologi\n最終形: 肺学\n漢字: 肺学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9863",
+      "documentation": "語根: pneu^monologi\n入力: pneuxmonologi\n最終形: 肺学\n漢字: 肺学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9864",
       "priority": 0,
       "sourceRoot": "pneu^monologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9863
+      "sourceLine": 9864
     },
     {
       "prefix": "pneuxmonopati",
       "body": "肺病",
       "kanji": "肺病",
       "detail": "pneu^monopati → 肺病 (piv, F=1, 基本形)",
-      "documentation": "語根: pneu^monopati\n入力: pneuxmonopati\n最終形: 肺病\n漢字: 肺病\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9864",
+      "documentation": "語根: pneu^monopati\n入力: pneuxmonopati\n最終形: 肺病\n漢字: 肺病\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9865",
       "priority": 0,
       "sourceRoot": "pneu^monopati",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9864
+      "sourceLine": 9865
     },
     {
       "prefix": "po",
@@ -7844,13 +7831,13 @@
       "body": "极计",
       "kanji": "极计",
       "detail": "polarimetr → 极计 (piv, F=1, 基本形)",
-      "documentation": "語根: polarimetr\n入力: polarimetr\n最終形: 极计\n漢字: 极计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9865",
+      "documentation": "語根: polarimetr\n入力: polarimetr\n最終形: 极计\n漢字: 极计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9866",
       "priority": 0,
       "sourceRoot": "polarimetr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9865
+      "sourceLine": 9866
     },
     {
       "prefix": "polariz",
@@ -7870,26 +7857,26 @@
       "body": "极记",
       "kanji": "极记",
       "detail": "polarograf → 极记 (piv, F=1, 基本形)",
-      "documentation": "語根: polarograf\n入力: polarograf\n最終形: 极记\n漢字: 极记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9866",
+      "documentation": "語根: polarograf\n入力: polarograf\n最終形: 极记\n漢字: 极记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9867",
       "priority": 0,
       "sourceRoot": "polarograf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9866
+      "sourceLine": 9867
     },
     {
       "prefix": "polarografi",
       "body": "极志",
       "kanji": "极志",
       "detail": "polarografi → 极志 (piv, F=1, 基本形)",
-      "documentation": "語根: polarografi\n入力: polarografi\n最終形: 极志\n漢字: 极志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9867",
+      "documentation": "語根: polarografi\n入力: polarografi\n最終形: 极志\n漢字: 极志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9868",
       "priority": 0,
       "sourceRoot": "polarografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9867
+      "sourceLine": 9868
     },
     {
       "prefix": "polem",
@@ -7922,26 +7909,26 @@
       "body": "战学家",
       "kanji": "战学家",
       "detail": "polemolog → 战学家 (piv, F=1, 基本形)",
-      "documentation": "語根: polemolog\n入力: polemolog\n最終形: 战学家\n漢字: 战学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9868",
+      "documentation": "語根: polemolog\n入力: polemolog\n最終形: 战学家\n漢字: 战学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9869",
       "priority": 0,
       "sourceRoot": "polemolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9868
+      "sourceLine": 9869
     },
     {
       "prefix": "polemologi",
       "body": "战学",
       "kanji": "战学",
       "detail": "polemologi → 战学 (piv, F=1, 基本形)",
-      "documentation": "語根: polemologi\n入力: polemologi\n最終形: 战学\n漢字: 战学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9869",
+      "documentation": "語根: polemologi\n入力: polemologi\n最終形: 战学\n漢字: 战学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9870",
       "priority": 0,
       "sourceRoot": "polemologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9869
+      "sourceLine": 9870
     },
     {
       "prefix": "polemoni",
@@ -7974,39 +7961,39 @@
       "body": "粉学家",
       "kanji": "粉学家",
       "detail": "polenolog → 粉学家 (piv, F=1, 基本形)",
-      "documentation": "語根: polenolog\n入力: polenolog\n最終形: 粉学家\n漢字: 粉学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9870",
+      "documentation": "語根: polenolog\n入力: polenolog\n最終形: 粉学家\n漢字: 粉学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9871",
       "priority": 0,
       "sourceRoot": "polenolog",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9870
-    },
-    {
-      "prefix": "polenologi",
-      "body": "粉学",
-      "kanji": "粉学",
-      "detail": "polenologi → 粉学 (piv, F=1, 基本形)",
-      "documentation": "語根: polenologi\n入力: polenologi\n最終形: 粉学\n漢字: 粉学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9871",
-      "priority": 0,
-      "sourceRoot": "polenologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9871
     },
     {
+      "prefix": "polenologi",
+      "body": "粉学",
+      "kanji": "粉学",
+      "detail": "polenologi → 粉学 (piv, F=1, 基本形)",
+      "documentation": "語根: polenologi\n入力: polenologi\n最終形: 粉学\n漢字: 粉学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9872",
+      "priority": 0,
+      "sourceRoot": "polenologi",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9872
+    },
+    {
       "prefix": "polenoz",
       "body": "粉症",
       "kanji": "粉症",
       "detail": "polenoz → 粉症 (piv, F=1, 基本形)",
-      "documentation": "語根: polenoz\n入力: polenoz\n最終形: 粉症\n漢字: 粉症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9872",
+      "documentation": "語根: polenoz\n入力: polenoz\n最終形: 粉症\n漢字: 粉症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9873",
       "priority": 0,
       "sourceRoot": "polenoz",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9872
+      "sourceLine": 9873
     },
     {
       "prefix": "poli",
@@ -8065,26 +8052,26 @@
       "body": "多面",
       "kanji": "多面",
       "detail": "poliedr → 多面 (piv, F=1, 基本形)",
-      "documentation": "語根: poliedr\n入力: poliedr\n最終形: 多面\n漢字: 多面\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9873",
+      "documentation": "語根: poliedr\n入力: poliedr\n最終形: 多面\n漢字: 多面\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9874",
       "priority": 0,
       "sourceRoot": "poliedr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9873
+      "sourceLine": 9874
     },
     {
       "prefix": "polifoni",
       "body": "多声",
       "kanji": "多声",
       "detail": "polifoni → 多声 (piv, F=1, 基本形)",
-      "documentation": "語根: polifoni\n入力: polifoni\n最終形: 多声\n漢字: 多声\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9874",
+      "documentation": "語根: polifoni\n入力: polifoni\n最終形: 多声\n漢字: 多声\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9875",
       "priority": 0,
       "sourceRoot": "polifoni",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9874
+      "sourceLine": 9875
     },
     {
       "prefix": "poligal",
@@ -8143,13 +8130,13 @@
       "body": "多诊",
       "kanji": "多诊",
       "detail": "poliklinik → 多诊 (piv, F=1, 基本形)",
-      "documentation": "語根: poliklinik\n入力: poliklinik\n最終形: 多诊\n漢字: 多诊\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9875",
+      "documentation": "語根: poliklinik\n入力: poliklinik\n最終形: 多诊\n漢字: 多诊\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9876",
       "priority": 0,
       "sourceRoot": "poliklinik",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9875
+      "sourceLine": 9876
     },
     {
       "prefix": "polikro",
@@ -8208,26 +8195,26 @@
       "body": "多核",
       "kanji": "多核",
       "detail": "polinukle → 多核 (piv, F=1, 基本形)",
-      "documentation": "語根: polinukle\n入力: polinukle\n最終形: 多核\n漢字: 多核\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9876",
+      "documentation": "語根: polinukle\n入力: polinukle\n最終形: 多核\n漢字: 多核\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9877",
       "priority": 0,
       "sourceRoot": "polinukle",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9876
+      "sourceLine": 9877
     },
     {
       "prefix": "poliomjelit",
       "body": "灰髓炎",
       "kanji": "灰髓炎",
       "detail": "poliomjelit → 灰髓炎 (piv, F=1, 基本形)",
-      "documentation": "語根: poliomjelit\n入力: poliomjelit\n最終形: 灰髓炎\n漢字: 灰髓炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9877",
+      "documentation": "語根: poliomjelit\n入力: poliomjelit\n最終形: 灰髓炎\n漢字: 灰髓炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9878",
       "priority": 0,
       "sourceRoot": "poliomjelit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9877
+      "sourceLine": 9878
     },
     {
       "prefix": "polip",
@@ -8260,26 +8247,26 @@
       "body": "多倍",
       "kanji": "多倍",
       "detail": "poliploid → 多倍 (piv, F=1, 基本形)",
-      "documentation": "語根: poliploid\n入力: poliploid\n最終形: 多倍\n漢字: 多倍\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9878",
+      "documentation": "語根: poliploid\n入力: poliploid\n最終形: 多倍\n漢字: 多倍\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9879",
       "priority": 0,
       "sourceRoot": "poliploid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9878
+      "sourceLine": 9879
     },
     {
       "prefix": "polipodi",
       "body": "多足",
       "kanji": "多足",
       "detail": "polipodi → 多足 (piv, F=1, 基本形)",
-      "documentation": "語根: polipodi\n入力: polipodi\n最終形: 多足\n漢字: 多足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9879",
+      "documentation": "語根: polipodi\n入力: polipodi\n最終形: 多足\n漢字: 多足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9880",
       "priority": 0,
       "sourceRoot": "polipodi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9879
+      "sourceLine": 9880
     },
     {
       "prefix": "polipor",
@@ -8299,13 +8286,13 @@
       "body": "息肉症",
       "kanji": "息肉症",
       "detail": "polipoz → 息肉症 (piv, F=1, 基本形)",
-      "documentation": "語根: polipoz\n入力: polipoz\n最終形: 息肉症\n漢字: 息肉症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9880",
+      "documentation": "語根: polipoz\n入力: polipoz\n最終形: 息肉症\n漢字: 息肉症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9881",
       "priority": 0,
       "sourceRoot": "polipoz",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9880
+      "sourceLine": 9881
     },
     {
       "prefix": "polipter",
@@ -8377,39 +8364,39 @@
       "body": "多神主义",
       "kanji": "多神主义",
       "detail": "politeism → 多神主义 (piv, F=1, 基本形)",
-      "documentation": "語根: politeism\n入力: politeism\n最終形: 多神主义\n漢字: 多神主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9881",
+      "documentation": "語根: politeism\n入力: politeism\n最終形: 多神主义\n漢字: 多神主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9882",
       "priority": 0,
       "sourceRoot": "politeism",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9881
-    },
-    {
-      "prefix": "politeist",
-      "body": "多神家",
-      "kanji": "多神家",
-      "detail": "politeist → 多神家 (piv, F=1, 基本形)",
-      "documentation": "語根: politeist\n入力: politeist\n最終形: 多神家\n漢字: 多神家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9882",
-      "priority": 0,
-      "sourceRoot": "politeist",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9882
     },
     {
+      "prefix": "politeist",
+      "body": "多神家",
+      "kanji": "多神家",
+      "detail": "politeist → 多神家 (piv, F=1, 基本形)",
+      "documentation": "語根: politeist\n入力: politeist\n最終形: 多神家\n漢字: 多神家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9883",
+      "priority": 0,
+      "sourceRoot": "politeist",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9883
+    },
+    {
       "prefix": "politeknik",
       "body": "多技",
       "kanji": "多技",
       "detail": "politeknik → 多技 (piv, F=1, 基本形)",
-      "documentation": "語根: politeknik\n入力: politeknik\n最終形: 多技\n漢字: 多技\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9883",
+      "documentation": "語根: politeknik\n入力: politeknik\n最終形: 多技\n漢字: 多技\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9884",
       "priority": 0,
       "sourceRoot": "politeknik",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9883
+      "sourceLine": 9884
     },
     {
       "prefix": "politik",
@@ -8429,65 +8416,65 @@
       "body": "政学家ᴾᴷ",
       "kanji": "政学家",
       "detail": "politikolog → 政学家ᴾᴷ (piv, F=1)",
-      "documentation": "語根: politikolog\n入力: politikolog\n最終形: 政学家ᴾᴷ\n漢字: 政学家\n識別子: pk\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9885",
+      "documentation": "語根: politikolog\n入力: politikolog\n最終形: 政学家ᴾᴷ\n漢字: 政学家\n識別子: pk\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9886",
       "priority": 0,
       "sourceRoot": "politikolog",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9885
+      "sourceLine": 9886
     },
     {
       "prefix": "politikologi",
       "body": "政学ᴾᴷ",
       "kanji": "政学",
       "detail": "politikologi → 政学ᴾᴷ (piv, F=1)",
-      "documentation": "語根: politikologi\n入力: politikologi\n最終形: 政学ᴾᴷ\n漢字: 政学\n識別子: pk\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9887",
+      "documentation": "語根: politikologi\n入力: politikologi\n最終形: 政学ᴾᴷ\n漢字: 政学\n識別子: pk\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9888",
       "priority": 0,
       "sourceRoot": "politikologi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9887
+      "sourceLine": 9888
     },
     {
       "prefix": "politolog",
       "body": "政学家",
       "kanji": "政学家",
       "detail": "politolog → 政学家 (piv, F=1, 基本形)",
-      "documentation": "語根: politolog\n入力: politolog\n最終形: 政学家\n漢字: 政学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9884",
+      "documentation": "語根: politolog\n入力: politolog\n最終形: 政学家\n漢字: 政学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9885",
       "priority": 0,
       "sourceRoot": "politolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9884
+      "sourceLine": 9885
     },
     {
       "prefix": "politologi",
       "body": "政学",
       "kanji": "政学",
       "detail": "politologi → 政学 (piv, F=1, 基本形)",
-      "documentation": "語根: politologi\n入力: politologi\n最終形: 政学\n漢字: 政学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9886",
+      "documentation": "語根: politologi\n入力: politologi\n最終形: 政学\n漢字: 政学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9887",
       "priority": 0,
       "sourceRoot": "politologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9886
+      "sourceLine": 9887
     },
     {
       "prefix": "politrik",
       "body": "多毛",
       "kanji": "多毛",
       "detail": "politrik → 多毛 (piv, F=1, 基本形)",
-      "documentation": "語根: politrik\n入力: politrik\n最終形: 多毛\n漢字: 多毛\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9888",
+      "documentation": "語根: politrik\n入力: politrik\n最終形: 多毛\n漢字: 多毛\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9889",
       "priority": 0,
       "sourceRoot": "politrik",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9888
+      "sourceLine": 9889
     },
     {
       "prefix": "polm",
@@ -8637,26 +8624,26 @@
       "body": "苹学家",
       "kanji": "苹学家",
       "detail": "pomolog → 苹学家 (piv, F=1, 基本形)",
-      "documentation": "語根: pomolog\n入力: pomolog\n最終形: 苹学家\n漢字: 苹学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9889",
+      "documentation": "語根: pomolog\n入力: pomolog\n最終形: 苹学家\n漢字: 苹学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9890",
       "priority": 0,
       "sourceRoot": "pomolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9889
+      "sourceLine": 9890
     },
     {
       "prefix": "pomologi",
       "body": "苹学",
       "kanji": "苹学",
       "detail": "pomologi → 苹学 (piv, F=1, 基本形)",
-      "documentation": "語根: pomologi\n入力: pomologi\n最終形: 苹学\n漢字: 苹学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9890",
+      "documentation": "語根: pomologi\n入力: pomologi\n最終形: 苹学\n漢字: 苹学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9891",
       "priority": 0,
       "sourceRoot": "pomologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9890
+      "sourceLine": 9891
     },
     {
       "prefix": "pomp",
@@ -9118,13 +9105,13 @@
       "body": "求被",
       "kanji": "求被",
       "detail": "postulat → 求被 (piv, F=1, 基本形)",
-      "documentation": "語根: postulat\n入力: postulat\n最終形: 求被\n漢字: 求被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9891",
+      "documentation": "語根: postulat\n入力: postulat\n最終形: 求被\n漢字: 求被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9892",
       "priority": 0,
       "sourceRoot": "postulat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9891
+      "sourceLine": 9892
     },
     {
       "prefix": "posx",
@@ -9560,13 +9547,13 @@
       "body": "谓能",
       "kanji": "谓能",
       "detail": "predikativ → 谓能 (piv, F=1, 基本形)",
-      "documentation": "語根: predikativ\n入力: predikativ\n最終形: 谓能\n漢字: 谓能\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9892",
+      "documentation": "語根: predikativ\n入力: predikativ\n最終形: 谓能\n漢字: 谓能\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9893",
       "priority": 0,
       "sourceRoot": "predikativ",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9892
+      "sourceLine": 9893
     },
     {
       "prefix": "predikt",
@@ -9950,13 +9937,13 @@
       "body": "戏法员",
       "kanji": "戏法员",
       "detail": "prestidigitator → 戏法员 (piv, F=1, 基本形)",
-      "documentation": "語根: prestidigitator\n入力: prestidigitator\n最終形: 戏法员\n漢字: 戏法员\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9893",
+      "documentation": "語根: prestidigitator\n入力: prestidigitator\n最終形: 戏法员\n漢字: 戏法员\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9894",
       "priority": 0,
       "sourceRoot": "prestidigitator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9893
+      "sourceLine": 9894
     },
     {
       "prefix": "prestigx",
@@ -10197,13 +10184,13 @@
       "body": "灵长学",
       "kanji": "灵长学",
       "detail": "primatologi → 灵长学 (piv, F=1, 基本形)",
-      "documentation": "語根: primatologi\n入力: primatologi\n最終形: 灵长学\n漢字: 灵长学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9894",
+      "documentation": "語根: primatologi\n入力: primatologi\n最終形: 灵长学\n漢字: 灵长学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9895",
       "priority": 0,
       "sourceRoot": "primatologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9894
+      "sourceLine": 9895
     },
     {
       "prefix": "primitiv",
@@ -10600,13 +10587,13 @@
       "body": "前相",
       "kanji": "前相",
       "detail": "profaz → 前相 (piv, F=1, 基本形)",
-      "documentation": "語根: profaz\n入力: profaz\n最終形: 前相\n漢字: 前相\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9895",
+      "documentation": "語根: profaz\n入力: profaz\n最終形: 前相\n漢字: 前相\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9896",
       "priority": 0,
       "sourceRoot": "profaz",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9895
+      "sourceLine": 9896
     },
     {
       "prefix": "profesi",
@@ -10821,13 +10808,13 @@
       "body": "射具",
       "kanji": "射具",
       "detail": "projekciator → 射具 (piv, F=1, 基本形)",
-      "documentation": "語根: projekciator\n入力: projekciator\n最終形: 射具\n漢字: 射具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9896",
+      "documentation": "語根: projekciator\n入力: projekciator\n最終形: 射具\n漢字: 射具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9897",
       "priority": 0,
       "sourceRoot": "projekciator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9896
+      "sourceLine": 9897
     },
     {
       "prefix": "projekt",
@@ -11003,13 +10990,13 @@
       "body": "前话",
       "kanji": "前话",
       "detail": "prolog → 前话 (piv, F=1, 基本形)",
-      "documentation": "語根: prolog\n入力: prolog\n最終形: 前话\n漢字: 前话\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9897",
+      "documentation": "語根: prolog\n入力: prolog\n最終形: 前话\n漢字: 前话\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9898",
       "priority": 0,
       "sourceRoot": "prolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9897
+      "sourceLine": 9898
     },
     {
       "prefix": "promen",
@@ -11380,26 +11367,26 @@
       "body": "前列腺除",
       "kanji": "前列腺除",
       "detail": "prostatektomi → 前列腺除 (piv, F=1, 基本形)",
-      "documentation": "語根: prostatektomi\n入力: prostatektomi\n最終形: 前列腺除\n漢字: 前列腺除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9898",
+      "documentation": "語根: prostatektomi\n入力: prostatektomi\n最終形: 前列腺除\n漢字: 前列腺除\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9899",
       "priority": 0,
       "sourceRoot": "prostatektomi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9898
+      "sourceLine": 9899
     },
     {
       "prefix": "prostatit",
       "body": "前列腺炎",
       "kanji": "前列腺炎",
       "detail": "prostatit → 前列腺炎 (piv, F=1, 基本形)",
-      "documentation": "語根: prostatit\n入力: prostatit\n最終形: 前列腺炎\n漢字: 前列腺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9899",
+      "documentation": "語根: prostatit\n入力: prostatit\n最終形: 前列腺炎\n漢字: 前列腺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9900",
       "priority": 0,
       "sourceRoot": "prostatit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9899
+      "sourceLine": 9900
     },
     {
       "prefix": "prostitu",
@@ -11575,13 +11562,13 @@
       "body": "原恶棍",
       "kanji": "原恶棍",
       "detail": "protokanajl → 原恶棍 (piv, F=1, 基本形)",
-      "documentation": "語根: protokanajl\n入力: protokanajl\n最終形: 原恶棍\n漢字: 原恶棍\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9900",
+      "documentation": "語根: protokanajl\n入力: protokanajl\n最終形: 原恶棍\n漢字: 原恶棍\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9901",
       "priority": 0,
       "sourceRoot": "protokanajl",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9900
+      "sourceLine": 9901
     },
     {
       "prefix": "protokol",
@@ -11614,26 +11601,26 @@
       "body": "原浆",
       "kanji": "原浆",
       "detail": "protoplasm → 原浆 (piv, F=1, 基本形)",
-      "documentation": "語根: protoplasm\n入力: protoplasm\n最終形: 原浆\n漢字: 原浆\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9901",
+      "documentation": "語根: protoplasm\n入力: protoplasm\n最終形: 原浆\n漢字: 原浆\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9902",
       "priority": 0,
       "sourceRoot": "protoplasm",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9901
+      "sourceLine": 9902
     },
     {
       "prefix": "protopter",
       "body": "原翅",
       "kanji": "原翅",
       "detail": "protopter → 原翅 (piv, F=1, 基本形)",
-      "documentation": "語根: protopter\n入力: protopter\n最終形: 原翅\n漢字: 原翅\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9902",
+      "documentation": "語根: protopter\n入力: protopter\n最終形: 原翅\n漢字: 原翅\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9903",
       "priority": 0,
       "sourceRoot": "protopter",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9902
+      "sourceLine": 9903
     },
     {
       "prefix": "prototip",
@@ -11718,26 +11705,26 @@
       "body": "谚学家",
       "kanji": "谚学家",
       "detail": "proverbolog → 谚学家 (piv, F=1, 基本形)",
-      "documentation": "語根: proverbolog\n入力: proverbolog\n最終形: 谚学家\n漢字: 谚学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9903",
+      "documentation": "語根: proverbolog\n入力: proverbolog\n最終形: 谚学家\n漢字: 谚学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9904",
       "priority": 0,
       "sourceRoot": "proverbolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9903
+      "sourceLine": 9904
     },
     {
       "prefix": "proverbologi",
       "body": "谚学",
       "kanji": "谚学",
       "detail": "proverbologi → 谚学 (piv, F=1, 基本形)",
-      "documentation": "語根: proverbologi\n入力: proverbologi\n最終形: 谚学\n漢字: 谚学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9904",
+      "documentation": "語根: proverbologi\n入力: proverbologi\n最終形: 谚学\n漢字: 谚学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9905",
       "priority": 0,
       "sourceRoot": "proverbologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9904
+      "sourceLine": 9905
     },
     {
       "prefix": "proviant",
@@ -11796,26 +11783,26 @@
       "body": "省主义",
       "kanji": "省主义",
       "detail": "provincialism → 省主义 (piv, F=1, 基本形)",
-      "documentation": "語根: provincialism\n入力: provincialism\n最終形: 省主义\n漢字: 省主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9905",
+      "documentation": "語根: provincialism\n入力: provincialism\n最終形: 省主义\n漢字: 省主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9906",
       "priority": 0,
       "sourceRoot": "provincialism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9905
+      "sourceLine": 9906
     },
     {
       "prefix": "provirus",
       "body": "前毒",
       "kanji": "前毒",
       "detail": "provirus → 前毒 (piv, F=1, 基本形)",
-      "documentation": "語根: provirus\n入力: provirus\n最終形: 前毒\n漢字: 前毒\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9906",
+      "documentation": "語根: provirus\n入力: provirus\n最終形: 前毒\n漢字: 前毒\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9907",
       "priority": 0,
       "sourceRoot": "provirus",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9906
+      "sourceLine": 9907
     },
     {
       "prefix": "proviz",
@@ -12043,13 +12030,13 @@
       "body": "伪节",
       "kanji": "伪节",
       "detail": "pseu^doartr → 伪节 (piv, F=1, 基本形)",
-      "documentation": "語根: pseu^doartr\n入力: pseuxdoartr\n最終形: 伪节\n漢字: 伪节\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9907",
+      "documentation": "語根: pseu^doartr\n入力: pseuxdoartr\n最終形: 伪节\n漢字: 伪节\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9908",
       "priority": 0,
       "sourceRoot": "pseu^doartr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9907
+      "sourceLine": 9908
     },
     {
       "prefix": "pseuxdomorf",
@@ -12069,26 +12056,26 @@
       "body": "伪名",
       "kanji": "伪名",
       "detail": "pseu^donim → 伪名 (piv, F=1, 基本形)",
-      "documentation": "語根: pseu^donim\n入力: pseuxdonim\n最終形: 伪名\n漢字: 伪名\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9908",
+      "documentation": "語根: pseu^donim\n入力: pseuxdonim\n最終形: 伪名\n漢字: 伪名\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9909",
       "priority": 0,
       "sourceRoot": "pseu^donim",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9908
+      "sourceLine": 9909
     },
     {
       "prefix": "pseuxdopod",
       "body": "伪足",
       "kanji": "伪足",
       "detail": "pseu^dopod → 伪足 (piv, F=1, 基本形)",
-      "documentation": "語根: pseu^dopod\n入力: pseuxdopod\n最終形: 伪足\n漢字: 伪足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9909",
+      "documentation": "語根: pseu^dopod\n入力: pseuxdopod\n最終形: 伪足\n漢字: 伪足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9910",
       "priority": 0,
       "sourceRoot": "pseu^dopod",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9909
+      "sourceLine": 9910
     },
     {
       "prefix": "psidi",
@@ -12212,13 +12199,13 @@
       "body": "心症",
       "kanji": "心症",
       "detail": "psikoz → 心症 (piv, F=1, 基本形)",
-      "documentation": "語根: psikoz\n入力: psikoz\n最終形: 心症\n漢字: 心症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9910",
+      "documentation": "語根: psikoz\n入力: psikoz\n最終形: 心症\n漢字: 心症\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9911",
       "priority": 0,
       "sourceRoot": "psikoz",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9910
+      "sourceLine": 9911
     },
     {
       "prefix": "psilofit",
@@ -12277,13 +12264,13 @@
       "body": "咬虫翅",
       "kanji": "咬虫翅",
       "detail": "psokopter → 咬虫翅 (piv, F=1, 基本形)",
-      "documentation": "語根: psokopter\n入力: psokopter\n最終形: 咬虫翅\n漢字: 咬虫翅\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9911",
+      "documentation": "語根: psokopter\n入力: psokopter\n最終形: 咬虫翅\n漢字: 咬虫翅\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9912",
       "priority": 0,
       "sourceRoot": "psokopter",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9911
+      "sourceLine": 9912
     },
     {
       "prefix": "psor",
@@ -12355,13 +12342,13 @@
       "body": "翼甲形",
       "kanji": "翼甲形",
       "detail": "pteraspidmorf → 翼甲形 (piv, F=1, 基本形)",
-      "documentation": "語根: pteraspidmorf\n入力: pteraspidmorf\n最終形: 翼甲形\n漢字: 翼甲形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9912",
+      "documentation": "語根: pteraspidmorf\n入力: pteraspidmorf\n最終形: 翼甲形\n漢字: 翼甲形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9913",
       "priority": 0,
       "sourceRoot": "pteraspidmorf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9912
+      "sourceLine": 9913
     },
     {
       "prefix": "pterid",
@@ -12394,13 +12381,13 @@
       "body": "羊齿植",
       "kanji": "羊齿植",
       "detail": "pteridofit → 羊齿植 (piv, F=1, 基本形)",
-      "documentation": "語根: pteridofit\n入力: pteridofit\n最終形: 羊齿植\n漢字: 羊齿植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9913",
+      "documentation": "語根: pteridofit\n入力: pteridofit\n最終形: 羊齿植\n漢字: 羊齿植\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9914",
       "priority": 0,
       "sourceRoot": "pteridofit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9913
+      "sourceLine": 9914
     },
     {
       "prefix": "pterig",
@@ -12472,13 +12459,13 @@
       "body": "翅足",
       "kanji": "翅足",
       "detail": "pteropod → 翅足 (piv, F=1, 基本形)",
-      "documentation": "語根: pteropod\n入力: pteropod\n最終形: 翅足\n漢字: 翅足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9914",
+      "documentation": "語根: pteropod\n入力: pteropod\n最終形: 翅足\n漢字: 翅足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9915",
       "priority": 0,
       "sourceRoot": "pteropod",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9914
+      "sourceLine": 9915
     },
     {
       "prefix": "ptilonorink",
@@ -12550,13 +12537,13 @@
       "body": "耻骨切",
       "kanji": "耻骨切",
       "detail": "pubiotomi → 耻骨切 (piv, F=1, 基本形)",
-      "documentation": "語根: pubiotomi\n入力: pubiotomi\n最終形: 耻骨切\n漢字: 耻骨切\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9915",
+      "documentation": "語根: pubiotomi\n入力: pubiotomi\n最終形: 耻骨切\n漢字: 耻骨切\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9916",
       "priority": 0,
       "sourceRoot": "pubiotomi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9915
+      "sourceLine": 9916
     },
     {
       "prefix": "public",
@@ -12823,13 +12810,13 @@
       "body": "肺炎",
       "kanji": "肺炎",
       "detail": "pulmit → 肺炎 (piv, F=1, 基本形)",
-      "documentation": "語根: pulmit\n入力: pulmit\n最終形: 肺炎\n漢字: 肺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9861",
+      "documentation": "語根: pulmit\n入力: pulmit\n最終形: 肺炎\n漢字: 肺炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9862",
       "priority": 0,
       "sourceRoot": "pulmit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9861
+      "sourceLine": 9862
     },
     {
       "prefix": "pulmonari",
@@ -12862,13 +12849,13 @@
       "body": "瓤炎",
       "kanji": "瓤炎",
       "detail": "pulpit → 瓤炎 (piv, F=1, 基本形)",
-      "documentation": "語根: pulpit\n入力: pulpit\n最終形: 瓤炎\n漢字: 瓤炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9916",
+      "documentation": "語根: pulpit\n入力: pulpit\n最終形: 瓤炎\n漢字: 瓤炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9917",
       "priority": 0,
       "sourceRoot": "pulpit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9916
+      "sourceLine": 9917
     },
     {
       "prefix": "puls",

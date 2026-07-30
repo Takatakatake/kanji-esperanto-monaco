@@ -6,11 +6,11 @@
     "itemCount": 390,
     "skippedCount": 0,
     "homonymSourceName": "homonym-alt.tsv",
-    "homonymAltCount": 169,
+    "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "r",
-    "dictionaryItemCount": 10573
+    "dictionaryItemCount": 10571
   },
   "items": [
     {
@@ -109,13 +109,13 @@
       "body": "刨具",
       "kanji": "刨具",
       "detail": "rabotator → 刨具 (piv, F=1, 基本形)",
-      "documentation": "語根: rabotator\n入力: rabotator\n最終形: 刨具\n漢字: 刨具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9917",
+      "documentation": "語根: rabotator\n入力: rabotator\n最終形: 刨具\n漢字: 刨具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9918",
       "priority": 0,
       "sourceRoot": "rabotator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9917
+      "sourceLine": 9918
     },
     {
       "prefix": "racem",
@@ -265,13 +265,13 @@
       "body": "根炎",
       "kanji": "根炎",
       "detail": "radiklit → 根炎 (piv, F=1, 基本形)",
-      "documentation": "語根: radiklit\n入力: radiklit\n最終形: 根炎\n漢字: 根炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9918",
+      "documentation": "語根: radiklit\n入力: radiklit\n最終形: 根炎\n漢字: 根炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9919",
       "priority": 0,
       "sourceRoot": "radiklit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9918
+      "sourceLine": 9919
     },
     {
       "prefix": "radioaktiv",
@@ -291,39 +291,39 @@
       "body": "射声",
       "kanji": "射声",
       "detail": "radiofon → 射声 (piv, F=1, 基本形)",
-      "documentation": "語根: radiofon\n入力: radiofon\n最終形: 射声\n漢字: 射声\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9919",
+      "documentation": "語根: radiofon\n入力: radiofon\n最終形: 射声\n漢字: 射声\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9920",
       "priority": 0,
       "sourceRoot": "radiofon",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9919
+      "sourceLine": 9920
     },
     {
       "prefix": "radiofoni",
       "body": "射声ᴿᴵ",
       "kanji": "射声",
       "detail": "radiofoni → 射声ᴿᴵ (piv, F=1)",
-      "documentation": "語根: radiofoni\n入力: radiofoni\n最終形: 射声ᴿᴵ\n漢字: 射声\n識別子: ri\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9920",
+      "documentation": "語根: radiofoni\n入力: radiofoni\n最終形: 射声ᴿᴵ\n漢字: 射声\n識別子: ri\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9921",
       "priority": 0,
       "sourceRoot": "radiofoni",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9920
+      "sourceLine": 9921
     },
     {
       "prefix": "radiofotografi",
       "body": "射拍志",
       "kanji": "射拍志",
       "detail": "radiofotografi → 射拍志 (piv, F=1, 基本形)",
-      "documentation": "語根: radiofotografi\n入力: radiofotografi\n最終形: 射拍志\n漢字: 射拍志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9921",
+      "documentation": "語根: radiofotografi\n入力: radiofotografi\n最終形: 射拍志\n漢字: 射拍志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9922",
       "priority": 0,
       "sourceRoot": "radiofotografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9921
+      "sourceLine": 9922
     },
     {
       "prefix": "radiograf",
@@ -343,52 +343,52 @@
       "body": "射志",
       "kanji": "射志",
       "detail": "radiografi → 射志 (piv, F=1, 基本形)",
-      "documentation": "語根: radiografi\n入力: radiografi\n最終形: 射志\n漢字: 射志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9922",
+      "documentation": "語根: radiografi\n入力: radiografi\n最終形: 射志\n漢字: 射志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9923",
       "priority": 0,
       "sourceRoot": "radiografi",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9922
-    },
-    {
-      "prefix": "radiogram",
-      "body": "射图",
-      "kanji": "射图",
-      "detail": "radiogram → 射图 (piv, F=1, 基本形)",
-      "documentation": "語根: radiogram\n入力: radiogram\n最終形: 射图\n漢字: 射图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9923",
-      "priority": 0,
-      "sourceRoot": "radiogram",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9923
     },
     {
-      "prefix": "radiolog",
-      "body": "射学家",
-      "kanji": "射学家",
-      "detail": "radiolog → 射学家 (piv, F=1, 基本形)",
-      "documentation": "語根: radiolog\n入力: radiolog\n最終形: 射学家\n漢字: 射学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9924",
+      "prefix": "radiogram",
+      "body": "射图",
+      "kanji": "射图",
+      "detail": "radiogram → 射图 (piv, F=1, 基本形)",
+      "documentation": "語根: radiogram\n入力: radiogram\n最終形: 射图\n漢字: 射图\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9924",
       "priority": 0,
-      "sourceRoot": "radiolog",
+      "sourceRoot": "radiogram",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9924
     },
     {
+      "prefix": "radiolog",
+      "body": "射学家",
+      "kanji": "射学家",
+      "detail": "radiolog → 射学家 (piv, F=1, 基本形)",
+      "documentation": "語根: radiolog\n入力: radiolog\n最終形: 射学家\n漢字: 射学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9925",
+      "priority": 0,
+      "sourceRoot": "radiolog",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9925
+    },
+    {
       "prefix": "radiologi",
       "body": "射学",
       "kanji": "射学",
       "detail": "radiologi → 射学 (piv, F=1, 基本形)",
-      "documentation": "語根: radiologi\n入力: radiologi\n最終形: 射学\n漢字: 射学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9925",
+      "documentation": "語根: radiologi\n入力: radiologi\n最終形: 射学\n漢字: 射学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9926",
       "priority": 0,
       "sourceRoot": "radiologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9925
+      "sourceLine": 9926
     },
     {
       "prefix": "radiometr",
@@ -408,13 +408,13 @@
       "body": "射镜",
       "kanji": "射镜",
       "detail": "radioskopi → 射镜 (piv, F=1, 基本形)",
-      "documentation": "語根: radioskopi\n入力: radioskopi\n最終形: 射镜\n漢字: 射镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9926",
+      "documentation": "語根: radioskopi\n入力: radioskopi\n最終形: 射镜\n漢字: 射镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9927",
       "priority": 0,
       "sourceRoot": "radioskopi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9926
+      "sourceLine": 9927
     },
     {
       "prefix": "radioterapi",
@@ -668,13 +668,13 @@
       "body": "脊痛",
       "kanji": "脊痛",
       "detail": "rakialgi → 脊痛 (piv, F=1, 基本形)",
-      "documentation": "語根: rakialgi\n入力: rakialgi\n最終形: 脊痛\n漢字: 脊痛\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9927",
+      "documentation": "語根: rakialgi\n入力: rakialgi\n最終形: 脊痛\n漢字: 脊痛\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9928",
       "priority": 0,
       "sourceRoot": "rakialgi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9927
+      "sourceLine": 9928
     },
     {
       "prefix": "rakont",
@@ -941,13 +941,13 @@
       "body": "速计",
       "kanji": "速计",
       "detail": "rapidometr → 速计 (piv, F=1, 基本形)",
-      "documentation": "語根: rapidometr\n入力: rapidometr\n最終形: 速计\n漢字: 速计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9928",
+      "documentation": "語根: rapidometr\n入力: rapidometr\n最終形: 速计\n漢字: 速计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9929",
       "priority": 0,
       "sourceRoot": "rapidometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9928
+      "sourceLine": 9929
     },
     {
       "prefix": "rapir",
@@ -1565,13 +1565,13 @@
       "body": "报被",
       "kanji": "报被",
       "detail": "referat → 报被 (piv, F=1, 基本形)",
-      "documentation": "語根: referat\n入力: referat\n最終形: 报被\n漢字: 报被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9930",
+      "documentation": "語根: referat\n入力: referat\n最終形: 报被\n漢字: 报被\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9931",
       "priority": 0,
       "sourceRoot": "referat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9930
+      "sourceLine": 9931
     },
     {
       "prefix": "referenc",
@@ -1604,13 +1604,13 @@
       "body": "反射学",
       "kanji": "反射学",
       "detail": "refleksologi → 反射学 (piv, F=1, 基本形)",
-      "documentation": "語根: refleksologi\n入力: refleksologi\n最終形: 反射学\n漢字: 反射学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9931",
+      "documentation": "語根: refleksologi\n入力: refleksologi\n最終形: 反射学\n漢字: 反射学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9932",
       "priority": 0,
       "sourceRoot": "refleksologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9931
+      "sourceLine": 9932
     },
     {
       "prefix": "reflekt",
@@ -1669,13 +1669,13 @@
       "body": "折计",
       "kanji": "折计",
       "detail": "refraktometr → 折计 (piv, F=1, 基本形)",
-      "documentation": "語根: refraktometr\n入力: refraktometr\n最終形: 折计\n漢字: 折计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9932",
+      "documentation": "語根: refraktometr\n入力: refraktometr\n最終形: 折计\n漢字: 折计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9933",
       "priority": 0,
       "sourceRoot": "refraktometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9932
+      "sourceLine": 9933
     },
     {
       "prefix": "refren",
@@ -1877,13 +1877,13 @@
       "body": "规具",
       "kanji": "规具",
       "detail": "regulator → 规具 (piv, F=1, 基本形)",
-      "documentation": "語根: regulator\n入力: regulator\n最終形: 规具\n漢字: 规具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9933",
+      "documentation": "語根: regulator\n入力: regulator\n最終形: 规具\n漢字: 规具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9934",
       "priority": 0,
       "sourceRoot": "regulator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9933
+      "sourceLine": 9934
     },
     {
       "prefix": "regurgit",
@@ -2111,26 +2111,26 @@
       "body": "直肠镜",
       "kanji": "直肠镜",
       "detail": "rektumoskop → 直肠镜 (piv, F=1, 基本形)",
-      "documentation": "語根: rektumoskop\n入力: rektumoskop\n最終形: 直肠镜\n漢字: 直肠镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9934",
+      "documentation": "語根: rektumoskop\n入力: rektumoskop\n最終形: 直肠镜\n漢字: 直肠镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9935",
       "priority": 0,
       "sourceRoot": "rektumoskop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9934
+      "sourceLine": 9935
     },
     {
       "prefix": "rektumoskopi",
       "body": "直肠镜ᴿᴵ",
       "kanji": "直肠镜",
       "detail": "rektumoskopi → 直肠镜ᴿᴵ (piv, F=1)",
-      "documentation": "語根: rektumoskopi\n入力: rektumoskopi\n最終形: 直肠镜ᴿᴵ\n漢字: 直肠镜\n識別子: ri\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9935",
+      "documentation": "語根: rektumoskopi\n入力: rektumoskopi\n最終形: 直肠镜ᴿᴵ\n漢字: 直肠镜\n識別子: ri\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9936",
       "priority": 0,
       "sourceRoot": "rektumoskopi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9935
+      "sourceLine": 9936
     },
     {
       "prefix": "rekursi",
@@ -2553,26 +2553,26 @@
       "body": "流学",
       "kanji": "流学",
       "detail": "reologi → 流学 (piv, F=1, 基本形)",
-      "documentation": "語根: reologi\n入力: reologi\n最終形: 流学\n漢字: 流学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9936",
+      "documentation": "語根: reologi\n入力: reologi\n最終形: 流学\n漢字: 流学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9937",
       "priority": 0,
       "sourceRoot": "reologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9936
+      "sourceLine": 9937
     },
     {
       "prefix": "reostat",
       "body": "流态",
       "kanji": "流态",
       "detail": "reostat → 流态 (piv, F=1, 基本形)",
-      "documentation": "語根: reostat\n入力: reostat\n最終形: 流态\n漢字: 流态\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9937",
+      "documentation": "語根: reostat\n入力: reostat\n最終形: 流态\n漢字: 流态\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9938",
       "priority": 0,
       "sourceRoot": "reostat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9937
+      "sourceLine": 9938
     },
     {
       "prefix": "repertuar",
@@ -2917,26 +2917,26 @@
       "body": "网膜炎",
       "kanji": "网膜炎",
       "detail": "retinit → 网膜炎 (piv, F=1, 基本形)",
-      "documentation": "語根: retinit\n入力: retinit\n最終形: 网膜炎\n漢字: 网膜炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9938",
+      "documentation": "語根: retinit\n入力: retinit\n最終形: 网膜炎\n漢字: 网膜炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9939",
       "priority": 0,
       "sourceRoot": "retinit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9938
+      "sourceLine": 9939
     },
     {
       "prefix": "retinopati",
       "body": "网膜病",
       "kanji": "网膜病",
       "detail": "retinopati → 网膜病 (piv, F=1, 基本形)",
-      "documentation": "語根: retinopati\n入力: retinopati\n最終形: 网膜病\n漢字: 网膜病\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9939",
+      "documentation": "語根: retinopati\n入力: retinopati\n最終形: 网膜病\n漢字: 网膜病\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9940",
       "priority": 0,
       "sourceRoot": "retinopati",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9939
+      "sourceLine": 9940
     },
     {
       "prefix": "retor",
@@ -3034,13 +3034,13 @@
       "body": "再触",
       "kanji": "再触",
       "detail": "retus^ → 再触 (piv, F=1, 基本形)",
-      "documentation": "語根: retus^\n入力: retusx\n最終形: 再触\n漢字: 再触\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9940",
+      "documentation": "語根: retus^\n入力: retusx\n最終形: 再触\n漢字: 再触\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9941",
       "priority": 0,
       "sourceRoot": "retus^",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9940
+      "sourceLine": 9941
     },
     {
       "prefix": "reum",
@@ -3086,26 +3086,26 @@
       "body": "风湿学家",
       "kanji": "风湿学家",
       "detail": "reu^matolog → 风湿学家 (piv, F=1, 基本形)",
-      "documentation": "語根: reu^matolog\n入力: reuxmatolog\n最終形: 风湿学家\n漢字: 风湿学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9941",
+      "documentation": "語根: reu^matolog\n入力: reuxmatolog\n最終形: 风湿学家\n漢字: 风湿学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9942",
       "priority": 0,
       "sourceRoot": "reu^matolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9941
+      "sourceLine": 9942
     },
     {
       "prefix": "reuxmatologi",
       "body": "风湿学",
       "kanji": "风湿学",
       "detail": "reu^matologi → 风湿学 (piv, F=1, 基本形)",
-      "documentation": "語根: reu^matologi\n入力: reuxmatologi\n最終形: 风湿学\n漢字: 风湿学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9942",
+      "documentation": "語根: reu^matologi\n入力: reuxmatologi\n最終形: 风湿学\n漢字: 风湿学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9943",
       "priority": 0,
       "sourceRoot": "reu^matologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9942
+      "sourceLine": 9943
     },
     {
       "prefix": "rev",
@@ -3788,13 +3788,13 @@
       "body": "鼻炎",
       "kanji": "鼻炎",
       "detail": "rinit → 鼻炎 (piv, F=1, 基本形)",
-      "documentation": "語根: rinit\n入力: rinit\n最終形: 鼻炎\n漢字: 鼻炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9943",
+      "documentation": "語根: rinit\n入力: rinit\n最終形: 鼻炎\n漢字: 鼻炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9944",
       "priority": 0,
       "sourceRoot": "rinit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9943
+      "sourceLine": 9944
     },
     {
       "prefix": "rinocer",
@@ -3814,39 +3814,39 @@
       "body": "鼻学",
       "kanji": "鼻学",
       "detail": "rinologi → 鼻学 (piv, F=1, 基本形)",
-      "documentation": "語根: rinologi\n入力: rinologi\n最終形: 鼻学\n漢字: 鼻学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9944",
+      "documentation": "語根: rinologi\n入力: rinologi\n最終形: 鼻学\n漢字: 鼻学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9945",
       "priority": 0,
       "sourceRoot": "rinologi",
-      "type": "piv",
-      "frequency": 1,
-      "base": true,
-      "sourceLine": 9944
-    },
-    {
-      "prefix": "rinoplasti",
-      "body": "鼻塑",
-      "kanji": "鼻塑",
-      "detail": "rinoplasti → 鼻塑 (piv, F=1, 基本形)",
-      "documentation": "語根: rinoplasti\n入力: rinoplasti\n最終形: 鼻塑\n漢字: 鼻塑\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9945",
-      "priority": 0,
-      "sourceRoot": "rinoplasti",
       "type": "piv",
       "frequency": 1,
       "base": true,
       "sourceLine": 9945
     },
     {
+      "prefix": "rinoplasti",
+      "body": "鼻塑",
+      "kanji": "鼻塑",
+      "detail": "rinoplasti → 鼻塑 (piv, F=1, 基本形)",
+      "documentation": "語根: rinoplasti\n入力: rinoplasti\n最終形: 鼻塑\n漢字: 鼻塑\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9946",
+      "priority": 0,
+      "sourceRoot": "rinoplasti",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 9946
+    },
+    {
       "prefix": "rinoskopi",
       "body": "鼻镜",
       "kanji": "鼻镜",
       "detail": "rinoskopi → 鼻镜 (piv, F=1, 基本形)",
-      "documentation": "語根: rinoskopi\n入力: rinoskopi\n最終形: 鼻镜\n漢字: 鼻镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9946",
+      "documentation": "語根: rinoskopi\n入力: rinoskopi\n最終形: 鼻镜\n漢字: 鼻镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9947",
       "priority": 0,
       "sourceRoot": "rinoskopi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9946
+      "sourceLine": 9947
     },
     {
       "prefix": "rip",
@@ -4126,26 +4126,26 @@
       "body": "根形",
       "kanji": "根形",
       "detail": "rizomorf → 根形 (piv, F=1, 基本形)",
-      "documentation": "語根: rizomorf\n入力: rizomorf\n最終形: 根形\n漢字: 根形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9947",
+      "documentation": "語根: rizomorf\n入力: rizomorf\n最終形: 根形\n漢字: 根形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9948",
       "priority": 0,
       "sourceRoot": "rizomorf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9947
+      "sourceLine": 9948
     },
     {
       "prefix": "rizopod",
       "body": "根足",
       "kanji": "根足",
       "detail": "rizopod → 根足 (piv, F=1, 基本形)",
-      "documentation": "語根: rizopod\n入力: rizopod\n最終形: 根足\n漢字: 根足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9948",
+      "documentation": "語根: rizopod\n入力: rizopod\n最終形: 根足\n漢字: 根足\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9949",
       "priority": 0,
       "sourceRoot": "rizopod",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9948
+      "sourceLine": 9949
     },
     {
       "prefix": "ro",
@@ -4308,26 +4308,26 @@
       "body": "王主义",
       "kanji": "王主义",
       "detail": "rojalism → 王主义 (piv, F=1, 基本形)",
-      "documentation": "語根: rojalism\n入力: rojalism\n最終形: 王主义\n漢字: 王主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9949",
+      "documentation": "語根: rojalism\n入力: rojalism\n最終形: 王主义\n漢字: 王主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9950",
       "priority": 0,
       "sourceRoot": "rojalism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9949
+      "sourceLine": 9950
     },
     {
       "prefix": "rojalist",
       "body": "王党者",
       "kanji": "王党者",
       "detail": "rojalist → 王党者 (piv, F=1, 基本形)",
-      "documentation": "語根: rojalist\n入力: rojalist\n最終形: 王党者\n漢字: 王党者\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9950",
+      "documentation": "語根: rojalist\n入力: rojalist\n最終形: 王党者\n漢字: 王党者\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9951",
       "priority": 0,
       "sourceRoot": "rojalist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9950
+      "sourceLine": 9951
     },
     {
       "prefix": "rok",
@@ -4425,13 +4425,13 @@
       "body": "菱面",
       "kanji": "菱面",
       "detail": "romboedr → 菱面 (piv, F=1, 基本形)",
-      "documentation": "語根: romboedr\n入力: romboedr\n最終形: 菱面\n漢字: 菱面\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9951",
+      "documentation": "語根: romboedr\n入力: romboedr\n最終形: 菱面\n漢字: 菱面\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9952",
       "priority": 0,
       "sourceRoot": "romboedr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9951
+      "sourceLine": 9952
     },
     {
       "prefix": "romp",
@@ -4542,13 +4542,13 @@
       "body": "露计",
       "kanji": "露计",
       "detail": "rosometr → 露计 (piv, F=1, 基本形)",
-      "documentation": "語根: rosometr\n入力: rosometr\n最終形: 露计\n漢字: 露计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9952",
+      "documentation": "語根: rosometr\n入力: rosometr\n最終形: 露计\n漢字: 露计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9953",
       "priority": 0,
       "sourceRoot": "rosometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9952
+      "sourceLine": 9953
     },
     {
       "prefix": "rost",
