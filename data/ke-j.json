@@ -4,13 +4,13 @@
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
     "itemCount": 88,
-    "skippedCount": 0,
+    "skippedCount": 4,
     "homonymSourceName": "homonym-alt.tsv",
     "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "j",
-    "dictionaryItemCount": 10571
+    "dictionaryItemCount": 10636
   },
   "items": [
     {
@@ -57,39 +57,39 @@
       "body": "玉ᴶ",
       "kanji": "玉",
       "detail": "jad → 玉ᴶ (pejvo, F=2)",
-      "documentation": "語根: jad\n入力: jad\n最終形: 玉ᴶ\n漢字: 玉\n識別子: j\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7101",
+      "documentation": "語根: jad\n入力: jad\n最終形: 玉ᴶ\n漢字: 玉\n識別子: j\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7116",
       "priority": 0,
       "sourceRoot": "jad",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 7101
+      "sourceLine": 7116
     },
     {
       "prefix": "jaguar",
       "body": "豹ᴶ",
       "kanji": "豹",
       "detail": "jaguar → 豹ᴶ (pejvo, F=1)",
-      "documentation": "語根: jaguar\n入力: jaguar\n最終形: 豹ᴶ\n漢字: 豹\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7062",
+      "documentation": "語根: jaguar\n入力: jaguar\n最終形: 豹ᴶ\n漢字: 豹\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7077",
       "priority": 0,
       "sourceRoot": "jaguar",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 7062
+      "sourceLine": 7077
     },
     {
       "prefix": "jahurt",
       "body": "酸乳ᴶᴴ",
       "kanji": "酸乳",
       "detail": "jahurt → 酸乳ᴶᴴ (pejvo, F=1)",
-      "documentation": "語根: jahurt\n入力: jahurt\n最終形: 酸乳ᴶᴴ\n漢字: 酸乳\n識別子: jh\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7140",
+      "documentation": "語根: jahurt\n入力: jahurt\n最終形: 酸乳ᴶᴴ\n漢字: 酸乳\n識別子: jh\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7155",
       "priority": 0,
       "sourceRoot": "jahurt",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 7140
+      "sourceLine": 7155
     },
     {
       "prefix": "jahxt",
@@ -148,26 +148,26 @@
       "body": "菠萝蜜",
       "kanji": "菠萝蜜",
       "detail": "jakv → 菠萝蜜 (piv, F=3, 基本形)",
-      "documentation": "語根: jakv\n入力: jakv\n最終形: 菠萝蜜\n漢字: 菠萝蜜\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7344",
+      "documentation": "語根: jakv\n入力: jakv\n最終形: 菠萝蜜\n漢字: 菠萝蜜\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7359",
       "priority": 0,
       "sourceRoot": "jakv",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7344
+      "sourceLine": 7359
     },
     {
       "prefix": "jalap",
       "body": "泻块根",
       "kanji": "泻块根",
       "detail": "jalap → 泻块根 (pejvo, F=2, 基本形)",
-      "documentation": "語根: jalap\n入力: jalap\n最終形: 泻块根\n漢字: 泻块根\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8359",
+      "documentation": "語根: jalap\n入力: jalap\n最終形: 泻块根\n漢字: 泻块根\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8374",
       "priority": 0,
       "sourceRoot": "jalap",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8359
+      "sourceLine": 8374
     },
     {
       "prefix": "jam",
@@ -187,13 +187,13 @@
       "body": "抑扬",
       "kanji": "抑扬",
       "detail": "jamb → 抑扬 (pejvo, F=9, 基本形)",
-      "documentation": "語根: jamb\n入力: jamb\n最終形: 抑扬\n漢字: 抑扬\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6282",
+      "documentation": "語根: jamb\n入力: jamb\n最終形: 抑扬\n漢字: 抑扬\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6295",
       "priority": 0,
       "sourceRoot": "jamb",
       "type": "pejvo",
       "frequency": 9,
       "base": true,
-      "sourceLine": 6282
+      "sourceLine": 6295
     },
     {
       "prefix": "jambos",
@@ -252,26 +252,26 @@
       "body": "杆ᴶ",
       "kanji": "杆",
       "detail": "jard → 杆ᴶ (同綴異義: 帆桁)",
-      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:169",
+      "documentation": "語根: jard\n入力: jard\n最終形: 杆ᴶ\n漢字: 杆\n識別子: ᴶ\n型: amb(同綴異義)\n語義: 帆桁\n注記: 帆桁。jard=码と別\n基本形: no\n出典: homonym-alt.tsv:170",
       "priority": 1,
       "sourceRoot": "jard",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 169
+      "sourceLine": 170
     },
     {
       "prefix": "jaroviz",
       "body": "春化ᴶ",
       "kanji": "春化",
       "detail": "jaroviz → 春化ᴶ (piv, F=1)",
-      "documentation": "語根: jaroviz\n入力: jaroviz\n最終形: 春化ᴶ\n漢字: 春化\n識別子: j\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:8523",
+      "documentation": "語根: jaroviz\n入力: jaroviz\n最終形: 春化ᴶ\n漢字: 春化\n識別子: j\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:8538",
       "priority": 0,
       "sourceRoot": "jaroviz",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8523
+      "sourceLine": 8538
     },
     {
       "prefix": "jasmen",
@@ -291,39 +291,39 @@
       "body": "玉ᴶˢ",
       "kanji": "玉",
       "detail": "jasp → 玉ᴶˢ (pejvo, F=4)",
-      "documentation": "語根: jasp\n入力: jasp\n最終形: 玉ᴶˢ\n漢字: 玉\n識別子: js\n型: pejvo\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7102",
+      "documentation": "語根: jasp\n入力: jasp\n最終形: 玉ᴶˢ\n漢字: 玉\n識別子: js\n型: pejvo\nF(汎用性): 4\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7117",
       "priority": 0,
       "sourceRoot": "jasp",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 7102
+      "sourceLine": 7117
     },
     {
       "prefix": "jaspis",
       "body": "玉ᴶᴾ",
       "kanji": "玉",
       "detail": "jaspis → 玉ᴶᴾ (pejvo, F=1)",
-      "documentation": "語根: jaspis\n入力: jaspis\n最終形: 玉ᴶᴾ\n漢字: 玉\n識別子: jp\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7103",
+      "documentation": "語根: jaspis\n入力: jaspis\n最終形: 玉ᴶᴾ\n漢字: 玉\n識別子: jp\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7118",
       "priority": 0,
       "sourceRoot": "jaspis",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 7103
+      "sourceLine": 7118
     },
     {
       "prefix": "jatagan",
       "body": "刀ᴶ",
       "kanji": "刀",
       "detail": "jatagan → 刀ᴶ (piv, F=1)",
-      "documentation": "語根: jatagan\n入力: jatagan\n最終形: 刀ᴶ\n漢字: 刀\n識別子: j\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6712",
+      "documentation": "語根: jatagan\n入力: jatagan\n最終形: 刀ᴶ\n漢字: 刀\n識別子: j\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6727",
       "priority": 0,
       "sourceRoot": "jatagan",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6712
+      "sourceLine": 6727
     },
     {
       "prefix": "jazion",
@@ -434,91 +434,91 @@
       "body": "碘盐",
       "kanji": "碘盐",
       "detail": "jodat → 碘盐 (piv, F=1, 基本形)",
-      "documentation": "語根: jodat\n入力: jodat\n最終形: 碘盐\n漢字: 碘盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9409",
+      "documentation": "語根: jodat\n入力: jodat\n最終形: 碘盐\n漢字: 碘盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9425",
       "priority": 0,
       "sourceRoot": "jodat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9409
+      "sourceLine": 9425
     },
     {
       "prefix": "jodid",
       "body": "碘化",
       "kanji": "碘化",
       "detail": "jodid → 碘化 (piv, F=1, 基本形)",
-      "documentation": "語根: jodid\n入力: jodid\n最終形: 碘化\n漢字: 碘化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9410",
+      "documentation": "語根: jodid\n入力: jodid\n最終形: 碘化\n漢字: 碘化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9426",
       "priority": 0,
       "sourceRoot": "jodid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9410
+      "sourceLine": 9426
     },
     {
       "prefix": "jodil",
       "body": "碘基",
       "kanji": "碘基",
       "detail": "jodil → 碘基 (piv, F=1, 基本形)",
-      "documentation": "語根: jodil\n入力: jodil\n最終形: 碘基\n漢字: 碘基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9411",
+      "documentation": "語根: jodil\n入力: jodil\n最終形: 碘基\n漢字: 碘基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9427",
       "priority": 0,
       "sourceRoot": "jodil",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9411
+      "sourceLine": 9427
     },
     {
       "prefix": "jodl",
       "body": "假声",
       "kanji": "假声",
       "detail": "jodl → 假声 (piv, F=2, 基本形)",
-      "documentation": "語根: jodl\n入力: jodl\n最終形: 假声\n漢字: 假声\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8161",
+      "documentation": "語根: jodl\n入力: jodl\n最終形: 假声\n漢字: 假声\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8176",
       "priority": 0,
       "sourceRoot": "jodl",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8161
+      "sourceLine": 8176
     },
     {
       "prefix": "jodoform",
       "body": "碘形",
       "kanji": "碘形",
       "detail": "jodoform → 碘形 (piv, F=1, 基本形)",
-      "documentation": "語根: jodoform\n入力: jodoform\n最終形: 碘形\n漢字: 碘形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9412",
+      "documentation": "語根: jodoform\n入力: jodoform\n最終形: 碘形\n漢字: 碘形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9428",
       "priority": 0,
       "sourceRoot": "jodoform",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9412
+      "sourceLine": 9428
     },
     {
       "prefix": "jodometri",
       "body": "碘测",
       "kanji": "碘测",
       "detail": "jodometri → 碘测 (piv, F=1, 基本形)",
-      "documentation": "語根: jodometri\n入力: jodometri\n最終形: 碘测\n漢字: 碘测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9413",
+      "documentation": "語根: jodometri\n入力: jodometri\n最終形: 碘测\n漢字: 碘测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9429",
       "priority": 0,
       "sourceRoot": "jodometri",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9413
+      "sourceLine": 9429
     },
     {
       "prefix": "jogurt",
       "body": "酸乳",
       "kanji": "酸乳",
       "detail": "jogurt → 酸乳 (pejvo, F=4, 基本形)",
-      "documentation": "語根: jogurt\n入力: jogurt\n最終形: 酸乳\n漢字: 酸乳\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7139",
+      "documentation": "語根: jogurt\n入力: jogurt\n最終形: 酸乳\n漢字: 酸乳\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7154",
       "priority": 0,
       "sourceRoot": "jogurt",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 7139
+      "sourceLine": 7154
     },
     {
       "prefix": "johimb",
@@ -538,52 +538,52 @@
       "body": "离子",
       "kanji": "离子",
       "detail": "jon → 离子 (pejvo, F=14, 基本形)",
-      "documentation": "語根: jon\n入力: jon\n最終形: 离子\n漢字: 离子\n識別子: なし\n型: pejvo\nF(汎用性): 14\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6096",
+      "documentation": "語根: jon\n入力: jon\n最終形: 离子\n漢字: 离子\n識別子: なし\n型: pejvo\nF(汎用性): 14\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6105",
       "priority": 0,
       "sourceRoot": "jon",
       "type": "pejvo",
       "frequency": 14,
       "base": true,
-      "sourceLine": 6096
+      "sourceLine": 6105
     },
     {
       "prefix": "jonkvil",
       "body": "水仙ᴶ",
       "kanji": "水仙",
       "detail": "jonkvil → 水仙ᴶ (pejvo, F=1)",
-      "documentation": "語根: jonkvil\n入力: jonkvil\n最終形: 水仙ᴶ\n漢字: 水仙\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6775",
+      "documentation": "語根: jonkvil\n入力: jonkvil\n最終形: 水仙ᴶ\n漢字: 水仙\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6790",
       "priority": 0,
       "sourceRoot": "jonkvil",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6775
+      "sourceLine": 6790
     },
     {
       "prefix": "jonosfer",
       "body": "离子球",
       "kanji": "离子球",
       "detail": "jonosfer → 离子球 (piv, F=1, 基本形)",
-      "documentation": "語根: jonosfer\n入力: jonosfer\n最終形: 离子球\n漢字: 离子球\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9414",
+      "documentation": "語根: jonosfer\n入力: jonosfer\n最終形: 离子球\n漢字: 离子球\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9430",
       "priority": 0,
       "sourceRoot": "jonosfer",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9414
+      "sourceLine": 9430
     },
     {
       "prefix": "jor",
       "body": "偏ᴶ",
       "kanji": "偏",
       "detail": "jor → 偏ᴶ (pejvo, F=2)",
-      "documentation": "語根: jor\n入力: jor\n最終形: 偏ᴶ\n漢字: 偏\n識別子: j\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6291",
+      "documentation": "語根: jor\n入力: jor\n最終形: 偏ᴶ\n漢字: 偏\n識別子: j\n型: pejvo\nF(汎用性): 2\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6304",
       "priority": 0,
       "sourceRoot": "jor",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 6291
+      "sourceLine": 6304
     },
     {
       "prefix": "jovial",
@@ -655,13 +655,13 @@
       "body": "核桃",
       "kanji": "核桃",
       "detail": "jugland → 核桃 (pejvo, F=5, 基本形)",
-      "documentation": "語根: jugland\n入力: jugland\n最終形: 核桃\n漢字: 核桃\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6773",
+      "documentation": "語根: jugland\n入力: jugland\n最終形: 核桃\n漢字: 核桃\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6788",
       "priority": 0,
       "sourceRoot": "jugland",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6773
+      "sourceLine": 6788
     },
     {
       "prefix": "jugx",
@@ -707,26 +707,26 @@
       "body": "龙舌兰ᴶ",
       "kanji": "龙舌兰",
       "detail": "juka → 龙舌兰ᴶ (pejvo, F=1)",
-      "documentation": "語根: juka\n入力: juka\n最終形: 龙舌兰ᴶ\n漢字: 龙舌兰\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6674",
+      "documentation": "語根: juka\n入力: juka\n最終形: 龙舌兰ᴶ\n漢字: 龙舌兰\n識別子: j\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6689",
       "priority": 0,
       "sourceRoot": "juka",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6674
+      "sourceLine": 6689
     },
     {
       "prefix": "jul",
       "body": "圣诞",
       "kanji": "圣诞",
       "detail": "jul → 圣诞 (pejvo, F=4, 基本形)",
-      "documentation": "語根: jul\n入力: jul\n最終形: 圣诞\n漢字: 圣诞\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6958",
+      "documentation": "語根: jul\n入力: jul\n最終形: 圣诞\n漢字: 圣诞\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6973",
       "priority": 0,
       "sourceRoot": "jul",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6958
+      "sourceLine": 6973
     },
     {
       "prefix": "jul",
@@ -798,13 +798,13 @@
       "body": "杜松",
       "kanji": "杜松",
       "detail": "juniper → 杜松 (pejvo, F=3, 基本形)",
-      "documentation": "語根: juniper\n入力: juniper\n最終形: 杜松\n漢字: 杜松\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7409",
+      "documentation": "語根: juniper\n入力: juniper\n最終形: 杜松\n漢字: 杜松\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7424",
       "priority": 0,
       "sourceRoot": "juniper",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7409
+      "sourceLine": 7424
     },
     {
       "prefix": "junk",
@@ -824,13 +824,13 @@
       "body": "地主",
       "kanji": "地主",
       "detail": "junkr → 地主 (pejvo, F=2, 基本形)",
-      "documentation": "語根: junkr\n入力: junkr\n最終形: 地主\n漢字: 地主\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7772",
+      "documentation": "語根: junkr\n入力: junkr\n最終形: 地主\n漢字: 地主\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7787",
       "priority": 0,
       "sourceRoot": "junkr",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7772
+      "sourceLine": 7787
     },
     {
       "prefix": "junt",
@@ -876,13 +876,13 @@
       "body": "判例",
       "kanji": "判例",
       "detail": "jurisprudenc → 判例 (pejvo, F=1, 基本形)",
-      "documentation": "語根: jurisprudenc\n入力: jurisprudenc\n最終形: 判例\n漢字: 判例\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8644",
+      "documentation": "語根: jurisprudenc\n入力: jurisprudenc\n最終形: 判例\n漢字: 判例\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8659",
       "priority": 0,
       "sourceRoot": "jurisprudenc",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8644
+      "sourceLine": 8659
     },
     {
       "prefix": "just",
@@ -902,26 +902,26 @@
       "body": "义",
       "kanji": "义",
       "detail": "justic → 义 (pejvo, F=9, 基本形)",
-      "documentation": "語根: justic\n入力: justic\n最終形: 义\n漢字: 义\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6301",
+      "documentation": "語根: justic\n入力: justic\n最終形: 义\n漢字: 义\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6314",
       "priority": 0,
       "sourceRoot": "justic",
       "type": "pejvo",
       "frequency": 9,
       "base": true,
-      "sourceLine": 6301
+      "sourceLine": 6314
     },
     {
       "prefix": "jut",
       "body": "黄麻",
       "kanji": "黄麻",
       "detail": "jut → 黄麻 (pejvo, F=2, 基本形)",
-      "documentation": "語根: jut\n入力: jut\n最終形: 黄麻\n漢字: 黄麻\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8094",
+      "documentation": "語根: jut\n入力: jut\n最終形: 黄麻\n漢字: 黄麻\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8109",
       "priority": 0,
       "sourceRoot": "jut",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8094
+      "sourceLine": 8109
     },
     {
       "prefix": "juvel",
@@ -941,26 +941,26 @@
       "body": "插孔",
       "kanji": "插孔",
       "detail": "j^ak → 插孔 (pejvo, F=2, 基本形)",
-      "documentation": "語根: j^ak\n入力: jxak\n最終形: 插孔\n漢字: 插孔\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8468",
+      "documentation": "語根: j^ak\n入力: jxak\n最終形: 插孔\n漢字: 插孔\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8483",
       "priority": 0,
       "sourceRoot": "j^ak",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8468
+      "sourceLine": 8483
     },
     {
       "prefix": "jxakard",
       "body": "提花",
       "kanji": "提花",
       "detail": "j^akard → 提花 (piv, F=2, 基本形)",
-      "documentation": "語根: j^akard\n入力: jxakard\n最終形: 提花\n漢字: 提花\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7783",
+      "documentation": "語根: j^akard\n入力: jxakard\n最終形: 提花\n漢字: 提花\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7798",
       "priority": 0,
       "sourceRoot": "j^akard",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7783
+      "sourceLine": 7798
     },
     {
       "prefix": "jxaluz",
@@ -993,26 +993,26 @@
       "body": "黑话",
       "kanji": "黑话",
       "detail": "j^argon → 黑话 (pejvo, F=3, 基本形)",
-      "documentation": "語根: j^argon\n入力: jxargon\n最終形: 黑话\n漢字: 黑话\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7337",
+      "documentation": "語根: j^argon\n入力: jxargon\n最終形: 黑话\n漢字: 黑话\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7352",
       "priority": 0,
       "sourceRoot": "j^argon",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7337
+      "sourceLine": 7352
     },
     {
       "prefix": "jxartel",
       "body": "吊袜",
       "kanji": "吊袜",
       "detail": "j^artel → 吊袜 (pejvo, F=2, 基本形)",
-      "documentation": "語根: j^artel\n入力: jxartel\n最終形: 吊袜\n漢字: 吊袜\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7770",
+      "documentation": "語根: j^artel\n入力: jxartel\n最終形: 吊袜\n漢字: 吊袜\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7785",
       "priority": 0,
       "sourceRoot": "j^artel",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7770
+      "sourceLine": 7785
     },
     {
       "prefix": "jxauxd",
@@ -1071,39 +1071,39 @@
       "body": "耍",
       "kanji": "耍",
       "detail": "j^ongl → 耍 (pejvo, F=5, 基本形)",
-      "documentation": "語根: j^ongl\n入力: jxongl\n最終形: 耍\n漢字: 耍\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6726",
+      "documentation": "語根: j^ongl\n入力: jxongl\n最終形: 耍\n漢字: 耍\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6741",
       "priority": 0,
       "sourceRoot": "j^ongl",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6726
+      "sourceLine": 6741
     },
     {
       "prefix": "jxos",
       "body": "假植",
       "kanji": "假植",
       "detail": "j^os → 假植 (pejvo, F=1, 基本形)",
-      "documentation": "語根: j^os\n入力: jxos\n最終形: 假植\n漢字: 假植\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8665",
+      "documentation": "語根: j^os\n入力: jxos\n最終形: 假植\n漢字: 假植\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8680",
       "priority": 0,
       "sourceRoot": "j^os",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8665
+      "sourceLine": 8680
     },
     {
       "prefix": "jxud",
       "body": "柔道",
       "kanji": "柔道",
       "detail": "j^ud → 柔道 (pejvo, F=4, 基本形)",
-      "documentation": "語根: j^ud\n入力: jxud\n最終形: 柔道\n漢字: 柔道\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7095",
+      "documentation": "語根: j^ud\n入力: jxud\n最終形: 柔道\n漢字: 柔道\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7110",
       "priority": 0,
       "sourceRoot": "j^ud",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 7095
+      "sourceLine": 7110
     },
     {
       "prefix": "jxur",
@@ -1123,13 +1123,13 @@
       "body": "陪审",
       "kanji": "陪审",
       "detail": "j^uri → 陪审 (pejvo, F=2, 基本形)",
-      "documentation": "語根: j^uri\n入力: jxuri\n最終形: 陪审\n漢字: 陪审\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8235",
+      "documentation": "語根: j^uri\n入力: jxuri\n最終形: 陪审\n漢字: 陪审\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8250",
       "priority": 0,
       "sourceRoot": "j^uri",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8235
+      "sourceLine": 8250
     },
     {
       "prefix": "jxurnal",

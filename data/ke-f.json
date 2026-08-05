@@ -3,14 +3,14 @@
     "sourceName": "_identifier_sidecar.tsv",
     "sourceSchema": "identifier-sidecar",
     "prefixNotation": "x-system",
-    "itemCount": 508,
-    "skippedCount": 0,
+    "itemCount": 509,
+    "skippedCount": 4,
     "homonymSourceName": "homonym-alt.tsv",
     "homonymAltCount": 167,
     "inlineSourceName": "inline-tokens.tsv",
     "inlineTokenCount": 6,
     "bucket": "f",
-    "dictionaryItemCount": 10571
+    "dictionaryItemCount": 10636
   },
   "items": [
     {
@@ -83,13 +83,13 @@
       "body": "刻面",
       "kanji": "刻面",
       "detail": "facet → 刻面 (pejvo, F=3, 基本形)",
-      "documentation": "語根: facet\n入力: facet\n最終形: 刻面\n漢字: 刻面\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7346",
+      "documentation": "語根: facet\n入力: facet\n最終形: 刻面\n漢字: 刻面\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7361",
       "priority": 0,
       "sourceRoot": "facet",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7346
+      "sourceLine": 7361
     },
     {
       "prefix": "faci",
@@ -122,13 +122,13 @@
       "body": "淡",
       "kanji": "淡",
       "detail": "fad → 淡 (pejvo, F=7, 基本形)",
-      "documentation": "語根: fad\n入力: fad\n最終形: 淡\n漢字: 淡\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6498",
+      "documentation": "語根: fad\n入力: fad\n最終形: 淡\n漢字: 淡\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6513",
       "priority": 0,
       "sourceRoot": "fad",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 6498
+      "sourceLine": 6513
     },
     {
       "prefix": "faden",
@@ -148,13 +148,13 @@
       "body": "马车ᶠᵀ",
       "kanji": "马车",
       "detail": "faeton → 马车ᶠᵀ (pejvo, F=2)",
-      "documentation": "語根: faeton\n入力: faeton\n最終形: 马车ᶠᵀ\n漢字: 马车\n識別子: ft\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7464",
+      "documentation": "語根: faeton\n入力: faeton\n最終形: 马车ᶠᵀ\n漢字: 马车\n識別子: ft\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7479",
       "priority": 0,
       "sourceRoot": "faeton",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 7464
+      "sourceLine": 7479
     },
     {
       "prefix": "fag",
@@ -187,13 +187,13 @@
       "body": "吞胞",
       "kanji": "吞胞",
       "detail": "fagocit → 吞胞 (piv, F=1, 基本形)",
-      "documentation": "語根: fagocit\n入力: fagocit\n最終形: 吞胞\n漢字: 吞胞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10239",
+      "documentation": "語根: fagocit\n入力: fagocit\n最終形: 吞胞\n漢字: 吞胞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10255",
       "priority": 0,
       "sourceRoot": "fagocit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10239
+      "sourceLine": 10255
     },
     {
       "prefix": "fagopir",
@@ -213,13 +213,13 @@
       "body": "大管",
       "kanji": "大管",
       "detail": "fagot → 大管 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fagot\n入力: fagot\n最終形: 大管\n漢字: 大管\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8479",
+      "documentation": "語根: fagot\n入力: fagot\n最終形: 大管\n漢字: 大管\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8494",
       "priority": 0,
       "sourceRoot": "fagot",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8479
+      "sourceLine": 8494
     },
     {
       "prefix": "fagx",
@@ -330,13 +330,13 @@
       "body": "传真",
       "kanji": "传真",
       "detail": "faks → 传真 (pejvo, F=4, 基本形)",
-      "documentation": "語根: faks\n入力: faks\n最終形: 传真\n漢字: 传真\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6879",
+      "documentation": "語根: faks\n入力: faks\n最終形: 传真\n漢字: 传真\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6894",
       "priority": 0,
       "sourceRoot": "faks",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6879
+      "sourceLine": 6894
     },
     {
       "prefix": "faksimil",
@@ -421,13 +421,13 @@
       "body": "阵",
       "kanji": "阵",
       "detail": "falang → 阵 (pejvo, F=4, 基本形)",
-      "documentation": "語根: falang\n入力: falang\n最終形: 阵\n漢字: 阵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6837",
+      "documentation": "語根: falang\n入力: falang\n最終形: 阵\n漢字: 阵\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6852",
       "priority": 0,
       "sourceRoot": "falang",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6837
+      "sourceLine": 6852
     },
     {
       "prefix": "falanger",
@@ -525,13 +525,13 @@
       "body": "收割具",
       "kanji": "收割具",
       "detail": "falc^ator → 收割具 (piv, F=1, 基本形)",
-      "documentation": "語根: falc^ator\n入力: falcxator\n最終形: 收割具\n漢字: 收割具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9110",
+      "documentation": "語根: falc^ator\n入力: falcxator\n最終形: 收割具\n漢字: 收割具\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9125",
       "priority": 0,
       "sourceRoot": "falc^ator",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9110
+      "sourceLine": 9125
     },
     {
       "prefix": "fald",
@@ -564,26 +564,26 @@
       "body": "兰ᶠ",
       "kanji": "兰",
       "detail": "falenops → 兰ᶠ (piv, F=1)",
-      "documentation": "語根: falenops\n入力: falenops\n最終形: 兰ᶠ\n漢字: 兰\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 15\n基本形: no\n出典: _identifier_sidecar.tsv:6988",
+      "documentation": "語根: falenops\n入力: falenops\n最終形: 兰ᶠ\n漢字: 兰\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 15\n基本形: no\n出典: _identifier_sidecar.tsv:7003",
       "priority": 0,
       "sourceRoot": "falenops",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6988
+      "sourceLine": 7003
     },
     {
       "prefix": "falk",
       "body": "鹰",
       "kanji": "鹰",
       "detail": "falk → 鹰 (pejvo, F=14, 基本形)",
-      "documentation": "語根: falk\n入力: falk\n最終形: 鹰\n漢字: 鹰\n識別子: なし\n型: pejvo\nF(汎用性): 14\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:6089",
+      "documentation": "語根: falk\n入力: falk\n最終形: 鹰\n漢字: 鹰\n識別子: なし\n型: pejvo\nF(汎用性): 14\nグループ数: 7\n基本形: yes\n出典: _identifier_sidecar.tsv:6098",
       "priority": 0,
       "sourceRoot": "falk",
       "type": "pejvo",
       "frequency": 14,
       "base": true,
-      "sourceLine": 6089
+      "sourceLine": 6098
     },
     {
       "prefix": "fals",
@@ -616,26 +616,26 @@
       "body": "贝岩",
       "kanji": "贝岩",
       "detail": "falun → 贝岩 (piv, F=3, 基本形)",
-      "documentation": "語根: falun\n入力: falun\n最終形: 贝岩\n漢字: 贝岩\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7597",
+      "documentation": "語根: falun\n入力: falun\n最終形: 贝岩\n漢字: 贝岩\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7612",
       "priority": 0,
       "sourceRoot": "falun",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7597
+      "sourceLine": 7612
     },
     {
       "prefix": "falus",
       "body": "阳具ᶠ",
       "kanji": "阳具",
       "detail": "falus → 阳具ᶠ (piv, F=3)",
-      "documentation": "語根: falus\n入力: falus\n最終形: 阳具ᶠ\n漢字: 阳具\n識別子: f\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7098",
+      "documentation": "語根: falus\n入力: falus\n最終形: 阳具ᶠ\n漢字: 阳具\n識別子: f\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7113",
       "priority": 0,
       "sourceRoot": "falus",
       "type": "piv",
       "frequency": 3,
       "base": false,
-      "sourceLine": 7098
+      "sourceLine": 7113
     },
     {
       "prefix": "fam",
@@ -707,13 +707,13 @@
       "body": "号角",
       "kanji": "号角",
       "detail": "fanfar → 号角 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fanfar\n入力: fanfar\n最終形: 号角\n漢字: 号角\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8180",
+      "documentation": "語根: fanfar\n入力: fanfar\n最終形: 号角\n漢字: 号角\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8195",
       "priority": 0,
       "sourceRoot": "fanfar",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8180
+      "sourceLine": 8195
     },
     {
       "prefix": "fanfaron",
@@ -785,13 +785,13 @@
       "body": "电疗",
       "kanji": "电疗",
       "detail": "faradiz → 电疗 (pejvo, F=2, 基本形)",
-      "documentation": "語根: faradiz\n入力: faradiz\n最終形: 电疗\n漢字: 电疗\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:8196",
+      "documentation": "語根: faradiz\n入力: faradiz\n最終形: 电疗\n漢字: 电疗\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:8211",
       "priority": 0,
       "sourceRoot": "faradiz",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8196
+      "sourceLine": 8211
     },
     {
       "prefix": "farb",
@@ -824,65 +824,65 @@
       "body": "填ᶠ",
       "kanji": "填",
       "detail": "farc^ → 填ᶠ (pejvo, F=3)",
-      "documentation": "語根: farc^\n入力: farcx\n最終形: 填ᶠ\n漢字: 填\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6202",
+      "documentation": "語根: farc^\n入力: farcx\n最終形: 填ᶠ\n漢字: 填\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6212",
       "priority": 0,
       "sourceRoot": "farc^",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 6202
+      "sourceLine": 6212
     },
     {
       "prefix": "faring",
       "body": "咽",
       "kanji": "咽",
       "detail": "faring → 咽 (pejvo, F=5, 基本形)",
-      "documentation": "語根: faring\n入力: faring\n最終形: 咽\n漢字: 咽\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6803",
+      "documentation": "語根: faring\n入力: faring\n最終形: 咽\n漢字: 咽\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6818",
       "priority": 0,
       "sourceRoot": "faring",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6803
+      "sourceLine": 6818
     },
     {
       "prefix": "faringit",
       "body": "咽炎ᶠ",
       "kanji": "咽炎",
       "detail": "faringit → 咽炎ᶠ (piv, F=1)",
-      "documentation": "語根: faringit\n入力: faringit\n最終形: 咽炎ᶠ\n漢字: 咽炎\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7699",
+      "documentation": "語根: faringit\n入力: faringit\n最終形: 咽炎ᶠ\n漢字: 咽炎\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:7714",
       "priority": 0,
       "sourceRoot": "faringit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 7699
+      "sourceLine": 7714
     },
     {
       "prefix": "faringoskop",
       "body": "咽镜",
       "kanji": "咽镜",
       "detail": "faringoskop → 咽镜 (piv, F=1, 基本形)",
-      "documentation": "語根: faringoskop\n入力: faringoskop\n最終形: 咽镜\n漢字: 咽镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9111",
+      "documentation": "語根: faringoskop\n入力: faringoskop\n最終形: 咽镜\n漢字: 咽镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9126",
       "priority": 0,
       "sourceRoot": "faringoskop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9111
+      "sourceLine": 9126
     },
     {
       "prefix": "faringoskopi",
       "body": "咽镜ᶠᴵ",
       "kanji": "咽镜",
       "detail": "faringoskopi → 咽镜ᶠᴵ (piv, F=1)",
-      "documentation": "語根: faringoskopi\n入力: faringoskopi\n最終形: 咽镜ᶠᴵ\n漢字: 咽镜\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9112",
+      "documentation": "語根: faringoskopi\n入力: faringoskopi\n最終形: 咽镜ᶠᴵ\n漢字: 咽镜\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9127",
       "priority": 0,
       "sourceRoot": "faringoskopi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9112
+      "sourceLine": 9127
     },
     {
       "prefix": "farm",
@@ -928,26 +928,26 @@
       "body": "药学家",
       "kanji": "药学家",
       "detail": "farmakolog → 药学家 (piv, F=1, 基本形)",
-      "documentation": "語根: farmakolog\n入力: farmakolog\n最終形: 药学家\n漢字: 药学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9113",
+      "documentation": "語根: farmakolog\n入力: farmakolog\n最終形: 药学家\n漢字: 药学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9128",
       "priority": 0,
       "sourceRoot": "farmakolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9113
+      "sourceLine": 9128
     },
     {
       "prefix": "farmakologi",
       "body": "药学",
       "kanji": "药学",
       "detail": "farmakologi → 药学 (piv, F=1, 基本形)",
-      "documentation": "語根: farmakologi\n入力: farmakologi\n最終形: 药学\n漢字: 药学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9114",
+      "documentation": "語根: farmakologi\n入力: farmakologi\n最終形: 药学\n漢字: 药学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9129",
       "priority": 0,
       "sourceRoot": "farmakologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9114
+      "sourceLine": 9129
     },
     {
       "prefix": "fars",
@@ -1006,13 +1006,13 @@
       "body": "筋膜",
       "kanji": "筋膜",
       "detail": "fasci → 筋膜 (pejvo, F=1, 基本形)",
-      "documentation": "語根: fasci\n入力: fasci\n最終形: 筋膜\n漢字: 筋膜\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8634",
+      "documentation": "語根: fasci\n入力: fasci\n最終形: 筋膜\n漢字: 筋膜\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8649",
       "priority": 0,
       "sourceRoot": "fasci",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8634
+      "sourceLine": 8649
     },
     {
       "prefix": "fascin",
@@ -1045,13 +1045,13 @@
       "body": "柴束",
       "kanji": "柴束",
       "detail": "fasc^in → 柴束 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fasc^in\n入力: fascxin\n最終形: 柴束\n漢字: 柴束\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8320",
+      "documentation": "語根: fasc^in\n入力: fascxin\n最終形: 柴束\n漢字: 柴束\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8335",
       "priority": 0,
       "sourceRoot": "fasc^in",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8320
+      "sourceLine": 8335
     },
     {
       "prefix": "fask",
@@ -1071,13 +1071,13 @@
       "body": "竹节虫",
       "kanji": "竹节虫",
       "detail": "fasm → 竹节虫 (piv, F=2, 基本形)",
-      "documentation": "語根: fasm\n入力: fasm\n最終形: 竹节虫\n漢字: 竹节虫\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7647",
+      "documentation": "語根: fasm\n入力: fasm\n最終形: 竹节虫\n漢字: 竹节虫\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7662",
       "priority": 0,
       "sourceRoot": "fasm",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7647
+      "sourceLine": 7662
     },
     {
       "prefix": "fason",
@@ -1162,52 +1162,52 @@
       "body": "违规",
       "kanji": "违规",
       "detail": "fau^l → 违规 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fau^l\n入力: fauxl\n最終形: 违规\n漢字: 违规\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7889",
+      "documentation": "語根: fau^l\n入力: fauxl\n最終形: 违规\n漢字: 违规\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7904",
       "priority": 0,
       "sourceRoot": "fau^l",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7889
+      "sourceLine": 7904
     },
     {
       "prefix": "fauxlt",
       "body": "断层",
       "kanji": "断层",
       "detail": "fau^lt → 断层 (piv, F=3, 基本形)",
-      "documentation": "語根: fau^lt\n入力: fauxlt\n最終形: 断层\n漢字: 断层\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7179",
+      "documentation": "語根: fau^lt\n入力: fauxlt\n最終形: 断层\n漢字: 断层\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7194",
       "priority": 0,
       "sourceRoot": "fau^lt",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7179
+      "sourceLine": 7194
     },
     {
       "prefix": "fauxn",
       "body": "兽相",
       "kanji": "兽相",
       "detail": "fau^n → 兽相 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fau^n\n入力: fauxn\n最終形: 兽相\n漢字: 兽相\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7891",
+      "documentation": "語根: fau^n\n入力: fauxn\n最終形: 兽相\n漢字: 兽相\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7906",
       "priority": 0,
       "sourceRoot": "fau^n",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7891
+      "sourceLine": 7906
     },
     {
       "prefix": "fav",
       "body": "黄癣",
       "kanji": "黄癣",
       "detail": "fav → 黄癣 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fav\n入力: fav\n最終形: 黄癣\n漢字: 黄癣\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6741",
+      "documentation": "語根: fav\n入力: fav\n最終形: 黄癣\n漢字: 黄癣\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6756",
       "priority": 0,
       "sourceRoot": "fav",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6741
+      "sourceLine": 6756
     },
     {
       "prefix": "favor",
@@ -1240,13 +1240,13 @@
       "body": "野鸡ᶠ",
       "kanji": "野鸡",
       "detail": "fazan → 野鸡ᶠ (pejvo, F=3)",
-      "documentation": "語根: fazan\n入力: fazan\n最終形: 野鸡ᶠ\n漢字: 野鸡\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6420",
+      "documentation": "語根: fazan\n入力: fazan\n最終形: 野鸡ᶠ\n漢字: 野鸡\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6433",
       "priority": 0,
       "sourceRoot": "fazan",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 6420
+      "sourceLine": 6433
     },
     {
       "prefix": "fazeol",
@@ -1292,13 +1292,13 @@
       "body": "弱",
       "kanji": "弱",
       "detail": "febl → 弱 (pejvo, F=2, 基本形)",
-      "documentation": "語根: febl\n入力: febl\n最終形: 弱\n漢字: 弱\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:7005",
+      "documentation": "語根: febl\n入力: febl\n最終形: 弱\n漢字: 弱\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:7020",
       "priority": 0,
       "sourceRoot": "febl",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7005
+      "sourceLine": 7020
     },
     {
       "prefix": "febr",
@@ -1396,13 +1396,13 @@
       "body": "淀粉",
       "kanji": "淀粉",
       "detail": "fekul → 淀粉 (piv, F=1, 基本形)",
-      "documentation": "語根: fekul\n入力: fekul\n最終形: 淀粉\n漢字: 淀粉\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9115",
+      "documentation": "語根: fekul\n入力: fekul\n最終形: 淀粉\n漢字: 淀粉\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9130",
       "priority": 0,
       "sourceRoot": "fekul",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9115
+      "sourceLine": 9130
     },
     {
       "prefix": "fekund",
@@ -1435,26 +1435,26 @@
       "body": "芹ᶠ",
       "kanji": "芹",
       "detail": "felandri → 芹ᶠ (pejvo, F=1)",
-      "documentation": "語根: felandri\n入力: felandri\n最終形: 芹ᶠ\n漢字: 芹\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6449",
+      "documentation": "語根: felandri\n入力: felandri\n最終形: 芹ᶠ\n漢字: 芹\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6462",
       "priority": 0,
       "sourceRoot": "felandri",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6449
+      "sourceLine": 6462
     },
     {
       "prefix": "feldspat",
       "body": "长石",
       "kanji": "长石",
       "detail": "feldspat → 长石 (pejvo, F=2, 基本形)",
-      "documentation": "語根: feldspat\n入力: feldspat\n最終形: 长石\n漢字: 长石\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8153",
+      "documentation": "語根: feldspat\n入力: feldspat\n最終形: 长石\n漢字: 长石\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8168",
       "priority": 0,
       "sourceRoot": "feldspat",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8153
+      "sourceLine": 8168
     },
     {
       "prefix": "felicx",
@@ -1513,13 +1513,13 @@
       "body": "雌",
       "kanji": "雌",
       "detail": "femal → 雌 (pejvo, F=2, 基本形)",
-      "documentation": "語根: femal\n入力: femal\n最終形: 雌\n漢字: 雌\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8433",
+      "documentation": "語根: femal\n入力: femal\n最終形: 雌\n漢字: 雌\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8448",
       "priority": 0,
       "sourceRoot": "femal",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8433
+      "sourceLine": 8448
     },
     {
       "prefix": "femin",
@@ -1552,13 +1552,13 @@
       "body": "女家",
       "kanji": "女家",
       "detail": "feminist → 女家 (piv, F=1, 基本形)",
-      "documentation": "語根: feminist\n入力: feminist\n最終形: 女家\n漢字: 女家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9116",
+      "documentation": "語根: feminist\n入力: feminist\n最終形: 女家\n漢字: 女家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9131",
       "priority": 0,
       "sourceRoot": "feminist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9116
+      "sourceLine": 9131
     },
     {
       "prefix": "femur",
@@ -1578,26 +1578,26 @@
       "body": "焚风",
       "kanji": "焚风",
       "detail": "fen → 焚风 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fen\n入力: fen\n最終形: 焚风\n漢字: 焚风\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7881",
+      "documentation": "語根: fen\n入力: fen\n最終形: 焚风\n漢字: 焚风\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7896",
       "priority": 0,
       "sourceRoot": "fen",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7881
+      "sourceLine": 7896
     },
     {
       "prefix": "fen",
       "body": "现ᶠᴱ",
       "kanji": "现",
       "detail": "fen → 现ᶠᴱ (語限定 phainein(希現れる·示す): fen/o/tip/o)",
-      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:92",
+      "documentation": "語根: fen\n入力: fen\n最終形: 现ᶠᴱ\n漢字: 现\n識別子: ᶠᴱ\n型: sep(語限定)\n語義: phainein(希現れる·示す)\n適用語: fen/o/tip/o\n注記: phainein(希現れる·示す)→现。表現型phenotype(fen/o/tip=现/型)。フェーン風feno=焚风・フェノールfenol(化学)は別。fenomen现象と同源。2026-07-18 偽友スイープR3\n基本形: no\n出典: homonym-alt.tsv:93",
       "priority": 1,
       "sourceRoot": "fen",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 92
+      "sourceLine": 93
     },
     {
       "prefix": "fend",
@@ -1656,13 +1656,13 @@
       "body": "凤",
       "kanji": "凤",
       "detail": "feniks → 凤 (pejvo, F=2, 基本形)",
-      "documentation": "語根: feniks\n入力: feniks\n最終形: 凤\n漢字: 凤\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7809",
+      "documentation": "語根: feniks\n入力: feniks\n最終形: 凤\n漢字: 凤\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7824",
       "priority": 0,
       "sourceRoot": "feniks",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7809
+      "sourceLine": 7824
     },
     {
       "prefix": "fenikur",
@@ -1708,26 +1708,26 @@
       "body": "现学",
       "kanji": "现学",
       "detail": "fenomenologi → 现学 (piv, F=1, 基本形)",
-      "documentation": "語根: fenomenologi\n入力: fenomenologi\n最終形: 现学\n漢字: 现学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9117",
+      "documentation": "語根: fenomenologi\n入力: fenomenologi\n最終形: 现学\n漢字: 现学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9132",
       "priority": 0,
       "sourceRoot": "fenomenologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9117
+      "sourceLine": 9132
     },
     {
       "prefix": "fenotip",
       "body": "现型",
       "kanji": "现型",
       "detail": "fenotip → 现型 (piv, F=1, 基本形)",
-      "documentation": "語根: fenotip\n入力: fenotip\n最終形: 现型\n漢字: 现型\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9118",
+      "documentation": "語根: fenotip\n入力: fenotip\n最終形: 现型\n漢字: 现型\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9133",
       "priority": 0,
       "sourceRoot": "fenotip",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9118
+      "sourceLine": 9133
     },
     {
       "prefix": "fenugrek",
@@ -1760,26 +1760,26 @@
       "body": "铁盐",
       "kanji": "铁盐",
       "detail": "ferat → 铁盐 (piv, F=1, 基本形)",
-      "documentation": "語根: ferat\n入力: ferat\n最終形: 铁盐\n漢字: 铁盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10240",
+      "documentation": "語根: ferat\n入力: ferat\n最終形: 铁盐\n漢字: 铁盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10256",
       "priority": 0,
       "sourceRoot": "ferat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10240
+      "sourceLine": 10256
     },
     {
       "prefix": "ferdek",
       "body": "甲板",
       "kanji": "甲板",
       "detail": "ferdek → 甲板 (pejvo, F=12, 基本形)",
-      "documentation": "語根: ferdek\n入力: ferdek\n最終形: 甲板\n漢字: 甲板\n識別子: なし\n型: pejvo\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6139",
+      "documentation": "語根: ferdek\n入力: ferdek\n最終形: 甲板\n漢字: 甲板\n識別子: なし\n型: pejvo\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6149",
       "priority": 0,
       "sourceRoot": "ferdek",
       "type": "pejvo",
       "frequency": 12,
       "base": true,
-      "sourceLine": 6139
+      "sourceLine": 6149
     },
     {
       "prefix": "feri",
@@ -1825,13 +1825,13 @@
       "body": "酵",
       "kanji": "酵",
       "detail": "ferment → 酵 (pejvo, F=13, 基本形)",
-      "documentation": "語根: ferment\n入力: ferment\n最終形: 酵\n漢字: 酵\n識別子: なし\n型: pejvo\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6119",
+      "documentation": "語根: ferment\n入力: ferment\n最終形: 酵\n漢字: 酵\n識別子: なし\n型: pejvo\nF(汎用性): 13\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6128",
       "priority": 0,
       "sourceRoot": "ferment",
       "type": "pejvo",
       "frequency": 13,
       "base": true,
-      "sourceLine": 6119
+      "sourceLine": 6128
     },
     {
       "prefix": "fermi",
@@ -1877,13 +1877,13 @@
       "body": "铁青",
       "kanji": "铁青",
       "detail": "ferocian → 铁青 (piv, F=1, 基本形)",
-      "documentation": "語根: ferocian\n入力: ferocian\n最終形: 铁青\n漢字: 铁青\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9119",
+      "documentation": "語根: ferocian\n入力: ferocian\n最終形: 铁青\n漢字: 铁青\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9134",
       "priority": 0,
       "sourceRoot": "ferocian",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9119
+      "sourceLine": 9134
     },
     {
       "prefix": "ferol",
@@ -1916,26 +1916,26 @@
       "body": "铁磁",
       "kanji": "铁磁",
       "detail": "feromagnet → 铁磁 (pejvo, F=3, 基本形)",
-      "documentation": "語根: feromagnet\n入力: feromagnet\n最終形: 铁磁\n漢字: 铁磁\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7418",
+      "documentation": "語根: feromagnet\n入力: feromagnet\n最終形: 铁磁\n漢字: 铁磁\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7433",
       "priority": 0,
       "sourceRoot": "feromagnet",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7418
+      "sourceLine": 7433
     },
     {
       "prefix": "ferut",
       "body": "驮",
       "kanji": "驮",
       "detail": "ferut → 驮 (piv, F=3, 基本形)",
-      "documentation": "語根: ferut\n入力: ferut\n最終形: 驮\n漢字: 驮\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7583",
+      "documentation": "語根: ferut\n入力: ferut\n最終形: 驮\n漢字: 驮\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7598",
       "priority": 0,
       "sourceRoot": "ferut",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7583
+      "sourceLine": 7598
     },
     {
       "prefix": "fervor",
@@ -2020,39 +2020,39 @@
       "body": "胎",
       "kanji": "胎",
       "detail": "fet → 胎 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fet\n入力: fet\n最終形: 胎\n漢字: 胎\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7942",
+      "documentation": "語根: fet\n入力: fet\n最終形: 胎\n漢字: 胎\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7957",
       "priority": 0,
       "sourceRoot": "fet",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7942
+      "sourceLine": 7957
     },
     {
       "prefix": "feticx",
       "body": "物神",
       "kanji": "物神",
       "detail": "fetic^ → 物神 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fetic^\n入力: feticx\n最終形: 物神\n漢字: 物神\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7242",
+      "documentation": "語根: fetic^\n入力: feticx\n最終形: 物神\n漢字: 物神\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7257",
       "priority": 0,
       "sourceRoot": "fetic^",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7242
+      "sourceLine": 7257
     },
     {
       "prefix": "fetor",
       "body": "臭",
       "kanji": "臭",
       "detail": "fetor → 臭 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fetor\n入力: fetor\n最終形: 臭\n漢字: 臭\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6511",
+      "documentation": "語根: fetor\n入力: fetor\n最終形: 臭\n漢字: 臭\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6526",
       "priority": 0,
       "sourceRoot": "fetor",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 6511
+      "sourceLine": 6526
     },
     {
       "prefix": "feuxd",
@@ -2085,13 +2085,13 @@
       "body": "马车",
       "kanji": "马车",
       "detail": "fiakr → 马车 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fiakr\n入力: fiakr\n最終形: 马车\n漢字: 马车\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7463",
+      "documentation": "語根: fiakr\n入力: fiakr\n最終形: 马车\n漢字: 马车\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7478",
       "priority": 0,
       "sourceRoot": "fiakr",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7463
+      "sourceLine": 7478
     },
     {
       "prefix": "fiancx",
@@ -2150,65 +2150,65 @@
       "body": "纤蛋白",
       "kanji": "纤蛋白",
       "detail": "fibrin → 纤蛋白 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fibrin\n入力: fibrin\n最終形: 纤蛋白\n漢字: 纤蛋白\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7586",
+      "documentation": "語根: fibrin\n入力: fibrin\n最終形: 纤蛋白\n漢字: 纤蛋白\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7601",
       "priority": 0,
       "sourceRoot": "fibrin",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7586
+      "sourceLine": 7601
     },
     {
       "prefix": "fibrinogen",
       "body": "纤蛋白生",
       "kanji": "纤蛋白生",
       "detail": "fibrinogen → 纤蛋白生 (piv, F=1, 基本形)",
-      "documentation": "語根: fibrinogen\n入力: fibrinogen\n最終形: 纤蛋白生\n漢字: 纤蛋白生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9120",
+      "documentation": "語根: fibrinogen\n入力: fibrinogen\n最終形: 纤蛋白生\n漢字: 纤蛋白生\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9135",
       "priority": 0,
       "sourceRoot": "fibrinogen",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9120
+      "sourceLine": 9135
     },
     {
       "prefix": "fibrit",
       "body": "纤炎",
       "kanji": "纤炎",
       "detail": "fibrit → 纤炎 (piv, F=1, 基本形)",
-      "documentation": "語根: fibrit\n入力: fibrit\n最終形: 纤炎\n漢字: 纤炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10390",
+      "documentation": "語根: fibrit\n入力: fibrit\n最終形: 纤炎\n漢字: 纤炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10406",
       "priority": 0,
       "sourceRoot": "fibrit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10390
+      "sourceLine": 10406
     },
     {
       "prefix": "fibrom",
       "body": "纤瘤",
       "kanji": "纤瘤",
       "detail": "fibrom → 纤瘤 (piv, F=1, 基本形)",
-      "documentation": "語根: fibrom\n入力: fibrom\n最終形: 纤瘤\n漢字: 纤瘤\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9121",
+      "documentation": "語根: fibrom\n入力: fibrom\n最終形: 纤瘤\n漢字: 纤瘤\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9136",
       "priority": 0,
       "sourceRoot": "fibrom",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9121
+      "sourceLine": 9136
     },
     {
       "prefix": "fibroskop",
       "body": "纤镜",
       "kanji": "纤镜",
       "detail": "fibroskop → 纤镜 (piv, F=1, 基本形)",
-      "documentation": "語根: fibroskop\n入力: fibroskop\n最終形: 纤镜\n漢字: 纤镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9122",
+      "documentation": "語根: fibroskop\n入力: fibroskop\n最終形: 纤镜\n漢字: 纤镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9137",
       "priority": 0,
       "sourceRoot": "fibroskop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9122
+      "sourceLine": 9137
     },
     {
       "prefix": "fic",
@@ -2241,13 +2241,13 @@
       "body": "信委",
       "kanji": "信委",
       "detail": "fideikomis → 信委 (piv, F=2, 基本形)",
-      "documentation": "語根: fideikomis\n入力: fideikomis\n最終形: 信委\n漢字: 信委\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7880",
+      "documentation": "語根: fideikomis\n入力: fideikomis\n最終形: 信委\n漢字: 信委\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7895",
       "priority": 0,
       "sourceRoot": "fideikomis",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7880
+      "sourceLine": 7895
     },
     {
       "prefix": "fidel",
@@ -2384,13 +2384,13 @@
       "body": "榕",
       "kanji": "榕",
       "detail": "fikus → 榕 (piv, F=2, 基本形)",
-      "documentation": "語根: fikus\n入力: fikus\n最終形: 榕\n漢字: 榕\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7774",
+      "documentation": "語根: fikus\n入力: fikus\n最終形: 榕\n漢字: 榕\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7789",
       "priority": 0,
       "sourceRoot": "fikus",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7774
+      "sourceLine": 7789
     },
     {
       "prefix": "fil",
@@ -2423,26 +2423,26 @@
       "body": "系ᶠᴸ",
       "kanji": "系",
       "detail": "fil → 系ᶠᴸ (語限定 phylogenesis(系統発生)のfil: fil/o/genez/o)",
-      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:89",
+      "documentation": "語根: fil\n入力: fil\n最終形: 系ᶠᴸ\n漢字: 系\n識別子: ᶠᴸ\n型: sep(語限定)\n語義: phylogenesis(系統発生)のfil\n適用語: fil/o/genez/o\n注記: phylogenesis(系統発生)のfil→系(φῦλον系統)。息子儿/愛爱は別義。2026-07-19\n基本形: no\n出典: homonym-alt.tsv:90",
       "priority": 2,
       "sourceRoot": "fil",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 89
+      "sourceLine": 90
     },
     {
       "prefix": "filadelf",
       "body": "山梅花",
       "kanji": "山梅花",
       "detail": "filadelf → 山梅花 (pejvo, F=2, 基本形)",
-      "documentation": "語根: filadelf\n入力: filadelf\n最終形: 山梅花\n漢字: 山梅花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7823",
+      "documentation": "語根: filadelf\n入力: filadelf\n最終形: 山梅花\n漢字: 山梅花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7838",
       "priority": 0,
       "sourceRoot": "filadelf",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7823
+      "sourceLine": 7838
     },
     {
       "prefix": "filament",
@@ -2475,39 +2475,39 @@
       "body": "博爱者",
       "kanji": "博爱者",
       "detail": "filantrop → 博爱者 (piv, F=1, 基本形)",
-      "documentation": "語根: filantrop\n入力: filantrop\n最終形: 博爱者\n漢字: 博爱者\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9123",
+      "documentation": "語根: filantrop\n入力: filantrop\n最終形: 博爱者\n漢字: 博爱者\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9138",
       "priority": 0,
       "sourceRoot": "filantrop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9123
+      "sourceLine": 9138
     },
     {
       "prefix": "filantropi",
       "body": "博爱",
       "kanji": "博爱",
       "detail": "filantropi → 博爱 (piv, F=1, 基本形)",
-      "documentation": "語根: filantropi\n入力: filantropi\n最終形: 博爱\n漢字: 博爱\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9124",
+      "documentation": "語根: filantropi\n入力: filantropi\n最終形: 博爱\n漢字: 博爱\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9139",
       "priority": 0,
       "sourceRoot": "filantropi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9124
+      "sourceLine": 9139
     },
     {
       "prefix": "filari",
       "body": "丝虫",
       "kanji": "丝虫",
       "detail": "filari → 丝虫 (piv, F=3, 基本形)",
-      "documentation": "語根: filari\n入力: filari\n最終形: 丝虫\n漢字: 丝虫\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7403",
+      "documentation": "語根: filari\n入力: filari\n最終形: 丝虫\n漢字: 丝虫\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7418",
       "priority": 0,
       "sourceRoot": "filari",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7403
+      "sourceLine": 7418
     },
     {
       "prefix": "filatel",
@@ -2540,26 +2540,26 @@
       "body": "里脊",
       "kanji": "里脊",
       "detail": "file → 里脊 (piv, F=2, 基本形)",
-      "documentation": "語根: file\n入力: file\n最終形: 里脊\n漢字: 里脊\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7902",
+      "documentation": "語根: file\n入力: file\n最終形: 里脊\n漢字: 里脊\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7917",
       "priority": 0,
       "sourceRoot": "file",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7902
+      "sourceLine": 7917
     },
     {
       "prefix": "file",
       "body": "线ᶠ",
       "kanji": "线",
       "detail": "file → 线ᶠ (同綴異義: 罫線)",
-      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:176",
+      "documentation": "語根: file\n入力: file\n最終形: 线ᶠ\n漢字: 线\n識別子: ᶠ\n型: amb(同綴異義)\n語義: 罫線\n注記: 罫線。file=里脊と別\n基本形: no\n出典: homonym-alt.tsv:177",
       "priority": 1,
       "sourceRoot": "file",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 176
+      "sourceLine": 177
     },
     {
       "prefix": "fili",
@@ -2592,13 +2592,13 @@
       "body": "羊齿",
       "kanji": "羊齿",
       "detail": "filik → 羊齿 (pejvo, F=9, 基本形)",
-      "documentation": "語根: filik\n入力: filik\n最終形: 羊齿\n漢字: 羊齿\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 18\n基本形: yes\n出典: _identifier_sidecar.tsv:6303",
+      "documentation": "語根: filik\n入力: filik\n最終形: 羊齿\n漢字: 羊齿\n識別子: なし\n型: pejvo\nF(汎用性): 9\nグループ数: 18\n基本形: yes\n出典: _identifier_sidecar.tsv:6316",
       "priority": 0,
       "sourceRoot": "filik",
       "type": "pejvo",
       "frequency": 9,
       "base": true,
-      "sourceLine": 6303
+      "sourceLine": 6316
     },
     {
       "prefix": "filipendul",
@@ -2657,13 +2657,13 @@
       "body": "系源",
       "kanji": "系源",
       "detail": "filogenez → 系源 (piv, F=1, 基本形)",
-      "documentation": "語根: filogenez\n入力: filogenez\n最終形: 系源\n漢字: 系源\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9125",
+      "documentation": "語根: filogenez\n入力: filogenez\n最終形: 系源\n漢字: 系源\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9140",
       "priority": 0,
       "sourceRoot": "filogenez",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9125
+      "sourceLine": 9140
     },
     {
       "prefix": "filokser",
@@ -2683,39 +2683,39 @@
       "body": "爱学家",
       "kanji": "爱学家",
       "detail": "filolog → 爱学家 (piv, F=1, 基本形)",
-      "documentation": "語根: filolog\n入力: filolog\n最終形: 爱学家\n漢字: 爱学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9126",
+      "documentation": "語根: filolog\n入力: filolog\n最終形: 爱学家\n漢字: 爱学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9141",
       "priority": 0,
       "sourceRoot": "filolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9126
+      "sourceLine": 9141
     },
     {
       "prefix": "filologi",
       "body": "爱学",
       "kanji": "爱学",
       "detail": "filologi → 爱学 (piv, F=1, 基本形)",
-      "documentation": "語根: filologi\n入力: filologi\n最終形: 爱学\n漢字: 爱学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10349",
+      "documentation": "語根: filologi\n入力: filologi\n最終形: 爱学\n漢字: 爱学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10365",
       "priority": 0,
       "sourceRoot": "filologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10349
+      "sourceLine": 10365
     },
     {
       "prefix": "filostom",
       "body": "蝠ᶠ",
       "kanji": "蝠",
       "detail": "filostom → 蝠ᶠ (piv, F=1)",
-      "documentation": "語根: filostom\n入力: filostom\n最終形: 蝠ᶠ\n漢字: 蝠\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8584",
+      "documentation": "語根: filostom\n入力: filostom\n最終形: 蝠ᶠ\n漢字: 蝠\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8599",
       "priority": 0,
       "sourceRoot": "filostom",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8584
+      "sourceLine": 8599
     },
     {
       "prefix": "filozof",
@@ -2774,13 +2774,13 @@
       "body": "纹ᶠᴹ",
       "kanji": "纹",
       "detail": "fimbril → 纹ᶠᴹ (pejvo, F=1)",
-      "documentation": "語根: fimbril\n入力: fimbril\n最終形: 纹ᶠᴹ\n漢字: 纹\n識別子: fm\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6393",
+      "documentation": "語根: fimbril\n入力: fimbril\n最終形: 纹ᶠᴹ\n漢字: 纹\n識別子: fm\n型: pejvo\nF(汎用性): 1\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6406",
       "priority": 0,
       "sourceRoot": "fimbril",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6393
+      "sourceLine": 6406
     },
     {
       "prefix": "fin",
@@ -2839,13 +2839,13 @@
       "body": "限",
       "kanji": "限",
       "detail": "fini → 限 (piv, F=3, 基本形)",
-      "documentation": "語根: fini\n入力: fini\n最終形: 限\n漢字: 限\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7165",
+      "documentation": "語根: fini\n入力: fini\n最終形: 限\n漢字: 限\n識別子: なし\n型: piv\nF(汎用性): 3\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7180",
       "priority": 0,
       "sourceRoot": "fini",
       "type": "piv",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7165
+      "sourceLine": 7180
     },
     {
       "prefix": "finisx",
@@ -2917,26 +2917,26 @@
       "body": "脊ᶠ",
       "kanji": "脊",
       "detail": "first → 脊ᶠ (pejvo, F=7)",
-      "documentation": "語根: first\n入力: first\n最終形: 脊ᶠ\n漢字: 脊\n識別子: f\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6380",
+      "documentation": "語根: first\n入力: first\n最終形: 脊ᶠ\n漢字: 脊\n識別子: f\n型: pejvo\nF(汎用性): 7\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6393",
       "priority": 0,
       "sourceRoot": "first",
       "type": "pejvo",
       "frequency": 7,
       "base": false,
-      "sourceLine": 6380
+      "sourceLine": 6393
     },
     {
       "prefix": "fisk",
       "body": "国库",
       "kanji": "国库",
       "detail": "fisk → 国库 (pejvo, F=6, 基本形)",
-      "documentation": "語根: fisk\n入力: fisk\n最終形: 国库\n漢字: 国库\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6621",
+      "documentation": "語根: fisk\n入力: fisk\n最終形: 国库\n漢字: 国库\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6636",
       "priority": 0,
       "sourceRoot": "fisk",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6621
+      "sourceLine": 6636
     },
     {
       "prefix": "fistulin",
@@ -3021,13 +3021,13 @@
       "body": "植地志",
       "kanji": "植地志",
       "detail": "fitogeografi → 植地志 (piv, F=1, 基本形)",
-      "documentation": "語根: fitogeografi\n入力: fitogeografi\n最終形: 植地志\n漢字: 植地志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9127",
+      "documentation": "語根: fitogeografi\n入力: fitogeografi\n最終形: 植地志\n漢字: 植地志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9142",
       "priority": 0,
       "sourceRoot": "fitogeografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9127
+      "sourceLine": 9142
     },
     {
       "prefix": "fitolak",
@@ -3047,13 +3047,13 @@
       "body": "植疗",
       "kanji": "植疗",
       "detail": "fitoterapi → 植疗 (piv, F=1, 基本形)",
-      "documentation": "語根: fitoterapi\n入力: fitoterapi\n最終形: 植疗\n漢字: 植疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9128",
+      "documentation": "語根: fitoterapi\n入力: fitoterapi\n最終形: 植疗\n漢字: 植疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9143",
       "priority": 0,
       "sourceRoot": "fitoterapi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9128
+      "sourceLine": 9143
     },
     {
       "prefix": "fizalid",
@@ -3112,39 +3112,39 @@
       "body": "物理志",
       "kanji": "物理志",
       "detail": "fiziografi → 物理志 (piv, F=1, 基本形)",
-      "documentation": "語根: fiziografi\n入力: fiziografi\n最終形: 物理志\n漢字: 物理志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9129",
+      "documentation": "語根: fiziografi\n入力: fiziografi\n最終形: 物理志\n漢字: 物理志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9144",
       "priority": 0,
       "sourceRoot": "fiziografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9129
+      "sourceLine": 9144
     },
     {
       "prefix": "fiziolog",
       "body": "生理学家",
       "kanji": "生理学家",
       "detail": "fiziolog → 生理学家 (piv, F=1, 基本形)",
-      "documentation": "語根: fiziolog\n入力: fiziolog\n最終形: 生理学家\n漢字: 生理学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9130",
+      "documentation": "語根: fiziolog\n入力: fiziolog\n最終形: 生理学家\n漢字: 生理学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9145",
       "priority": 0,
       "sourceRoot": "fiziolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9130
+      "sourceLine": 9145
     },
     {
       "prefix": "fiziologi",
       "body": "生理学",
       "kanji": "生理学",
       "detail": "fiziologi → 生理学 (piv, F=1, 基本形)",
-      "documentation": "語根: fiziologi\n入力: fiziologi\n最終形: 生理学\n漢字: 生理学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10348",
+      "documentation": "語根: fiziologi\n入力: fiziologi\n最終形: 生理学\n漢字: 生理学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10364",
       "priority": 0,
       "sourceRoot": "fiziologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10348
+      "sourceLine": 10364
     },
     {
       "prefix": "fizionomi",
@@ -3164,26 +3164,26 @@
       "body": "物理疗",
       "kanji": "物理疗",
       "detail": "fizioterapi → 物理疗 (piv, F=1, 基本形)",
-      "documentation": "語根: fizioterapi\n入力: fizioterapi\n最終形: 物理疗\n漢字: 物理疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10241",
+      "documentation": "語根: fizioterapi\n入力: fizioterapi\n最終形: 物理疗\n漢字: 物理疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10257",
       "priority": 0,
       "sourceRoot": "fizioterapi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10241
+      "sourceLine": 10257
     },
     {
       "prefix": "fjord",
       "body": "峡湾",
       "kanji": "峡湾",
       "detail": "fjord → 峡湾 (pejvo, F=1, 基本形)",
-      "documentation": "語根: fjord\n入力: fjord\n最終形: 峡湾\n漢字: 峡湾\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8673",
+      "documentation": "語根: fjord\n入力: fjord\n最終形: 峡湾\n漢字: 峡湾\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8688",
       "priority": 0,
       "sourceRoot": "fjord",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8673
+      "sourceLine": 8688
     },
     {
       "prefix": "flag",
@@ -3268,39 +3268,39 @@
       "body": "火烈鸟",
       "kanji": "火烈鸟",
       "detail": "flameng → 火烈鸟 (piv, F=2, 基本形)",
-      "documentation": "語根: flameng\n入力: flameng\n最終形: 火烈鸟\n漢字: 火烈鸟\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8357",
+      "documentation": "語根: flameng\n入力: flameng\n最終形: 火烈鸟\n漢字: 火烈鸟\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8372",
       "priority": 0,
       "sourceRoot": "flameng",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8357
+      "sourceLine": 8372
     },
     {
       "prefix": "flan",
       "body": "蛋奶",
       "kanji": "蛋奶",
       "detail": "flan → 蛋奶 (pejvo, F=2, 基本形)",
-      "documentation": "語根: flan\n入力: flan\n最終形: 蛋奶\n漢字: 蛋奶\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8270",
+      "documentation": "語根: flan\n入力: flan\n最終形: 蛋奶\n漢字: 蛋奶\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8285",
       "priority": 0,
       "sourceRoot": "flan",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8270
+      "sourceLine": 8285
     },
     {
       "prefix": "flanel",
       "body": "毛绒",
       "kanji": "毛绒",
       "detail": "flanel → 毛绒 (pejvo, F=2, 基本形)",
-      "documentation": "語根: flanel\n入力: flanel\n最終形: 毛绒\n漢字: 毛绒\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8282",
+      "documentation": "語根: flanel\n入力: flanel\n最終形: 毛绒\n漢字: 毛绒\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8297",
       "priority": 0,
       "sourceRoot": "flanel",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8282
+      "sourceLine": 8297
     },
     {
       "prefix": "flank",
@@ -3346,13 +3346,13 @@
       "body": "植相",
       "kanji": "植相",
       "detail": "flau^r → 植相 (pejvo, F=2, 基本形)",
-      "documentation": "語根: flau^r\n入力: flauxr\n最終形: 植相\n漢字: 植相\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8561",
+      "documentation": "語根: flau^r\n入力: flauxr\n最終形: 植相\n漢字: 植相\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8576",
       "priority": 0,
       "sourceRoot": "flau^r",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8561
+      "sourceLine": 8576
     },
     {
       "prefix": "flav",
@@ -3411,13 +3411,13 @@
       "body": "脉炎",
       "kanji": "脉炎",
       "detail": "flebit → 脉炎 (piv, F=1, 基本形)",
-      "documentation": "語根: flebit\n入力: flebit\n最終形: 脉炎\n漢字: 脉炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:8821",
+      "documentation": "語根: flebit\n入力: flebit\n最終形: 脉炎\n漢字: 脉炎\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:8836",
       "priority": 0,
       "sourceRoot": "flebit",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8821
+      "sourceLine": 8836
     },
     {
       "prefix": "flebotom",
@@ -3437,13 +3437,13 @@
       "body": "脉切",
       "kanji": "脉切",
       "detail": "flebotomi → 脉切 (piv, F=1, 基本形)",
-      "documentation": "語根: flebotomi\n入力: flebotomi\n最終形: 脉切\n漢字: 脉切\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9131",
+      "documentation": "語根: flebotomi\n入力: flebotomi\n最終形: 脉切\n漢字: 脉切\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9146",
       "priority": 0,
       "sourceRoot": "flebotomi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9131
+      "sourceLine": 9146
     },
     {
       "prefix": "fleg",
@@ -3463,13 +3463,13 @@
       "body": "淡ᶠᴸ",
       "kanji": "淡",
       "detail": "flegm → 淡ᶠᴸ (pejvo, F=4)",
-      "documentation": "語根: flegm\n入力: flegm\n最終形: 淡ᶠᴸ\n漢字: 淡\n識別子: fl\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6499",
+      "documentation": "語根: flegm\n入力: flegm\n最終形: 淡ᶠᴸ\n漢字: 淡\n識別子: fl\n型: pejvo\nF(汎用性): 4\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6514",
       "priority": 0,
       "sourceRoot": "flegm",
       "type": "pejvo",
       "frequency": 4,
       "base": false,
-      "sourceLine": 6499
+      "sourceLine": 6514
     },
     {
       "prefix": "fleks",
@@ -3489,26 +3489,26 @@
       "body": "屈",
       "kanji": "屈",
       "detail": "fleksi → 屈 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fleksi\n入力: fleksi\n最終形: 屈\n漢字: 屈\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6761",
+      "documentation": "語根: fleksi\n入力: fleksi\n最終形: 屈\n漢字: 屈\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6776",
       "priority": 0,
       "sourceRoot": "fleksi",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6761
+      "sourceLine": 6776
     },
     {
       "prefix": "fles",
       "body": "比目鱼ᶠ",
       "kanji": "比目鱼",
       "detail": "fles → 比目鱼ᶠ (pejvo, F=1)",
-      "documentation": "語根: fles\n入力: fles\n最終形: 比目鱼ᶠ\n漢字: 比目鱼\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7538",
+      "documentation": "語根: fles\n入力: fles\n最終形: 比目鱼ᶠ\n漢字: 比目鱼\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:7553",
       "priority": 0,
       "sourceRoot": "fles",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 7538
+      "sourceLine": 7553
     },
     {
       "prefix": "flik",
@@ -3554,13 +3554,13 @@
       "body": "絮",
       "kanji": "絮",
       "detail": "flok → 絮 (pejvo, F=10, 基本形)",
-      "documentation": "語根: flok\n入力: flok\n最終形: 絮\n漢字: 絮\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6204",
+      "documentation": "語根: flok\n入力: flok\n最終形: 絮\n漢字: 絮\n識別子: なし\n型: pejvo\nF(汎用性): 10\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6214",
       "priority": 0,
       "sourceRoot": "flok",
       "type": "pejvo",
       "frequency": 10,
       "base": true,
-      "sourceLine": 6204
+      "sourceLine": 6214
     },
     {
       "prefix": "floks",
@@ -3606,13 +3606,13 @@
       "body": "舰",
       "kanji": "舰",
       "detail": "flot → 舰 (pejvo, F=3, 基本形)",
-      "documentation": "語根: flot\n入力: flot\n最終形: 舰\n漢字: 舰\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:7210",
+      "documentation": "語根: flot\n入力: flot\n最終形: 舰\n漢字: 舰\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:7225",
       "priority": 0,
       "sourceRoot": "flot",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7210
+      "sourceLine": 7225
     },
     {
       "prefix": "flu",
@@ -3658,13 +3658,13 @@
       "body": "通量",
       "kanji": "通量",
       "detail": "fluks → 通量 (pejvo, F=7, 基本形)",
-      "documentation": "語根: fluks\n入力: fluks\n最終形: 通量\n漢字: 通量\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6407",
+      "documentation": "語根: fluks\n入力: fluks\n最終形: 通量\n漢字: 通量\n識別子: なし\n型: pejvo\nF(汎用性): 7\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6420",
       "priority": 0,
       "sourceRoot": "fluks",
       "type": "pejvo",
       "frequency": 7,
       "base": true,
-      "sourceLine": 6407
+      "sourceLine": 6420
     },
     {
       "prefix": "fluktu",
@@ -3684,13 +3684,13 @@
       "body": "流计",
       "kanji": "流计",
       "detail": "fluometr → 流计 (piv, F=1, 基本形)",
-      "documentation": "語根: fluometr\n入力: fluometr\n最終形: 流计\n漢字: 流计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9132",
+      "documentation": "語根: fluometr\n入力: fluometr\n最終形: 流计\n漢字: 流计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9147",
       "priority": 0,
       "sourceRoot": "fluometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9132
+      "sourceLine": 9147
     },
     {
       "prefix": "fluor",
@@ -3710,39 +3710,39 @@
       "body": "荧光",
       "kanji": "荧光",
       "detail": "fluoresk → 荧光 (pejvo, F=6, 基本形)",
-      "documentation": "語根: fluoresk\n入力: fluoresk\n最終形: 荧光\n漢字: 荧光\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6633",
+      "documentation": "語根: fluoresk\n入力: fluoresk\n最終形: 荧光\n漢字: 荧光\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6648",
       "priority": 0,
       "sourceRoot": "fluoresk",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6633
+      "sourceLine": 6648
     },
     {
       "prefix": "fluorid",
       "body": "气化",
       "kanji": "气化",
       "detail": "fluorid → 气化 (piv, F=1, 基本形)",
-      "documentation": "語根: fluorid\n入力: fluorid\n最終形: 气化\n漢字: 气化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9133",
+      "documentation": "語根: fluorid\n入力: fluorid\n最終形: 气化\n漢字: 气化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9148",
       "priority": 0,
       "sourceRoot": "fluorid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9133
+      "sourceLine": 9148
     },
     {
       "prefix": "flus",
       "body": "涨",
       "kanji": "涨",
       "detail": "flus → 涨 (pejvo, F=3, 基本形)",
-      "documentation": "語根: flus\n入力: flus\n最終形: 涨\n漢字: 涨\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7492",
+      "documentation": "語根: flus\n入力: flus\n最終形: 涨\n漢字: 涨\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7507",
       "priority": 0,
       "sourceRoot": "flus",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7492
+      "sourceLine": 7507
     },
     {
       "prefix": "flustr",
@@ -3788,13 +3788,13 @@
       "body": "症",
       "kanji": "症",
       "detail": "fobi → 症 (pejvo, F=8, 基本形)",
-      "documentation": "語根: fobi\n入力: fobi\n最終形: 症\n漢字: 症\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6383",
+      "documentation": "語根: fobi\n入力: fobi\n最終形: 症\n漢字: 症\n識別子: なし\n型: pejvo\nF(汎用性): 8\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6396",
       "priority": 0,
       "sourceRoot": "fobi",
       "type": "pejvo",
       "frequency": 8,
       "base": true,
-      "sourceLine": 6383
+      "sourceLine": 6396
     },
     {
       "prefix": "focen",
@@ -3866,13 +3866,13 @@
       "body": "海豹",
       "kanji": "海豹",
       "detail": "fok → 海豹 (pejvo, F=6, 基本形)",
-      "documentation": "語根: fok\n入力: fok\n最終形: 海豹\n漢字: 海豹\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6520",
+      "documentation": "語根: fok\n入力: fok\n最終形: 海豹\n漢字: 海豹\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6535",
       "priority": 0,
       "sourceRoot": "fok",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6520
+      "sourceLine": 6535
     },
     {
       "prefix": "foksen",
@@ -3892,26 +3892,26 @@
       "body": "焦点",
       "kanji": "焦点",
       "detail": "fokus → 焦点 (pejvo, F=12, 基本形)",
-      "documentation": "語根: fokus\n入力: fokus\n最終形: 焦点\n漢字: 焦点\n識別子: なし\n型: pejvo\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6150",
+      "documentation": "語根: fokus\n入力: fokus\n最終形: 焦点\n漢字: 焦点\n識別子: なし\n型: pejvo\nF(汎用性): 12\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6160",
       "priority": 0,
       "sourceRoot": "fokus",
       "type": "pejvo",
       "frequency": 12,
       "base": true,
-      "sourceLine": 6150
+      "sourceLine": 6160
     },
     {
       "prefix": "fokusterapi",
       "body": "焦点疗",
       "kanji": "焦点疗",
       "detail": "fokusterapi → 焦点疗 (piv, F=1, 基本形)",
-      "documentation": "語根: fokusterapi\n入力: fokusterapi\n最終形: 焦点疗\n漢字: 焦点疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9134",
+      "documentation": "語根: fokusterapi\n入力: fokusterapi\n最終形: 焦点疗\n漢字: 焦点疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9149",
       "priority": 0,
       "sourceRoot": "fokusterapi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9134
+      "sourceLine": 9149
     },
     {
       "prefix": "fol",
@@ -3944,13 +3944,13 @@
       "body": "槽",
       "kanji": "槽",
       "detail": "fold → 槽 (pejvo, F=6, 基本形)",
-      "documentation": "語根: fold\n入力: fold\n最終形: 槽\n漢字: 槽\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:6274",
+      "documentation": "語根: fold\n入力: fold\n最終形: 槽\n漢字: 槽\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 5\n基本形: yes\n出典: _identifier_sidecar.tsv:6287",
       "priority": 0,
       "sourceRoot": "fold",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6274
+      "sourceLine": 6287
     },
     {
       "prefix": "foli",
@@ -3983,13 +3983,13 @@
       "body": "囊炎ᶠ",
       "kanji": "囊炎",
       "detail": "foliklit → 囊炎ᶠ (piv, F=1)",
-      "documentation": "語根: foliklit\n入力: foliklit\n最終形: 囊炎ᶠ\n漢字: 囊炎\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:8916",
+      "documentation": "語根: foliklit\n入力: foliklit\n最終形: 囊炎ᶠ\n漢字: 囊炎\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:8931",
       "priority": 0,
       "sourceRoot": "foliklit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8916
+      "sourceLine": 8931
     },
     {
       "prefix": "foliol",
@@ -4022,26 +4022,26 @@
       "body": "民俗",
       "kanji": "民俗",
       "detail": "folklor → 民俗 (pejvo, F=5, 基本形)",
-      "documentation": "語根: folklor\n入力: folklor\n最終形: 民俗\n漢字: 民俗\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6666",
+      "documentation": "語根: folklor\n入力: folklor\n最終形: 民俗\n漢字: 民俗\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6681",
       "priority": 0,
       "sourceRoot": "folklor",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6666
+      "sourceLine": 6681
     },
     {
       "prefix": "foment",
       "body": "敷ᶠ",
       "kanji": "敷",
       "detail": "foment → 敷ᶠ (pejvo, F=5)",
-      "documentation": "語根: foment\n入力: foment\n最終形: 敷ᶠ\n漢字: 敷\n識別子: f\n型: pejvo\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6730",
+      "documentation": "語根: foment\n入力: foment\n最終形: 敷ᶠ\n漢字: 敷\n識別子: f\n型: pejvo\nF(汎用性): 5\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:6745",
       "priority": 0,
       "sourceRoot": "foment",
       "type": "pejvo",
       "frequency": 5,
       "base": false,
-      "sourceLine": 6730
+      "sourceLine": 6745
     },
     {
       "prefix": "fon",
@@ -4061,26 +4061,26 @@
       "body": "响ᶠ",
       "kanji": "响",
       "detail": "fon → 响ᶠ (同綴異義: ホン)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:156",
+      "documentation": "語根: fon\n入力: fon\n最終形: 响ᶠ\n漢字: 响\n識別子: ᶠ\n型: amb(同綴異義)\n語義: ホン\n注記: ホン音量。fon=底と別\n基本形: no\n出典: homonym-alt.tsv:157",
       "priority": 1,
       "sourceRoot": "fon",
       "type": "amb",
       "frequency": 0,
       "base": false,
-      "sourceLine": 156
+      "sourceLine": 157
     },
     {
       "prefix": "fon",
       "body": "声ᶠᴼ",
       "kanji": "声",
       "detail": "fon → 声ᶠᴼ (語限定 phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等: fon/o/graf/o, fon/o/gram/o 他5語)",
-      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:116",
+      "documentation": "語根: fon\n入力: fon\n最終形: 声ᶠᴼ\n漢字: 声\n識別子: ᶠᴼ\n型: sep(語限定)\n語義: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等\n適用語: fon/o/graf/o, fon/o/gram/o, fon/o/logi/o, fon/o/metr/o, fon/o/metri/o, fon/o/skop/o, fon/on/o\n注記: phono-(音·声)結合形がidx0(先頭分節)=蓄音機/音韻論/音波測定等→声。背景fon/o(底)·fon/a/fon/bru/o/fon/farb/fon/muzik/o/fon/s^mink/fon/tol/fon/tul はdisc不掲載で底維持。phononフォノンfon/on/o=声/子(2026-06-23ユーザー裁定。fon=声[他phono-語と一貫]・on=子[$onStemにfon追加])\n基本形: no\n出典: homonym-alt.tsv:117",
       "priority": 2,
       "sourceRoot": "fon",
       "type": "sep",
       "frequency": 0,
       "base": false,
-      "sourceLine": 116
+      "sourceLine": 117
     },
     {
       "prefix": "fond",
@@ -4100,26 +4100,26 @@
       "body": "基金",
       "kanji": "基金",
       "detail": "fondus → 基金 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fondus\n入力: fondus\n最終形: 基金\n漢字: 基金\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6660",
+      "documentation": "語根: fondus\n入力: fondus\n最終形: 基金\n漢字: 基金\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6675",
       "priority": 0,
       "sourceRoot": "fondus",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6660
+      "sourceLine": 6675
     },
     {
       "prefix": "fonem",
       "body": "音位",
       "kanji": "音位",
       "detail": "fonem → 音位 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fonem\n入力: fonem\n最終形: 音位\n漢字: 音位\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8497",
+      "documentation": "語根: fonem\n入力: fonem\n最終形: 音位\n漢字: 音位\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8512",
       "priority": 0,
       "sourceRoot": "fonem",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8497
+      "sourceLine": 8512
     },
     {
       "prefix": "fonet",
@@ -4152,26 +4152,26 @@
       "body": "音主义",
       "kanji": "音主义",
       "detail": "fonetism → 音主义 (piv, F=1, 基本形)",
-      "documentation": "語根: fonetism\n入力: fonetism\n最終形: 音主义\n漢字: 音主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9135",
+      "documentation": "語根: fonetism\n入力: fonetism\n最終形: 音主义\n漢字: 音主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9150",
       "priority": 0,
       "sourceRoot": "fonetism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9135
+      "sourceLine": 9150
     },
     {
       "prefix": "fonetist",
       "body": "音家",
       "kanji": "音家",
       "detail": "fonetist → 音家 (piv, F=1, 基本形)",
-      "documentation": "語根: fonetist\n入力: fonetist\n最終形: 音家\n漢字: 音家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9136",
+      "documentation": "語根: fonetist\n入力: fonetist\n最終形: 音家\n漢字: 音家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9151",
       "priority": 0,
       "sourceRoot": "fonetist",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9136
+      "sourceLine": 9151
     },
     {
       "prefix": "foni",
@@ -4204,78 +4204,78 @@
       "body": "声字",
       "kanji": "声字",
       "detail": "fonogram → 声字 (piv, F=1, 基本形)",
-      "documentation": "語根: fonogram\n入力: fonogram\n最終形: 声字\n漢字: 声字\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9137",
+      "documentation": "語根: fonogram\n入力: fonogram\n最終形: 声字\n漢字: 声字\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9152",
       "priority": 0,
       "sourceRoot": "fonogram",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9137
+      "sourceLine": 9152
     },
     {
       "prefix": "fonologi",
       "body": "声学",
       "kanji": "声学",
       "detail": "fonologi → 声学 (piv, F=1, 基本形)",
-      "documentation": "語根: fonologi\n入力: fonologi\n最終形: 声学\n漢字: 声学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9138",
+      "documentation": "語根: fonologi\n入力: fonologi\n最終形: 声学\n漢字: 声学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9153",
       "priority": 0,
       "sourceRoot": "fonologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9138
+      "sourceLine": 9153
     },
     {
       "prefix": "fonometr",
       "body": "声计ᶠ",
       "kanji": "声计",
       "detail": "fonometr → 声计ᶠ (piv, F=1)",
-      "documentation": "語根: fonometr\n入力: fonometr\n最終形: 声计ᶠ\n漢字: 声计\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9140",
+      "documentation": "語根: fonometr\n入力: fonometr\n最終形: 声计ᶠ\n漢字: 声计\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9155",
       "priority": 0,
       "sourceRoot": "fonometr",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9140
+      "sourceLine": 9155
     },
     {
       "prefix": "fonometri",
       "body": "声测",
       "kanji": "声测",
       "detail": "fonometri → 声测 (piv, F=1, 基本形)",
-      "documentation": "語根: fonometri\n入力: fonometri\n最終形: 声测\n漢字: 声测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9141",
+      "documentation": "語根: fonometri\n入力: fonometri\n最終形: 声测\n漢字: 声测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9156",
       "priority": 0,
       "sourceRoot": "fonometri",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9141
+      "sourceLine": 9156
     },
     {
       "prefix": "fonon",
       "body": "声子",
       "kanji": "声子",
       "detail": "fonon → 声子 (piv, F=1, 基本形)",
-      "documentation": "語根: fonon\n入力: fonon\n最終形: 声子\n漢字: 声子\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9142",
+      "documentation": "語根: fonon\n入力: fonon\n最終形: 声子\n漢字: 声子\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9157",
       "priority": 0,
       "sourceRoot": "fonon",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9142
+      "sourceLine": 9157
     },
     {
       "prefix": "fonoskop",
       "body": "声镜",
       "kanji": "声镜",
       "detail": "fonoskop → 声镜 (piv, F=1, 基本形)",
-      "documentation": "語根: fonoskop\n入力: fonoskop\n最終形: 声镜\n漢字: 声镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9143",
+      "documentation": "語根: fonoskop\n入力: fonoskop\n最終形: 声镜\n漢字: 声镜\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9158",
       "priority": 0,
       "sourceRoot": "fonoskop",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9143
+      "sourceLine": 9158
     },
     {
       "prefix": "font",
@@ -4347,13 +4347,13 @@
       "body": "皮翅ᶠ",
       "kanji": "皮翅",
       "detail": "forfikul → 皮翅ᶠ (pejvo, F=1)",
-      "documentation": "語根: forfikul\n入力: forfikul\n最終形: 皮翅ᶠ\n漢字: 皮翅\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8971",
+      "documentation": "語根: forfikul\n入力: forfikul\n最終形: 皮翅ᶠ\n漢字: 皮翅\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8986",
       "priority": 0,
       "sourceRoot": "forfikul",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8971
+      "sourceLine": 8986
     },
     {
       "prefix": "forges",
@@ -4451,26 +4451,26 @@
       "body": "形盐",
       "kanji": "形盐",
       "detail": "formiat → 形盐 (piv, F=1, 基本形)",
-      "documentation": "語根: formiat\n入力: formiat\n最終形: 形盐\n漢字: 形盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9144",
+      "documentation": "語根: formiat\n入力: formiat\n最終形: 形盐\n漢字: 形盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9159",
       "priority": 0,
       "sourceRoot": "formiat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9144
+      "sourceLine": 9159
     },
     {
       "prefix": "formiil",
       "body": "形基",
       "kanji": "形基",
       "detail": "formiil → 形基 (piv, F=1, 基本形)",
-      "documentation": "語根: formiil\n入力: formiil\n最終形: 形基\n漢字: 形基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9145",
+      "documentation": "語根: formiil\n入力: formiil\n最終形: 形基\n漢字: 形基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9160",
       "priority": 0,
       "sourceRoot": "formiil",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9145
+      "sourceLine": 9160
     },
     {
       "prefix": "formik",
@@ -4529,13 +4529,13 @@
       "body": "脑弓",
       "kanji": "脑弓",
       "detail": "forniks → 脑弓 (pejvo, F=3, 基本形)",
-      "documentation": "語根: forniks\n入力: forniks\n最終形: 脑弓\n漢字: 脑弓\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7258",
+      "documentation": "語根: forniks\n入力: forniks\n最終形: 脑弓\n漢字: 脑弓\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7273",
       "priority": 0,
       "sourceRoot": "forniks",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7258
+      "sourceLine": 7273
     },
     {
       "prefix": "forsiti",
@@ -4607,13 +4607,13 @@
       "body": "堡垒",
       "kanji": "堡垒",
       "detail": "fortres → 堡垒 (pejvo, F=1, 基本形)",
-      "documentation": "語根: fortres\n入力: fortres\n最終形: 堡垒\n漢字: 堡垒\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8629",
+      "documentation": "語根: fortres\n入力: fortres\n最終形: 堡垒\n漢字: 堡垒\n識別子: なし\n型: pejvo\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8644",
       "priority": 0,
       "sourceRoot": "fortres",
       "type": "pejvo",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8629
+      "sourceLine": 8644
     },
     {
       "prefix": "fortun",
@@ -4685,65 +4685,65 @@
       "body": "磷盐",
       "kanji": "磷盐",
       "detail": "fosfat → 磷盐 (piv, F=1, 基本形)",
-      "documentation": "語根: fosfat\n入力: fosfat\n最終形: 磷盐\n漢字: 磷盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:10242",
+      "documentation": "語根: fosfat\n入力: fosfat\n最終形: 磷盐\n漢字: 磷盐\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:10258",
       "priority": 0,
       "sourceRoot": "fosfat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10242
+      "sourceLine": 10258
     },
     {
       "prefix": "fosfatemi",
       "body": "磷盐血",
       "kanji": "磷盐血",
       "detail": "fosfatemi → 磷盐血 (piv, F=1, 基本形)",
-      "documentation": "語根: fosfatemi\n入力: fosfatemi\n最終形: 磷盐血\n漢字: 磷盐血\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9146",
+      "documentation": "語根: fosfatemi\n入力: fosfatemi\n最終形: 磷盐血\n漢字: 磷盐血\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9161",
       "priority": 0,
       "sourceRoot": "fosfatemi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9146
+      "sourceLine": 9161
     },
     {
       "prefix": "fosfaturi",
       "body": "磷盐尿",
       "kanji": "磷盐尿",
       "detail": "fosfaturi → 磷盐尿 (piv, F=1, 基本形)",
-      "documentation": "語根: fosfaturi\n入力: fosfaturi\n最終形: 磷盐尿\n漢字: 磷盐尿\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9147",
+      "documentation": "語根: fosfaturi\n入力: fosfaturi\n最終形: 磷盐尿\n漢字: 磷盐尿\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9162",
       "priority": 0,
       "sourceRoot": "fosfaturi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9147
+      "sourceLine": 9162
     },
     {
       "prefix": "fosfid",
       "body": "磷化",
       "kanji": "磷化",
       "detail": "fosfid → 磷化 (piv, F=1, 基本形)",
-      "documentation": "語根: fosfid\n入力: fosfid\n最終形: 磷化\n漢字: 磷化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9148",
+      "documentation": "語根: fosfid\n入力: fosfid\n最終形: 磷化\n漢字: 磷化\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9163",
       "priority": 0,
       "sourceRoot": "fosfid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9148
+      "sourceLine": 9163
     },
     {
       "prefix": "fosfit",
       "body": "磷盐ᶠᴵ",
       "kanji": "磷盐",
       "detail": "fosfit → 磷盐ᶠᴵ (piv, F=1)",
-      "documentation": "語根: fosfit\n入力: fosfit\n最終形: 磷盐ᶠᴵ\n漢字: 磷盐\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:10243",
+      "documentation": "語根: fosfit\n入力: fosfit\n最終形: 磷盐ᶠᴵ\n漢字: 磷盐\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:10259",
       "priority": 0,
       "sourceRoot": "fosfit",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 10243
+      "sourceLine": 10259
     },
     {
       "prefix": "fosfo",
@@ -4776,39 +4776,39 @@
       "body": "磷光",
       "kanji": "磷光",
       "detail": "fosforesk → 磷光 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fosforesk\n入力: fosforesk\n最終形: 磷光\n漢字: 磷光\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7579",
+      "documentation": "語根: fosforesk\n入力: fosforesk\n最終形: 磷光\n漢字: 磷光\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7594",
       "priority": 0,
       "sourceRoot": "fosforesk",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7579
+      "sourceLine": 7594
     },
     {
       "prefix": "fosforil",
       "body": "磷基",
       "kanji": "磷基",
       "detail": "fosforil → 磷基 (piv, F=1, 基本形)",
-      "documentation": "語根: fosforil\n入力: fosforil\n最終形: 磷基\n漢字: 磷基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10244",
+      "documentation": "語根: fosforil\n入力: fosforil\n最終形: 磷基\n漢字: 磷基\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10260",
       "priority": 0,
       "sourceRoot": "fosforil",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10244
+      "sourceLine": 10260
     },
     {
       "prefix": "fosili",
       "body": "化石",
       "kanji": "化石",
       "detail": "fosili → 化石 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fosili\n入力: fosili\n最終形: 化石\n漢字: 化石\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6763",
+      "documentation": "語根: fosili\n入力: fosili\n最終形: 化石\n漢字: 化石\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6778",
       "priority": 0,
       "sourceRoot": "fosili",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6763
+      "sourceLine": 6778
     },
     {
       "prefix": "fost",
@@ -4867,26 +4867,26 @@
       "body": "光胞",
       "kanji": "光胞",
       "detail": "fotoc^el → 光胞 (piv, F=1, 基本形)",
-      "documentation": "語根: fotoc^el\n入力: fotocxel\n最終形: 光胞\n漢字: 光胞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9149",
+      "documentation": "語根: fotoc^el\n入力: fotocxel\n最終形: 光胞\n漢字: 光胞\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9164",
       "priority": 0,
       "sourceRoot": "fotoc^el",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9149
+      "sourceLine": 9164
     },
     {
       "prefix": "fotogliptik",
       "body": "拍玉雕",
       "kanji": "拍玉雕",
       "detail": "fotogliptik → 拍玉雕 (piv, F=1, 基本形)",
-      "documentation": "語根: fotogliptik\n入力: fotogliptik\n最終形: 拍玉雕\n漢字: 拍玉雕\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9150",
+      "documentation": "語根: fotogliptik\n入力: fotogliptik\n最終形: 拍玉雕\n漢字: 拍玉雕\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9165",
       "priority": 0,
       "sourceRoot": "fotogliptik",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9150
+      "sourceLine": 9165
     },
     {
       "prefix": "fotograf",
@@ -4906,221 +4906,221 @@
       "body": "拍志",
       "kanji": "拍志",
       "detail": "fotografi → 拍志 (piv, F=1, 基本形)",
-      "documentation": "語根: fotografi\n入力: fotografi\n最終形: 拍志\n漢字: 拍志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9151",
+      "documentation": "語根: fotografi\n入力: fotografi\n最終形: 拍志\n漢字: 拍志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9166",
       "priority": 0,
       "sourceRoot": "fotografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9151
+      "sourceLine": 9166
     },
     {
       "prefix": "fotogravur",
       "body": "拍刻",
       "kanji": "拍刻",
       "detail": "fotogravur → 拍刻 (piv, F=1, 基本形)",
-      "documentation": "語根: fotogravur\n入力: fotogravur\n最終形: 拍刻\n漢字: 拍刻\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9152",
+      "documentation": "語根: fotogravur\n入力: fotogravur\n最終形: 拍刻\n漢字: 拍刻\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9167",
       "priority": 0,
       "sourceRoot": "fotogravur",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9152
+      "sourceLine": 9167
     },
     {
       "prefix": "fotokemi",
       "body": "光化学",
       "kanji": "光化学",
       "detail": "fotokemi → 光化学 (piv, F=1, 基本形)",
-      "documentation": "語根: fotokemi\n入力: fotokemi\n最終形: 光化学\n漢字: 光化学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9153",
+      "documentation": "語根: fotokemi\n入力: fotokemi\n最終形: 光化学\n漢字: 光化学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9168",
       "priority": 0,
       "sourceRoot": "fotokemi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9153
+      "sourceLine": 9168
     },
     {
       "prefix": "fotokromi",
       "body": "拍色",
       "kanji": "拍色",
       "detail": "fotokromi → 拍色 (piv, F=1, 基本形)",
-      "documentation": "語根: fotokromi\n入力: fotokromi\n最終形: 拍色\n漢字: 拍色\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9154",
+      "documentation": "語根: fotokromi\n入力: fotokromi\n最終形: 拍色\n漢字: 拍色\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9169",
       "priority": 0,
       "sourceRoot": "fotokromi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9154
+      "sourceLine": 9169
     },
     {
       "prefix": "fotolitografi",
-      "body": "拍石志",
-      "kanji": "拍石志",
-      "detail": "fotolitografi → 拍石志 (piv, F=1, 基本形)",
-      "documentation": "語根: fotolitografi\n入力: fotolitografi\n最終形: 拍石志\n漢字: 拍石志\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9155",
+      "body": "拍石ᴸᵀ志ᴳ",
+      "kanji": "拍石ᴸᵀ志ᴳ",
+      "detail": "fotolitografi → 拍石ᴸᵀ志ᴳ (piv, F=1, 基本形)",
+      "documentation": "語根: fotolitografi\n入力: fotolitografi\n最終形: 拍石ᴸᵀ志ᴳ\n漢字: 拍石ᴸᵀ志ᴳ\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9170",
       "priority": 0,
       "sourceRoot": "fotolitografi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9155
+      "sourceLine": 9170
     },
     {
       "prefix": "fotometr",
       "body": "光计",
       "kanji": "光计",
       "detail": "fotometr → 光计 (piv, F=1, 基本形)",
-      "documentation": "語根: fotometr\n入力: fotometr\n最終形: 光计\n漢字: 光计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10245",
+      "documentation": "語根: fotometr\n入力: fotometr\n最終形: 光计\n漢字: 光计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10261",
       "priority": 0,
       "sourceRoot": "fotometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10245
+      "sourceLine": 10261
     },
     {
       "prefix": "fotometri",
       "body": "光测",
       "kanji": "光测",
       "detail": "fotometri → 光测 (piv, F=1, 基本形)",
-      "documentation": "語根: fotometri\n入力: fotometri\n最終形: 光测\n漢字: 光测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9156",
+      "documentation": "語根: fotometri\n入力: fotometri\n最終形: 光测\n漢字: 光测\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9171",
       "priority": 0,
       "sourceRoot": "fotometri",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9156
+      "sourceLine": 9171
     },
     {
       "prefix": "foton",
       "body": "光子",
       "kanji": "光子",
       "detail": "foton → 光子 (piv, F=1, 基本形)",
-      "documentation": "語根: foton\n入力: foton\n最終形: 光子\n漢字: 光子\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10246",
+      "documentation": "語根: foton\n入力: foton\n最終形: 光子\n漢字: 光子\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10262",
       "priority": 0,
       "sourceRoot": "foton",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10246
+      "sourceLine": 10262
     },
     {
       "prefix": "fotosfer",
       "body": "光球",
       "kanji": "光球",
       "detail": "fotosfer → 光球 (piv, F=1, 基本形)",
-      "documentation": "語根: fotosfer\n入力: fotosfer\n最終形: 光球\n漢字: 光球\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9157",
+      "documentation": "語根: fotosfer\n入力: fotosfer\n最終形: 光球\n漢字: 光球\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9172",
       "priority": 0,
       "sourceRoot": "fotosfer",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9157
+      "sourceLine": 9172
     },
     {
       "prefix": "fotosintez",
       "body": "光合",
       "kanji": "光合",
       "detail": "fotosintez → 光合 (piv, F=1, 基本形)",
-      "documentation": "語根: fotosintez\n入力: fotosintez\n最終形: 光合\n漢字: 光合\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9158",
+      "documentation": "語根: fotosintez\n入力: fotosintez\n最終形: 光合\n漢字: 光合\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9173",
       "priority": 0,
       "sourceRoot": "fotosintez",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9158
+      "sourceLine": 9173
     },
     {
       "prefix": "fotostat",
       "body": "拍态",
       "kanji": "拍态",
       "detail": "fotostat → 拍态 (piv, F=1, 基本形)",
-      "documentation": "語根: fotostat\n入力: fotostat\n最終形: 拍态\n漢字: 拍态\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9159",
+      "documentation": "語根: fotostat\n入力: fotostat\n最終形: 拍态\n漢字: 拍态\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9174",
       "priority": 0,
       "sourceRoot": "fotostat",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9159
+      "sourceLine": 9174
     },
     {
       "prefix": "fototelegraf",
       "body": "拍远记",
       "kanji": "拍远记",
       "detail": "fototelegraf → 拍远记 (piv, F=1, 基本形)",
-      "documentation": "語根: fototelegraf\n入力: fototelegraf\n最終形: 拍远记\n漢字: 拍远记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9160",
+      "documentation": "語根: fototelegraf\n入力: fototelegraf\n最終形: 拍远记\n漢字: 拍远记\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9175",
       "priority": 0,
       "sourceRoot": "fototelegraf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9160
+      "sourceLine": 9175
     },
     {
       "prefix": "fototerapi",
       "body": "光疗ᶠ",
       "kanji": "光疗",
       "detail": "fototerapi → 光疗ᶠ (piv, F=1)",
-      "documentation": "語根: fototerapi\n入力: fototerapi\n最終形: 光疗ᶠ\n漢字: 光疗\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9162",
+      "documentation": "語根: fototerapi\n入力: fototerapi\n最終形: 光疗ᶠ\n漢字: 光疗\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9177",
       "priority": 0,
       "sourceRoot": "fototerapi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9162
+      "sourceLine": 9177
     },
     {
       "prefix": "fototip",
       "body": "拍型",
       "kanji": "拍型",
       "detail": "fototip → 拍型 (piv, F=1, 基本形)",
-      "documentation": "語根: fototip\n入力: fototip\n最終形: 拍型\n漢字: 拍型\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9163",
+      "documentation": "語根: fototip\n入力: fototip\n最終形: 拍型\n漢字: 拍型\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:9178",
       "priority": 0,
       "sourceRoot": "fototip",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9163
+      "sourceLine": 9178
     },
     {
       "prefix": "fototipi",
       "body": "拍型ᶠᴵ",
       "kanji": "拍型",
       "detail": "fototipi → 拍型ᶠᴵ (piv, F=1)",
-      "documentation": "語根: fototipi\n入力: fototipi\n最終形: 拍型ᶠᴵ\n漢字: 拍型\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9164",
+      "documentation": "語根: fototipi\n入力: fototipi\n最終形: 拍型ᶠᴵ\n漢字: 拍型\n識別子: fi\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:9179",
       "priority": 0,
       "sourceRoot": "fototipi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 9164
+      "sourceLine": 9179
     },
     {
       "prefix": "fototropism",
       "body": "光向主义",
       "kanji": "光向主义",
       "detail": "fototropism → 光向主义 (piv, F=1, 基本形)",
-      "documentation": "語根: fototropism\n入力: fototropism\n最終形: 光向主义\n漢字: 光向主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9165",
+      "documentation": "語根: fototropism\n入力: fototropism\n最終形: 光向主义\n漢字: 光向主义\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9180",
       "priority": 0,
       "sourceRoot": "fototropism",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9165
+      "sourceLine": 9180
     },
     {
       "prefix": "fove",
       "body": "窝ᶠ",
       "kanji": "窝",
       "detail": "fove → 窝ᶠ (piv, F=2)",
-      "documentation": "語根: fove\n入力: fove\n最終形: 窝ᶠ\n漢字: 窝\n識別子: f\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6938",
+      "documentation": "語根: fove\n入力: fove\n最終形: 窝ᶠ\n漢字: 窝\n識別子: f\n型: piv\nF(汎用性): 2\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6953",
       "priority": 0,
       "sourceRoot": "fove",
       "type": "piv",
       "frequency": 2,
       "base": false,
-      "sourceLine": 6938
+      "sourceLine": 6953
     },
     {
       "prefix": "frag",
@@ -5153,13 +5153,13 @@
       "body": "脆",
       "kanji": "脆",
       "detail": "fragil → 脆 (piv, F=1, 基本形)",
-      "documentation": "語根: fragil\n入力: fragil\n最終形: 脆\n漢字: 脆\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8613",
+      "documentation": "語根: fragil\n入力: fragil\n最終形: 脆\n漢字: 脆\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8628",
       "priority": 0,
       "sourceRoot": "fragil",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8613
+      "sourceLine": 8628
     },
     {
       "prefix": "fragment",
@@ -5179,26 +5179,26 @@
       "body": "苇ᶠ",
       "kanji": "苇",
       "detail": "fragmit → 苇ᶠ (pejvo, F=1)",
-      "documentation": "語根: fragmit\n入力: fragmit\n最終形: 苇ᶠ\n漢字: 苇\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6100",
+      "documentation": "語根: fragmit\n入力: fragmit\n最終形: 苇ᶠ\n漢字: 苇\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 2\n基本形: no\n出典: _identifier_sidecar.tsv:6109",
       "priority": 0,
       "sourceRoot": "fragmit",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 6100
+      "sourceLine": 6109
     },
     {
       "prefix": "fraj",
       "body": "鱼卵",
       "kanji": "鱼卵",
       "detail": "fraj → 鱼卵 (pejvo, F=6, 基本形)",
-      "documentation": "語根: fraj\n入力: fraj\n最終形: 鱼卵\n漢字: 鱼卵\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6545",
+      "documentation": "語根: fraj\n入力: fraj\n最終形: 鱼卵\n漢字: 鱼卵\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6560",
       "priority": 0,
       "sourceRoot": "fraj",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6545
+      "sourceLine": 6560
     },
     {
       "prefix": "frajt",
@@ -5283,13 +5283,13 @@
       "body": "分形",
       "kanji": "分形",
       "detail": "frakt → 分形 (piv, F=2, 基本形)",
-      "documentation": "語根: frakt\n入力: frakt\n最終形: 分形\n漢字: 分形\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8393",
+      "documentation": "語根: frakt\n入力: frakt\n最終形: 分形\n漢字: 分形\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8408",
       "priority": 0,
       "sourceRoot": "frakt",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8393
+      "sourceLine": 8408
     },
     {
       "prefix": "fram",
@@ -5309,13 +5309,13 @@
       "body": "共济会",
       "kanji": "共济会",
       "detail": "framason → 共济会 (pejvo, F=5, 基本形)",
-      "documentation": "語根: framason\n入力: framason\n最終形: 共济会\n漢字: 共济会\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6671",
+      "documentation": "語根: framason\n入力: framason\n最終形: 共济会\n漢字: 共济会\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6686",
       "priority": 0,
       "sourceRoot": "framason",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6671
+      "sourceLine": 6686
     },
     {
       "prefix": "framb",
@@ -5361,13 +5361,26 @@
       "body": "纹ᶠᴺ",
       "kanji": "纹",
       "detail": "frang^ → 纹ᶠᴺ (pejvo, F=8)",
-      "documentation": "語根: frang^\n入力: frangx\n最終形: 纹ᶠᴺ\n漢字: 纹\n識別子: fn\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6391",
+      "documentation": "語根: frang^\n入力: frangx\n最終形: 纹ᶠᴺ\n漢字: 纹\n識別子: fn\n型: pejvo\nF(汎用性): 8\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6404",
       "priority": 0,
       "sourceRoot": "frang^",
       "type": "pejvo",
       "frequency": 8,
       "base": false,
-      "sourceLine": 6391
+      "sourceLine": 6404
+    },
+    {
+      "prefix": "franj",
+      "body": "兄ᶠᴿ女ᴺ",
+      "kanji": "兄ᶠᴿ女ᴺ",
+      "detail": "franj → 兄ᶠᴿ女ᴺ (piv, F=1, 基本形)",
+      "documentation": "語根: franj\n入力: franj\n最終形: 兄ᶠᴿ女ᴺ\n漢字: 兄ᶠᴿ女ᴺ\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10430",
+      "priority": 0,
+      "sourceRoot": "franj",
+      "type": "piv",
+      "frequency": 1,
+      "base": true,
+      "sourceLine": 10430
     },
     {
       "prefix": "frankolin",
@@ -5426,13 +5439,13 @@
       "body": "诈",
       "kanji": "诈",
       "detail": "frau^d → 诈 (pejvo, F=6, 基本形)",
-      "documentation": "語根: frau^d\n入力: frauxd\n最終形: 诈\n漢字: 诈\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6425",
+      "documentation": "語根: frau^d\n入力: frauxd\n最終形: 诈\n漢字: 诈\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6438",
       "priority": 0,
       "sourceRoot": "frau^d",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6425
+      "sourceLine": 6438
     },
     {
       "prefix": "frauxl",
@@ -5465,26 +5478,26 @@
       "body": "句学",
       "kanji": "句学",
       "detail": "frazeologi → 句学 (piv, F=1, 基本形)",
-      "documentation": "語根: frazeologi\n入力: frazeologi\n最終形: 句学\n漢字: 句学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10247",
+      "documentation": "語根: frazeologi\n入力: frazeologi\n最終形: 句学\n漢字: 句学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10263",
       "priority": 0,
       "sourceRoot": "frazeologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10247
+      "sourceLine": 10263
     },
     {
       "prefix": "fregat",
       "body": "舰ᶠᴿ",
       "kanji": "舰",
       "detail": "fregat → 舰ᶠᴿ (pejvo, F=3)",
-      "documentation": "語根: fregat\n入力: fregat\n最終形: 舰ᶠᴿ\n漢字: 舰\n識別子: fr\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:7212",
+      "documentation": "語根: fregat\n入力: fregat\n最終形: 舰ᶠᴿ\n漢字: 舰\n識別子: fr\n型: pejvo\nF(汎用性): 3\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:7227",
       "priority": 0,
       "sourceRoot": "fregat",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 7212
+      "sourceLine": 7227
     },
     {
       "prefix": "frekvenc",
@@ -5504,13 +5517,13 @@
       "body": "频计",
       "kanji": "频计",
       "detail": "frekvencometr → 频计 (piv, F=1, 基本形)",
-      "documentation": "語根: frekvencometr\n入力: frekvencometr\n最終形: 频计\n漢字: 频计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9166",
+      "documentation": "語根: frekvencometr\n入力: frekvencometr\n最終形: 频计\n漢字: 频计\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9181",
       "priority": 0,
       "sourceRoot": "frekvencometr",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9166
+      "sourceLine": 9181
     },
     {
       "prefix": "frekvent",
@@ -5569,26 +5582,26 @@
       "body": "纹ᶠ",
       "kanji": "纹",
       "detail": "fret → 纹ᶠ (pejvo, F=3)",
-      "documentation": "語根: fret\n入力: fret\n最終形: 纹ᶠ\n漢字: 纹\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6390",
+      "documentation": "語根: fret\n入力: fret\n最終形: 纹ᶠ\n漢字: 纹\n識別子: f\n型: pejvo\nF(汎用性): 3\nグループ数: 5\n基本形: no\n出典: _identifier_sidecar.tsv:6403",
       "priority": 0,
       "sourceRoot": "fret",
       "type": "pejvo",
       "frequency": 3,
       "base": false,
-      "sourceLine": 6390
+      "sourceLine": 6403
     },
     {
       "prefix": "frez",
       "body": "削",
       "kanji": "削",
       "detail": "frez → 削 (pejvo, F=4, 基本形)",
-      "documentation": "語根: frez\n入力: frez\n最終形: 削\n漢字: 削\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6886",
+      "documentation": "語根: frez\n入力: frez\n最終形: 削\n漢字: 削\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6901",
       "priority": 0,
       "sourceRoot": "frez",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6886
+      "sourceLine": 6901
     },
     {
       "prefix": "frezi",
@@ -5621,13 +5634,13 @@
       "body": "冷疗",
       "kanji": "冷疗",
       "detail": "fridoterapi → 冷疗 (piv, F=1, 基本形)",
-      "documentation": "語根: fridoterapi\n入力: fridoterapi\n最終形: 冷疗\n漢字: 冷疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9167",
+      "documentation": "語根: fridoterapi\n入力: fridoterapi\n最終形: 冷疗\n漢字: 冷疗\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9182",
       "priority": 0,
       "sourceRoot": "fridoterapi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9167
+      "sourceLine": 9182
     },
     {
       "prefix": "frigan",
@@ -5660,26 +5673,26 @@
       "body": "煮ᶠ",
       "kanji": "煮",
       "detail": "frikas → 煮ᶠ (pejvo, F=2)",
-      "documentation": "語根: frikas\n入力: frikas\n最終形: 煮ᶠ\n漢字: 煮\n識別子: f\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:6591",
+      "documentation": "語根: frikas\n入力: frikas\n最終形: 煮ᶠ\n漢字: 煮\n識別子: f\n型: pejvo\nF(汎用性): 2\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:6606",
       "priority": 0,
       "sourceRoot": "frikas",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 6591
+      "sourceLine": 6606
     },
     {
       "prefix": "fring",
       "body": "燕雀",
       "kanji": "燕雀",
       "detail": "fring → 燕雀 (pejvo, F=3, 基本形)",
-      "documentation": "語根: fring\n入力: fring\n最終形: 燕雀\n漢字: 燕雀\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7390",
+      "documentation": "語根: fring\n入力: fring\n最終形: 燕雀\n漢字: 燕雀\n識別子: なし\n型: pejvo\nF(汎用性): 3\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7405",
       "priority": 0,
       "sourceRoot": "fring",
       "type": "pejvo",
       "frequency": 3,
       "base": true,
-      "sourceLine": 7390
+      "sourceLine": 7405
     },
     {
       "prefix": "fringel",
@@ -5725,26 +5738,26 @@
       "body": "贝母",
       "kanji": "贝母",
       "detail": "fritilari → 贝母 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fritilari\n入力: fritilari\n最終形: 贝母\n漢字: 贝母\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7976",
+      "documentation": "語根: fritilari\n入力: fritilari\n最終形: 贝母\n漢字: 贝母\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7991",
       "priority": 0,
       "sourceRoot": "fritilari",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7976
+      "sourceLine": 7991
     },
     {
       "prefix": "frivol",
       "body": "轻浮",
       "kanji": "轻浮",
       "detail": "frivol → 轻浮 (pejvo, F=6, 基本形)",
-      "documentation": "語根: frivol\n入力: frivol\n最終形: 轻浮\n漢字: 轻浮\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6575",
+      "documentation": "語根: frivol\n入力: frivol\n最終形: 轻浮\n漢字: 轻浮\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6590",
       "priority": 0,
       "sourceRoot": "frivol",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6575
+      "sourceLine": 6590
     },
     {
       "prefix": "friz",
@@ -5764,13 +5777,13 @@
       "body": "辙叉",
       "kanji": "辙叉",
       "detail": "frog → 辙叉 (piv, F=2, 基本形)",
-      "documentation": "語根: frog\n入力: frog\n最終形: 辙叉\n漢字: 辙叉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7904",
+      "documentation": "語根: frog\n入力: frog\n最終形: 辙叉\n漢字: 辙叉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:7919",
       "priority": 0,
       "sourceRoot": "frog",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7904
+      "sourceLine": 7919
     },
     {
       "prefix": "frok",
@@ -5829,13 +5842,13 @@
       "body": "山花",
       "kanji": "山花",
       "detail": "fronton → 山花 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fronton\n入力: fronton\n最終形: 山花\n漢字: 山花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8043",
+      "documentation": "語根: fronton\n入力: fronton\n最終形: 山花\n漢字: 山花\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8058",
       "priority": 0,
       "sourceRoot": "fronton",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8043
+      "sourceLine": 8058
     },
     {
       "prefix": "frost",
@@ -5907,39 +5920,39 @@
       "body": "果学家",
       "kanji": "果学家",
       "detail": "fruktolog → 果学家 (piv, F=1, 基本形)",
-      "documentation": "語根: fruktolog\n入力: fruktolog\n最終形: 果学家\n漢字: 果学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9168",
+      "documentation": "語根: fruktolog\n入力: fruktolog\n最終形: 果学家\n漢字: 果学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9183",
       "priority": 0,
       "sourceRoot": "fruktolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9168
+      "sourceLine": 9183
     },
     {
       "prefix": "fruktologi",
       "body": "果学",
       "kanji": "果学",
       "detail": "fruktologi → 果学 (piv, F=1, 基本形)",
-      "documentation": "語根: fruktologi\n入力: fruktologi\n最終形: 果学\n漢字: 果学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9169",
+      "documentation": "語根: fruktologi\n入力: fruktologi\n最終形: 果学\n漢字: 果学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9184",
       "priority": 0,
       "sourceRoot": "fruktologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9169
+      "sourceLine": 9184
     },
     {
       "prefix": "fruktoz",
       "body": "果糖",
       "kanji": "果糖",
       "detail": "fruktoz → 果糖 (piv, F=1, 基本形)",
-      "documentation": "語根: fruktoz\n入力: fruktoz\n最終形: 果糖\n漢字: 果糖\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10372",
+      "documentation": "語根: fruktoz\n入力: fruktoz\n最終形: 果糖\n漢字: 果糖\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:10388",
       "priority": 0,
       "sourceRoot": "fruktoz",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10372
+      "sourceLine": 10388
     },
     {
       "prefix": "frunt",
@@ -5959,13 +5972,13 @@
       "body": "挫",
       "kanji": "挫",
       "detail": "frustr → 挫 (pejvo, F=2, 基本形)",
-      "documentation": "語根: frustr\n入力: frustr\n最終形: 挫\n漢字: 挫\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8206",
+      "documentation": "語根: frustr\n入力: frustr\n最終形: 挫\n漢字: 挫\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8221",
       "priority": 0,
       "sourceRoot": "frustr",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8206
+      "sourceLine": 8221
     },
     {
       "prefix": "ftir",
@@ -5985,39 +5998,39 @@
       "body": "结核",
       "kanji": "结核",
       "detail": "ftiz → 结核 (pejvo, F=4, 基本形)",
-      "documentation": "語根: ftiz\n入力: ftiz\n最終形: 结核\n漢字: 结核\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6778",
+      "documentation": "語根: ftiz\n入力: ftiz\n最終形: 结核\n漢字: 结核\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6793",
       "priority": 0,
       "sourceRoot": "ftiz",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6778
+      "sourceLine": 6793
     },
     {
       "prefix": "ftizolog",
       "body": "结核学家",
       "kanji": "结核学家",
       "detail": "ftizolog → 结核学家 (piv, F=1, 基本形)",
-      "documentation": "語根: ftizolog\n入力: ftizolog\n最終形: 结核学家\n漢字: 结核学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9170",
+      "documentation": "語根: ftizolog\n入力: ftizolog\n最終形: 结核学家\n漢字: 结核学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9185",
       "priority": 0,
       "sourceRoot": "ftizolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9170
+      "sourceLine": 9185
     },
     {
       "prefix": "ftizologi",
       "body": "结核学",
       "kanji": "结核学",
       "detail": "ftizologi → 结核学 (piv, F=1, 基本形)",
-      "documentation": "語根: ftizologi\n入力: ftizologi\n最終形: 结核学\n漢字: 结核学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9171",
+      "documentation": "語根: ftizologi\n入力: ftizologi\n最終形: 结核学\n漢字: 结核学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9186",
       "priority": 0,
       "sourceRoot": "ftizologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9171
+      "sourceLine": 9186
     },
     {
       "prefix": "fuel",
@@ -6063,13 +6076,13 @@
       "body": "藻藻",
       "kanji": "藻藻",
       "detail": "fukofic → 藻藻 (piv, F=1, 基本形)",
-      "documentation": "語根: fukofic\n入力: fukofic\n最終形: 藻藻\n漢字: 藻藻\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:10355",
+      "documentation": "語根: fukofic\n入力: fukofic\n最終形: 藻藻\n漢字: 藻藻\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: yes\n出典: _identifier_sidecar.tsv:10371",
       "priority": 0,
       "sourceRoot": "fukofic",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 10355
+      "sourceLine": 10371
     },
     {
       "prefix": "fuksi",
@@ -6089,13 +6102,13 @@
       "body": "缩",
       "kanji": "缩",
       "detail": "ful → 缩 (pejvo, F=6, 基本形)",
-      "documentation": "語根: ful\n入力: ful\n最終形: 缩\n漢字: 缩\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:6555",
+      "documentation": "語根: ful\n入力: ful\n最終形: 缩\n漢字: 缩\n識別子: なし\n型: pejvo\nF(汎用性): 6\nグループ数: 6\n基本形: yes\n出典: _identifier_sidecar.tsv:6570",
       "priority": 0,
       "sourceRoot": "ful",
       "type": "pejvo",
       "frequency": 6,
       "base": true,
-      "sourceLine": 6555
+      "sourceLine": 6570
     },
     {
       "prefix": "fulg",
@@ -6115,26 +6128,26 @@
       "body": "蜡蝉",
       "kanji": "蜡蝉",
       "detail": "fulgor → 蜡蝉 (piv, F=2, 基本形)",
-      "documentation": "語根: fulgor\n入力: fulgor\n最終形: 蜡蝉\n漢字: 蜡蝉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8456",
+      "documentation": "語根: fulgor\n入力: fulgor\n最終形: 蜡蝉\n漢字: 蜡蝉\n識別子: なし\n型: piv\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8471",
       "priority": 0,
       "sourceRoot": "fulgor",
       "type": "piv",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8456
+      "sourceLine": 8471
     },
     {
       "prefix": "fulgoromorf",
       "body": "蜡蝉形",
       "kanji": "蜡蝉形",
       "detail": "fulgoromorf → 蜡蝉形 (piv, F=1, 基本形)",
-      "documentation": "語根: fulgoromorf\n入力: fulgoromorf\n最終形: 蜡蝉形\n漢字: 蜡蝉形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9172",
+      "documentation": "語根: fulgoromorf\n入力: fulgoromorf\n最終形: 蜡蝉形\n漢字: 蜡蝉形\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9187",
       "priority": 0,
       "sourceRoot": "fulgoromorf",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9172
+      "sourceLine": 9187
     },
     {
       "prefix": "fuligul",
@@ -6154,13 +6167,13 @@
       "body": "秧鸡ᶠ",
       "kanji": "秧鸡",
       "detail": "fulik → 秧鸡ᶠ (pejvo, F=1)",
-      "documentation": "語根: fulik\n入力: fulik\n最終形: 秧鸡ᶠ\n漢字: 秧鸡\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:8343",
+      "documentation": "語根: fulik\n入力: fulik\n最終形: 秧鸡ᶠ\n漢字: 秧鸡\n識別子: f\n型: pejvo\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:8358",
       "priority": 0,
       "sourceRoot": "fulik",
       "type": "pejvo",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8343
+      "sourceLine": 8358
     },
     {
       "prefix": "fulm",
@@ -6193,13 +6206,13 @@
       "body": "轰",
       "kanji": "轰",
       "detail": "fulmin → 轰 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fulmin\n入力: fulmin\n最終形: 轰\n漢字: 轰\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6571",
+      "documentation": "語根: fulmin\n入力: fulmin\n最終形: 轰\n漢字: 轰\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: yes\n出典: _identifier_sidecar.tsv:6586",
       "priority": 0,
       "sourceRoot": "fulmin",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 6571
+      "sourceLine": 6586
     },
     {
       "prefix": "fum",
@@ -6297,39 +6310,39 @@
       "body": "菌杀",
       "kanji": "菌杀",
       "detail": "fungicid → 菌杀 (piv, F=1, 基本形)",
-      "documentation": "語根: fungicid\n入力: fungicid\n最終形: 菌杀\n漢字: 菌杀\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:8856",
+      "documentation": "語根: fungicid\n入力: fungicid\n最終形: 菌杀\n漢字: 菌杀\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:8871",
       "priority": 0,
       "sourceRoot": "fungicid",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 8856
+      "sourceLine": 8871
     },
     {
       "prefix": "fungolog",
       "body": "菌学家ᶠ",
       "kanji": "菌学家",
       "detail": "fungolog → 菌学家ᶠ (piv, F=1)",
-      "documentation": "語根: fungolog\n入力: fungolog\n最終形: 菌学家ᶠ\n漢字: 菌学家\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8861",
+      "documentation": "語根: fungolog\n入力: fungolog\n最終形: 菌学家ᶠ\n漢字: 菌学家\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8876",
       "priority": 0,
       "sourceRoot": "fungolog",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8861
+      "sourceLine": 8876
     },
     {
       "prefix": "fungologi",
       "body": "菌学ᶠ",
       "kanji": "菌学",
       "detail": "fungologi → 菌学ᶠ (piv, F=1)",
-      "documentation": "語根: fungologi\n入力: fungologi\n最終形: 菌学ᶠ\n漢字: 菌学\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:8864",
+      "documentation": "語根: fungologi\n入力: fungologi\n最終形: 菌学ᶠ\n漢字: 菌学\n識別子: f\n型: piv\nF(汎用性): 1\nグループ数: 4\n基本形: no\n出典: _identifier_sidecar.tsv:8879",
       "priority": 0,
       "sourceRoot": "fungologi",
       "type": "piv",
       "frequency": 1,
       "base": false,
-      "sourceLine": 8864
+      "sourceLine": 8879
     },
     {
       "prefix": "fungus",
@@ -6388,13 +6401,13 @@
       "body": "堡",
       "kanji": "堡",
       "detail": "fuort → 堡 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fuort\n入力: fuort\n最終形: 堡\n漢字: 堡\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7905",
+      "documentation": "語根: fuort\n入力: fuort\n最終形: 堡\n漢字: 堡\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:7920",
       "priority": 0,
       "sourceRoot": "fuort",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 7905
+      "sourceLine": 7920
     },
     {
       "prefix": "fur",
@@ -6427,13 +6440,13 @@
       "body": "军需",
       "kanji": "军需",
       "detail": "furier → 军需 (pejvo, F=2, 基本形)",
-      "documentation": "語根: furier\n入力: furier\n最終形: 军需\n漢字: 军需\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8128",
+      "documentation": "語根: furier\n入力: furier\n最終形: 军需\n漢字: 军需\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8143",
       "priority": 0,
       "sourceRoot": "furier",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8128
+      "sourceLine": 8143
     },
     {
       "prefix": "furioz",
@@ -6466,39 +6479,39 @@
       "body": "毒疮ᶠ",
       "kanji": "毒疮",
       "detail": "furunk → 毒疮ᶠ (pejvo, F=2)",
-      "documentation": "語根: furunk\n入力: furunk\n最終形: 毒疮ᶠ\n漢字: 毒疮\n識別子: f\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8253",
+      "documentation": "語根: furunk\n入力: furunk\n最終形: 毒疮ᶠ\n漢字: 毒疮\n識別子: f\n型: pejvo\nF(汎用性): 2\nグループ数: 3\n基本形: no\n出典: _identifier_sidecar.tsv:8268",
       "priority": 0,
       "sourceRoot": "furunk",
       "type": "pejvo",
       "frequency": 2,
       "base": false,
-      "sourceLine": 8253
+      "sourceLine": 8268
     },
     {
       "prefix": "furz",
       "body": "屁",
       "kanji": "屁",
       "detail": "furz → 屁 (pejvo, F=2, 基本形)",
-      "documentation": "語根: furz\n入力: furz\n最終形: 屁\n漢字: 屁\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8187",
+      "documentation": "語根: furz\n入力: furz\n最終形: 屁\n漢字: 屁\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8202",
       "priority": 0,
       "sourceRoot": "furz",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8187
+      "sourceLine": 8202
     },
     {
       "prefix": "fusil",
       "body": "枪",
       "kanji": "枪",
       "detail": "fusil → 枪 (pejvo, F=4, 基本形)",
-      "documentation": "語根: fusil\n入力: fusil\n最終形: 枪\n漢字: 枪\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6514",
+      "documentation": "語根: fusil\n入力: fusil\n最終形: 枪\n漢字: 枪\n識別子: なし\n型: pejvo\nF(汎用性): 4\nグループ数: 2\n基本形: yes\n出典: _identifier_sidecar.tsv:6529",
       "priority": 0,
       "sourceRoot": "fusil",
       "type": "pejvo",
       "frequency": 4,
       "base": true,
-      "sourceLine": 6514
+      "sourceLine": 6529
     },
     {
       "prefix": "fusx",
@@ -6531,78 +6544,78 @@
       "body": "未",
       "kanji": "未",
       "detail": "futur → 未 (pejvo, F=5, 基本形)",
-      "documentation": "語根: futur\n入力: futur\n最終形: 未\n漢字: 未\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6722",
+      "documentation": "語根: futur\n入力: futur\n最終形: 未\n漢字: 未\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6737",
       "priority": 0,
       "sourceRoot": "futur",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6722
+      "sourceLine": 6737
     },
     {
       "prefix": "futurolog",
       "body": "未学家",
       "kanji": "未学家",
       "detail": "futurolog → 未学家 (piv, F=1, 基本形)",
-      "documentation": "語根: futurolog\n入力: futurolog\n最終形: 未学家\n漢字: 未学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9173",
+      "documentation": "語根: futurolog\n入力: futurolog\n最終形: 未学家\n漢字: 未学家\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9188",
       "priority": 0,
       "sourceRoot": "futurolog",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9173
+      "sourceLine": 9188
     },
     {
       "prefix": "futurologi",
       "body": "未学",
       "kanji": "未学",
       "detail": "futurologi → 未学 (piv, F=1, 基本形)",
-      "documentation": "語根: futurologi\n入力: futurologi\n最終形: 未学\n漢字: 未学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9174",
+      "documentation": "語根: futurologi\n入力: futurologi\n最終形: 未学\n漢字: 未学\n識別子: なし\n型: piv\nF(汎用性): 1\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:9189",
       "priority": 0,
       "sourceRoot": "futurologi",
       "type": "piv",
       "frequency": 1,
       "base": true,
-      "sourceLine": 9174
+      "sourceLine": 9189
     },
     {
       "prefix": "fuz",
       "body": "信管",
       "kanji": "信管",
       "detail": "fuz → 信管 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fuz\n入力: fuz\n最終形: 信管\n漢字: 信管\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6693",
+      "documentation": "語根: fuz\n入力: fuz\n最終形: 信管\n漢字: 信管\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6708",
       "priority": 0,
       "sourceRoot": "fuz",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6693
+      "sourceLine": 6708
     },
     {
       "prefix": "fuze",
       "body": "引信",
       "kanji": "引信",
       "detail": "fuze → 引信 (pejvo, F=5, 基本形)",
-      "documentation": "語根: fuze\n入力: fuze\n最終形: 引信\n漢字: 引信\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6691",
+      "documentation": "語根: fuze\n入力: fuze\n最終形: 引信\n漢字: 引信\n識別子: なし\n型: pejvo\nF(汎用性): 5\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:6706",
       "priority": 0,
       "sourceRoot": "fuze",
       "type": "pejvo",
       "frequency": 5,
       "base": true,
-      "sourceLine": 6691
+      "sourceLine": 6706
     },
     {
       "prefix": "fuzi",
       "body": "聚变",
       "kanji": "聚变",
       "detail": "fuzi → 聚变 (pejvo, F=2, 基本形)",
-      "documentation": "語根: fuzi\n入力: fuzi\n最終形: 聚变\n漢字: 聚变\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8487",
+      "documentation": "語根: fuzi\n入力: fuzi\n最終形: 聚变\n漢字: 聚变\n識別子: なし\n型: pejvo\nF(汎用性): 2\nグループ数: 1\n基本形: yes\n出典: _identifier_sidecar.tsv:8502",
       "priority": 0,
       "sourceRoot": "fuzi",
       "type": "pejvo",
       "frequency": 2,
       "base": true,
-      "sourceLine": 8487
+      "sourceLine": 8502
     },
     {
       "prefix": "fuzulin",

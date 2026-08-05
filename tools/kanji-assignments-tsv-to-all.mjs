@@ -6,6 +6,36 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { toXSystem } from './x-system.mjs';
 
+// CROSS-VERSION CONCAT COLLISIONS — sidecar roots held OUT of the dictionary (2026-08-05).
+//
+// The master keeps two delivery streams. The learner stream renders these words DECOMPOSED
+// (mikroskopo = mikro/skop/o → 微/镜ˢᴷ/o); the academic stream got whole-root mirror fills
+// whose kanji is, by design (案A of master 続62), the CONCATENATION of those same learner
+// pieces (mikroskopi → 微镜ˢᴷ). Inside the master those are separate documents, so its own
+// surface-homograph audit ([J]) is rightly green. This app pair merges both streams into ONE
+// dictionary and ONE reverter text universe, where the academic whole becomes a longest-match
+// key that eats the learner adjacency and REWRITES real words. Measured on the r33 full-corpus
+// regression (52,228 words) before shipping:
+//   endo/skop/o ⟦内ᴱᴰ镜ˢᴷo⟧: endoskopo → endoskopio (a DIFFERENT existing word)
+//   eu^/fon/i/o ⟦良ᴱ声ᶠᴼio⟧: eŭfonio  → eŭfoniio
+// Damage needs BOTH (a) the whole-root kanji equals an adjacent pure-kanji learner sequence
+// (no literal vowel between the pieces), and (b) the whole root's spelling differs from the
+// concatenated spelling (mikro+skop = mikroskop ≠ mikroskopi). Spelling-preserving
+// concatenations (tri+kromi = trikromi) are safe and are NOT excluded. The corpus regression
+// is the gate that finds this class; it runs on every sync.
+//
+// Each entry pins the colliding body observed at exclusion time. If the master later changes
+// the root's value (say, adds a distinguishing identifier the way the academic stream already
+// distinguishes 微镜 mikroskop from 微镜ˢᴷ mikroskopi), the pin no longer matches and the
+// build FAILS, forcing a re-review instead of the exclusion silently outliving its reason.
+// Keys are toXSystem() forms of the sidecar root spelling.
+export const EXCLUDED_ROOTS = new Map([
+  ['mikroskopi', { body: '微镜ˢᴷ', reason: '学習者版 微(mikro)+镜ˢᴷ(skop) の連結と同字面 — 顕微鏡系の実コーパス13語が mikroskopio 系の別語へ誤読される' }],
+  ['endoskopi', { body: '内ᴱᴰ镜ˢᴷ', reason: '学習者版 内ᴱᴰ(endo)+镜ˢᴷ(skop) の連結と同字面 — endoskopo→endoskopio の退行' }],
+  ['euxfoni', { body: '良ᴱ声ᶠᴼ', reason: '学習者版 良ᴱ(eu^)+声ᶠᴼ(fon 別義) の連結と同字面 — eŭfonio→eŭfoniio の退行' }],
+  ['asistoli', { body: '无ᴬ缩ˢ', reason: '学習者版 无ᴬ(a)+缩ˢ(sistol) の連結と同字面 — 无ᴬ缩ˢio(asistolio) が二重iの誤語 asistoliio になる' }]
+]);
+
 const [,, inPath, outPath = './all.json'] = process.argv;
 if (!inPath) {
   console.error('Usage: node tools/kanji-assignments-tsv-to-all.mjs <assignments.tsv> [out.json]');
@@ -159,6 +189,17 @@ for (const row of rows) {
   for (const prefix of aliases) {
     if (!/^[a-z-]+$/.test(prefix)) {
       skipped.push({ line: row.__line, reason: 'non-ASCII prefix after normalization', root: sourceRoot, prefix });
+      continue;
+    }
+
+    const excluded = EXCLUDED_ROOTS.get(prefix);
+    if (excluded) {
+      if (excluded.body !== body) {
+        console.error(`ERROR: excluded root "${prefix}" now has body "${body}" (pinned "${excluded.body}").`);
+        console.error('The master changed this root since the exclusion was recorded — re-review EXCLUDED_ROOTS (see header) before building.');
+        process.exit(1);
+      }
+      skipped.push({ line: row.__line, reason: `excluded (cross-version concat collision): ${excluded.reason}`, root: sourceRoot, prefix });
       continue;
     }
 

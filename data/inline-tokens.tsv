@@ -25,3 +25,6 @@ token	segment	rule	note
 庚	hept	$alkylStem	アルキル C7 heptane
 壬	non	$alkylStem	アルキル C9 nonane
 癸	dek	$alkylStem	アルキル C10 decane。数詞 dek=十 と弁別
+将ᴹ!	mat!	$ambRule(末尾句読点strip)	2026-08-01 続62: S^ak/mat!(チェックメイト)。amb台帳 mat→将ᴹ(語義キー『詰』)を参照する際、分節末尾の句読点を剥がして照合し再付与。逆引きは 将ᴹ! → mat! で一意
+那因,	tial,	$ambRule相当(disp末尾カンマstrip)	2026-08-01 続62: tial, c^ar / tial, ke(〜だから)。分節 tial, の末尾カンマを剥がして disp(tial→那因)を引き再付与。末尾カンマ分節は辞書全体で tial, のみ=構造的に2見出し限定。逆引きは 那因, → tial, で一意
+醇馏	alkoholat	$rest -match 'Distilaj^o de alkoholaturo'	2026-08-01 続62 ユーザー裁定: 学術版whole-root alkoholat/o【薬】(アルコラトゥーラの蒸留物)。化学義【化】(Metala salo)は 醇盐 を維持=語釈scopedで弁別。学習者版側は 醇/馏(馏=distil はsidecar既登録ゆえ本表には不要)。逆引きは 醇馏 → alkoholat で一意
